@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Raw data (large, re-collectible by running collect_data.py)
+data/raw/
+
+# Keep processed output and directory structure
+!data/raw/.gitkeep
+!data/processed/

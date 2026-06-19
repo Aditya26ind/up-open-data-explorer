@@ -54,7 +54,11 @@ python src/consolidate_data.py
 
 # Step 3: analyze and save charts
 python src/analyse.py
+
+# Step 4 : pipeline
+python src/run.py
 ```
+
 
 ---
 
