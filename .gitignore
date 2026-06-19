@@ -23,8 +23,4 @@ Thumbs.db
 *.log
 
 # Raw data (large, re-collectible by running collect_data.py)
-data/raw/
-
-# Keep processed output and directory structure
-!data/raw/.gitkeep
-!data/processed/
+data/raw/*.json
