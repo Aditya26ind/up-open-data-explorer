@@ -1,0 +1,5823 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/main-workers-marginal-workers-non-workers-and-those-marginal-workers-non-workers-seeking-1"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      291
+    ],
+    "published_date": [
+      1600319344
+    ],
+    "body:value": [
+      "The catalog contains data related to Main Workers, Marginal Workers, Non-Workers and those Marginal Workers, Non-Workers Seeking/ Available for Work Classified by Age, Sex and Religious Community, Census 2011 - India and States. It includes data on Main Worker, Marginal Worker, Non-worker, Seeking / Available for Work."
+    ],
+    "changed": [
+      1600319491
+    ],
+    "created": [
+      1542198798
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "community",
+      "Non-worker",
+      "Work",
+      "Religious",
+      "Main",
+      "Seeking",
+      "Available"
+    ],
+    "nid": [
+      6514081
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Main Workers, Marginal Workers, Non-Workers and those Marginal Workers, Non-Workers Seeking/ Available for Work Classified by Age, Sex and Religious Community, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "599fffbf-2389-4ec8-be8d-d78f324e61c7"
+    ],
+    "vid": [
+      7899233
+    ],
+    "view_count": [
+      22
+    ],
+    "search_api_id": [
+      "entity:node/6514081:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/marginal-workers-and-non-workers-seeking-available-work-classified-educational-level-age"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      66
+    ],
+    "published_date": [
+      1600318815
+    ],
+    "body:value": [
+      "The catalog contains data related to Marginal Workers and Non Workers Seeking/ Available for Work Classified by Educational Level, Age and Sex, Census 2011 - India and States. It includes data on Marginal Worker, Non-worker, Educational Level."
+    ],
+    "changed": [
+      1600318944
+    ],
+    "created": [
+      1542257222
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Worker",
+      "Marginal"
+    ],
+    "nid": [
+      6514501
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Marginal Workers and Non Workers Seeking/ Available for Work Classified by Educational Level, Age and Sex, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "6bff142e-9d6d-4ba1-87fc-5219fae4a92b"
+    ],
+    "vid": [
+      7899237
+    ],
+    "view_count": [
+      20
+    ],
+    "search_api_id": [
+      "entity:node/6514501:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/marginal-workers-classified-industrial-category-work-and-their-main-non-economic-activity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      127
+    ],
+    "published_date": [
+      1600238817
+    ],
+    "body:value": [
+      "The catalog contains data related to Marginal Workers Classified by Industrial Category of Work and their Main  Non Economic Activity, Census 2011 - India and States. It includes data on Marginal Worker, Main Activity, Student, Household Duty, Pensioner, Industrial Category, Worker."
+    ],
+    "changed": [
+      1600238938
+    ],
+    "created": [
+      1542257638
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Household",
+      "Student",
+      "Marginal",
+      "Pensioner",
+      "Duty"
+    ],
+    "nid": [
+      6514541
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Marginal Workers Classified by Industrial Category of Work and their Main Non Economic Activity, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "27436d3e-5ca9-4cc7-977a-42253cea9f6b"
+    ],
+    "vid": [
+      7899241
+    ],
+    "view_count": [
+      20
+    ],
+    "search_api_id": [
+      "entity:node/6514541:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/marginal-workers-classified-industrial-category-age-and-sex-each-castetribe-separately"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      232
+    ],
+    "published_date": [
+      1600239955
+    ],
+    "body:value": [
+      "The catalog contains data related to Marginal Workers Classified by Industrial Category, Age and Sex (For Each Caste/Tribe Separately), Census 2011 - India and States. It includes data on Marginal Worker Classified by Scheduled Caste, Scheduled Tribe and Industrial Category like Agricultural Labourer, Cultivator, HHI, other Worker."
+    ],
+    "changed": [
+      1600240244
+    ],
+    "created": [
+      1542258554
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Cultivator",
+      "Labour",
+      "SC",
+      "ST",
+      "Caste",
+      "Worker",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      6514561
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Marginal Workers Classified by Industrial Category, Age and Sex (For Each Caste/Tribe Separately), Census 2011 - India and States"
+    ],
+    "uuid": [
+      "6fa77d91-cf73-453f-b92f-1aab7857a7cc"
+    ],
+    "vid": [
+      7899245
+    ],
+    "view_count": [
+      31
+    ],
+    "search_api_id": [
+      "entity:node/6514561:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/marginal-workers-classified-industrial-category-educational-level-and-sex-each-castetribe"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      328
+    ],
+    "published_date": [
+      1600319226
+    ],
+    "body:value": [
+      "The catalog contains data related to Marginal Workers Classified by Industrial Category, Educational Level and Sex (For Each Caste/Tribe Separately), Census 2011 - India and States. It includes data on Marginal Workers Classified by Educational Level, Scheduled Caste, Scheduled Tribe and Industrial Category like Agricultural Labourer, Cultivator, HHI, other Worker."
+    ],
+    "changed": [
+      1600319505
+    ],
+    "created": [
+      1542259571
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Cultivator",
+      "SC",
+      "ST",
+      "Caste",
+      "Worker",
+      "Marginal",
+      "Labourer",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      6514601
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Marginal Workers Classified by Industrial Category, Educational Level and Sex (For Each Caste/Tribe Separately), Census 2011 - India and States"
+    ],
+    "uuid": [
+      "934125d7-017c-497d-ac40-b6977008729f"
+    ],
+    "vid": [
+      7899249
+    ],
+    "view_count": [
+      42
+    ],
+    "search_api_id": [
+      "entity:node/6514601:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/non-workers-main-activity-age-and-sex-and-religious-community-census-2011-india-and-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      311
+    ],
+    "published_date": [
+      1600316850
+    ],
+    "body:value": [
+      "The catalog contains data related to Non Workers by Main Activity, Age and Sex and Religious Community, Census 2011 - India and States. It includes data on Gender wise and Age-group wise number of Non Workers under various Main Activity like Student, Household Duties, Dependents, Retired Persons or Rentiers, Beggars, Vagrant etc."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1542259813
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "Household",
+      "Population",
+      "Student",
+      "Institution",
+      "Worker",
+      "Person",
+      "Beggar",
+      "Vagrant",
+      "Dependent",
+      "Rentier",
+      "Inmate",
+      "Duty",
+      "Retired"
+    ],
+    "nid": [
+      6514621
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Non Workers by Main Activity, Age and Sex and Religious Community, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "269d17c5-1ed9-423f-a7a4-29698aa61ba7"
+    ],
+    "vid": [
+      13041780
+    ],
+    "view_count": [
+      32
+    ],
+    "search_api_id": [
+      "entity:node/6514621:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/non-workers-main-activity-educational-level-and-sex-census-2011-india-and-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      274
+    ],
+    "published_date": [
+      1600239676
+    ],
+    "body:value": [
+      "The catalog contains data related to Non-Workers by Main Activity, Educational Level and Sex, Census 2011 - India and States. It includes data on Non-worker, Educational Level, Main Activity, Household Duty, Dependent, Pensioner, Beggar, Vagrant."
+    ],
+    "changed": [
+      1600239826
+    ],
+    "created": [
+      1542260112
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Household",
+      "Worker",
+      "Pensioner",
+      "Beggar",
+      "Vagrant",
+      "Dependent",
+      "Duty"
+    ],
+    "nid": [
+      6514641
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Non-Workers by Main Activity, Educational Level and Sex, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "a0dd776e-971b-44c4-88d1-3fd468a055a0"
+    ],
+    "vid": [
+      7899257
+    ],
+    "view_count": [
+      91
+    ],
+    "search_api_id": [
+      "entity:node/6514641:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/occupational-classification-main-workers-and-marginal-workers-other-cultivators-and-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      294
+    ],
+    "published_date": [
+      1600239278
+    ],
+    "body:value": [
+      "The catalog contains data related to Occupational Classification of Main Workers and Marginal Workers other than Cultivators and Agricultural Labourers by Age and Sex, Census 2011 - India and States. It includes data on Main Worker, Marginal Worker, Occupational."
+    ],
+    "changed": [
+      1600239430
+    ],
+    "created": [
+      1542260317
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "occupation",
+      "Worker",
+      "Marginal"
+    ],
+    "nid": [
+      6514661
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Occupational Classification of Main Workers and Marginal Workers other than Cultivators and Agricultural Labourers by Age and Sex, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "4fc68f29-331d-4678-8e73-705a34165668"
+    ],
+    "vid": [
+      7899261
+    ],
+    "view_count": [
+      71
+    ],
+    "search_api_id": [
+      "entity:node/6514661:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/occupational-classification-main-workers-and-marginal-workers-other-cultivators-and"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      447
+    ],
+    "published_date": [
+      1600320146
+    ],
+    "body:value": [
+      "The catalog contains data related to occupational classification of main workers and marginal workers other than cultivators and agricultural labourers by sex and educational level, census 2011 - India and states. It includes data on Occupation, Occupational Classification, Main Workers, Non-Agricultural Main Workers, Workers, Non-Agricultural Workers, NCO, National Classification of Occupation, Census 2011, Scheduled Caste (SC) and Scheduled Tribe (ST)."
+    ],
+    "changed": [
+      1600320285
+    ],
+    "created": [
+      1542262399
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "census",
+      "occupation",
+      "SC",
+      "ST",
+      "Caste",
+      "Worker",
+      "Marginal",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      6514681
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Occupational Classification of Main Workers and Marginal Workers other than Cultivators and Agricultural Labourers by Sex and Educational Level, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "2f6c6551-1c65-4fb9-a9ee-e991140d451e"
+    ],
+    "vid": [
+      7899265
+    ],
+    "view_count": [
+      62
+    ],
+    "search_api_id": [
+      "entity:node/6514681:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/occupational-classification-main-workers-non-households-industry-trade-business-profession"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      545
+    ],
+    "published_date": [
+      1600319667
+    ],
+    "body:value": [
+      "The catalog contains data related to Occupational Classification of Main Workers in Non-Households Industry, Trade, Business, Profession or Service by Class of Worker and Sex, Census 2011 - India and States. It includes data on Main Worker, Occupational, Class of Worker, Employer, Employee, Single Worker, Family Worker."
+    ],
+    "changed": [
+      1600319797
+    ],
+    "created": [
+      1542262697
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employee",
+      "Worker",
+      "Occupational",
+      "Family"
+    ],
+    "nid": [
+      6514701
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Occupational Classification of Main Workers in Non-Households Industry, Trade, Business, Profession or Service by Class of Worker and Sex, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "e4679440-6e0b-4f5a-b420-5fde90061d84"
+    ],
+    "vid": [
+      7899269
+    ],
+    "view_count": [
+      69
+    ],
+    "search_api_id": [
+      "entity:node/6514701:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/occupational-classification-main-workers-other-cultivators-and-agricultural-labourers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      510
+    ],
+    "published_date": [
+      1600320257
+    ],
+    "body:value": [
+      "The catalog contains data related to occupational classification of main workers other than cultivators and agricultural labourers by Industrial Category and sex, census 2011 - India and states. It includes data on Occupation, Occupational Classification, Main Workers, Non-Agricultural Main Workers, Workers, Non-Agricultural Workers, NCO, National Classification of Occupation, Census 2011, Scheduled Caste (SC) and Scheduled Tribe (ST)."
+    ],
+    "changed": [
+      1600320393
+    ],
+    "created": [
+      1542262847
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "census",
+      "occupation",
+      "SC",
+      "ST",
+      "Caste",
+      "Worker",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      6514721
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Occupational Classification of Main Workers other than Cultivators and Agricultural Labourers by Industrial Category and Sex, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "2f80e9b1-8019-4282-8e10-be787fe98117"
+    ],
+    "vid": [
+      7899273
+    ],
+    "view_count": [
+      62
+    ],
+    "search_api_id": [
+      "entity:node/6514721:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/occupational-classification-main-workers-other-cultivators-and-agricultural-labourers-sex"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      360
+    ],
+    "published_date": [
+      1600238358
+    ],
+    "body:value": [
+      "The catalog contains data related to occupational classification of main workers other than cultivators and agricultural labourers by sex, census 2011 - India and states. It includes data on Occupation, Occupational Classification, Main Workers, Non-Agricultural Main Workers, Workers, Non-Agricultural Workers, NCO, National Classification of Occupation, Census 2001, Scheduled Caste (SC) and Scheduled Tribe (ST)."
+    ],
+    "changed": [
+      1600238593
+    ],
+    "created": [
+      1542262978
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "census",
+      "occupation",
+      "SC",
+      "ST",
+      "Caste",
+      "Worker",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      6514741
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Occupational Classification of Main Workers other than Cultivators and Agricultural Labourers by Sex, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "d9c33401-e3b7-40fa-bf52-c586bfa7efed"
+    ],
+    "vid": [
+      7899277
+    ],
+    "view_count": [
+      99
+    ],
+    "search_api_id": [
+      "entity:node/6514741:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/occupational-classification-marginal-workers-other-cultivators-and-agricultural-labourers-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1094
+    ],
+    "published_date": [
+      1600321869
+    ],
+    "body:value": [
+      "The catalog contains data related to Occupational Classification of Marginal Workers other than Cultivators and Agricultural Labourers by  Industrial Category and Sex, Census 2011 - India and States. It includes data on Main Worker, Marginal Worker, Occupational."
+    ],
+    "changed": [
+      1600322008
+    ],
+    "created": [
+      1542263180
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "occupation",
+      "Worker",
+      "Marginal"
+    ],
+    "nid": [
+      6514761
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Occupational Classification of Marginal Workers other than Cultivators and Agricultural Labourers by Industrial Category and Sex, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "e8d533ba-9ab0-4b16-9679-20c2f990384d"
+    ],
+    "vid": [
+      7899281
+    ],
+    "view_count": [
+      108
+    ],
+    "search_api_id": [
+      "entity:node/6514761:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/occupational-classification-marginal-workers-other-cultivators-and-agricultural-labourers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      418
+    ],
+    "published_date": [
+      1600237808
+    ],
+    "body:value": [
+      "The catalog contains data related to occupational classification of marginal workers other than cultivators and agricultural labourers by sex, census 2011 - India and states. It includes data on Occupation, Occupational Classification, Marginal Workers, Non-Agricultural Marignal Workers, Workers, Non-Agricultural Workers, NCO, National Classification of Occupation, Census 2011."
+    ],
+    "changed": [
+      1600238087
+    ],
+    "created": [
+      1542263389
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "census",
+      "occupation",
+      "Caste",
+      "Worker",
+      "Marginal",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      6514781
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Occupational Classification of Marginal Workers other than Cultivators and Agricultural Labourers by Sex, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "128b12c8-7f08-497e-b446-70d2931e3c84"
+    ],
+    "vid": [
+      7899285
+    ],
+    "view_count": [
+      137
+    ],
+    "search_api_id": [
+      "entity:node/6514781:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/population-mother-tongue-census-2011-india-and-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1516
+    ],
+    "published_date": [
+      1600235695
+    ],
+    "body:value": [
+      "The catalog contains data related to Population by Mother Tongue, Census 2011 - India and States. It includes data on Population by Mother Tongue, Rural, Urban."
+    ],
+    "changed": [
+      1600235918
+    ],
+    "created": [
+      1542283370
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Population",
+      "Urban"
+    ],
+    "nid": [
+      6515081
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Population by Mother Tongue, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "a829f4c0-60ee-4602-bda6-bc73cf13e4d1"
+    ],
+    "vid": [
+      7899289
+    ],
+    "view_count": [
+      678
+    ],
+    "search_api_id": [
+      "entity:node/6515081:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/breed-survey-2012"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3866
+    ],
+    "published_date": [
+      1469765950
+    ],
+    "body:value": [
+      "The catalog contains details regarding breed of Different species like Cattle, Buffalo, Sheep, Goats, Pigs, Horses, Ponies, Mules, Donkey, Camel. The breeds of Cattle are Jersey, Holstein, Friesian, Amritmahal, Bachaur, Bargur, Binjharpuri, Dangi, Deoni, Gaolao, Ghumsuri, Gir, Hallikar, Hariana, Kangayam, Kankrej, Kenkatha, Khariar, Kherigarh, Khillar, Kosali, Krishna Valley, Malnad Gidda, Malvi, Mewati, Motu, Nagori, Nimari, Ongole, Ponwar, Punganur, Pulikulum, Rathi, Red  Kandhari, Red Sindhi, Sahiwal, Siri, Tharparkar, Umblacherry, Vechur, Non-descript. The breeds of Baffalo are Bhadawari, Banni, Chilika, Jaffarabadi, Kalahandi, Marathwadi, Mehsana, Murrah, Nagpuri, Nili Ravi, Pandharpuri, Surti, Toda, Non-descript. The breeds of Sheep are Merino, Rambuillet, Corridale, Crossbred sheep, Bhakarwal, Bellari, Balangir, Bonpala, Changthangi, Chokala, Chottanagpuri, Coimbatore, Deccani, Gaddi, Ganjam, Garole, Gurez, Hassan, Jaisalmeri, Jalauni, Karnah, Kashmir Merino, Kenguri, Kilakarsal, Madras red, Magra, Malapura, Mandya, Marwari, Mecheri, Muzzafarnagri, Nellore, Nilgiri, Patanwadi, Poonchi, Pugal, Ramnad White, Rampur Bushair, Shahbadi, Sonadi, Tibetan, Tiruchi Black, Vembur, Non-descript. The breeds of Goats are Attapadi Black, Barbari, Beetal, Berari, Black Bengal, Changthangi, Chegu, Gaddi, Ganjam, Gohilwadi, Jakhrana, Jamnapari, Kani adu, Konkan Kanyal, Kutchi, Malabari, Marwar, Mehsana, Osmanabadi, Sangamneri, Sirohi, Surti, Zalawadi, Non-descript. The breeds of Pigs are Landrace, Yorkshire, Hamsphire, Saddleback, Australian Large Black, Duroc, Crossbred Pigs,Ghoongroo, Niang Megha, Non-descript. The breeds of Horses are Bhutia, Kathiawari, Manipuri, Marwari, Spiti,  Zanskari, Non-descript. The breeds of Ponies are Bhutia, Kathiawari, Manipuri, Marwari, Spiti,  Zanskari, Non-descript.The breeds of Donkey are Italian, Desi/Spiti. The breeds of Camel are Bikaneri, Double Hump, Jaisalmeri, Jalori, Kachchhi/Kutchi, Malvi, Marwari, Mewari, Mewati, Non-descript."
+    ],
+    "changed": [
+      1469785787
+    ],
+    "created": [
+      1458628315
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Breed Survey"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Buffalo",
+      "Cattle",
+      "Coimbatore",
+      "Crossbred",
+      "Goat",
+      "Kashmir",
+      "Krishna",
+      "RAVI",
+      "Ponies",
+      "Sheep",
+      "Gaddi",
+      "Pig",
+      "Horse",
+      "Donkey",
+      "Camel",
+      "Changthangi",
+      "Ganjam",
+      "Mehsana",
+      "Surti",
+      "Bhadawari",
+      "Banni",
+      "Chilika",
+      "Jaffarabadi",
+      "Kalahandi",
+      "Murrah",
+      "Nagpuri",
+      "Pandharpuri",
+      "Toda",
+      "Marwari",
+      "Malvi",
+      "Mewati",
+      "Sindhi",
+      "Jersey",
+      "Amritmahal",
+      "Bachaur",
+      "Bargur",
+      "Binjharpuri",
+      "Dangi",
+      "Deoni",
+      "Gaolao",
+      "Ghumsuri",
+      "Gir",
+      "Hallikar",
+      "Hariana",
+      "Kangayam",
+      "Kankrej",
+      "Kenkatha",
+      "Kherigarh",
+      "Nagori",
+      "Nimari",
+      "Ongole",
+      "Ponwar",
+      "Punganur",
+      "Rathi",
+      "Sahiwal",
+      "Siri",
+      "Tharparkar",
+      "Vechur",
+      "Breed",
+      "Holstein",
+      "Friesian",
+      "Khariar",
+      "Khillar",
+      "Kosali",
+      "Motu",
+      "Pulikulum",
+      "Umblacherry",
+      "Marathwadi",
+      "Merino",
+      "Rambuillet",
+      "Corridale",
+      "Bhakarwal",
+      "Bellari",
+      "Balangir",
+      "Bonpala",
+      "Chokala",
+      "Chottanagpuri",
+      "Deccani",
+      "Garole",
+      "Gurez",
+      "Hassan",
+      "Jaisalmeri",
+      "Jalauni",
+      "Karnah",
+      "Kenguri",
+      "Kilakarsal",
+      "Magra",
+      "Malapura",
+      "Mandya",
+      "Mecheri",
+      "Muzzafarnagri",
+      "Nellore",
+      "Nilgiri",
+      "Patanwadi",
+      "Poonchi",
+      "Pugal",
+      "Shahbadi",
+      "Animal",
+      "White",
+      "Mule",
+      "Descript",
+      "Nili",
+      "Ramnad",
+      "Rampur",
+      "Bushair",
+      "Valley",
+      "Gidda",
+      "Red",
+      "Kandhari",
+      "Malnad",
+      "Madras"
+    ],
+    "nid": [
+      655001
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Breed Survey - 2012"
+    ],
+    "uuid": [
+      "991d25f3-59e2-46b9-8854-a3476e067076"
+    ],
+    "vid": [
+      7895691
+    ],
+    "view_count": [
+      3159
+    ],
+    "search_api_id": [
+      "entity:node/655001:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      5
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-245"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3296
+    ],
+    "published_date": [
+      1545212032
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 245 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1739781308
+    ],
+    "created": [
+      1543999606
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agricultural",
+      "Agriculture",
+      "Assistance",
+      "Ayush",
+      "birth",
+      "Crime",
+      "crude",
+      "Development",
+      "Electrified",
+      "Farm",
+      "FDI",
+      "Generation",
+      "goods",
+      "gram",
+      "Handloom",
+      "Health",
+      "Honey",
+      "Hospital",
+      "Household",
+      "Hydro",
+      "Import",
+      "Injured",
+      "Institute",
+      "Interest",
+      "Killed",
+      "Labour",
+      "Length",
+      "livelihood",
+      "Mission",
+      "national",
+      "NRLM",
+      "OIL",
+      "Outstanding",
+      "Rehabilitation",
+      "Release",
+      "Production",
+      "PMGSY",
+      "pollution",
+      "Pond",
+      "Power",
+      "progress",
+      "Scheme",
+      "Public",
+      "Road",
+      "Robbery",
+      "Sanctioned",
+      "SCA",
+      "Sector",
+      "station",
+      "Strength",
+      "Subsidy",
+      "Surgery",
+      "Tribal",
+      "Water",
+      "Women",
+      "Facility",
+      "Dispensary",
+      "Credit",
+      "Loan",
+      "Bank",
+      "Vacancy",
+      "Service",
+      "Worker",
+      "Police",
+      "Person",
+      "Tax",
+      "Scholarship",
+      "Cancer",
+      "Highway",
+      "Accident",
+      "Farmer",
+      "Annexure",
+      "PMKSY",
+      "Equity",
+      "Leprosy",
+      "suicide",
+      "Case",
+      "Care",
+      "Waste",
+      "Structure",
+      "Yojana",
+      "Trafficking",
+      "Trainee",
+      "Sadak",
+      "Level",
+      "Allied",
+      "Selection",
+      "Collection",
+      "Helper",
+      "Weaver",
+      "Honour",
+      "Killing",
+      "Recharge",
+      "Spot",
+      "Awas",
+      "Protsahan",
+      "Pending",
+      "Judicial",
+      "PMPRPY",
+      "Paridhan",
+      "Rojgar",
+      "Custody",
+      "AWWs",
+      "AWHs",
+      "Anganwadi Worker",
+      "PMAY(U)",
+      "Procuration",
+      "Scavenger",
+      "IHHLs",
+      "TSS",
+      "CLSS",
+      "RRBs",
+      "RCS",
+      "GST",
+      "ATL",
+      "Disburse",
+      "Amont",
+      "Sinchayee"
+    ],
+    "nid": [
+      6560041
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 245"
+    ],
+    "uuid": [
+      "534fd34f-30ed-4973-aaaa-b652e49b0d3b"
+    ],
+    "vid": [
+      13031770
+    ],
+    "view_count": [
+      2735
+    ],
+    "search_api_id": [
+      "entity:node/6560041:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      7
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-244"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2667
+    ],
+    "published_date": [
+      1545212028
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 244 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1739781308
+    ],
+    "created": [
+      1544518442
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agricultural",
+      "Agriculture",
+      "Assistance",
+      "Ayush",
+      "birth",
+      "Crime",
+      "crude",
+      "Development",
+      "Electrified",
+      "Farm",
+      "FDI",
+      "Generation",
+      "goods",
+      "gram",
+      "Handloom",
+      "Health",
+      "Honey",
+      "Hospital",
+      "Household",
+      "Hydro",
+      "Import",
+      "Injured",
+      "Institute",
+      "Interest",
+      "Killed",
+      "Labour",
+      "Length",
+      "livelihood",
+      "Mission",
+      "national",
+      "NRLM",
+      "OIL",
+      "Outstanding",
+      "Rehabilitation",
+      "Release",
+      "Production",
+      "PMGSY",
+      "pollution",
+      "Pond",
+      "Power",
+      "progress",
+      "Scheme",
+      "Public",
+      "Road",
+      "Sanctioned",
+      "SCA",
+      "Sector",
+      "station",
+      "Strength",
+      "Subsidy",
+      "Surgery",
+      "Tribal",
+      "Water",
+      "Women",
+      "Facility",
+      "Dispensary",
+      "Credit",
+      "Loan",
+      "Bank",
+      "Vacancy",
+      "Service",
+      "Worker",
+      "Police",
+      "Person",
+      "Tax",
+      "Scholarship",
+      "Cancer",
+      "Highway",
+      "Accident",
+      "Farmer",
+      "Annexure",
+      "PMKSY",
+      "Equity",
+      "Leprosy",
+      "suicide",
+      "Case",
+      "Care",
+      "Waste",
+      "Structure",
+      "Yojana",
+      "Trafficking",
+      "Trainee",
+      "Sadak",
+      "Level",
+      "Allied",
+      "Selection",
+      "Collection",
+      "Helper",
+      "Weaver",
+      "Honour",
+      "Killing",
+      "Recharge",
+      "Spot",
+      "Awas",
+      "Protsahan",
+      "Pending",
+      "Judicial",
+      "PMPRPY",
+      "Paridhan",
+      "Rojgar",
+      "Custody",
+      "AWWs",
+      "AWHs",
+      "Anganwadi Worker",
+      "PMAY(U)",
+      "Procuration",
+      "Scavenger",
+      "IHHLs",
+      "TSS",
+      "CLSS",
+      "RRBs",
+      "RCS",
+      "GST",
+      "ATL",
+      "Disburse",
+      "Amont",
+      "Sinchayee",
+      "Robber"
+    ],
+    "nid": [
+      6566161
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 244"
+    ],
+    "uuid": [
+      "281cf2c8-3781-41da-bb75-9b29b90f4e3d"
+    ],
+    "vid": [
+      13031773
+    ],
+    "view_count": [
+      2252
+    ],
+    "search_api_id": [
+      "entity:node/6566161:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/session-wise-special-mentions-rajya-sabha"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      751
+    ],
+    "published_date": [
+      1457612020
+    ],
+    "body:value": [
+      "The data refers to the Special Mentions made by the hon'ble member of parliament (Rajya Sabha) during the Rajya Sabha Session.It contains the date of Session No., Made Date, Subject, Name Of Member, Ministry Concerned, Reply From Ministry and Final Date. Special mention is a procedure available to a Member who wishes  to mention a matter of public importance in the House by reading out from the text not exceeding 250 words."
+    ],
+    "changed": [
+      1516167995
+    ],
+    "created": [
+      1457527774
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Parliament",
+      "Council"
+    ],
+    "nid": [
+      636641
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Session wise Special Mentions of Rajya Sabha"
+    ],
+    "uuid": [
+      "bf83f629-de68-4fe7-baf6-e3120daf2882"
+    ],
+    "vid": [
+      7895671
+    ],
+    "view_count": [
+      639
+    ],
+    "search_api_id": [
+      "entity:node/636641:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1997"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3349
+    ],
+    "published_date": [
+      1458280760
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1997. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Violent crimes, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Unidentified dead bodies recovered and inquest conducted, Victims of kidnapping & abduction, Disposal of crime cases, Charge sheet of crimes, Complaint received and case registered under IPC and SLL, Conviction rate , Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Offenders relation and nearness to rape victims, Crimes committed against children, Crime committed against scheduled castes and schedule tribes, Property stolen & recovered and percentage recovery, Vehicles stolen, Recovered and co-ordinated, Dacoity cases, Robbery cases, Burglary cases, Theft cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Deaths in police custody /lockup, Escapes from police custody, Reported custodial rape cases and their disposal, Persons arrested under custodial ,Rape and their disposal by police and courts, Event wise persons killed or injured under police firing, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Incidence of human right violation by police, Sanctioned and strength of civil police including district armed police, Information on police housing, Sanctioned and actual strength of home guards and auxiliary force, Equipments and transport support, Police stations by volume of crime, Police stations by strength of personnel, Organization setup, Representation of SCs/STs and muslims in police etc."
+    ],
+    "changed": [
+      1494840766
+    ],
+    "created": [
+      1458044264
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Death",
+      "Infrastructure",
+      "Kidnapping",
+      "Theft",
+      "Facility",
+      "Girl",
+      "Police",
+      "Murder",
+      "Incest",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "Auto",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Offender",
+      "Suicidal"
+    ],
+    "nid": [
+      640061
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1997"
+    ],
+    "uuid": [
+      "0a828c3f-a471-4d40-a12d-1e667577642e"
+    ],
+    "vid": [
+      7895678
+    ],
+    "view_count": [
+      3187
+    ],
+    "search_api_id": [
+      "entity:node/640061:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      5
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-234"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      21277
+    ],
+    "published_date": [
+      1458538101
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 234 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1631110284
+    ],
+    "created": [
+      1458122082
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Air",
+      "Assistance",
+      "Ayurveda",
+      "Bank",
+      "Budget",
+      "Cases",
+      "Cash",
+      "Centre",
+      "College",
+      "crop",
+      "crude",
+      "Dengue",
+      "Diesel",
+      "Dispensaries",
+      "expenditure",
+      "Food",
+      "Forest",
+      "Fund",
+      "GDP",
+      "Health",
+      "Homoeopathy",
+      "Hospital",
+      "Hydro",
+      "Import",
+      "industrial",
+      "kerosene",
+      "Labs",
+      "LPG",
+      "Medical",
+      "Minority",
+      "Mortality",
+      "OIL",
+      "Radio",
+      "research",
+      "petrol",
+      "Petroleum",
+      "Project",
+      "species",
+      "Sanctioned",
+      "Storage",
+      "Sugarcane",
+      "University",
+      "Wind",
+      "wheat",
+      "Toilets",
+      "Diabetes",
+      "Teacher",
+      "Planting",
+      "NIA",
+      "Latrine",
+      "Tax",
+      "oilseed",
+      "Rabi",
+      "PMJDY",
+      "Cancer",
+      "Rape",
+      "Parliament",
+      "Promotion",
+      "LIP",
+      "Metallic",
+      "Diagnostic",
+      "AIIMS",
+      "PMSSY",
+      "Influenza",
+      "H1N1",
+      "Vaccine",
+      "CISF",
+      "CPSS",
+      "CRPF",
+      "Military",
+      "Administrative",
+      "License",
+      "Uneducated",
+      "Unempoyment",
+      "CLCSS",
+      "IAS",
+      "Tharmal",
+      "Tiger",
+      "Advertisement",
+      "Accident",
+      "Annexure",
+      "Equity",
+      "Blood",
+      "Kisan",
+      "Yojana",
+      "Drug",
+      "Remote",
+      "Sensing",
+      "Rajiv",
+      "Pulse",
+      "Cold",
+      "Bio",
+      "Chain",
+      "Retail",
+      "I",
+      "Monument",
+      "Chit",
+      "Rinn",
+      "Academic",
+      "Commitment"
+    ],
+    "nid": [
+      642481
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61",
+      "81"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 234"
+    ],
+    "uuid": [
+      "10450878-d1ac-4a62-9157-1582a863e449"
+    ],
+    "vid": [
+      7895687
+    ],
+    "view_count": [
+      20753
+    ],
+    "search_api_id": [
+      "entity:node/642481:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/time-series-data-crude-steel-production-and-capacity-utilization-steel-industry"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1458
+    ],
+    "published_date": [
+      1560934070
+    ],
+    "body:value": [
+      "This time series data pertains to the yearly production of crude steel and capacity utilized by the public and private sectors of the steel industry in crude steel production from the financial year 2013-14 onward."
+    ],
+    "changed": [
+      1582094353
+    ],
+    "created": [
+      1558688581
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "steel"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Steel"
+    ],
+    "field_sector:name": [
+      "Heavy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Production",
+      "Crude Steel",
+      "Ministry of Steel",
+      "Steel Industry"
+    ],
+    "nid": [
+      6650502
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Time Series Data on Crude Steel Production and Capacity Utilization by Steel Industry"
+    ],
+    "uuid": [
+      "aad7a8cb-b996-4b90-b3d7-bdab71d66254"
+    ],
+    "vid": [
+      7900531
+    ],
+    "view_count": [
+      806
+    ],
+    "search_api_id": [
+      "entity:node/6650502:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/time-series-data-production-export-import-and-consumption-finished-steel-items"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3903
+    ],
+    "published_date": [
+      1560943483
+    ],
+    "body:value": [
+      "This time series data pertains to the yearly production, export, import and consumption of various finished steel items in the steel industry from the financial year 2013-14 onward.\r\n"
+    ],
+    "changed": [
+      1582093418
+    ],
+    "created": [
+      1558954309
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "World"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "steel"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Steel"
+    ],
+    "field_sector:name": [
+      "Export",
+      "Import",
+      "Heavy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "Export",
+      "Import",
+      "Production",
+      "Finished Steel",
+      "Ministry of Steel",
+      "Steel Industry"
+    ],
+    "nid": [
+      6650685
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Time Series Data on Production, Export, Import and Consumption of Finished Steel Items"
+    ],
+    "uuid": [
+      "4e07be51-a5e9-416e-8f44-55b8e50965be"
+    ],
+    "vid": [
+      7900561
+    ],
+    "view_count": [
+      1911
+    ],
+    "search_api_id": [
+      "entity:node/6650685:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/time-series-data-production-pig-iron-and-sponge-iron-steel-industry"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1266
+    ],
+    "published_date": [
+      1560934684
+    ],
+    "body:value": [
+      "This time series data pertains to the yearly production of pig iron and sponge iron by the public and private sectors of the steel industry."
+    ],
+    "changed": [
+      1582094074
+    ],
+    "created": [
+      1558956316
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Industrial Production"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Steel"
+    ],
+    "field_sector:name": [
+      "Heavy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Production",
+      "Sponge Iron",
+      "Pig Iron",
+      "Ministry of Steel",
+      "Steel Industry"
+    ],
+    "nid": [
+      6650692
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Time Series Data on Production of Pig Iron and Sponge Iron in Steel Industry"
+    ],
+    "uuid": [
+      "1f1697c9-059a-4724-8d23-0fd34ac11b4d"
+    ],
+    "vid": [
+      7900565
+    ],
+    "view_count": [
+      694
+    ],
+    "search_api_id": [
+      "entity:node/6650692:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/udyog-aadhaar-memorandum-msme-registration"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      78268
+    ],
+    "published_date": [
+      1561713797
+    ],
+    "body:value": [
+      "MSME Registration data from Sept.2015 to Till date"
+    ],
+    "changed": [
+      1565168617
+    ],
+    "created": [
+      1561702539
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "MSME Registration"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Micro, Small and Medium Enterprises"
+    ],
+    "field_sector:name": [
+      "Medium",
+      "Micro",
+      "Small Scale"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Aadhaar",
+      "MSME",
+      "UAM",
+      "MSME Registration Data",
+      "Udyog Aadhaar"
+    ],
+    "nid": [
+      6652032
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Udyog Aadhaar Memorandum  ( MSME Registration )"
+    ],
+    "uuid": [
+      "4a397eda-d389-4d93-ae3b-685e784a2018"
+    ],
+    "vid": [
+      7900676
+    ],
+    "view_count": [
+      71966
+    ],
+    "search_api_id": [
+      "entity:node/6652032:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/indian-petroleum-and-natural-gas-statistics-2017-18"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3861
+    ],
+    "published_date": [
+      1564749040
+    ],
+    "body:value": [
+      "Indian Petroleum and Natural Gas Statistics - 2017-18 provides exhaustive data on oil & gas sector in India. In addition, this catalog also gives a glimpse of the global petroleum scenario through the latest international petroleum statistics. It contains data on various parameters including inter-alia production, exploration, refining, transportation and marketing, imports and exports of crude oil and petroleum products along with taxes and duties realized, man power employed in oil & gas CPSEs, outlays and annual expenditure, dividends paid, equity capital and profit of the CPSEs etc ."
+    ],
+    "changed": [
+      1564982747
+    ],
+    "created": [
+      1564135471
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Petroleum and Natural Gas"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CPSE",
+      "crude",
+      "expenditure",
+      "Exploration",
+      "Export",
+      "Gas",
+      "Import",
+      "Marketing",
+      "OIL",
+      "Outlay",
+      "Refining",
+      "Production",
+      "Petroleum",
+      "Natural",
+      "Transportation"
+    ],
+    "nid": [
+      6672318
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Indian Petroleum and Natural Gas Statistics - 2017-18"
+    ],
+    "uuid": [
+      "c940ad4f-4b0e-43f9-938e-60e747121a17"
+    ],
+    "vid": [
+      7900876
+    ],
+    "view_count": [
+      3561
+    ],
+    "search_api_id": [
+      "entity:node/6672318:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/basic-road-statistics-india-2015-16-and-2016-17"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      871
+    ],
+    "published_date": [
+      1602753078
+    ],
+    "body:value": [
+      "Get data of Basic Road Statistics of India : 2015-16 and 2016-17. It provides comprehensive information on the total road network of the country. Road Statistics of India contains information on various categories of roads at National, State and Local (Municipal and Panchayat) levels. Apart from this, the information on plan allocation and expenditure on roads and an international comparison of road networks are also provided."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1564988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Basis Road Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Department",
+      "Length",
+      "Public",
+      "Urban",
+      "Rural",
+      "PWD",
+      "Highway",
+      "Work",
+      "Network"
+    ],
+    "nid": [
+      6672903
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Basic Road Statistics of India : 2015-16 and 2016-17"
+    ],
+    "uuid": [
+      "30c95fac-456b-4708-9f69-b891dc435fe9"
+    ],
+    "vid": [
+      13005079
+    ],
+    "view_count": [
+      184
+    ],
+    "search_api_id": [
+      "entity:node/6672903:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/road-accidents-india-2017"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9394
+    ],
+    "published_date": [
+      1556165037
+    ],
+    "body:value": [
+      "The data refers to Total Number of Road Accidents, Persons Killed and Injured. It also provides some other information like Number of Accidents per Lakh Population, Number of Accidents per Ten Thousand Vehicles, Number of Accidents per Ten Thousand Kms of Roads, Number of Persons Killed Per Lakh Population, Number of Persons Killed Per Ten Thousand Vehicles, Number of Persons Killed per Ten Thousand Kms of Roads, Number of Persons Injured per Lakh Population, Number of Persons Injured Per Ten Thousand Vehicles and Number of Persons Injured Per Ten Thousand Kms of Roads. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)"
+    ],
+    "changed": [
+      1739515789
+    ],
+    "created": [
+      1551956085
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Road",
+      "Person",
+      "Highway",
+      "Accident"
+    ],
+    "nid": [
+      6619603
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Road Accidents in India - 2017"
+    ],
+    "uuid": [
+      "2a64f9c1-f75b-416a-8f16-a59718120f81"
+    ],
+    "vid": [
+      13014686
+    ],
+    "view_count": [
+      8506
+    ],
+    "search_api_id": [
+      "entity:node/6619603:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      30
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-246"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7837
+    ],
+    "published_date": [
+      1552648633
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 246 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1739781308
+    ],
+    "created": [
+      1552482032
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agricultural",
+      "Agriculture",
+      "Assistance",
+      "Ayush",
+      "birth",
+      "Crime",
+      "crude",
+      "Development",
+      "Electrified",
+      "Farm",
+      "FDI",
+      "Generation",
+      "goods",
+      "gram",
+      "Handloom",
+      "Health",
+      "Honey",
+      "Hospital",
+      "Household",
+      "Hydro",
+      "Import",
+      "Injured",
+      "Institute",
+      "Interest",
+      "Killed",
+      "Labour",
+      "Length",
+      "livelihood",
+      "Mission",
+      "national",
+      "NRLM",
+      "OIL",
+      "Outstanding",
+      "Rehabilitation",
+      "Release",
+      "Production",
+      "PMGSY",
+      "pollution",
+      "Pond",
+      "Power",
+      "progress",
+      "Scheme",
+      "Public",
+      "Road",
+      "Sanctioned",
+      "SCA",
+      "Sector",
+      "station",
+      "Strength",
+      "Subsidy",
+      "Surgery",
+      "Tribal",
+      "Water",
+      "Women",
+      "Facility",
+      "Dispensary",
+      "Credit",
+      "Loan",
+      "Bank",
+      "Vacancy",
+      "Service",
+      "Worker",
+      "Police",
+      "Person",
+      "Tax",
+      "Scholarship",
+      "Cancer",
+      "Highway",
+      "Accident",
+      "Farmer",
+      "Annexure",
+      "PMKSY",
+      "Equity",
+      "Leprosy",
+      "suicide",
+      "Case",
+      "Care",
+      "Waste",
+      "Structure",
+      "Yojana",
+      "Trafficking",
+      "Trainee",
+      "Sadak",
+      "Level",
+      "Allied",
+      "Selection",
+      "Collection",
+      "Helper",
+      "Weaver",
+      "Honour",
+      "Killing",
+      "Recharge",
+      "Spot",
+      "Awas",
+      "Protsahan",
+      "Pending",
+      "Judicial",
+      "PMPRPY",
+      "Paridhan",
+      "Rojgar",
+      "Custody",
+      "AWWs",
+      "AWHs",
+      "Anganwadi Worker",
+      "PMAY(U)",
+      "Procuration",
+      "Scavenger",
+      "IHHLs",
+      "TSS",
+      "CLSS",
+      "RRBs",
+      "RCS",
+      "GST",
+      "ATL",
+      "Disburse",
+      "Amont",
+      "Sinchayee",
+      "Robber"
+    ],
+    "nid": [
+      6620165
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 246"
+    ],
+    "uuid": [
+      "09685331-ed12-446c-8a2d-7ac2577a308c"
+    ],
+    "vid": [
+      13031779
+    ],
+    "view_count": [
+      7371
+    ],
+    "search_api_id": [
+      "entity:node/6620165:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/agro-ecological-zoning"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1250
+    ],
+    "published_date": [
+      1554888435
+    ],
+    "body:value": [
+      "This provides agro-ecological regions as given by ICAR-NBSS&LUP, Nagpur"
+    ],
+    "changed": [
+      1563168133
+    ],
+    "created": [
+      1554874610
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "KRISHI"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Agricultural Research & Extension"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agro-ecological regions"
+    ],
+    "nid": [
+      6635048
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Agro-Ecological Zoning"
+    ],
+    "uuid": [
+      "54494cf4-37e1-409c-aa09-0e5bdbdc0a0e"
+    ],
+    "vid": [
+      7900222
+    ],
+    "view_count": [
+      751
+    ],
+    "search_api_id": [
+      "entity:node/6635048:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/union-budget-2019-20-interim"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2865
+    ],
+    "published_date": [
+      1555070570
+    ],
+    "body:value": [
+      "The Union Budget of India, also referred to as the Annual Financial Statement in the Article 112 of the Constitution of India, is the annual budget of the Republic of India. It contains data of Union Budget: 2019-20 (Interim)."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1555069372
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "Deficit",
+      "Receipt",
+      "expenditure"
+    ],
+    "nid": [
+      6640097
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Union Budget: 2019-20 (Interim)"
+    ],
+    "uuid": [
+      "10111878-f4bd-4a10-90d3-f8a3111bfa82"
+    ],
+    "vid": [
+      12996121
+    ],
+    "view_count": [
+      2482
+    ],
+    "search_api_id": [
+      "entity:node/6640097:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      4
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-248"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7871
+    ],
+    "published_date": [
+      1559216050
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 248 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1739781308
+    ],
+    "created": [
+      1558419185
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agricultural",
+      "Agriculture",
+      "Assistance",
+      "Ayush",
+      "birth",
+      "Crime",
+      "crude",
+      "Development",
+      "Electrified",
+      "Farm",
+      "FDI",
+      "Generation",
+      "goods",
+      "gram",
+      "Handloom",
+      "Health",
+      "Honey",
+      "Hospital",
+      "Household",
+      "Hydro",
+      "Import",
+      "Injured",
+      "Institute",
+      "Interest",
+      "Killed",
+      "Labour",
+      "Length",
+      "livelihood",
+      "Mission",
+      "national",
+      "NRLM",
+      "OIL",
+      "Outstanding",
+      "Rehabilitation",
+      "Release",
+      "Production",
+      "PMGSY",
+      "pollution",
+      "Pond",
+      "Power",
+      "progress",
+      "Scheme",
+      "Public",
+      "Road",
+      "Sanctioned",
+      "SCA",
+      "Sector",
+      "station",
+      "Strength",
+      "Subsidy",
+      "Surgery",
+      "Tribal",
+      "Water",
+      "Women",
+      "Facility",
+      "Dispensary",
+      "Credit",
+      "Loan",
+      "Bank",
+      "Vacancy",
+      "Service",
+      "Worker",
+      "Police",
+      "Person",
+      "Tax",
+      "Scholarship",
+      "Cancer",
+      "Highway",
+      "Accident",
+      "Farmer",
+      "Annexure",
+      "PMKSY",
+      "Equity",
+      "Leprosy",
+      "suicide",
+      "Case",
+      "Care",
+      "Waste",
+      "Structure",
+      "Yojana",
+      "Trafficking",
+      "Trainee",
+      "Sadak",
+      "Level",
+      "Allied",
+      "Selection",
+      "Collection",
+      "Helper",
+      "Weaver",
+      "Honour",
+      "Killing",
+      "Recharge",
+      "Spot",
+      "Awas",
+      "Protsahan",
+      "Pending",
+      "Judicial",
+      "PMPRPY",
+      "Paridhan",
+      "Rojgar",
+      "Custody",
+      "AWWs",
+      "AWHs",
+      "Anganwadi Worker",
+      "PMAY(U)",
+      "Procuration",
+      "Scavenger",
+      "IHHLs",
+      "TSS",
+      "CLSS",
+      "RRBs",
+      "RCS",
+      "GST",
+      "ATL",
+      "Disburse",
+      "Amont",
+      "Sinchayee",
+      "Robber"
+    ],
+    "nid": [
+      6649695
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 248"
+    ],
+    "uuid": [
+      "1dfe7258-decc-4822-b9c3-50fa86c20ae0"
+    ],
+    "vid": [
+      13031781
+    ],
+    "view_count": [
+      7508
+    ],
+    "search_api_id": [
+      "entity:node/6649695:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-249"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5275
+    ],
+    "published_date": [
+      1578050148
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 249 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1739781308
+    ],
+    "created": [
+      1577442138
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agricultural",
+      "Agriculture",
+      "Assistance",
+      "Ayush",
+      "birth",
+      "Crime",
+      "crude",
+      "Development",
+      "Electrified",
+      "Farm",
+      "FDI",
+      "Generation",
+      "goods",
+      "gram",
+      "Handloom",
+      "Health",
+      "Honey",
+      "Hospital",
+      "Household",
+      "Hydro",
+      "Import",
+      "Injured",
+      "Institute",
+      "Interest",
+      "Killed",
+      "Labour",
+      "Length",
+      "livelihood",
+      "Mission",
+      "national",
+      "NRLM",
+      "OIL",
+      "Outstanding",
+      "Rehabilitation",
+      "Release",
+      "Production",
+      "PMGSY",
+      "pollution",
+      "Pond",
+      "Power",
+      "progress",
+      "Scheme",
+      "Public",
+      "Road",
+      "Sanctioned",
+      "SCA",
+      "Sector",
+      "station",
+      "Strength",
+      "Subsidy",
+      "Surgery",
+      "Tribal",
+      "Water",
+      "Women",
+      "Facility",
+      "Dispensary",
+      "Credit",
+      "Loan",
+      "Bank",
+      "Vacancy",
+      "Service",
+      "Worker",
+      "Police",
+      "Person",
+      "Tax",
+      "Scholarship",
+      "Cancer",
+      "Highway",
+      "Accident",
+      "Farmer",
+      "PMAY",
+      "Annexure",
+      "PMKSY",
+      "Equity",
+      "Leprosy",
+      "suicide",
+      "Case",
+      "Care",
+      "Waste",
+      "Structure",
+      "Yojana",
+      "Trafficking",
+      "Trainee",
+      "Sadak",
+      "Level",
+      "Allied",
+      "Selection",
+      "Collection",
+      "Helper",
+      "Weaver",
+      "Honour",
+      "Killing",
+      "Recharge",
+      "Spot",
+      "Awas",
+      "Protsahan",
+      "Pending",
+      "Judicial",
+      "PMPRPY",
+      "Paridhan",
+      "Rojgar",
+      "Custody",
+      "AWWs",
+      "AWHs",
+      "Anganwadi Worker",
+      "Procuration",
+      "Scavenger",
+      "IHHLs",
+      "TSS",
+      "CLSS",
+      "RRBs",
+      "RCS",
+      "GST",
+      "ATL",
+      "Disburse",
+      "Amont",
+      "Sinchayee",
+      "Robber"
+    ],
+    "nid": [
+      6715802
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 249"
+    ],
+    "uuid": [
+      "d3d3d8bf-e170-4fdc-abc5-1fba050acf44"
+    ],
+    "vid": [
+      13031784
+    ],
+    "view_count": [
+      4741
+    ],
+    "search_api_id": [
+      "entity:node/6715802:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/health-and-family-welfare-statistics-2017"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1693
+    ],
+    "published_date": [
+      1582607030
+    ],
+    "body:value": [
+      "Get data of Health and Family Welfare Statistics - 2017, it provides health and family welfare performance statistics on the various facets of the health and family welfare programmes in India . It includes data on Population and Vital Statistics indicators, Performances of Family Welfare Programmes, Targets/Need Assessed and Achievements of Maternal Health Activities, Child Health, findings of Surveys on Health and Family Welfare Key Indicators [These surveys inter-alia include, National Family Health Survey (NFHS), District Level Household and Facility Survey (DLHS), Annual Health Survey (AHS), Coverage Evaluation Survey (CES) etc.], information on selected indicators from Annual Health Survey (AHS) and Concurrent Evaluation of National Health Mission, information on Infrastructure etc."
+    ],
+    "changed": [
+      1739808639
+    ],
+    "created": [
+      1578483607
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "AHS",
+      "child",
+      "Death",
+      "Fertility",
+      "Health",
+      "Household",
+      "Immunization",
+      "IMR",
+      "Infant",
+      "maternal",
+      "Mortality",
+      "NFHS",
+      "Survey",
+      "Facility",
+      "CES",
+      "DLHS",
+      "Evaluation",
+      "Annual",
+      "Coverage",
+      "Rate",
+      "Ratio",
+      "Specific"
+    ],
+    "nid": [
+      6719436
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Health and Family Welfare Statistics - 2017"
+    ],
+    "uuid": [
+      "83e553a1-dbee-40d9-a23f-2d2d4ec7c9c2"
+    ],
+    "vid": [
+      13041701
+    ],
+    "view_count": [
+      973
+    ],
+    "search_api_id": [
+      "entity:node/6719436:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-statistics-registrants-employment-exchanges-kerala"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      610
+    ],
+    "published_date": [
+      1583406245
+    ],
+    "body:value": [
+      "This shows the district wise no. of jobseekers registered with Employment Exchanges."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1579862546
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Employment"
+    ],
+    "field_state_department:name": [
+      "Kerala",
+      "Labour, Employment and Training and Rehabilitation Department, Kerala"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Employment",
+      "Registration",
+      "Kerala",
+      "Jobseekers"
+    ],
+    "nid": [
+      6720767
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "kerala.data.gov.in"
+    ],
+    "title": [
+      "District Wise Statistics of Registrants in Employment Exchanges of Kerala"
+    ],
+    "uuid": [
+      "716e7949-9c46-4687-8bc1-b3e8ce5a94fa"
+    ],
+    "vid": [
+      12998995
+    ],
+    "view_count": [
+      42
+    ],
+    "search_api_id": [
+      "entity:node/6720767:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/educational-wise-break-jobseekers-registered-employment-exchanges-kerala"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      428
+    ],
+    "published_date": [
+      1583405978
+    ],
+    "body:value": [
+      "Educational wise Break up of jobseekers registered with Employment Exchanges in Kerala"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1579863358
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Employment"
+    ],
+    "field_state_department:name": [
+      "Kerala",
+      "Labour, Employment and Training and Rehabilitation Department, Kerala"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Educational Qualifications",
+      "Employment",
+      "Exchange",
+      "Kerala"
+    ],
+    "nid": [
+      6720770
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "kerala.data.gov.in"
+    ],
+    "title": [
+      "Educational wise Break up of jobseekers registered with Employment Exchanges in Kerala"
+    ],
+    "uuid": [
+      "0fcd5724-5a92-4428-b318-f1458fc4da6a"
+    ],
+    "vid": [
+      12998997
+    ],
+    "view_count": [
+      23
+    ],
+    "search_api_id": [
+      "entity:node/6720770:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      36
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/list-msme-registered-units-under-udyog-aadhaar-memorandum-till-last-date"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      33989
+    ],
+    "published_date": [
+      1574328017
+    ],
+    "body:value": [
+      "The catalog contains Unit name, unit address, enterprise type, investment in plant and machinery, employment, national industrial classification code, type of organisation, location of units, social category, commence date, DIC name, registration date etc. of registered Micro, Small & Medium Enterprises (MSMEs)."
+    ],
+    "changed": [
+      1577967027
+    ],
+    "created": [
+      1574142243
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Udyog Aadhaar Memorandum"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Micro, Small and Medium Enterprises"
+    ],
+    "field_sector:name": [
+      "Medium",
+      "Micro",
+      "Small Scale"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Category",
+      "Employment",
+      "industrial",
+      "Investment",
+      "Machinery",
+      "MSME",
+      "NIC",
+      "Unit",
+      "Social",
+      "Enterprise",
+      "Location",
+      "Organisation",
+      "Plant",
+      "DIC"
+    ],
+    "nid": [
+      6690660
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "List of MSME Registered Units  under Udyog Aadhaar Memorandum till last date"
+    ],
+    "uuid": [
+      "2c895ab9-8042-4653-bfeb-7dc71281fd57"
+    ],
+    "vid": [
+      7901652
+    ],
+    "view_count": [
+      9843
+    ],
+    "search_api_id": [
+      "entity:node/6690660:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/kerala-road-accidents"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      695
+    ],
+    "published_date": [
+      1569669022
+    ],
+    "body:value": [
+      "Year wise road accident status"
+    ],
+    "changed": [
+      1569669051
+    ],
+    "created": [
+      1569659731
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "World"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_group_name:name": [
+      "Police"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "field_state_department:name": [
+      "Kerala"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Road Accidents"
+    ],
+    "nid": [
+      6679939
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "kerala.data.gov.in"
+    ],
+    "title": [
+      "Kerala Road Accidents"
+    ],
+    "uuid": [
+      "5c2ce8d2-ce3a-4ace-a1e1-123925deb945"
+    ],
+    "vid": [
+      10704552
+    ],
+    "view_count": [
+      192
+    ],
+    "search_api_id": [
+      "entity:node/6679939:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/districts-under-ksrtc-zonal-offices-1"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      210
+    ],
+    "published_date": [
+      1569668383
+    ],
+    "body:value": [
+      "Districts covered under each KSRTC zonal office"
+    ],
+    "changed": [
+      1569668450
+    ],
+    "created": [
+      1569661846
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_group_name:name": [
+      "KSRTC Zonal Office"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "field_state_department:name": [
+      "Kerala"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Districts",
+      "KSRTC"
+    ],
+    "nid": [
+      6679948
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "kerala.data.gov.in"
+    ],
+    "title": [
+      "Districts under KSRTC zonal offices"
+    ],
+    "uuid": [
+      "c05b8463-3a89-46a1-ba85-f2c90b11965d"
+    ],
+    "vid": [
+      10704563
+    ],
+    "view_count": [
+      104
+    ],
+    "search_api_id": [
+      "entity:node/6679948:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/keltron"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      382
+    ],
+    "published_date": [
+      1583408398
+    ],
+    "body:value": [
+      "Keltron branches at world wide"
+    ],
+    "changed": [
+      1583408451
+    ],
+    "created": [
+      1569666148
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_group_name:name": [
+      "Common Service Centre"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Manufacturing"
+    ],
+    "field_state_department:name": [
+      "Kerala"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "keltron",
+      "ksedc",
+      "keltron offices"
+    ],
+    "nid": [
+      6679959
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "kerala.data.gov.in"
+    ],
+    "title": [
+      "Keltron "
+    ],
+    "uuid": [
+      "850d6d05-b4c7-420d-bf75-7db6c45fff61"
+    ],
+    "vid": [
+      10704575
+    ],
+    "view_count": [
+      14
+    ],
+    "search_api_id": [
+      "entity:node/6679959:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/rural-health-statistics-2018"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6364
+    ],
+    "published_date": [
+      1571225400
+    ],
+    "body:value": [
+      "It provides data of Rural Health Statistics 2018. Rural Health Statistics 2018 contains Infrastructural information and building positions of Sub Centres, Primary Health Centres (PHCs) and Community Health Centres (CHCs). It also contains state wise number of Sub Divisional Hospital, District Hospital & Mobile Medical Units. Get state/Ut wise information of Specialist Doctors, Health Workers, Auxiliary Mid wife Nurse (ANM), Nursing Staffs, Health Assistants, Radiographers, Pharmacists. It includes information of staffs in position, requirement of staffs and shortfall. District wise availability of health centres has also been furnished in the data."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1570087753
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Health Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANM",
+      "CHC",
+      "child",
+      "community",
+      "Doctor",
+      "Hospital",
+      "Infant",
+      "maternal",
+      "Medical",
+      "Radiographers",
+      "Pharmacist",
+      "PHC",
+      "primary",
+      "Staff",
+      "Tribal",
+      "Facility",
+      "PHCs",
+      "CHCs",
+      "Nurse",
+      "mobile",
+      "Rural",
+      "Infrastructure",
+      "Nursing",
+      "Worker",
+      "RHS",
+      "Specialist",
+      "Auxiliary",
+      "Midwife",
+      "Assistant"
+    ],
+    "nid": [
+      6680151
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rural Health Statistics - 2018"
+    ],
+    "uuid": [
+      "04a20bbe-2d59-47a3-a1cf-87782497b067"
+    ],
+    "vid": [
+      13005080
+    ],
+    "view_count": [
+      5231
+    ],
+    "search_api_id": [
+      "entity:node/6680151:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/time-series-data-route-wise-production"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2032
+    ],
+    "published_date": [
+      1573029824
+    ],
+    "body:value": [
+      "This time series data pertains to the yearly route-wise production of crude steel and sponge iron in the steel industry from the financial year 2013-14 onward."
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1571295736
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "steel"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Steel"
+    ],
+    "field_sector:name": [
+      "Heavy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "crude",
+      "Industry",
+      "Iron",
+      "Production",
+      "Route",
+      "Steel",
+      "SS"
+    ],
+    "nid": [
+      6680876
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Time Series Data on Route-wise Production"
+    ],
+    "uuid": [
+      "cbe230a8-aed3-49b7-9319-41c4f0f96d81"
+    ],
+    "vid": [
+      13056614
+    ],
+    "view_count": [
+      1000
+    ],
+    "search_api_id": [
+      "entity:node/6680876:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cpgram-nodal-public-grievance-officers-details"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      819
+    ],
+    "published_date": [
+      1572610531
+    ],
+    "body:value": [
+      "This catalog contains details of Nodal Public Grievance Officers of CPGRAMS."
+    ],
+    "changed": [
+      1572610546
+    ],
+    "created": [
+      1572592955
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "CPGRAM"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Personnel, Public Grievances and Pensions",
+      "Department of Administrative Reforms and Public Grievances (DARPG)"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Grievances"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Nodal"
+    ],
+    "nid": [
+      6690021
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "CPGRAM Nodal Public Grievance Officers Details"
+    ],
+    "uuid": [
+      "055eeced-b527-4106-9866-a89a3ff68f35"
+    ],
+    "vid": [
+      7901528
+    ],
+    "view_count": [
+      598
+    ],
+    "search_api_id": [
+      "entity:node/6690021:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/details-registered-users-cpgrams"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1063
+    ],
+    "published_date": [
+      1572861543
+    ],
+    "body:value": [
+      "The catalog contains details of registered users of CPGRAMS."
+    ],
+    "changed": [
+      1572861590
+    ],
+    "created": [
+      1572594108
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "CPGRAM"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Personnel, Public Grievances and Pensions",
+      "Department of Administrative Reforms and Public Grievances (DARPG)"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Grievances"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "user",
+      "Register",
+      "CPGRAM"
+    ],
+    "nid": [
+      6690027
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Details of registered users of CPGRAMS"
+    ],
+    "uuid": [
+      "9b1598a6-07cd-4a52-be93-8429d3a11303"
+    ],
+    "vid": [
+      7901531
+    ],
+    "view_count": [
+      752
+    ],
+    "search_api_id": [
+      "entity:node/6690027:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/department-wise-receipts-disposal-and-pendency-public-grievance-detailed-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1140
+    ],
+    "published_date": [
+      1572610379
+    ],
+    "body:value": [
+      "The Catalog contains Department-wise receipts, disposal and pendency of Public Grievance detailed statistics through CPGRAMS."
+    ],
+    "changed": [
+      1572948054
+    ],
+    "created": [
+      1572604448
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "CPGRAMS"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Personnel, Public Grievances and Pensions",
+      "Department of Administrative Reforms and Public Grievances (DARPG)"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Grievances"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Grievance",
+      "CPGRAMS"
+    ],
+    "nid": [
+      6690036
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Department-wise receipts, disposal and pendency of Public Grievance detailed statistics"
+    ],
+    "uuid": [
+      "41f6eee7-73fd-46d3-8de0-fba928264c13"
+    ],
+    "vid": [
+      7901540
+    ],
+    "view_count": [
+      891
+    ],
+    "search_api_id": [
+      "entity:node/6690036:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/monthly-department-wise-public-grievance-receipts-and-disposals"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2573
+    ],
+    "published_date": [
+      1572861527
+    ],
+    "body:value": [
+      "The Catalog Contains Monthly Department-wise public grievance receipts and disposals through CPGRAMS."
+    ],
+    "changed": [
+      1572948087
+    ],
+    "created": [
+      1572604635
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "CPGRAMS"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Personnel, Public Grievances and Pensions",
+      "Department of Administrative Reforms and Public Grievances (DARPG)"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Grievances"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Grievance",
+      "CPGRAMS"
+    ],
+    "nid": [
+      6690037
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Monthly Department-wise public grievance receipts and disposals"
+    ],
+    "uuid": [
+      "9891bb4a-7f02-444a-b6bc-2691589d9a64"
+    ],
+    "vid": [
+      7901543
+    ],
+    "view_count": [
+      2053
+    ],
+    "search_api_id": [
+      "entity:node/6690037:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/connections-released-under-pmuy-and-beneficiaries-subsidy-amount-transferred-under-dbtl"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1627
+    ],
+    "published_date": [
+      1578379530
+    ],
+    "body:value": [
+      "The catalog contains the data related to Connections released under Pradhan Mantri Ujjwala Yojana (PMUY), and number of Beneficiaries & Subsidy amount transferred under Direct Benefit Transfer of LPG (DBTL)."
+    ],
+    "changed": [
+      1717040855
+    ],
+    "created": [
+      1572959801
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Petroleum and Natural Gas"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Beneficiary",
+      "Benefit",
+      "LPG",
+      "PMUY",
+      "Ujjwala",
+      "DBTL",
+      "PAHAL"
+    ],
+    "nid": [
+      6690161
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Connections released under PMUY, and Beneficiaries & Subsidy amount transferred under DBTL"
+    ],
+    "uuid": [
+      "4fa01599-b4ca-4f24-ac4b-6808368280bd"
+    ],
+    "vid": [
+      7901561
+    ],
+    "view_count": [
+      1043
+    ],
+    "search_api_id": [
+      "entity:node/6690161:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-247"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4761
+    ],
+    "published_date": [
+      1569387059
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 247 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1739781308
+    ],
+    "created": [
+      1568801304
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agricultural",
+      "Agriculture",
+      "Assistance",
+      "Ayush",
+      "birth",
+      "Crime",
+      "crude",
+      "Development",
+      "Electrified",
+      "Farm",
+      "FDI",
+      "Generation",
+      "goods",
+      "gram",
+      "Handloom",
+      "Health",
+      "Honey",
+      "Hospital",
+      "Household",
+      "Hydro",
+      "Import",
+      "Injured",
+      "Institute",
+      "Interest",
+      "Killed",
+      "Labour",
+      "Length",
+      "livelihood",
+      "Mission",
+      "national",
+      "NRLM",
+      "OIL",
+      "Outstanding",
+      "Rehabilitation",
+      "Release",
+      "Production",
+      "PMGSY",
+      "pollution",
+      "Pond",
+      "Power",
+      "progress",
+      "Scheme",
+      "Public",
+      "Road",
+      "Sanctioned",
+      "SCA",
+      "Sector",
+      "station",
+      "Strength",
+      "Subsidy",
+      "Surgery",
+      "Tribal",
+      "Water",
+      "Women",
+      "Facility",
+      "Dispensary",
+      "Credit",
+      "Loan",
+      "Bank",
+      "Vacancy",
+      "Service",
+      "Worker",
+      "Police",
+      "Person",
+      "Tax",
+      "Scholarship",
+      "Cancer",
+      "Highway",
+      "Accident",
+      "Farmer",
+      "Annexure",
+      "PMKSY",
+      "Equity",
+      "Leprosy",
+      "suicide",
+      "Case",
+      "Care",
+      "Waste",
+      "Structure",
+      "Yojana",
+      "Trafficking",
+      "Trainee",
+      "Sadak",
+      "Level",
+      "Allied",
+      "Selection",
+      "Collection",
+      "Helper",
+      "Weaver",
+      "Honour",
+      "Killing",
+      "Recharge",
+      "Spot",
+      "Awas",
+      "Protsahan",
+      "Pending",
+      "Judicial",
+      "PMPRPY",
+      "Paridhan",
+      "Rojgar",
+      "Custody",
+      "AWWs",
+      "AWHs",
+      "Anganwadi Worker",
+      "PMAY(U)",
+      "Procuration",
+      "Scavenger",
+      "IHHLs",
+      "TSS",
+      "CLSS",
+      "RRBs",
+      "RCS",
+      "GST",
+      "ATL",
+      "Disburse",
+      "Amont",
+      "Sinchayee",
+      "Robber"
+    ],
+    "nid": [
+      6675757
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 247"
+    ],
+    "uuid": [
+      "1d4fe423-bb29-4720-a35b-553e0128e125"
+    ],
+    "vid": [
+      13031782
+    ],
+    "view_count": [
+      4227
+    ],
+    "search_api_id": [
+      "entity:node/6675757:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/agriculture-departrment-pmkisan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3509
+    ],
+    "published_date": [
+      1569667801
+    ],
+    "body:value": [
+      "Pradhan Manthri Kisan samman Nidhi- District wise Details as on 27-09-2019 "
+    ],
+    "changed": [
+      1569667826
+    ],
+    "created": [
+      1569649990
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_group_name:name": [
+      "PMKISAN"
+    ],
+    "field_sector:name": [
+      "Agriculture"
+    ],
+    "field_state_department:name": [
+      "Kerala",
+      "Agriculture Department, Kerala"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "pmkisan"
+    ],
+    "nid": [
+      6679881
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "kerala.data.gov.in"
+    ],
+    "title": [
+      "Agriculture Departrment - PMKISAN"
+    ],
+    "uuid": [
+      "8e3b631a-a54d-42a6-a8e7-8001817a4406"
+    ],
+    "vid": [
+      10704476
+    ],
+    "view_count": [
+      2482
+    ],
+    "search_api_id": [
+      "entity:node/6679881:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-indian-bureau-mines"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      817
+    ],
+    "published_date": [
+      1582277255
+    ],
+    "body:value": [
+      "The data refers to the performance of Indian Bureau of Mines (IBM) under various Schemes during Twelfth Five Year Plan and beyond that. Various schemes are Inspection of Mines for Scientific and Systematic mining, mineral conservation and mines environment, Mineral Beneficiation Studies - utilization of low grade and sub-grade ores and analysis of environmental samples, Technological upgradation and Modernization, Collection, processing, dissemination of data on mines and minerals through various publications."
+    ],
+    "changed": [
+      1582277268
+    ],
+    "created": [
+      1581573840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mines"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Indian Bureau of Mines"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "IBM",
+      "mines",
+      "Bureau"
+    ],
+    "nid": [
+      6721405
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of Indian Bureau of Mines"
+    ],
+    "uuid": [
+      "2b6e8f08-0502-4dc4-9eda-2b7df3fc1a46"
+    ],
+    "vid": [
+      7902369
+    ],
+    "view_count": [
+      443
+    ],
+    "search_api_id": [
+      "entity:node/6721405:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

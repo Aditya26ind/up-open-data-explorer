@@ -1,0 +1,4808 @@
+[
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-number-workers-manufacturing-sector-different-statesuts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1370
+    ],
+    "published_date": [
+      1373976355
+    ],
+    "body:value": [
+      "The table presents estimated number of workers in unincorporated non-agricultural in manufacturing sector for each states/UTs by sector and enterprise type. The percentage share indicated in column 11 has been calculated for all enterprises in the combined sector and the table has been ranked on the basis of descending order."
+    ],
+    "changed": [
+      1441691460
+    ],
+    "created": [
+      1373916300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Unorganized Sector Workers",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employment",
+      "manufacturing",
+      "Rural",
+      "Urban",
+      "Enterprise",
+      "Account",
+      "Unorganized"
+    ],
+    "nid": [
+      87787
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated number of workers in manufacturing sector in different States/UTs"
+    ],
+    "uuid": [
+      "7eee1415-0549-4cdb-ad99-f58230ed8c85"
+    ],
+    "vid": [
+      7846846
+    ],
+    "view_count": [
+      1228
+    ],
+    "search_api_id": [
+      "entity:node/87787:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-number-workers-other-services-sector-different-statesuts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1132
+    ],
+    "published_date": [
+      1373976388
+    ],
+    "body:value": [
+      "The table presents estimated number of workers in unincorporated non-agricultural in other services sector for each states/UTs by sector and enterprise type. The percentage share indicated in column 11 has been calculated for all enterprises in the combined sector and the table has been ranked on the basis of decreasing percentage share."
+    ],
+    "changed": [
+      1441691462
+    ],
+    "created": [
+      1373916120
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Unorganized Sector Workers",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Rural",
+      "trade",
+      "Urban",
+      "Enterprise",
+      "Account"
+    ],
+    "nid": [
+      87789
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated number of workers in other services sector in different States/UTs"
+    ],
+    "uuid": [
+      "24e77772-f07e-40f0-8b7c-8e8c7ce70bd8"
+    ],
+    "vid": [
+      7846854
+    ],
+    "view_count": [
+      937
+    ],
+    "search_api_id": [
+      "entity:node/87789:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-number-workers-trading-sector-different-statesuts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      939
+    ],
+    "published_date": [
+      1373976423
+    ],
+    "body:value": [
+      "The table presents estimated number of workers in unincorporated non-agricultural in trading sector for each states/UTs by sector and enterprise type. The percentage share indicated in column 11 has been calculated for all enterprises in the combined sector and the table has been ranked on the basis of decreasing percentage share."
+    ],
+    "changed": [
+      1441691464
+    ],
+    "created": [
+      1373916000
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Unorganized Sector Workers",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Employment",
+      "Rural",
+      "Urban",
+      "Enterprise",
+      "Uncorporated",
+      "Unorganized",
+      "Trading"
+    ],
+    "nid": [
+      87791
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated number of workers in trading sector in different States/UTs"
+    ],
+    "uuid": [
+      "44e3c03a-ccf7-4518-a96f-2b4bba59eb6b"
+    ],
+    "vid": [
+      7846862
+    ],
+    "view_count": [
+      788
+    ],
+    "search_api_id": [
+      "entity:node/87791:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-population-wild-elephants"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3061
+    ],
+    "published_date": [
+      1365011703
+    ],
+    "body:value": [
+      "The data refers to region-wise, state-wise data on estimated population of wild elephants for the period 2002 onwards."
+    ],
+    "changed": [
+      1506517305
+    ],
+    "created": [
+      1364881380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "environment",
+      "estimated",
+      "Forest",
+      "wild",
+      "Elephant"
+    ],
+    "nid": [
+      87793
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated Population Of Wild Elephants"
+    ],
+    "uuid": [
+      "5b950487-191d-498f-9c48-60e62beb2500"
+    ],
+    "vid": [
+      7846871
+    ],
+    "view_count": [
+      2971
+    ],
+    "search_api_id": [
+      "entity:node/87793:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-proportion-supplementary-nutrition-funds-spent-children"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      782
+    ],
+    "published_date": [
+      1375250542
+    ],
+    "body:value": [
+      "The data refers to Estimated Proportion of SN funds spent on children (in %). It provides the state-wise details regarding actual expenditure on children's supplementary nutrition, expenditure on children's supplementary nutrition as percentage to total expenditure on supplementary nutrition and estimated value of supplementary nutrition reached/ delivered to children as percentage to actual expenditure on children's supplementary nutrition in 2008-09."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "expenditure",
+      "Integrated",
+      "Women",
+      "Service",
+      "Anganwadi",
+      "AWC",
+      "Mother",
+      "Pregnant",
+      "Lactating"
+    ],
+    "nid": [
+      87795
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated Proportion of supplementary nutrition funds spent on children (in %)"
+    ],
+    "uuid": [
+      "ee532e9a-5ac8-4a53-b2a4-7fed086b209d"
+    ],
+    "vid": [
+      7846876
+    ],
+    "view_count": [
+      711
+    ],
+    "search_api_id": [
+      "entity:node/87795:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-renewable-energy-potential"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4598
+    ],
+    "published_date": [
+      1370943421
+    ],
+    "body:value": [
+      "The data refers to details regarding the estimated potential for renewable energy in the country from solar, wind, small hydro and biomass."
+    ],
+    "changed": [
+      1662022787
+    ],
+    "created": [
+      1370859900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Renewable Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of New and Renewable Energy"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biomass",
+      "Energy",
+      "estimated",
+      "Hydro",
+      "Solar",
+      "Wind",
+      "Renewable",
+      "Potential"
+    ],
+    "nid": [
+      87797
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated Renewable Energy Potential"
+    ],
+    "uuid": [
+      "5c888fe5-fefa-4270-9731-f1ff37570da3"
+    ],
+    "vid": [
+      7846880
+    ],
+    "view_count": [
+      3962
+    ],
+    "search_api_id": [
+      "entity:node/87797:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-requirements-additional-vessels-and-investment"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      681
+    ],
+    "published_date": [
+      1370339441
+    ],
+    "body:value": [
+      "The data refers to an overview of estimated requirements of additional vessels and investment."
+    ],
+    "changed": [
+      1436419230
+    ],
+    "created": [
+      1370318940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Water ways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Shipping",
+      "Vessel"
+    ],
+    "nid": [
+      87799
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated Requirements of Additional Vessels And Investment"
+    ],
+    "uuid": [
+      "4336c483-f40f-4bdb-986e-8efa44d08751"
+    ],
+    "vid": [
+      7846883
+    ],
+    "view_count": [
+      609
+    ],
+    "search_api_id": [
+      "entity:node/87799:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-reserve-and-installed-capacity-various-sources-energies"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1773
+    ],
+    "published_date": [
+      1364614943
+    ],
+    "body:value": [
+      "Get the data regarding the estimated reserve and installed capacity of various sources of energies."
+    ],
+    "changed": [
+      1441693246
+    ],
+    "created": [
+      1364472180
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Coal",
+      "crude",
+      "electricity",
+      "Energy",
+      "Gas",
+      "Lignite",
+      "OIL",
+      "Power",
+      "Renewable",
+      "Natural"
+    ],
+    "nid": [
+      87801
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated Reserve and Installed Capacity of Various Sources of Energies"
+    ],
+    "uuid": [
+      "1908eed8-6ba8-4a0d-83d4-1467996fb727"
+    ],
+    "vid": [
+      7846902
+    ],
+    "view_count": [
+      1678
+    ],
+    "search_api_id": [
+      "entity:node/87801:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-stock-engineering-degree-holders-working-age-group-selected-disciplines"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1333
+    ],
+    "published_date": [
+      1364834995
+    ],
+    "body:value": [
+      "The table presents estimated stock of engineering degree holders in the working age group by selected disciplines since 1994 onwards. The data are taken from the National Technical Manpower Information System (NTMIS) and AICTE, Govt. of India."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Human Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "Discipline",
+      "Education",
+      "research",
+      "Higher"
+    ],
+    "nid": [
+      87803
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated Stock of Engineering Degree Holders In The Working Age Group By Selected Disciplines"
+    ],
+    "uuid": [
+      "002a8b2b-08a7-4815-9184-b437b4d15592"
+    ],
+    "vid": [
+      7846907
+    ],
+    "view_count": [
+      1262
+    ],
+    "search_api_id": [
+      "entity:node/87803:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-stock-science-and-technology-personnel"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1155
+    ],
+    "published_date": [
+      1365016101
+    ],
+    "body:value": [
+      "The data refers to estimated stock of Science and Technology personnel. The data are taken from the Institute of Applied Manpower Research (IAMR), New Delhi."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Human Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "personnel",
+      "Science",
+      "Technology"
+    ],
+    "nid": [
+      87805
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated Stock of Science and Technology Personnel"
+    ],
+    "uuid": [
+      "02dd8b5a-756a-449d-ad82-1caa33cf621a"
+    ],
+    "vid": [
+      7846913
+    ],
+    "view_count": [
+      1019
+    ],
+    "search_api_id": [
+      "entity:node/87805:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimates-components-nutritional-status-children-aged-7-months-60-months-icds-vs-non-icds"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1313
+    ],
+    "published_date": [
+      1375449578
+    ],
+    "body:value": [
+      "The data refers to estimates of components nutritional status of children aged 7 months-60 months (ICDS v/s Non ICDS). It gives state-wise details regarding ICDS beneficiaries- Normal, Grade 1, Grade 2, Grade 2, Grade 3 and Grade 4, as well as for non-ICDS beneficiaries."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Scheme"
+    ],
+    "nid": [
+      87807
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimates of Components Nutritional Status of Children Aged 7 Months-60 Months (ICDS v/s Non ICDS)"
+    ],
+    "uuid": [
+      "bd767d3b-3422-4071-8fbd-cf1f9178ab2f"
+    ],
+    "vid": [
+      7846919
+    ],
+    "view_count": [
+      1266
+    ],
+    "search_api_id": [
+      "entity:node/87807:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimates-components-health-check-and-some-other-selected-indexes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      937
+    ],
+    "published_date": [
+      1375449569
+    ],
+    "body:value": [
+      "The data refers to Estimates of Components of Health Check-up and Some Other Selected Indexes. It gives state-wise details regarding factors such as Child weighed at birth, Initiated breastfeeding within one hour after birth, child had no diarrhoea, households using iodised salt, households using boiling water during illness, households aware of any method to delay or avoid pregnancy and households aware of measures to prevent anemia."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Check-up",
+      "child",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Scheme"
+    ],
+    "nid": [
+      87809
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimates of Components of Health Check-up and Some Other Selected Indexes"
+    ],
+    "uuid": [
+      "938c89c0-ef2e-4b2e-b574-42874c5306d4"
+    ],
+    "vid": [
+      7846925
+    ],
+    "view_count": [
+      804
+    ],
+    "search_api_id": [
+      "entity:node/87809:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimates-components-nhe-child-index-percentage-mothers-followed-advices-given-aww"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      674
+    ],
+    "published_date": [
+      1375449563
+    ],
+    "body:value": [
+      "The data refers to Estimates of Components of NHE-Child Index and Percentage of Mothers Followed the Advices Given by AWW on the Components of Child Care. The components of child care are - taking care and monitoring of child's growth, immunization, breast feeding, colostrum feeding, treatment of diarrhoea, preparation of nutritious food, education of child, Cleanliness and hygiene."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Education",
+      "Health",
+      "ICDS",
+      "Integrated",
+      "Nutrition",
+      "Scheme",
+      "Mother",
+      "NHE"
+    ],
+    "nid": [
+      87811
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimates of Components of NHE-Child Index: Percentage of Mothers Followed the Advices Given by AWW on the Following Components of Child Care"
+    ],
+    "uuid": [
+      "2dfd07f5-8fec-4538-b6cb-887a0ad30604"
+    ],
+    "vid": [
+      7846931
+    ],
+    "view_count": [
+      659
+    ],
+    "search_api_id": [
+      "entity:node/87811:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimates-egg-production"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4136
+    ],
+    "published_date": [
+      1387341521
+    ],
+    "body:value": [
+      "The data refers to information on year and State/UT-wise Egg Production in India."
+    ],
+    "changed": [
+      1434350428
+    ],
+    "created": [
+      1387278060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Egg Production"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Dairying",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Production",
+      "egg"
+    ],
+    "nid": [
+      87813
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimates of Egg Production"
+    ],
+    "uuid": [
+      "3e55179c-362f-41df-80ac-ce7106293168"
+    ],
+    "vid": [
+      7846941
+    ],
+    "view_count": [
+      3635
+    ],
+    "search_api_id": [
+      "entity:node/87813:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimates-milk-production-exoticcrossbred-cows"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2350
+    ],
+    "published_date": [
+      1387170436
+    ],
+    "body:value": [
+      "Get data on State/UT-wise Milk Production by Exotic/Crossbred Cows during the year. It further gives details regarding number of animals in Milk, Average yield per animal in Milk and Milk Production."
+    ],
+    "changed": [
+      1434431864
+    ],
+    "created": [
+      1386931260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Milk Production"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Dairying",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Cow",
+      "Crossbred",
+      "Exotic",
+      "Yield",
+      "Animal"
+    ],
+    "nid": [
+      87815
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimates of Milk Production by Exotic/Crossbred Cows"
+    ],
+    "uuid": [
+      "ee8525aa-264c-45c7-a3ad-a3f9f546e392"
+    ],
+    "vid": [
+      7846949
+    ],
+    "view_count": [
+      2162
+    ],
+    "search_api_id": [
+      "entity:node/87815:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimates-production-and-capita-availability-egg"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3485
+    ],
+    "published_date": [
+      1387195535
+    ],
+    "body:value": [
+      "Poultry development is one of the important activities in livestock sector. Get data on Year-wise Eggs Production and Per Capita Availability of Eggs. "
+    ],
+    "changed": [
+      1434437493
+    ],
+    "created": [
+      1387011240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Egg Production"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Dairying",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "Poultry"
+    ],
+    "nid": [
+      87817
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimates of Production and Per Capita Availability of Egg"
+    ],
+    "uuid": [
+      "e153176e-398b-4ad1-bcdc-995d955dbbf6"
+    ],
+    "vid": [
+      7846959
+    ],
+    "view_count": [
+      3327
+    ],
+    "search_api_id": [
+      "entity:node/87817:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimates-production-and-capita-availability-milk"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2820
+    ],
+    "published_date": [
+      1384767298
+    ],
+    "body:value": [
+      "The data refers to information about year wise Production and Per Capita Availability of Milk in India."
+    ],
+    "changed": [
+      1434523513
+    ],
+    "created": [
+      1384426200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Milk Production"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capita",
+      "Milk",
+      "Production"
+    ],
+    "nid": [
+      87819
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimates of Production and Per Capita Availability of Milk"
+    ],
+    "uuid": [
+      "e13754fd-96ce-4140-9f93-bbdee9c6cef7"
+    ],
+    "vid": [
+      7846968
+    ],
+    "view_count": [
+      2596
+    ],
+    "search_api_id": [
+      "entity:node/87819:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimates-tree-and-mangrove-cover"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1584
+    ],
+    "published_date": [
+      1365011709
+    ],
+    "body:value": [
+      "The data refers to State-wise (2007 onwards), All India (2001 onwards) data on estimates of tree and mangrove cover w.r.t All India geographical area."
+    ],
+    "changed": [
+      1506517300
+    ],
+    "created": [
+      1364881380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "cover",
+      "environment",
+      "Forest",
+      "Geographical",
+      "mangrove",
+      "Tree"
+    ],
+    "nid": [
+      87821
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimates Of Tree And Mangrove Cover"
+    ],
+    "uuid": [
+      "9b274c62-2368-443b-a3f1-a85651f7529f"
+    ],
+    "vid": [
+      7846975
+    ],
+    "view_count": [
+      1469
+    ],
+    "search_api_id": [
+      "entity:node/87821:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimates-urban-transport-investments-high-powered-expert-committee-hpec"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1336
+    ],
+    "published_date": [
+      1369297870
+    ],
+    "body:value": [
+      "High Powered Expert Committee (HPEC) under the Chairpersonship of Dr. Isher Judge Ahluwalia was constituted for estimating the investment requirements for urban infrastructure services. The estimates are worked out by committee at 2009-10 prices and by using the benchmarks of services standard developed by MOUD."
+    ],
+    "changed": [
+      1436419248
+    ],
+    "created": [
+      1369229340
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Urban Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "committee",
+      "HPEC",
+      "Infrastructure",
+      "MOUD",
+      "Powered",
+      "Expert"
+    ],
+    "nid": [
+      87823
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimates Of Urban Transport Investments By High Powered Expert Committee (HPEC)"
+    ],
+    "uuid": [
+      "8e65f515-2fa7-4c6b-8915-21b3e75142f6"
+    ],
+    "vid": [
+      7846977
+    ],
+    "view_count": [
+      1235
+    ],
+    "search_api_id": [
+      "entity:node/87823:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimates-wastelands-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1831
+    ],
+    "published_date": [
+      1365011770
+    ],
+    "body:value": [
+      "The data refers to data on estimates of wastelands in India, comprising Non-forest Degraded area and Forest Degraded area. it also includes estimates of non-forest wastelands in India comprising Saline and Alkaline lands, Wind eroded area and Water eroded area."
+    ],
+    "changed": [
+      1462162879
+    ],
+    "created": [
+      1364881380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Enviroment",
+      "Forest",
+      "land",
+      "Wind",
+      "Water",
+      "sale",
+      "Alkaline",
+      "Degrade",
+      "Eroded"
+    ],
+    "nid": [
+      87825
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimates of Wastelands in India"
+    ],
+    "uuid": [
+      "32396554-68d0-4b8e-97ec-73247fd43ebf"
+    ],
+    "vid": [
+      7846988
+    ],
+    "view_count": [
+      1719
+    ],
+    "search_api_id": [
+      "entity:node/87825:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/exchange-rate-rupee-vis-vis-selected-currencies-world"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9909
+    ],
+    "published_date": [
+      1366895512
+    ],
+    "body:value": [
+      "Get the data regarding to details on exchange rate of rupee vis-a vis selected currencies (US Dollar, Pound Sterling, Euro, Yen, Canadian Dollar and Brazillian Dollar) of the world."
+    ],
+    "changed": [
+      1599032378
+    ],
+    "created": [
+      1366887900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Exchange, Coinage And Currency"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Coinage",
+      "Currency",
+      "Dollar",
+      "Euro",
+      "SDR",
+      "Yen",
+      "Special",
+      "Right",
+      "US",
+      "Brazillian",
+      "Canadian",
+      "Pound",
+      "Sterling",
+      "Drawing"
+    ],
+    "nid": [
+      87827
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Exchange Rate of Rupee vis-a-vis Selected Currencies of the World"
+    ],
+    "uuid": [
+      "3764a21c-6b89-4978-af62-92697061bf85"
+    ],
+    "vid": [
+      7847007
+    ],
+    "view_count": [
+      9683
+    ],
+    "search_api_id": [
+      "entity:node/87827:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-ministriesdepartments"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      848
+    ],
+    "published_date": [
+      1371471155
+    ],
+    "body:value": [
+      "It provides the details of Central Plan."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1370589960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Union Budget 2013-14 - Expenditure Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "finance",
+      "Provision"
+    ],
+    "nid": [
+      87829
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure by Ministries/Departments"
+    ],
+    "uuid": [
+      "7ec0adc8-f759-48ca-9753-6d253d05d24b"
+    ],
+    "vid": [
+      7847011
+    ],
+    "view_count": [
+      720
+    ],
+    "search_api_id": [
+      "entity:node/87829:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-incurred-pay-and-allowances-civilian-employees-central-ministriesdepartments"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1519
+    ],
+    "published_date": [
+      1365011250
+    ],
+    "body:value": [
+      "The data refers to department wise expenditure incurred on pay and allowances on civilian employees by the central ministries/departments."
+    ],
+    "changed": [
+      1602755820
+    ],
+    "created": [
+      1364967780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Department",
+      "Employee",
+      "Employment",
+      "expenditure",
+      "Labour",
+      "Ministry",
+      "pay",
+      "Travel",
+      "Allowance",
+      "Civilian",
+      "Incurred"
+    ],
+    "nid": [
+      87831
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure Incurred On Pay And Allowances On Civilian Employees By The Central Ministries/Departments"
+    ],
+    "uuid": [
+      "f5898aaa-f039-4e99-bc5f-60bfd9417a53"
+    ],
+    "vid": [
+      7847019
+    ],
+    "view_count": [
+      1341
+    ],
+    "search_api_id": [
+      "entity:node/87831:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-union-territories-without-legislature"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1112
+    ],
+    "published_date": [
+      1371471298
+    ],
+    "body:value": [
+      "It provides details of expenditure of Union Territories without legislature viz. Andaman and Nicobar Islands."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1370589960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Union Budget 2013-14 - Expenditure Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "finance",
+      "Provision"
+    ],
+    "nid": [
+      87833
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure of Union Territories without Legislature"
+    ],
+    "uuid": [
+      "0d2f72cd-15bf-43d5-9386-1409ec074bed"
+    ],
+    "vid": [
+      7847023
+    ],
+    "view_count": [
+      1030
+    ],
+    "search_api_id": [
+      "entity:node/87833:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-agriculture-research-and-education-during-tenth-and-eleventh-plan-period"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1141
+    ],
+    "published_date": [
+      1377502996
+    ],
+    "body:value": [
+      "The data refers to expenditure incurred towards agricultural research and education during Tenth and Eleventh plan period."
+    ],
+    "changed": [
+      1436419087
+    ],
+    "created": [
+      1377091260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Agricultural Research & Extension"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "expenditure",
+      "research"
+    ],
+    "nid": [
+      87835
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure on Agriculture Research and Education during Tenth and Eleventh plan period"
+    ],
+    "uuid": [
+      "f1d27527-3c78-4933-800c-278054a3699a"
+    ],
+    "vid": [
+      7847029
+    ],
+    "view_count": [
+      974
+    ],
+    "search_api_id": [
+      "entity:node/87835:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-education-centre-and-state-governments"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3034
+    ],
+    "published_date": [
+      1364835207
+    ],
+    "body:value": [
+      "The table presents expenditure on education by Centre and State governments. The data are taken from the publication - Analysis of Budgeted Expenditure on Education, Department of Education, MHRD."
+    ],
+    "changed": [
+      1426768768
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Human Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "Central",
+      "Education",
+      "expenditure",
+      "Government"
+    ],
+    "nid": [
+      87837
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure on Education By Centre And State Governments"
+    ],
+    "uuid": [
+      "1671a85f-f01f-4f71-b957-eb6e13c0f04e"
+    ],
+    "vid": [
+      7847041
+    ],
+    "view_count": [
+      2871
+    ],
+    "search_api_id": [
+      "entity:node/87837:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-research-and-development-central-ministries-departments-other-major-scientific"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1167
+    ],
+    "published_date": [
+      1364923490
+    ],
+    "body:value": [
+      "The table presents data on R&D expenditure by central ministries/ departments other than Major Scientific Agencies in the country. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India."
+    ],
+    "changed": [
+      1426852035
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Financial Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Economic",
+      "Ministry",
+      "Socio"
+    ],
+    "nid": [
+      87839
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure On Research And Development By Central Ministries/ Departments Other Than Major Scientific Agencies"
+    ],
+    "uuid": [
+      "56c9ac4d-9f43-4675-a34a-2494b47b2733"
+    ],
+    "vid": [
+      7847051
+    ],
+    "view_count": [
+      1090
+    ],
+    "search_api_id": [
+      "entity:node/87839:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-research-and-development-cooperative-research-associations"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1126
+    ],
+    "published_date": [
+      1365320067
+    ],
+    "body:value": [
+      "The table presents data on research and development expenditure by cooperative research associations in the country from 2002-03 to 2005-06. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India."
+    ],
+    "changed": [
+      1426768765
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Financial Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "expenditure",
+      "research",
+      "Cooperative",
+      "Association"
+    ],
+    "nid": [
+      87841
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure On Research And Development By Cooperative Research Associations"
+    ],
+    "uuid": [
+      "7b882274-0793-4051-b411-c3a32f43f9bf"
+    ],
+    "vid": [
+      7847061
+    ],
+    "view_count": [
+      1058
+    ],
+    "search_api_id": [
+      "entity:node/87841:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-research-and-development-field-science"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4787
+    ],
+    "published_date": [
+      1365317631
+    ],
+    "body:value": [
+      "The table presents data on research and development expenditure by field of science. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Financial Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Development",
+      "Engineering",
+      "Group",
+      "Industry",
+      "Medical",
+      "research",
+      "Private",
+      "Public",
+      "Technology",
+      "Social",
+      "Natural"
+    ],
+    "nid": [
+      87843
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure on Research And Development By Field of Science"
+    ],
+    "uuid": [
+      "72a5e4bc-a2c0-42a0-bb36-92f259f8441a"
+    ],
+    "vid": [
+      7847070
+    ],
+    "view_count": [
+      4652
+    ],
+    "search_api_id": [
+      "entity:node/87843:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-research-and-development-industry-groups-private-sector"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2714
+    ],
+    "published_date": [
+      1365320555
+    ],
+    "body:value": [
+      "The table presents data on R&D expenditure by industry groups for private sector. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India."
+    ],
+    "changed": [
+      1426854787
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Financial Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "Group",
+      "research"
+    ],
+    "nid": [
+      87846
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure On Research And Development By Industry Groups For Private Sector"
+    ],
+    "uuid": [
+      "34dfbaec-fc99-4031-933f-2169003625fd"
+    ],
+    "vid": [
+      7847087
+    ],
+    "view_count": [
+      2560
+    ],
+    "search_api_id": [
+      "entity:node/87846:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-research-and-development-industry-groups-public-sector"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4064
+    ],
+    "published_date": [
+      1365320154
+    ],
+    "body:value": [
+      "The table presents data on research and development expenditure by industry groups for public sector. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India."
+    ],
+    "changed": [
+      1426768785
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Financial Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "Group",
+      "research"
+    ],
+    "nid": [
+      87849
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure On Research And Development By Industry Groups For Public Sector"
+    ],
+    "uuid": [
+      "455fef6a-cac0-4a48-81a4-6e4453cc36c3"
+    ],
+    "vid": [
+      7847102
+    ],
+    "view_count": [
+      3928
+    ],
+    "search_api_id": [
+      "entity:node/87849:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-research-and-development-major-scientific-agencies"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1291
+    ],
+    "published_date": [
+      1364923656
+    ],
+    "body:value": [
+      "The table presents data on R&D expenditure by major scientific agencies in the country since 1958-59 onwards. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India."
+    ],
+    "changed": [
+      1426852035
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Financial Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agency",
+      "Development",
+      "expenditure",
+      "research",
+      "Scientific"
+    ],
+    "nid": [
+      87852
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure On Research and Development By Major Scientific Agencies"
+    ],
+    "uuid": [
+      "586bba36-9319-4aaf-bdf1-c1c06183169b"
+    ],
+    "vid": [
+      7847112
+    ],
+    "view_count": [
+      1171
+    ],
+    "search_api_id": [
+      "entity:node/87852:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-research-and-development-objectives"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3060
+    ],
+    "published_date": [
+      1365320332
+    ],
+    "body:value": [
+      "The table presents data on R&D expenditure by objectives. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India."
+    ],
+    "changed": [
+      1426680250
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Financial Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "Industry",
+      "Objective",
+      "Private",
+      "Public"
+    ],
+    "nid": [
+      87854
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure On Research And Development By Objectives"
+    ],
+    "uuid": [
+      "2f443024-cc2f-4ab3-b03d-1391321fbbd0"
+    ],
+    "vid": [
+      7847127
+    ],
+    "view_count": [
+      2898
+    ],
+    "search_api_id": [
+      "entity:node/87854:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-research-and-development-public-joint-sector-undertakings"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1431
+    ],
+    "published_date": [
+      1365320283
+    ],
+    "body:value": [
+      "The table presents data on R&D expenditure by Public or Joint Sector Undertakings. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India."
+    ],
+    "changed": [
+      1426768993
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Financial Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Department",
+      "Ministry",
+      "sale",
+      "Undertaking",
+      "Turnover"
+    ],
+    "nid": [
+      87857
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure On Research And Development By Public / Joint Sector Undertakings"
+    ],
+    "uuid": [
+      "f6c3000c-4183-4652-8349-7fafa8350792"
+    ],
+    "vid": [
+      7847137
+    ],
+    "view_count": [
+      1317
+    ],
+    "search_api_id": [
+      "entity:node/87857:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-research-and-development-state-governments"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1661
+    ],
+    "published_date": [
+      1365320117
+    ],
+    "body:value": [
+      "The table presents data on R&D expenditure by state governments in the country. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India."
+    ],
+    "changed": [
+      1427114772
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Financial Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "expenditure",
+      "research"
+    ],
+    "nid": [
+      87859
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure On Research And Development By State Governments"
+    ],
+    "uuid": [
+      "087408a1-baa1-4fe1-a6fb-11b2d527e262"
+    ],
+    "vid": [
+      7847147
+    ],
+    "view_count": [
+      1383
+    ],
+    "search_api_id": [
+      "entity:node/87859:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditures-major-interventions-total-expenditure-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      458
+    ],
+    "published_date": [
+      1382682212
+    ],
+    "body:value": [
+      "The data refers to details of Expenditures on Major Interventions in the year 2006-07 (% of Total Expenditure). It provides details of percentage of Expenditure to Allocation and percentage of Expenditure to Released Funds. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission in eleven states and two union territories for 'Evaluation Report On Sarva Shiksha Abhiyan, 2010'. The reference period for the study was 2003 to 2007."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1382600580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Allocation",
+      "expenditure",
+      "Fund",
+      "Release",
+      "Intervention"
+    ],
+    "nid": [
+      87861
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditures on Major Interventions (% of Total Expenditure) - Based on Sample Survey"
+    ],
+    "uuid": [
+      "4b0206e4-26a5-473d-a367-26c21f9264e8"
+    ],
+    "vid": [
+      7847151
+    ],
+    "view_count": [
+      441
+    ],
+    "search_api_id": [
+      "entity:node/87861:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/export-growth-and-share-world-exports-india-and-other-countries"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9167
+    ],
+    "published_date": [
+      1367555944
+    ],
+    "body:value": [
+      "Export Value, Export growth rate, and share in world exports for India and other countries have been furnished in the data. Exporting is the act of producing goods or services in one country and selling or trading them to another country."
+    ],
+    "changed": [
+      1602755807
+    ],
+    "created": [
+      1367407320
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Import Export"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "All",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Export",
+      "Growth",
+      "World",
+      "Rate"
+    ],
+    "nid": [
+      87863
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Export Growth and Share in World Exports for India and Other Countries"
+    ],
+    "uuid": [
+      "0726f77d-8f99-4291-887a-ea787beee43d"
+    ],
+    "vid": [
+      7847177
+    ],
+    "view_count": [
+      8070
+    ],
+    "search_api_id": [
+      "entity:node/87863:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/export-horticulture-produce-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8019
+    ],
+    "published_date": [
+      1365751543
+    ],
+    "body:value": [
+      "The data refers to data on Export of Horticulture Produce in India from 2007-08 to 2010-11 in Floriculture & Seed, Fresh Fruits & Vegetables and Processed Fruits & Vegetables category."
+    ],
+    "changed": [
+      1506517641
+    ],
+    "created": [
+      1365683460
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Horticulture"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Horticulture",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Dried",
+      "Floriculture",
+      "Fresh",
+      "Mango",
+      "Onion",
+      "Preserved",
+      "Seed",
+      "Vegetable",
+      "Fruit",
+      "Pulp",
+      "Nut",
+      "Grap",
+      "Processed",
+      "Walnut"
+    ],
+    "nid": [
+      87865
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Export of Horticulture Produce in India"
+    ],
+    "uuid": [
+      "574b8e41-77f9-44cb-856b-2dc5bbc2d55c"
+    ],
+    "vid": [
+      7847184
+    ],
+    "view_count": [
+      7708
+    ],
+    "search_api_id": [
+      "entity:node/87865:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/export-ores-and-minerals"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5360
+    ],
+    "published_date": [
+      1367487394
+    ],
+    "body:value": [
+      "Minerals are the naturally occurring substances of metals present in the earths crust are called Mineral. And the minerals which can be used to obtain the metal profitably are called ores. The data refers to export of Ores and Minerals (excluding fuel, atomic and minor minerals)."
+    ],
+    "changed": [
+      1582279056
+    ],
+    "created": [
+      1367399820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mines"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Indian Bureau of Mines"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "mineral",
+      "Bureau",
+      "Mine"
+    ],
+    "nid": [
+      87877
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Export of Ores and Minerals"
+    ],
+    "uuid": [
+      "a42a9f63-0afd-491c-875a-0956f47b404e"
+    ],
+    "vid": [
+      7847253
+    ],
+    "view_count": [
+      4195
+    ],
+    "search_api_id": [
+      "entity:node/87877:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/export-silk-goods-and-silk-waste"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3100
+    ],
+    "published_date": [
+      1365773979
+    ],
+    "body:value": [
+      "The data describes about to quantity and value of export of Silk Goods (such as Mulberry, Tasar, Mixed Blended) and Silk Waste."
+    ],
+    "changed": [
+      1602760732
+    ],
+    "created": [
+      1365762720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Sericulture"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Textiles",
+      "Sericulture",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Mulberry",
+      "Quantity",
+      "Tasar",
+      "Blended",
+      "Yarn",
+      "Mixed",
+      "Raw"
+    ],
+    "nid": [
+      87879
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Export of Silk Goods and Silk Waste"
+    ],
+    "uuid": [
+      "4d4c9a65-724d-490b-98b9-950b3fe4ad71"
+    ],
+    "vid": [
+      7847274
+    ],
+    "view_count": [
+      2916
+    ],
+    "search_api_id": [
+      "entity:node/87879:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/exports-metals-and-alloys"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1513
+    ],
+    "published_date": [
+      1367693722
+    ],
+    "body:value": [
+      "Analloyis amaterialcomposed of two or moremetalsor a metal and anonmetal and metal is a material  that is typically hard, opaque, shiny, and has good electrical and thermal conductivity. Here the data refers to quantity and value of exports of Metals and Alloys."
+    ],
+    "changed": [
+      1582278650
+    ],
+    "created": [
+      1367400360
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mines"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Indian Bureau of Mines"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Export",
+      "Metal",
+      "Alloy"
+    ],
+    "nid": [
+      87881
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Exports Of Metals And Alloys"
+    ],
+    "uuid": [
+      "2946b6b4-dfe5-4a74-8a6e-4ffe065ad61f"
+    ],
+    "vid": [
+      7847282
+    ],
+    "view_count": [
+      1289
+    ],
+    "search_api_id": [
+      "entity:node/87881:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-budgetary-support-education-sector-twelfth-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      984
+    ],
+    "published_date": [
+      1369309487
+    ],
+    "body:value": [
+      "The data refers to the Gross budgetary support for various programmes/ schemes undertaken by Department of School and Secondary Education and Department of Higher Education in the Twelfth Plan."
+    ],
+    "changed": [
+      1436419242
+    ],
+    "created": [
+      1369234260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Higher Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Plan",
+      "School",
+      "secondary",
+      "Higher"
+    ],
+    "nid": [
+      88179
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross Budgetary Support For Education Sector In The Twelfth Plan"
+    ],
+    "uuid": [
+      "33b1ab5b-b61e-4d8f-afa0-c36f71f7477f"
+    ],
+    "vid": [
+      7848595
+    ],
+    "view_count": [
+      895
+    ],
+    "search_api_id": [
+      "entity:node/88179:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-capital-formation-gcf-industry"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4599
+    ],
+    "published_date": [
+      1380523627
+    ],
+    "body:value": [
+      "The data refers to information about the Gross Capital Formation (GCF) in different segments of Industry mining, manufacturing and construction from 2004-05 to 2010-11 for the 12th Five-Year Plan (2012-17). The data has been sourced from the Economic Survey 201112."
+    ],
+    "changed": [
+      1436419084
+    ],
+    "created": [
+      1380436260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Industries"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Construction",
+      "GCF",
+      "Manufactur",
+      "CapitalFormation"
+    ],
+    "nid": [
+      88181
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross Capital Formation (GCF) in Industry"
+    ],
+    "uuid": [
+      "1ee89177-1906-422b-ae07-fb21b3bce1d4"
+    ],
+    "vid": [
+      7848599
+    ],
+    "view_count": [
+      4447
+    ],
+    "search_api_id": [
+      "entity:node/88181:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-capital-formation-budgetary-resources-central-government"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1488
+    ],
+    "published_date": [
+      1372247249
+    ],
+    "body:value": [
+      "The data refers to the Gross Capital Formation from Budgetary Resources of the Central Government of India. It gives details of Gross capital formation by the Central Government and Gross financial assistance for capital formation."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Budgetary Transactions"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Asset",
+      "commercial",
+      "Economic",
+      "finance",
+      "Plan",
+      "Stock",
+      "Survey",
+      "Fixed",
+      "Foodgrain",
+      "Work",
+      "Undertaking",
+      "Transactions",
+      "Fertilisere",
+      "Departmental"
+    ],
+    "nid": [
+      88183
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross Capital Formation from Budgetary Resources of the Central Government"
+    ],
+    "uuid": [
+      "4da3d355-52ff-4ed3-89c9-fc6604e0ca43"
+    ],
+    "vid": [
+      7848605
+    ],
+    "view_count": [
+      1383
+    ],
+    "search_api_id": [
+      "entity:node/88183:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-capital-formulation-agriculture-forestry-and-fishing-agriculture-and-allied"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1579
+    ],
+    "published_date": [
+      1377506207
+    ],
+    "body:value": [
+      "The data refers to details on Gross Capital Formulation in Agriculture, Forestry and Fishing in the Agriculture and Allied Activities Sector during tenth and eleventh five year plan period at 2004-05 prices."
+    ],
+    "changed": [
+      1436419087
+    ],
+    "created": [
+      1377089400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Capital",
+      "Fishing",
+      "Formation",
+      "GCF",
+      "Gross"
+    ],
+    "nid": [
+      88185
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross Capital Formulation in Agriculture, Forestry and Fishing in the Agriculture and Allied Activities Sector during tenth and eleventh five year plan period"
+    ],
+    "uuid": [
+      "5f81b2a3-a11e-4c7c-bf5d-242b1ce16593"
+    ],
+    "vid": [
+      7848611
+    ],
+    "view_count": [
+      1532
+    ],
+    "search_api_id": [
+      "entity:node/88185:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-direct-premium-income-public-sector-general-insurance-companies"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4161
+    ],
+    "published_date": [
+      1368088525
+    ],
+    "body:value": [
+      "Get the data about details on gross direct premium income (GDP) of public sector general insurance companies. The premium income included in revenue account for fire, marine and miscellaneous in India and outside India."
+    ],
+    "changed": [
+      1506516884
+    ],
+    "created": [
+      1368012060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Insurance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Insurance",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "domestic",
+      "Fire",
+      "GDP",
+      "Gross",
+      "Marine",
+      "Revenue"
+    ],
+    "nid": [
+      88187
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross Direct Premium Income of Public Sector General Insurance Companies"
+    ],
+    "uuid": [
+      "fb91cbb0-ae35-49fd-9269-3b578c24f123"
+    ],
+    "vid": [
+      7848632
+    ],
+    "view_count": [
+      3787
+    ],
+    "search_api_id": [
+      "entity:node/88187:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-domestic-product-factor-cost-industry-constant-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4679
+    ],
+    "published_date": [
+      1367950539
+    ],
+    "body:value": [
+      "The data describes about the details on Gross Domestic Product (GDP) at factor cost by type of Industry at constant (2004-05) prices."
+    ],
+    "changed": [
+      1441693941
+    ],
+    "created": [
+      1367575380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Product and Related Aggregates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cost",
+      "domestic",
+      "GDP",
+      "Gross",
+      "prices",
+      "Constant",
+      "Factor"
+    ],
+    "nid": [
+      88189
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross Domestic Product at Factor Cost by Industry at Constant Prices"
+    ],
+    "uuid": [
+      "f912e360-80e6-42e8-add3-916ec0bf1a36"
+    ],
+    "vid": [
+      7848656
+    ],
+    "view_count": [
+      4560
+    ],
+    "search_api_id": [
+      "entity:node/88189:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-domestic-product-factor-cost-industry-current-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2722
+    ],
+    "published_date": [
+      1367950510
+    ],
+    "body:value": [
+      "Get the data regarding details on Gross Domestic Product (GDP) at factor cost by type of Industry at current prices."
+    ],
+    "changed": [
+      1441693943
+    ],
+    "created": [
+      1367574840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Product and Related Aggregates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cost",
+      "GDP",
+      "prices",
+      "Current",
+      "Factor"
+    ],
+    "nid": [
+      88191
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross Domestic Product at Factor Cost by Industry at Current Prices"
+    ],
+    "uuid": [
+      "94ac15fb-ffa0-4992-8ff7-018448fede73"
+    ],
+    "vid": [
+      7848680
+    ],
+    "view_count": [
+      2639
+    ],
+    "search_api_id": [
+      "entity:node/88191:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-domestic-product-factor-cost-industry-origin-constant-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2082
+    ],
+    "published_date": [
+      1372078821
+    ],
+    "body:value": [
+      "The data refers to the Gross Domestic Product at Factor Cost by Industry of Origin at (Constant 2004-05) Prices. It provides the industry-wise details for the years 1950-51 to 2011-12."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - National Income and Production"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cost",
+      "Economic",
+      "finance",
+      "Income",
+      "national",
+      "Survey",
+      "Factor"
+    ],
+    "nid": [
+      88193
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross Domestic Product at Factor Cost by Industry of Origin at Constant Prices"
+    ],
+    "uuid": [
+      "d60cf180-b06e-4fe9-8bde-6038a56a0b38"
+    ],
+    "vid": [
+      7848684
+    ],
+    "view_count": [
+      2002
+    ],
+    "search_api_id": [
+      "entity:node/88193:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-domestic-product-factor-cost-industry-origin-current-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1898
+    ],
+    "published_date": [
+      1372135917
+    ],
+    "body:value": [
+      "The data refers to the Gross Domestic Product at Factor Cost by Industry of Origin at Current Prices. "
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - National Income and Production"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cost",
+      "Economic",
+      "finance",
+      "Income",
+      "national",
+      "Survey",
+      "Factor"
+    ],
+    "nid": [
+      88195
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross Domestic Product at Factor Cost by Industry of Origin at Current Prices"
+    ],
+    "uuid": [
+      "fe0d8485-1720-4ff4-8188-efff8b833ac1"
+    ],
+    "vid": [
+      7848689
+    ],
+    "view_count": [
+      1841
+    ],
+    "search_api_id": [
+      "entity:node/88195:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

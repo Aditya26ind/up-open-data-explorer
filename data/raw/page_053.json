@@ -1,0 +1,4802 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/member-wise-special-mentions-lok-sabha-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1046
+    ],
+    "published_date": [
+      1381485660
+    ],
+    "body:value": [
+      "(Hindi) The data refers to Special Mentions provided by the members of Lok Sabha. It gives details on the basis of Member ID or Member of Parliament (MP) code and session number."
+    ],
+    "changed": [
+      1487336315
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Parliament",
+      "Loksabha",
+      "Member"
+    ],
+    "nid": [
+      88991
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Member-wise Special Mentions in Lok Sabha (Hindi)"
+    ],
+    "uuid": [
+      "a80af702-8623-4fb5-985b-e6833a8ed118"
+    ],
+    "vid": [
+      7851964
+    ],
+    "view_count": [
+      971
+    ],
+    "search_api_id": [
+      "entity:node/88991:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/member-wise-special-mentions-rajya-sabha-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      873
+    ],
+    "published_date": [
+      1378449611
+    ],
+    "body:value": [
+      "(Hindi) The data refers to Special Mentions provided by the members of Rajya Sabha. It gives details on the basis of Member ID or Member of Parliament (MP) code and session Number."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378273200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Parliament",
+      "Member"
+    ],
+    "nid": [
+      88993
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Member-wise Special Mentions in Rajya Sabha (Hindi)"
+    ],
+    "uuid": [
+      "dfa9a1d7-6d8d-4860-8fa1-b085a41e27dc"
+    ],
+    "vid": [
+      7851969
+    ],
+    "view_count": [
+      811
+    ],
+    "search_api_id": [
+      "entity:node/88993:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/meteorological-sub-division-wise-annual-rainfall"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      23876
+    ],
+    "published_date": [
+      1366823061
+    ],
+    "body:value": [
+      "The data refers to meteorological sub-division wise annual rainfall figures from 2002 to 2011."
+    ],
+    "changed": [
+      1441696002
+    ],
+    "created": [
+      1366718940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rainfall"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "rainfall",
+      "Sub-Division"
+    ],
+    "nid": [
+      88995
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Meteorological Sub-division Wise Annual Rainfall"
+    ],
+    "uuid": [
+      "958843da-f4aa-4c4f-a310-2b275bd11ac2"
+    ],
+    "vid": [
+      7851977
+    ],
+    "view_count": [
+      21974
+    ],
+    "search_api_id": [
+      "entity:node/88995:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/meteorological-sub-division-wise-monthly-rainfall"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      23624
+    ],
+    "published_date": [
+      1366822334
+    ],
+    "body:value": [
+      "The data refers to Meteorological sub-division wise monthly actual and normal rainfall figures."
+    ],
+    "changed": [
+      1441691432
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rainfall"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "rainfall",
+      "Normal"
+    ],
+    "nid": [
+      88997
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Meteorological Sub-division Wise Monthly Rainfall"
+    ],
+    "uuid": [
+      "ead8e091-cbc4-46b3-9b8e-f130a5470961"
+    ],
+    "vid": [
+      7851989
+    ],
+    "view_count": [
+      22145
+    ],
+    "search_api_id": [
+      "entity:node/88997:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/microwave-power-module-electronics-warfare-drdo"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1639
+    ],
+    "published_date": [
+      1362562230
+    ],
+    "body:value": [
+      "This MPM is suitable for applications in Electronics Warfare, Radars system and as a compact power amplifier for laboratory use etc. Microwave Tube Research & Development Centre (MTRDC) has initially developed a few prototypes to evaluate the performance. These prototypes have undergone complete electrical, RF and environment tests sucessfully.Technology of MPM has been transferred and a limited series production has been launched at BEL."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1362482280
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DRDO Product"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "Development",
+      "MCS",
+      "MCT",
+      "MPS",
+      "MTRDC",
+      "research",
+      "Technology",
+      "Defence",
+      "Tube",
+      "Microwave"
+    ],
+    "nid": [
+      89000
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Microwave Power Module for Electronics Warfare from DRDO"
+    ],
+    "uuid": [
+      "22de764f-c077-4ab5-b11d-8766a83eee71"
+    ],
+    "vid": [
+      7851994
+    ],
+    "view_count": [
+      1455
+    ],
+    "search_api_id": [
+      "entity:node/89000:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/mill-production-cotton-cloth"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2386
+    ],
+    "published_date": [
+      1365770908
+    ],
+    "body:value": [
+      "The data refers to details on the mill production (Mn. sq. metre) of cotton cloth from 2000-01 to 2011-12."
+    ],
+    "changed": [
+      1441700295
+    ],
+    "created": [
+      1365768000
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Industry"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Decentralised",
+      "Industry",
+      "Textile"
+    ],
+    "nid": [
+      89002
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Mill Production of Cotton Cloth"
+    ],
+    "uuid": [
+      "58866c62-cee5-4a61-8317-f03f699025da"
+    ],
+    "vid": [
+      7852022
+    ],
+    "view_count": [
+      2243
+    ],
+    "search_api_id": [
+      "entity:node/89002:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/mill-production-cotton-yarn"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5377
+    ],
+    "published_date": [
+      1365770456
+    ],
+    "body:value": [
+      "The data refers to All India (from 2000-01 to 2011-12) and State-wise (2010-11 and 2011-12) details on mill production of cotton yarn (in Mn. Kg.)."
+    ],
+    "changed": [
+      1602755773
+    ],
+    "created": [
+      1365768360
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Industry"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Industry",
+      "Textile"
+    ],
+    "nid": [
+      89004
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Mill Production of Cotton Yarn"
+    ],
+    "uuid": [
+      "ec307516-e179-4eeb-9f63-07234a58455b"
+    ],
+    "vid": [
+      7852049
+    ],
+    "view_count": [
+      5242
+    ],
+    "search_api_id": [
+      "entity:node/89004:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/mineral-and-state-wise-resources-reserves"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      23841
+    ],
+    "published_date": [
+      1369380278
+    ],
+    "body:value": [
+      "The data refers to Mineral and State wise Resources Reserves."
+    ],
+    "changed": [
+      1552373734
+    ],
+    "created": [
+      1367401140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mines"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Indian Bureau of Mines"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "IBM",
+      "mineral",
+      "Bureau",
+      "Mine"
+    ],
+    "nid": [
+      89006
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Mineral and State wise Resources Reserves"
+    ],
+    "uuid": [
+      "903e1179-cd05-4e30-b8ef-74078258cbee"
+    ],
+    "vid": [
+      7852058
+    ],
+    "view_count": [
+      22660
+    ],
+    "search_api_id": [
+      "entity:node/89006:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/mineral-wise-summary-mining-lease-distribution"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2338
+    ],
+    "published_date": [
+      1369379519
+    ],
+    "body:value": [
+      "The data refers to Mineral-wise Summary of Mining Lease Distribution."
+    ],
+    "changed": [
+      1581678401
+    ],
+    "created": [
+      1367401440
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mines"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Indian Bureau of Mines"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Atomic",
+      "mineral"
+    ],
+    "nid": [
+      89008
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Mineral-wise Summary Of Mining Lease Distribution"
+    ],
+    "uuid": [
+      "ca1a81c9-c243-4068-b8cd-79cd8eada689"
+    ],
+    "vid": [
+      7852068
+    ],
+    "view_count": [
+      1961
+    ],
+    "search_api_id": [
+      "entity:node/89008:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      5
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/minimum-support-priceprocurement-price-crops-crop-year-basis"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8096
+    ],
+    "published_date": [
+      1371805731
+    ],
+    "body:value": [
+      "The data refers to the Minimum Support Price/Procurement Price for Crops (Crop year basis) for various years. Minimum Support Price is the price at which government purchases crops for the farmers, to safeguard the interests of the farmers. The Minimum Support Price per quintal is given commodity-wise in this table."
+    ],
+    "changed": [
+      1462422873
+    ],
+    "created": [
+      1371192840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Prices"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cotton",
+      "crop",
+      "finance",
+      "paddy",
+      "procurement",
+      "rice",
+      "Sugarcane"
+    ],
+    "nid": [
+      89010
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Minimum Support Price/Procurement Price for Crops (Crop year basis)"
+    ],
+    "uuid": [
+      "8861e91c-6f5e-45df-96ed-aed6bcb1d8c8"
+    ],
+    "vid": [
+      7852073
+    ],
+    "view_count": [
+      7390
+    ],
+    "search_api_id": [
+      "entity:node/89010:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/ministry-new-and-renewable-energy-cumulative-achievements"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2462
+    ],
+    "published_date": [
+      1372331134
+    ],
+    "body:value": [
+      "The data refers to details on cumulative achievements of Ministry of New and Renewable Energy (MNRE) as on 30th April 2013."
+    ],
+    "changed": [
+      1662114711
+    ],
+    "created": [
+      1371021480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Renewable Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of New and Renewable Energy"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "MNRE",
+      "capacity",
+      "Off-Grid",
+      "Power",
+      "Installed",
+      "Grid",
+      "Captive",
+      "Interactive"
+    ],
+    "nid": [
+      89012
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Ministry of New And Renewable Energy Cumulative Achievements"
+    ],
+    "uuid": [
+      "494f3262-3137-4f1d-aeac-7502b2ce4973"
+    ],
+    "vid": [
+      11071284
+    ],
+    "view_count": [
+      1882
+    ],
+    "search_api_id": [
+      "entity:node/89012:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/ministrydepartment-wise-twelfth-five-year-plan-outlay-various-transport-sectors"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      956
+    ],
+    "published_date": [
+      1370431260
+    ],
+    "body:value": [
+      "The data refers to an over view of Ministry/Department - Wise Twelfth Five Year Plan (2012-17) Outlay for Transport Sectors. It gives the details regarding the Gross Budgetary Support (GBS) Outlay in the Twelfth Five Year plan (2012-17) and the Internal and Extra Budgetary Resources (IEBR)."
+    ],
+    "changed": [
+      1436419227
+    ],
+    "created": [
+      1370408160
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "GBS",
+      "Gross",
+      "IEBR",
+      "support",
+      "transport",
+      "budgetary",
+      "resource",
+      "Internal",
+      "Extra",
+      "Profit"
+    ],
+    "nid": [
+      89014
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Ministry/Department - Wise Twelfth Five Year Plan Outlay for Various Transport Sectors"
+    ],
+    "uuid": [
+      "6362f0b9-7daf-4939-ae8d-8be126c5be03"
+    ],
+    "vid": [
+      7852080
+    ],
+    "view_count": [
+      887
+    ],
+    "search_api_id": [
+      "entity:node/89014:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/ministrydepartment-wise-12th-five-year-plan-outlays-industry-sector"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3016
+    ],
+    "published_date": [
+      1380520850
+    ],
+    "body:value": [
+      "The data refers to information regarding Budgetary Support, Internal and Extra Budgetary Resources (IEBR) and Outlay to different Ministries/Departments concerned to Industries for 12th Five-Year Plan (2012-17)."
+    ],
+    "changed": [
+      1436419084
+    ],
+    "created": [
+      1380436860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Industries"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "manufacturing",
+      "Outlay",
+      "support",
+      "budgetary"
+    ],
+    "nid": [
+      89016
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Ministry/Department-wise 12th Five Year Plan Outlays for Industry Sector"
+    ],
+    "uuid": [
+      "834e46ed-749d-4416-8048-6608014ebc5d"
+    ],
+    "vid": [
+      7852084
+    ],
+    "view_count": [
+      2871
+    ],
+    "search_api_id": [
+      "entity:node/89016:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/mode-wise-sector-wise-break-power-generation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2815
+    ],
+    "published_date": [
+      1370944684
+    ],
+    "body:value": [
+      "The data refers to mode-wise / sector-wise break-up of power generation (in Billion Units)."
+    ],
+    "changed": [
+      1436419221
+    ],
+    "created": [
+      1370676540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "Consumption",
+      "Energy",
+      "expenditure",
+      "Private",
+      "Mode"
+    ],
+    "nid": [
+      89018
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Mode-wise / Sector-wise Break-up of Power Generation"
+    ],
+    "uuid": [
+      "100005bf-954a-4860-9407-189e132155eb"
+    ],
+    "vid": [
+      7852088
+    ],
+    "view_count": [
+      2739
+    ],
+    "search_api_id": [
+      "entity:node/89018:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/money-rates-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4528
+    ],
+    "published_date": [
+      1366895877
+    ],
+    "body:value": [
+      "The data describes Money rates such as Bank rate as on 31st March, Discount rate, Advance rate, Lending rates, and major commercial banks call money rate (Mumbai) in India."
+    ],
+    "changed": [
+      1602755763
+    ],
+    "created": [
+      1366891440
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Banking"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Banking",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Lending",
+      "Rate",
+      "Advance",
+      "Discount"
+    ],
+    "nid": [
+      89020
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Money Rates in India"
+    ],
+    "uuid": [
+      "df365f9b-9b66-4b1b-b97e-69dfd638aa50"
+    ],
+    "vid": [
+      7852111
+    ],
+    "view_count": [
+      4051
+    ],
+    "search_api_id": [
+      "entity:node/89020:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/money-stock-measures"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2355
+    ],
+    "published_date": [
+      1366895700
+    ],
+    "body:value": [
+      "The data indicates about the details on money stock measures (such as notes in circulation, circulation of rupee coins, circulation of small coin and cash on hand with bank)."
+    ],
+    "changed": [
+      1602758708
+    ],
+    "created": [
+      1366889520
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Exchange, Coinage And Currency"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Cash",
+      "Coinage",
+      "Currency",
+      "Exchange",
+      "Supply"
+    ],
+    "nid": [
+      89022
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Money Stock Measures"
+    ],
+    "uuid": [
+      "292f089d-9fed-4753-a5eb-716af198b069"
+    ],
+    "vid": [
+      7852130
+    ],
+    "view_count": [
+      2115
+    ],
+    "search_api_id": [
+      "entity:node/89022:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/monitoring-committee-constituted-block-level-rural-road-based-sample-survey-2010"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      786
+    ],
+    "published_date": [
+      1387429716
+    ],
+    "body:value": [
+      "The data refers to information on Monitoring Committee Constituted at Block Level for Rural Road under Bharat Nirman during the period 2005-06 to 2006-07. It provides state-wise details of Number of Blocks where Vigilance/Monitoring Committee for Rural Roads Constituted. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Meeting",
+      "Bharat",
+      "Nirman",
+      "Vigilance"
+    ],
+    "nid": [
+      89024
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Monitoring Committee Constituted at Block Level for Rural Road- Based on Sample Survey 2010"
+    ],
+    "uuid": [
+      "2298f342-666a-4450-a5cf-f356fac6c36b"
+    ],
+    "vid": [
+      7852134
+    ],
+    "view_count": [
+      733
+    ],
+    "search_api_id": [
+      "entity:node/89024:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/month-and-year-wise-average-international-crude-oil-prices-indian-basket"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      14469
+    ],
+    "published_date": [
+      1363242035
+    ],
+    "body:value": [
+      "The data refers to month & year-wise average of International crude oil prices (Indian Basket)."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1363170180
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "PNG Economic and Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "Gas",
+      "LNG",
+      "LPG",
+      "Refinery",
+      "Reserve",
+      "Production",
+      "Performance",
+      "Petroleum",
+      "Natural",
+      "Liquefied"
+    ],
+    "nid": [
+      89026
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Month and Year-wise Average of International Crude Oil Prices (Indian Basket) "
+    ],
+    "uuid": [
+      "25673b85-e325-43af-b327-287ca042efe4"
+    ],
+    "vid": [
+      7852140
+    ],
+    "view_count": [
+      14281
+    ],
+    "search_api_id": [
+      "entity:node/89026:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/monthly-time-series-use-based-indices-and-growth"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2856
+    ],
+    "published_date": [
+      1364302007
+    ],
+    "body:value": [
+      "The data refers to monthly time series use-based Indices and Growth."
+    ],
+    "changed": [
+      1441691435
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Index of Industrial Production"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Manufacturing",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Classification",
+      "electricity",
+      "IIP",
+      "industrial",
+      "manufacturing",
+      "Mining",
+      "Production",
+      "Annual"
+    ],
+    "nid": [
+      89030
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Monthly Time Series Use-based Indices And Growth"
+    ],
+    "uuid": [
+      "8fc47af8-ae8b-4a84-8823-a3b602a611ce"
+    ],
+    "vid": [
+      7852162
+    ],
+    "view_count": [
+      2289
+    ],
+    "search_api_id": [
+      "entity:node/89030:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/month-wise-and-country-wise-import-chemical-fertilizers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7444
+    ],
+    "published_date": [
+      1374233452
+    ],
+    "body:value": [
+      "Get the data regarding the details of import of various chemical fertilizers i.e. DAP, MAP, MOP, NPK, TSP, UREA from different countries in each month."
+    ],
+    "changed": [
+      1469787874
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Fertilizers"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Chemicals and Fertilizers",
+      "Department of Fertilizers"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Fertilizers"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "DAP",
+      "Fertilizer",
+      "MAP",
+      "MOP",
+      "NPK",
+      "UREA",
+      "TSP",
+      "Di-Ammonium",
+      "Phosphate",
+      "Super",
+      "Cemical",
+      "Monoammonium",
+      "Muriate",
+      "Potash",
+      "Phosphorus"
+    ],
+    "nid": [
+      89034
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Month wise and Country wise Import of Chemical Fertilizers"
+    ],
+    "uuid": [
+      "2bd4d8bb-2853-402a-97ad-c5d9a0ac22cd"
+    ],
+    "vid": [
+      7852242
+    ],
+    "view_count": [
+      6583
+    ],
+    "search_api_id": [
+      "entity:node/89034:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/month-wise-and-port-wise-import-chemical-fertilizers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      11560
+    ],
+    "published_date": [
+      1374233499
+    ],
+    "body:value": [
+      "Get the data regarding the details of import of different chemical fertilizers from different Ports of India in each month."
+    ],
+    "changed": [
+      1469788899
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Fertilizers"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Chemicals and Fertilizers",
+      "Department of Fertilizers"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Fertilizers"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "DAP",
+      "Fertilizer",
+      "MAP",
+      "MOP",
+      "NPK",
+      "UREA",
+      "TSP"
+    ],
+    "nid": [
+      89037
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Month wise and Port wise Import of Chemical Fertilizers"
+    ],
+    "uuid": [
+      "6885a831-07c4-4ad0-858f-77632e253987"
+    ],
+    "vid": [
+      7852317
+    ],
+    "view_count": [
+      10994
+    ],
+    "search_api_id": [
+      "entity:node/89037:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/month-wise-lok-sabha-members-birthday-feeds-month-april-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1070
+    ],
+    "published_date": [
+      1379938887
+    ],
+    "body:value": [
+      "(English) List of Lok Sabha members who's birthday falls in the month of April. The list includes the member name, date of birth, party name and state."
+    ],
+    "changed": [
+      1487334421
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "English",
+      "Loksabha",
+      "Member",
+      "Birthday"
+    ],
+    "nid": [
+      89040
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Month-wise Lok Sabha Members Birthday Feeds for the Month of April (English)"
+    ],
+    "uuid": [
+      "a6d2ef11-1f1c-4901-98ca-6ecc01c2ec9a"
+    ],
+    "vid": [
+      7852321
+    ],
+    "view_count": [
+      883
+    ],
+    "search_api_id": [
+      "entity:node/89040:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/month-wise-lok-sabha-members-birthday-feeds-month-april-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      729
+    ],
+    "published_date": [
+      1381485839
+    ],
+    "body:value": [
+      "(Hindi) List of Lok Sabha members who's birthday falls in the month of April. The list includes the member name, date of birth, party name and state.\""
+    ],
+    "changed": [
+      1487334484
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Hindi",
+      "Loksabha",
+      "Member",
+      "Birthday"
+    ],
+    "nid": [
+      89042
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Month-wise Lok Sabha Members Birthday Feeds for the Month of April (Hindi)"
+    ],
+    "uuid": [
+      "b7f583c4-166a-4e17-bd7a-6e309708a72b"
+    ],
+    "vid": [
+      7852326
+    ],
+    "view_count": [
+      680
+    ],
+    "search_api_id": [
+      "entity:node/89042:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/month-wise-lok-sabha-members-birthday-feeds-month-august-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      578
+    ],
+    "published_date": [
+      1379938784
+    ],
+    "body:value": [
+      "(English) List of Lok Sabha members who's birthday falls in the month of August. The list includes the member name, date of birth, party name and state."
+    ],
+    "changed": [
+      1487334532
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "English",
+      "Loksabha",
+      "Member",
+      "Birthday"
+    ],
+    "nid": [
+      89044
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Month-wise Lok Sabha Members Birthday Feeds for the Month of August (English)"
+    ],
+    "uuid": [
+      "91518706-a546-4a45-99d4-fb3902e87592"
+    ],
+    "vid": [
+      7852331
+    ],
+    "view_count": [
+      515
+    ],
+    "search_api_id": [
+      "entity:node/89044:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/month-wise-lok-sabha-members-birthday-feeds-month-august-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1154
+    ],
+    "published_date": [
+      1381485766
+    ],
+    "body:value": [
+      "(Hindi) List of Lok Sabha members who's birthday falls in the month of August. The list includes the member name, date of birth, party name and state."
+    ],
+    "changed": [
+      1487331795
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Hindi",
+      "Loksabha",
+      "Member",
+      "Birthday"
+    ],
+    "nid": [
+      89046
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Month-wise Lok Sabha Members Birthday Feeds for the Month of August (Hindi)"
+    ],
+    "uuid": [
+      "6b3a9b8e-aa62-42e6-8015-88f2db5dde5a"
+    ],
+    "vid": [
+      7852336
+    ],
+    "view_count": [
+      1060
+    ],
+    "search_api_id": [
+      "entity:node/89046:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/month-wise-lok-sabha-members-birthday-feeds-month-december-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      695
+    ],
+    "published_date": [
+      1379938720
+    ],
+    "body:value": [
+      "(English) List of Lok Sabha members who's birthday falls in the month of December. The list includes the member name, date of birth, party name and state."
+    ],
+    "changed": [
+      1487331970
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "English",
+      "Loksabha",
+      "Member",
+      "Birthday"
+    ],
+    "nid": [
+      89048
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Month-wise Lok Sabha Members Birthday Feeds for the Month of December (English)"
+    ],
+    "uuid": [
+      "d920a2eb-f57f-4bc3-bcc0-8152aec282a2"
+    ],
+    "vid": [
+      7852341
+    ],
+    "view_count": [
+      659
+    ],
+    "search_api_id": [
+      "entity:node/89048:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/month-wise-lok-sabha-members-birthday-feeds-month-december-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      710
+    ],
+    "published_date": [
+      1381485710
+    ],
+    "body:value": [
+      "(Hindi) List of Lok Sabha members who's birthday falls in the month of December. The list includes the member name, date of birth, party name and state."
+    ],
+    "changed": [
+      1487332076
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Hindi",
+      "Loksabha",
+      "Member",
+      "Birthday"
+    ],
+    "nid": [
+      89050
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Month-wise Lok Sabha Members Birthday Feeds for the Month of December (Hindi)"
+    ],
+    "uuid": [
+      "2eb8dbdf-5940-4043-8e0b-03251c5a1707"
+    ],
+    "vid": [
+      7852346
+    ],
+    "view_count": [
+      637
+    ],
+    "search_api_id": [
+      "entity:node/89050:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/month-wise-lok-sabha-members-birthday-feeds-month-february-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      514
+    ],
+    "published_date": [
+      1379938940
+    ],
+    "body:value": [
+      "(English) List of Lok Sabha members who's birthday falls in the month of February. The list includes the member name, date of birth, party name and state."
+    ],
+    "changed": [
+      1487332175
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "English",
+      "Loksabha",
+      "Member",
+      "Birthday"
+    ],
+    "nid": [
+      89052
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Month-wise Lok Sabha Members Birthday Feeds for the Month of February (English)"
+    ],
+    "uuid": [
+      "9044b41d-a928-490d-97fe-ae11d6538bd5"
+    ],
+    "vid": [
+      7852351
+    ],
+    "view_count": [
+      484
+    ],
+    "search_api_id": [
+      "entity:node/89052:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/month-wise-lok-sabha-members-birthday-feeds-month-february-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      971
+    ],
+    "published_date": [
+      1381485860
+    ],
+    "body:value": [
+      "(Hindi) List of Lok Sabha members who's birthday falls in the month of February. The list includes the member name, date of birth, party name and state."
+    ],
+    "changed": [
+      1487332261
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Hindi",
+      "Loksabha",
+      "Member",
+      "Birthday"
+    ],
+    "nid": [
+      89054
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Month-wise Lok Sabha Members Birthday Feeds for the Month of February (Hindi)"
+    ],
+    "uuid": [
+      "93eb57d2-2643-4b90-998d-89bd0e1222df"
+    ],
+    "vid": [
+      7852356
+    ],
+    "view_count": [
+      883
+    ],
+    "search_api_id": [
+      "entity:node/89054:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/month-wise-lok-sabha-members-birthday-feeds-month-january-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      556
+    ],
+    "published_date": [
+      1379938954
+    ],
+    "body:value": [
+      "(English) List of Lok Sabha members who's birthday falls in the month of January. The list includes the member name, date of birth, party name and state."
+    ],
+    "changed": [
+      1487332346
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "English",
+      "Loksabha",
+      "Member",
+      "Birthday"
+    ],
+    "nid": [
+      89056
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Month-wise Lok Sabha Members Birthday Feeds for the Month of January (English)"
+    ],
+    "uuid": [
+      "575e47b9-f885-42cd-97f7-5f892f6db955"
+    ],
+    "vid": [
+      7852361
+    ],
+    "view_count": [
+      522
+    ],
+    "search_api_id": [
+      "entity:node/89056:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/month-wise-lok-sabha-members-birthday-feeds-month-january-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      878
+    ],
+    "published_date": [
+      1381485871
+    ],
+    "body:value": [
+      "(Hindi) List of Lok Sabha members who's birthday falls in the month of January. The list includes the member name, date of birth, party name and state."
+    ],
+    "changed": [
+      1487332500
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Hindi",
+      "Loksabha",
+      "Member",
+      "Birthday"
+    ],
+    "nid": [
+      89058
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Month-wise Lok Sabha Members Birthday Feeds for the Month of January (Hindi)"
+    ],
+    "uuid": [
+      "0f4f7958-0de8-4a8b-8ae2-3c8e40ad2f95"
+    ],
+    "vid": [
+      7852366
+    ],
+    "view_count": [
+      807
+    ],
+    "search_api_id": [
+      "entity:node/89058:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/national-income-factor-cost-current-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2621
+    ],
+    "published_date": [
+      1367689759
+    ],
+    "body:value": [
+      "The data describes about details on National Income at factor cost at current prices."
+    ],
+    "changed": [
+      1602755809
+    ],
+    "created": [
+      1367581980
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Macro Economic Aggregates and Population"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy",
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cost",
+      "prices",
+      "Current",
+      "Factor"
+    ],
+    "nid": [
+      89167
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "National Income at Factor Cost at Current Prices"
+    ],
+    "uuid": [
+      "86a1bb60-b37e-40a9-abfa-e5e0a862c40b"
+    ],
+    "vid": [
+      7852711
+    ],
+    "view_count": [
+      2348
+    ],
+    "search_api_id": [
+      "entity:node/89167:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/national-institutions-higher-education"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1644
+    ],
+    "published_date": [
+      1375095682
+    ],
+    "body:value": [
+      "The data refers to the distribution of national institutes across states, along with their population figures in the year 2004-05"
+    ],
+    "changed": [
+      1436419150
+    ],
+    "created": [
+      1374843660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Higher Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Institute",
+      "Higher"
+    ],
+    "nid": [
+      89169
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "National Institutions in Higher Education"
+    ],
+    "uuid": [
+      "f99d0e83-e719-4d7f-a81e-3deef2ab5bdc"
+    ],
+    "vid": [
+      7852713
+    ],
+    "view_count": [
+      1450
+    ],
+    "search_api_id": [
+      "entity:node/89169:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/national-social-assistance-programme-nsap-progress-eleventh-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2765
+    ],
+    "published_date": [
+      1369671999
+    ],
+    "body:value": [
+      "The data refers to the year-wise expenditure as well as number of beneficiaries covered under NSAP in the 11th Five Year Plan from 2007-08 to 2011-12 (Twelfth Five Year Plan document). NSAP allocation has increased after the 2007-08 mainly due to introduction of IGNDPS and IGNWPS in 2009. IGNOAPS is the largest scheme within NSAP."
+    ],
+    "changed": [
+      1436419239
+    ],
+    "created": [
+      1369669860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "expenditure",
+      "IGNDPS",
+      "IGNOAPS",
+      "IGNWPS",
+      "NFBS",
+      "NSAP",
+      "Pension",
+      "suicide",
+      "Prevention",
+      "Security"
+    ],
+    "nid": [
+      89171
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "National Social Assistance Programme (NSAP) Progress In The Eleventh Plan"
+    ],
+    "uuid": [
+      "d1eef0c9-01e2-4804-942b-92d8c50757ae"
+    ],
+    "vid": [
+      7852719
+    ],
+    "view_count": [
+      2651
+    ],
+    "search_api_id": [
+      "entity:node/89171:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/natural-gas-demand-twelfth-five-year-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      939
+    ],
+    "published_date": [
+      1370859531
+    ],
+    "body:value": [
+      "The data refers to Natural Gas Demand for Twelfth Five Year (2012-17) Plan. It gives sector-wise details for five years and the Compounded Annual Growth rate (CAGR)."
+    ],
+    "changed": [
+      1436419167
+    ],
+    "created": [
+      1370689380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power & Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Fertiliser",
+      "Growth",
+      "Compound",
+      "CAGR"
+    ],
+    "nid": [
+      89173
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Natural Gas Demand for Twelfth Five Year Plan"
+    ],
+    "uuid": [
+      "d78ec294-2041-4b09-b10f-d0e3a543cf80"
+    ],
+    "vid": [
+      7852723
+    ],
+    "view_count": [
+      830
+    ],
+    "search_api_id": [
+      "entity:node/89173:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/neo-natal-mortality-rate-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9259
+    ],
+    "published_date": [
+      1357906726
+    ],
+    "body:value": [
+      "The Neo-natal Mortality Rate (NNMR) is defined as the number of infant deaths of less than 29 days per thousand live births during the year. The neo-natal mortality rate in India is amongst highest in the world and skewed towards Rural India. Non-availability of trained manpower along with poor health infrastructure is one of the major hurdles in ensuring quality health and neo-natal care. Despite a decline in Infant Mortality Rate (IMR), neonatal mortality is more or less static. It is therefore essential that neonates are provided utmost care at the first month of life so that neonatal deaths on account of asphyxia, infection, and preterm births could be prevented. The neonatal mortality constitutes about 75% of infant deaths in the country. Under the National Rural Health Mission, several initiatives have been undertaken to accelerate the pace of reduction of child mortality."
+    ],
+    "changed": [
+      1566286986
+    ],
+    "created": [
+      1357725480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "birth",
+      "Death",
+      "Health",
+      "IMR",
+      "Infant",
+      "Mission",
+      "Mortality",
+      "national",
+      "NNMR",
+      "NRHM",
+      "Rural",
+      "Natal",
+      "Neo"
+    ],
+    "nid": [
+      89175
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Neo-Natal Mortality Rate India "
+    ],
+    "uuid": [
+      "f9272d9a-3255-431d-b02f-555cb63ec91d"
+    ],
+    "vid": [
+      7852736
+    ],
+    "view_count": [
+      8479
+    ],
+    "search_api_id": [
+      "entity:node/89175:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/net-area-under-irrigation-sources"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      17548
+    ],
+    "published_date": [
+      1365751633
+    ],
+    "body:value": [
+      "The data refers to State-wise (2008-09 to 2009-10) and All India (2000-01 to 2010-11) data on net area under irrigation by sources like Canals (Government and Private), Tanks, Tube Wells and Other Wells and Other Sources."
+    ],
+    "changed": [
+      1506517266
+    ],
+    "created": [
+      1365674040
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Irrigation"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Irrigation",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Canal",
+      "irrigation",
+      "Tank",
+      "Well",
+      "Tube"
+    ],
+    "nid": [
+      89177
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Net Area Under Irrigation by Sources"
+    ],
+    "uuid": [
+      "c0461104-546b-486a-b302-db66308d5966"
+    ],
+    "vid": [
+      7852743
+    ],
+    "view_count": [
+      16679
+    ],
+    "search_api_id": [
+      "entity:node/89177:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/net-availability-cereals-and-pulses"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4289
+    ],
+    "published_date": [
+      1372226490
+    ],
+    "body:value": [
+      "The data refers to the Net Availability of Cereals and Pulses in India (in Mn.tonnes). It gives details regarding net production, net imports and change in government stocks for various years. It also provides the Per capita Net Availability of Cereals and Pulses."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Capita",
+      "Economic",
+      "finance",
+      "Government",
+      "Import",
+      "Production",
+      "Population",
+      "Survey"
+    ],
+    "nid": [
+      89179
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Net Availability of Cereals and Pulses"
+    ],
+    "uuid": [
+      "1d9ec4ca-6070-438e-80ff-bafcdc178f13"
+    ],
+    "vid": [
+      7852747
+    ],
+    "view_count": [
+      4173
+    ],
+    "search_api_id": [
+      "entity:node/89179:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/net-availability-procurement-and-public-distribution-foodgrains"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2789
+    ],
+    "published_date": [
+      1372226992
+    ],
+    "body:value": [
+      "The data refers to the Net Availability, Procurement and Public Distribution of Food grains in India (in Mn.tonnes). It gives details regarding net production, net imports, net availability, procurement and public distribution of Food grains."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "distribution",
+      "Economic",
+      "finance",
+      "Import",
+      "procurement",
+      "Public",
+      "Survey",
+      "Foodgrain"
+    ],
+    "nid": [
+      89181
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Net Availability, Procurement and Public Distribution of Foodgrains"
+    ],
+    "uuid": [
+      "d87a046f-6fd7-4995-a448-bfe9d1f65d2b"
+    ],
+    "vid": [
+      7852752
+    ],
+    "view_count": [
+      2633
+    ],
+    "search_api_id": [
+      "entity:node/89181:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/net-domestic-product-economic-activity-constant-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1318
+    ],
+    "published_date": [
+      1367688321
+    ],
+    "body:value": [
+      "Get the data about to details on Net Domestic Product (NDP) by economic activity at constant (2004-05) prices."
+    ],
+    "changed": [
+      1602755808
+    ],
+    "created": [
+      1367576520
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Macro Economic Aggregates and Population"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy",
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Activity",
+      "Economic",
+      "NDP",
+      "prices",
+      "Constant"
+    ],
+    "nid": [
+      89183
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Net Domestic Product by Economic Activity at Constant Prices"
+    ],
+    "uuid": [
+      "6ea7047b-7543-4eff-8ec6-4427aa6adc4d"
+    ],
+    "vid": [
+      7852777
+    ],
+    "view_count": [
+      1246
+    ],
+    "search_api_id": [
+      "entity:node/89183:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/net-domestic-product-economic-activity-current-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2285
+    ],
+    "published_date": [
+      1367629509
+    ],
+    "body:value": [
+      "The data describes about details on Net Domestic Product (NDP) by economic activity at current prices."
+    ],
+    "changed": [
+      1599033619
+    ],
+    "created": [
+      1367575920
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Macro Economic Aggregates and Population"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy",
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Activity",
+      "Economic",
+      "NDP",
+      "prices",
+      "Constant"
+    ],
+    "nid": [
+      89185
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Net Domestic Product by Economic Activity at Current Prices"
+    ],
+    "uuid": [
+      "42ba5957-a508-4719-8f26-c4c91b2fb794"
+    ],
+    "vid": [
+      7852801
+    ],
+    "view_count": [
+      2196
+    ],
+    "search_api_id": [
+      "entity:node/89185:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/net-exported-power-summary-phase-i-migration"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1837
+    ],
+    "published_date": [
+      1384855680
+    ],
+    "body:value": [
+      "The data refers to the Net Exported Power-Summary of Phase I, Migration. It provides details regarding capacity (MW), Net Exported Power (kwh) and Capacity Utilization Factor (CUF) (in percentage) for the corresponding project and company in various states."
+    ],
+    "changed": [
+      1427367184
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Renewable Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of New and Renewable Energy"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "JNNSM",
+      "Mission",
+      "MNRE",
+      "NVVN",
+      "RPSSGP",
+      "Solar",
+      "REDA"
+    ],
+    "nid": [
+      89187
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Net Exported Power - Summary Phase I, Migration"
+    ],
+    "uuid": [
+      "55e6451e-e19a-4956-9898-16ceae339c66"
+    ],
+    "vid": [
+      7852808
+    ],
+    "view_count": [
+      1529
+    ],
+    "search_api_id": [
+      "entity:node/89187:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/net-exported-solar-power-summary-phase-i-batch-i"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2664
+    ],
+    "published_date": [
+      1369743803
+    ],
+    "body:value": [
+      "The data refers to the Net Exported Power-Summary of Phase I, Batch I. It provides details regarding capacity (MW), Net Exported Power (kwh) and Capacity Utilization Factor (CUF) (in percentage) for the corresponding project and company in various states."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power & Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of New and Renewable Energy"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Generation",
+      "JNNSM",
+      "Mission",
+      "NVVN",
+      "SPV",
+      "Soller"
+    ],
+    "nid": [
+      89191
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Net Exported Solar Power - Summary of Phase I, Batch I"
+    ],
+    "uuid": [
+      "2a842bec-6a45-4cab-984a-650fb392cc3f"
+    ],
+    "vid": [
+      7852851
+    ],
+    "view_count": [
+      2368
+    ],
+    "search_api_id": [
+      "entity:node/89191:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/net-exported-solar-power-summary-phase-i-batch-ii"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2060
+    ],
+    "published_date": [
+      1369743811
+    ],
+    "body:value": [
+      "The data refers to the Net Exported Power-Summary of Phase I, Batch II. It provides details regarding capacity (MW), Net Exported Power (kwh) and Capacity Utilization Factor (CUF) (in percentage) for the corresponding project and company in various states."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power & Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of New and Renewable Energy"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Generation",
+      "JNNSM",
+      "SPV"
+    ],
+    "nid": [
+      89197
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Net Exported Solar Power - Summary of Phase I, Batch II"
+    ],
+    "uuid": [
+      "4dd2940e-ebdd-46ca-84b3-648dc61f317a"
+    ],
+    "vid": [
+      7852867
+    ],
+    "view_count": [
+      1863
+    ],
+    "search_api_id": [
+      "entity:node/89197:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/net-exported-solar-power-summary-phase-i-rpssgp"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4391
+    ],
+    "published_date": [
+      1369743769
+    ],
+    "body:value": [
+      "The data refers to the Summary of Net Exported Solar Power - Phase I under Rooftop PV and Small Solar Power Generation Programme. (RPSSGP). It provides details regarding capacity (MW), Net Exported Power (kwh) and Capacity Utilization Factor (CUF) (in percentage) for the corresponding project and company in various states."
+    ],
+    "changed": [
+      1470818486
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power & Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of New and Renewable Energy"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "capacity",
+      "Generation",
+      "JNNSM",
+      "Mission",
+      "Power",
+      "Solar",
+      "SPV",
+      "UTILIZATION",
+      "Factor",
+      "REDA"
+    ],
+    "nid": [
+      89203
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Net Exported Solar Power-Summary Phase I, RPSSGP"
+    ],
+    "uuid": [
+      "56377f54-4984-49cc-9e67-7158629b95d0"
+    ],
+    "vid": [
+      7852951
+    ],
+    "view_count": [
+      4117
+    ],
+    "search_api_id": [
+      "entity:node/89203:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/net-state-domestic-product-current-prices-1"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3161
+    ],
+    "published_date": [
+      1372144193
+    ],
+    "body:value": [
+      "The data refers to the State-wise Net State Domestic Product at Current Prices. It also gives details of the percentage growth of Net State Domestic Product over the previous year."
+    ],
+    "changed": [
+      1500381061
+    ],
+    "created": [
+      1371192600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - National Income and Production"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Economic",
+      "finance",
+      "Income",
+      "Survey",
+      "Nional"
+    ],
+    "nid": [
+      89209
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Net State Domestic Product at Current Prices"
+    ],
+    "uuid": [
+      "36a7cae6-0f61-44d2-940b-b5ceba2162ec"
+    ],
+    "vid": [
+      7852955
+    ],
+    "view_count": [
+      3055
+    ],
+    "search_api_id": [
+      "entity:node/89209:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/network-projects-institute-bioresources-and-sustainable-development-imphal"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      966
+    ],
+    "published_date": [
+      1376299288
+    ],
+    "body:value": [
+      "The data refers to details of various network projects with Institute of Bioresources and Sustainable Development (IBSD), Imphal."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375775580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Institute of Bioresources and Sustainable Development, Imphal"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India",
+      "Institute of Bioresources and Sustainable Development (IBSD)"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "IBSD",
+      "Institute",
+      "Projects",
+      "Bioresource",
+      "Sustainable"
+    ],
+    "nid": [
+      89404
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Network Projects with Institute of Bioresources and Sustainable Development, Imphal"
+    ],
+    "uuid": [
+      "43a41ce6-48d0-4e7a-a72d-26b31cc3af0a"
+    ],
+    "vid": [
+      7854035
+    ],
+    "view_count": [
+      840
+    ],
+    "search_api_id": [
+      "entity:node/89404:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/new-life-insurance-business-indian-insurers-and-total-life-insurance-business-force"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3075
+    ],
+    "published_date": [
+      1368088284
+    ],
+    "body:value": [
+      "The data refers to details on new life insurance business by Indian insurers and total life insurance business in force from 2000-01 to 2010-11."
+    ],
+    "changed": [
+      1602755820
+    ],
+    "created": [
+      1368011700
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Insurance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Insurance",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "business",
+      "Insurance",
+      "Force",
+      "Insurer"
+    ],
+    "nid": [
+      89406
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "New Life Insurance Business By Indian Insurers And Total Life Insurance Business In Force"
+    ],
+    "uuid": [
+      "22ee3875-91dd-4f30-81cf-cb4815137a24"
+    ],
+    "vid": [
+      7854054
+    ],
+    "view_count": [
+      2515
+    ],
+    "search_api_id": [
+      "entity:node/89406:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/nic-2-digit-level-and-sectoral-annual-growth-rates-all-india-index-industrial-production"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2952
+    ],
+    "published_date": [
+      1374671527
+    ],
+    "body:value": [
+      "The data refers to NIC 2 Digit Level and Sectoral Annual Growth Rates for all India Index of Industrial Production."
+    ],
+    "changed": [
+      1441691440
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "All India Index of Industrial Production (IIP)"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "IIP",
+      "Rate",
+      "Level"
+    ],
+    "nid": [
+      89408
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "NIC 2 Digit Level and Sectoral Annual Growth Rates for all India Index of Industrial Production"
+    ],
+    "uuid": [
+      "8411bad4-dd76-4914-97fe-50efc8baa312"
+    ],
+    "vid": [
+      7854062
+    ],
+    "view_count": [
+      2836
+    ],
+    "search_api_id": [
+      "entity:node/89408:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/nic-2-digit-level-and-sectoral-monthly-indices-all-india-index-industrial-production"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3171
+    ],
+    "published_date": [
+      1375092717
+    ],
+    "body:value": [
+      "The data refers to NIC 2 Digit Level and Sectoral monthly Indices of all India Index of Industrial Production."
+    ],
+    "changed": [
+      1602758719
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "All India Index of Industrial Production (IIP)"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "IIP",
+      "index",
+      "industrial",
+      "Production",
+      "Digit",
+      "Sectoral",
+      "Indice"
+    ],
+    "nid": [
+      89411
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "NIC 2 Digit Level and Sectoral monthly Indices of all India Index of Industrial Production"
+    ],
+    "uuid": [
+      "6559435f-4e77-4653-bbb3-c7b068c5e20c"
+    ],
+    "vid": [
+      7854077
+    ],
+    "view_count": [
+      3021
+    ],
+    "search_api_id": [
+      "entity:node/89411:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

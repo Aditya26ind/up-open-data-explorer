@@ -1,0 +1,5052 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/non-lapsable-central-pool-resources-nlcpr-schemes-current-year"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      675
+    ],
+    "published_date": [
+      1598510690
+    ],
+    "body:value": [
+      "The catalog contains Non-Lapsable Central Pool of Resources (NLCPR) schemes for current year funded by MDoNER."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1598171893
+    ],
+    "field_asset_jurisdiction:name": [
+      "Arunachal Pradesh",
+      "Assam",
+      "Manipur",
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland",
+      "Sikkim",
+      "Tripura"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "My tag"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Development of North Eastern Region"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Art and Culture",
+      "Water and Sanitation",
+      "Water Resources",
+      "Health and Family welfare",
+      "Infrastructure",
+      "Power and Energy",
+      "Travel and Tourism",
+      "Youth and Sports"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NER",
+      "NLCPR",
+      "North",
+      "East",
+      "MDoNER",
+      "Non Lapsable"
+    ],
+    "nid": [
+      6781159
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "789",
+      "101",
+      "796"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Non-Lapsable Central Pool of Resources (NLCPR) Schemes for Current Year"
+    ],
+    "uuid": [
+      "269b5acb-11cb-4f28-8804-efa32d46223a"
+    ],
+    "vid": [
+      13057505
+    ],
+    "view_count": [
+      385
+    ],
+    "search_api_id": [
+      "entity:node/6781159:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/north-eastern-states-road-investment-project-nesrip-schemes-mdoner"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      669
+    ],
+    "published_date": [
+      1598249411
+    ],
+    "body:value": [
+      "The catalog contains list of North Eastern States Road Investment Project (NESRIP) schemes funded by Ministry of Development of North Eastern Region."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1598176350
+    ],
+    "field_asset_jurisdiction:name": [
+      "Arunachal Pradesh",
+      "Assam",
+      "Manipur",
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland",
+      "Sikkim",
+      "Tripura"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "NESRIP"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Development of North Eastern Region"
+    ],
+    "field_sector:name": [
+      "Infrastructure"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "DONER",
+      "Investment",
+      "NER",
+      "North East",
+      "North Eastern Region",
+      "Project",
+      "Road",
+      "MDoNER",
+      "NESRIP"
+    ],
+    "nid": [
+      6781168
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "789",
+      "101",
+      "796"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "North Eastern States Road Investment Project (NESRIP) Schemes of MDoNER"
+    ],
+    "uuid": [
+      "372e25d6-0c38-4eec-a9b0-23469d64e668"
+    ],
+    "vid": [
+      13058284
+    ],
+    "view_count": [
+      472
+    ],
+    "search_api_id": [
+      "entity:node/6781168:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/north-east-special-infrastructure-development-scheme-nesids"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1395
+    ],
+    "published_date": [
+      1601383609
+    ],
+    "body:value": [
+      "The catalog contains about North East Special Infrastructure Development Scheme (NESIDS) funded by Ministry of Development of North Eastern Region."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1598199410
+    ],
+    "field_asset_jurisdiction:name": [
+      "Arunachal Pradesh",
+      "Assam",
+      "Manipur",
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland",
+      "Sikkim",
+      "Tripura"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "NESIDS"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Development of North Eastern Region"
+    ],
+    "field_sector:name": [
+      "Water and Sanitation",
+      "Education",
+      "Health and Family welfare",
+      "Infrastructure",
+      "Power and Energy",
+      "Travel and Tourism"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NER",
+      "Infrastructure",
+      "MDoNER",
+      "NESIDS",
+      "North East Region"
+    ],
+    "nid": [
+      6781188
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "789",
+      "101",
+      "796"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "North East Special Infrastructure Development Scheme (NESIDS)"
+    ],
+    "uuid": [
+      "32f5968f-fb88-4dcb-8176-f3b7747ba052"
+    ],
+    "vid": [
+      13057683
+    ],
+    "view_count": [
+      429
+    ],
+    "search_api_id": [
+      "entity:node/6781188:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/list-north-east-special-infrastructure-development-scheme-nesids"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1004
+    ],
+    "published_date": [
+      1598861901
+    ],
+    "body:value": [
+      "The catalog contains list of North East Special Infrastructure Development Scheme (NESIDS) funded by Ministry of DoNER."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1598281298
+    ],
+    "field_asset_jurisdiction:name": [
+      "Arunachal Pradesh",
+      "Manipur",
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland",
+      "Sikkim",
+      "Tripura"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "NESIDS"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Development of North Eastern Region"
+    ],
+    "field_sector:name": [
+      "Water and Sanitation",
+      "Education",
+      "Health and Family welfare",
+      "Infrastructure",
+      "Power and Energy",
+      "Travel and Tourism"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NER",
+      "Infrastructure",
+      "North",
+      "East",
+      "MDoNER",
+      "NESIDS"
+    ],
+    "nid": [
+      6781245
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "789",
+      "101",
+      "796"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "List of North East Special Infrastructure Development Scheme (NESIDS)"
+    ],
+    "uuid": [
+      "264b7bba-7608-41ee-90c2-b009984c95b2"
+    ],
+    "vid": [
+      13057765
+    ],
+    "view_count": [
+      609
+    ],
+    "search_api_id": [
+      "entity:node/6781245:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/completed-projects-under-non-lapsable-central-pool-resources-nlcpr"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1455
+    ],
+    "published_date": [
+      1600324700
+    ],
+    "body:value": [
+      "Get the list of completed projects under Non-Lapsable Central Pool of Resources (NLCPR) funded by Ministry of North Eastern Region."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1599452768
+    ],
+    "field_asset_jurisdiction:name": [
+      "Arunachal Pradesh",
+      "Assam",
+      "Manipur",
+      "Mizoram",
+      "Nagaland",
+      "Sikkim",
+      "Tripura"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "My tag"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Development of North Eastern Region"
+    ],
+    "field_sector:name": [
+      "Art and Culture",
+      "Water and Sanitation",
+      "Education",
+      "Water Resources",
+      "Health and Family welfare",
+      "Infrastructure",
+      "Power and Energy",
+      "Travel and Tourism",
+      "Youth and Sports"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NER",
+      "NLCPR",
+      "Resources",
+      "North",
+      "East",
+      "MDoNER",
+      "Non Lapsable"
+    ],
+    "nid": [
+      6782053
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "789",
+      "101",
+      "796"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Completed Projects under Non-Lapsable Central Pool of Resources (NLCPR)"
+    ],
+    "uuid": [
+      "151c755b-86c4-4e4f-bf55-8f17dd799870"
+    ],
+    "vid": [
+      13057942
+    ],
+    "view_count": [
+      903
+    ],
+    "search_api_id": [
+      "entity:node/6782053:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/non-lapsable-central-pool-resources-ongoing-projects-funds-status"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1020
+    ],
+    "published_date": [
+      1605597142
+    ],
+    "body:value": [
+      "The catalog contains data of ongoing projects with funds status under Non Lapsable Central Pool of Resources (NLCPR)."
+    ],
+    "changed": [
+      1605864533
+    ],
+    "created": [
+      1604328400
+    ],
+    "field_asset_jurisdiction:name": [
+      "State",
+      "Arunachal Pradesh",
+      "Assam",
+      "Manipur",
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland",
+      "Sikkim",
+      "Tripura"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "My tag"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Development of North Eastern Region"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Art and Culture",
+      "Water and Sanitation",
+      "Education",
+      "Water Resources",
+      "Health and Family welfare",
+      "Infrastructure",
+      "Power and Energy",
+      "Travel and Tourism",
+      "Youth and Sports"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NLCPR",
+      "Project",
+      "North",
+      "East",
+      "Lapsable",
+      "Pool"
+    ],
+    "nid": [
+      6803345
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "789",
+      "101",
+      "796"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Non Lapsable Central Pool of resources ongoing projects with funds status"
+    ],
+    "uuid": [
+      "a7e50c49-cd2b-4b57-a67a-8919af73ca1b"
+    ],
+    "vid": [
+      7904957
+    ],
+    "view_count": [
+      410
+    ],
+    "search_api_id": [
+      "entity:node/6803345:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/high-value-dataset-schemes-ministry-development-north-eastern-region"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2461
+    ],
+    "published_date": [
+      1605869888
+    ],
+    "body:value": [
+      "The catalog contains high value dataset of Ministry of Development of North Eastern Region covering various schemes i.e., NLCPR, NESIDS, NESRIP, etc."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1604585646
+    ],
+    "field_asset_jurisdiction:name": [
+      "Arunachal Pradesh",
+      "Assam",
+      "Manipur",
+      "Meghalaya",
+      "Nagaland",
+      "Sikkim",
+      "Tripura"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "MDoner"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Development of North Eastern Region"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Art and Culture",
+      "Water and Sanitation",
+      "Education",
+      "Water Resources",
+      "Health and Family welfare",
+      "Infrastructure",
+      "Others",
+      "Power and Energy",
+      "Travel and Tourism",
+      "Youth and Sports"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "NER",
+      "NLCPR",
+      "Region",
+      "Eastern",
+      "North",
+      "MDoNER",
+      "NESIDS",
+      "NESRIP"
+    ],
+    "nid": [
+      6804337
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "789",
+      "101"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "High Value Dataset from schemes of Ministry of Development of North Eastern Region"
+    ],
+    "uuid": [
+      "85340236-5eab-4cbb-916e-5f641a00782c"
+    ],
+    "vid": [
+      13058299
+    ],
+    "view_count": [
+      675
+    ],
+    "search_api_id": [
+      "entity:node/6804337:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/list-ongoing-schemes-ministry-development-north-eastern-region-mdoner-costing-rs-50-crores"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2039
+    ],
+    "published_date": [
+      1605264657
+    ],
+    "body:value": [
+      "The catalog contains the list of ongoing schemes of Ministry of DoNER costing Rs 50 crores and more in North Eastern Region."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1604820290
+    ],
+    "field_asset_jurisdiction:name": [
+      "Arunachal Pradesh",
+      "Assam",
+      "Manipur",
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland",
+      "Sikkim",
+      "Tripura"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "MDoner"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Development of North Eastern Region"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Art and Culture",
+      "Water and Sanitation",
+      "Education",
+      "Water Resources",
+      "Health and Family welfare",
+      "Infrastructure",
+      "Others",
+      "Power and Energy",
+      "Travel and Tourism",
+      "Youth and Sports"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "DONER",
+      "NER",
+      "Eastern",
+      "MDoNER"
+    ],
+    "nid": [
+      6813842
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "789",
+      "101",
+      "796"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "List of ongoing schemes of Ministry of Development of North Eastern Region (MDoNER) costing Rs 50 crores and more in North Eastern Region"
+    ],
+    "uuid": [
+      "619f04a0-f677-432e-96d3-5b35a7f0c66e"
+    ],
+    "vid": [
+      13058143
+    ],
+    "view_count": [
+      1090
+    ],
+    "search_api_id": [
+      "entity:node/6813842:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      7
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/high-value-data-sets-mdoner"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3878
+    ],
+    "published_date": [
+      1617776060
+    ],
+    "body:value": [
+      "High Value Data  Sets of MDoNER"
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1617718136
+    ],
+    "field_asset_jurisdiction:name": [
+      "Arunachal Pradesh",
+      "Assam",
+      "Manipur",
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland",
+      "Sikkim",
+      "Tripura"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "MDoner"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Development of North Eastern Region"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Art and Culture",
+      "Education",
+      "Health and Family welfare",
+      "Infrastructure",
+      "Others",
+      "Power and Energy",
+      "Youth and Sports"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NER",
+      "MDoNER",
+      "High Value Data  Sets"
+    ],
+    "nid": [
+      6864806
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "789",
+      "101",
+      "796"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "High Value Data  Sets of MDoNER"
+    ],
+    "uuid": [
+      "caf64620-1995-420f-bcd5-eb5445b13c3c"
+    ],
+    "vid": [
+      13058244
+    ],
+    "view_count": [
+      810
+    ],
+    "search_api_id": [
+      "entity:node/6864806:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-newly-registered-motor-vehicles-and-number-registered-motor-vehicles-assam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      18386
+    ],
+    "published_date": [
+      1399460399
+    ],
+    "body:value": [
+      "The data refers to Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Assam. Registered Motor Vehicles have been categorized in two broad categories, Transport and Non Transport. Multi-axled/ Articulated Vehicles/ Trucks and Lorries, Light Motor Vehicle (Goods),Buses,Taxis,Light Motor Vehicle (Passengers Auto) are falling under Transport Category and Two Wheelers,Cars,Jeeps,Omni Buses,Tractors,Trailers & Others are falling under Non Transport Category."
+    ],
+    "changed": [
+      1472644400
+    ],
+    "created": [
+      1398934148
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "vehicle",
+      "Registered",
+      "Motor",
+      "Newly"
+    ],
+    "nid": [
+      101133
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "783"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Assam"
+    ],
+    "uuid": [
+      "ec2e2ca5-1622-4000-9f7a-c41cbf01c7ee"
+    ],
+    "vid": [
+      7888893
+    ],
+    "view_count": [
+      18127
+    ],
+    "search_api_id": [
+      "entity:node/101133:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/door-door-garbage-collection-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      314
+    ],
+    "published_date": [
+      1549709437
+    ],
+    "body:value": [
+      "Door to door garbage Collection segregation Collection of Solid Waste for Guwahati."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549604065
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "D2D",
+      "door2door",
+      "door2door D2D garbage collection segregation",
+      "garbage"
+    ],
+    "nid": [
+      602910916
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Door to door garbage Collection of Guwahati"
+    ],
+    "uuid": [
+      "754ecf89-5de9-43ce-b767-213c8b0ca4af"
+    ],
+    "vid": [
+      13053269
+    ],
+    "view_count": [
+      279
+    ],
+    "search_api_id": [
+      "entity:node/602910916:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-generated-collected-processed-data-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      65
+    ],
+    "published_date": [
+      1549709437
+    ],
+    "body:value": [
+      "Solid Waste Generated, Collected, Processed Data of Guwahati"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549605628
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "solid waste",
+      "Type of waste generated with quantity as well as location"
+    ],
+    "nid": [
+      602910939
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste Generated, Collected, Processed Data of Guwahati"
+    ],
+    "uuid": [
+      "bbc32ba7-82c4-473d-8d8b-0a9b937a224f"
+    ],
+    "vid": [
+      13053272
+    ],
+    "view_count": [
+      51
+    ],
+    "search_api_id": [
+      "entity:node/602910939:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-ward-wise-segregation-data-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      65
+    ],
+    "published_date": [
+      1549709437
+    ],
+    "body:value": [
+      "Solid Waste  Ward wise Segregation Data of Guwahati"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549606129
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Household",
+      "segregation",
+      "Solid Waste Collection ward wise guwahati",
+      "Waste"
+    ],
+    "nid": [
+      602910952
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste  Ward wise Segregation Data of Guwahati"
+    ],
+    "uuid": [
+      "8edae24f-bc60-44a6-a89c-72562f60e70b"
+    ],
+    "vid": [
+      13051467
+    ],
+    "view_count": [
+      58
+    ],
+    "search_api_id": [
+      "entity:node/602910952:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/total-connection-capacity-wtp-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      39
+    ],
+    "published_date": [
+      1549709421
+    ],
+    "body:value": [
+      "Total Connection capacity of WTP for Guwahati"
+    ],
+    "changed": [
+      1555995877
+    ],
+    "created": [
+      1549607808
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Drinking Water",
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Total Connection capacity of WTP for Guwahati"
+    ],
+    "nid": [
+      602911003
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Total Connection capacity of WTP for Guwahati"
+    ],
+    "uuid": [
+      "284a58f0-5c79-4acc-a9b2-14a5c9e96a6f"
+    ],
+    "vid": [
+      12083555
+    ],
+    "view_count": [
+      36
+    ],
+    "search_api_id": [
+      "entity:node/602911003:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-water-connection-wtp-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      61
+    ],
+    "published_date": [
+      1549709421
+    ],
+    "body:value": [
+      "Number of water connection from WTP in guwahati"
+    ],
+    "changed": [
+      1555995778
+    ],
+    "created": [
+      1549608089
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Drinking Water",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Number of water connection from WTP in guwahati"
+    ],
+    "nid": [
+      602911013
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Number of water connection from WTP in guwahati"
+    ],
+    "uuid": [
+      "ba2aa624-9767-4701-ae39-011fd7489fc6"
+    ],
+    "vid": [
+      12083586
+    ],
+    "view_count": [
+      51
+    ],
+    "search_api_id": [
+      "entity:node/602911013:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/intake-capacity-wtp-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      49
+    ],
+    "published_date": [
+      1549709421
+    ],
+    "body:value": [
+      "Intake capacity of WTP of Guwahati"
+    ],
+    "changed": [
+      1555995681
+    ],
+    "created": [
+      1549608326
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Drinking Water",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Intake capacity of WTP of Guwahati"
+    ],
+    "nid": [
+      602911022
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Intake capacity of WTP of Guwahati"
+    ],
+    "uuid": [
+      "d29c06a4-f596-4101-9ddf-ea7ce86d6c6a"
+    ],
+    "vid": [
+      12083816
+    ],
+    "view_count": [
+      44
+    ],
+    "search_api_id": [
+      "entity:node/602911022:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/street-lights-information-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      112
+    ],
+    "published_date": [
+      1550223620
+    ],
+    "body:value": [
+      "Street Light Information of Guwahati with % of street lights connected having LED bulbs\t\\\r\n"
+    ],
+    "changed": [
+      1564037874
+    ],
+    "created": [
+      1550033712
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bulbs",
+      "LED",
+      "poles",
+      "street lights"
+    ],
+    "nid": [
+      602912498
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Street Lights information Guwahati"
+    ],
+    "uuid": [
+      "4bf787d4-4138-44b5-82ba-82f72fe8e217"
+    ],
+    "vid": [
+      12097695
+    ],
+    "view_count": [
+      103
+    ],
+    "search_api_id": [
+      "entity:node/602912498:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-processing-data-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      64
+    ],
+    "published_date": [
+      1550755213
+    ],
+    "body:value": [
+      "Solid Waste Processing Data for Guwahati"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550034800
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaerobic Digestion",
+      "Biomethanation",
+      "Composting",
+      "Energy",
+      "Generation",
+      "incineration",
+      "Landfill",
+      "Pelletization",
+      "Plasma Pyrolysis",
+      "Power",
+      "Process",
+      "RDF",
+      "Recycling",
+      "Refuse Derived Fuel",
+      "Waste",
+      "Windrow composting"
+    ],
+    "nid": [
+      602912502
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste Processing Data for Guwahati"
+    ],
+    "uuid": [
+      "3d6692dd-e9c5-4b83-8ffa-4a15a30bb2b5"
+    ],
+    "vid": [
+      13054299
+    ],
+    "view_count": [
+      56
+    ],
+    "search_api_id": [
+      "entity:node/602912502:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-disposal-data-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      119
+    ],
+    "published_date": [
+      1550223861
+    ],
+    "body:value": [
+      "Solid Waste Disposal Data  for Guwahati. Solid Waste Disposal Methods Assessment\t\\\r\n"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1550035434
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Disposal",
+      "Dry",
+      "garbage",
+      "Organic",
+      "SLF",
+      "Waste",
+      "Wet"
+    ],
+    "nid": [
+      602912504
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste Disposal Data  for Guwahati"
+    ],
+    "uuid": [
+      "0ed7ac85-35e8-45af-a866-38d87e26b808"
+    ],
+    "vid": [
+      13056314
+    ],
+    "view_count": [
+      112
+    ],
+    "search_api_id": [
+      "entity:node/602912504:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/list-parks-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      143
+    ],
+    "published_date": [
+      1550755213
+    ],
+    "body:value": [
+      "List of parks in Guwahati.  %age of area available for development of parks / gardens / playgrounds\t\\\r\n"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1550296233
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "neighbourhood",
+      "Park",
+      "Playground",
+      "residential"
+    ],
+    "nid": [
+      602914081
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "List of parks in Guwahati"
+    ],
+    "uuid": [
+      "8c13710c-023f-4a9a-a20a-e31dee2d2e24"
+    ],
+    "vid": [
+      13012594
+    ],
+    "view_count": [
+      92
+    ],
+    "search_api_id": [
+      "entity:node/602914081:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/community-facilities-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      138
+    ],
+    "published_date": [
+      1550755213
+    ],
+    "body:value": [
+      "Community Facilities for Guwahati. Communities Amenities Availability"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1550296805
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Auditorium",
+      "community",
+      "Convention",
+      "facility",
+      "Ground",
+      "Sports",
+      "swimming",
+      "Theatre"
+    ],
+    "nid": [
+      602914091
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Community Facilities for Guwahati"
+    ],
+    "uuid": [
+      "40199dcc-e8f4-42b5-a60a-242ae7a62059"
+    ],
+    "vid": [
+      13055656
+    ],
+    "view_count": [
+      71
+    ],
+    "search_api_id": [
+      "entity:node/602914091:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/information-development-authority-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      110
+    ],
+    "published_date": [
+      1550755213
+    ],
+    "body:value": [
+      "Information on Development Authority for Guwahati"
+    ],
+    "changed": [
+      1563880877
+    ],
+    "created": [
+      1550299951
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Information on Development Authority for Guwahati"
+    ],
+    "nid": [
+      602914135
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Information on Development Authority for Guwahati"
+    ],
+    "uuid": [
+      "e1d6b855-5484-4945-b69d-d79da6cf76d0"
+    ],
+    "vid": [
+      12106428
+    ],
+    "view_count": [
+      65
+    ],
+    "search_api_id": [
+      "entity:node/602914135:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/vat-gst-collection-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      117
+    ],
+    "published_date": [
+      1563195918
+    ],
+    "body:value": [
+      "VAT& GST Collection for Guwahati"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550816585
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "GST",
+      "Sales",
+      "Tax",
+      "VAT"
+    ],
+    "nid": [
+      602914983
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "VAT& GST Collection for Guwahati"
+    ],
+    "uuid": [
+      "b7b3e575-60f1-4d0d-b63c-b52a7a9ca185"
+    ],
+    "vid": [
+      13053614
+    ],
+    "view_count": [
+      75
+    ],
+    "search_api_id": [
+      "entity:node/602914983:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/statement-revenue-earned-water-works-department-guwahati-2019-2020"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      110
+    ],
+    "published_date": [
+      1563195918
+    ],
+    "body:value": [
+      "Statement of revenue earned by water works department"
+    ],
+    "changed": [
+      1563195967
+    ],
+    "created": [
+      1562659295
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Drinking Water",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "revenue earned by water works department"
+    ],
+    "nid": [
+      602918431
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Statement of revenue earned by water works department-guwahati-2019-2020 "
+    ],
+    "uuid": [
+      "c3acd81a-d101-496e-934f-70f8340b3e3e"
+    ],
+    "vid": [
+      12093540
+    ],
+    "view_count": [
+      66
+    ],
+    "search_api_id": [
+      "entity:node/602918431:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/statement-revenue-earned-water-works-department-guwahati-2017-18-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      132
+    ],
+    "published_date": [
+      1563365253
+    ],
+    "body:value": [
+      "Statement of revenue earned by water works department-guwahati"
+    ],
+    "changed": [
+      1563365350
+    ],
+    "created": [
+      1563254381
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Drinking Water",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Statement of revenue earned by water works department-guwahati-2017-18"
+    ],
+    "nid": [
+      602918496
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Statement of revenue earned by water works department-guwahati-2017-18"
+    ],
+    "uuid": [
+      "62cbb69e-0a79-4418-b4c2-eb72a9e4e613"
+    ],
+    "vid": [
+      12094485
+    ],
+    "view_count": [
+      93
+    ],
+    "search_api_id": [
+      "entity:node/602918496:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/ambient-air-quality-data-heavy-metals-leadpb-nickelni-feb-2019-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      72
+    ],
+    "published_date": [
+      1592288559
+    ],
+    "body:value": [
+      "Ambient Air Quality Data for Heavy Metals Lead(Pb) & Nickel(Ni)-Feb- 2019-Guwahati"
+    ],
+    "changed": [
+      1592288576
+    ],
+    "created": [
+      1564728913
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Ambient Air Quality Data for Heavy Metals Lead(Pb) & Nickel(Ni)-Feb- 2019-Guwahati"
+    ],
+    "nid": [
+      602918705
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Ambient Air Quality Data for Heavy Metals Lead(Pb) & Nickel(Ni)-Feb- 2019-Guwahati"
+    ],
+    "uuid": [
+      "3d544235-0596-450b-ac9a-0edfd7a3b178"
+    ],
+    "vid": [
+      12100168
+    ],
+    "view_count": [
+      36
+    ],
+    "search_api_id": [
+      "entity:node/602918705:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/ambient-air-quality-data-heavy-metals-leadpb-nickelni-march-2019-guwahati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      97
+    ],
+    "published_date": [
+      1592289016
+    ],
+    "body:value": [
+      "Ambient Air Quality Data for Heavy Metals Lead(Pb) & Nickel(Ni)-March- 2019-Guwahati"
+    ],
+    "changed": [
+      1592289038
+    ],
+    "created": [
+      1564729023
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam",
+      "Kamrup Metropolitan",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Assam",
+      "Guwahati"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Ambient Air Quality Data for Heavy Metals Lead(Pb) & Nickel(Ni)-March- 2019-Guwahati"
+    ],
+    "nid": [
+      602918707
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Ambient Air Quality Data for Heavy Metals Lead(Pb) & Nickel(Ni)-March- 2019-Guwahati"
+    ],
+    "uuid": [
+      "e61b9e21-c758-408e-8249-4d1d500e46df"
+    ],
+    "vid": [
+      12100218
+    ],
+    "view_count": [
+      53
+    ],
+    "search_api_id": [
+      "entity:node/602918707:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/projects-funded-mdoner-bodo-territorial-council-btc-assam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      637
+    ],
+    "published_date": [
+      1597731395
+    ],
+    "body:value": [
+      "The catalog contains details of projects funded by Ministry of Development of North Eastern Region for Bodo Territorial Council (BTC), Assam."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1597160665
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Development of North Eastern Region"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Art and Culture",
+      "Water and Sanitation",
+      "Education",
+      "Water Resources",
+      "Health and Family welfare",
+      "Infrastructure",
+      "Others",
+      "Power and Energy",
+      "Travel and Tourism",
+      "Youth and Sports"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NER",
+      "North",
+      "East",
+      "MDoNER",
+      "BTC"
+    ],
+    "nid": [
+      6780794
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "783"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Projects funded by MDoNER for Bodo Territorial Council (BTC), Assam"
+    ],
+    "uuid": [
+      "b808ac8e-3f4a-482d-8de2-63342144cb64"
+    ],
+    "vid": [
+      13057371
+    ],
+    "view_count": [
+      196
+    ],
+    "search_api_id": [
+      "entity:node/6780794:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/projects-funded-mdoner-special-package-karbi-anglong-autonomous-territorial-council-kaatc"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      719
+    ],
+    "published_date": [
+      1597669267
+    ],
+    "body:value": [
+      "The catalog contains details of projects funded by Ministry of DoNER for Special Package for Karbi Anglong Autonomous Territorial Council (KAATC), Assam."
+    ],
+    "changed": [
+      1739360435
+    ],
+    "created": [
+      1597205609
+    ],
+    "field_asset_jurisdiction:name": [
+      "Assam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "KAATC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Development of North Eastern Region"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Art and Culture",
+      "Education",
+      "Water Resources",
+      "Health and Family welfare",
+      "Power and Energy",
+      "Travel and Tourism",
+      "Youth and Sports"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Assam",
+      "Special",
+      "Council",
+      "Autonomous",
+      "Package",
+      "KAATC",
+      "Karbi",
+      "Anglong"
+    ],
+    "nid": [
+      6780818
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "783"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Projects funded by MDoNER for Special Package for Karbi Anglong Autonomous Territorial Council (KAATC), Assam"
+    ],
+    "uuid": [
+      "0a186a44-67a2-48b0-92ba-031d7caad996"
+    ],
+    "vid": [
+      12986731
+    ],
+    "view_count": [
+      323
+    ],
+    "search_api_id": [
+      "entity:node/6780818:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/buses-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      178
+    ],
+    "published_date": [
+      1550209924
+    ],
+    "body:value": [
+      "This catalog helps understand the public transportation system of a\\\r\ncity"
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1549100911
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bus",
+      "cost",
+      "earnings",
+      "Revenue",
+      "stands",
+      "Stops",
+      "Terminals"
+    ],
+    "nid": [
+      602907720
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Buses: AURANGABAD"
+    ],
+    "uuid": [
+      "0f8b13d7-5701-4edd-80a8-b13b84e4e915"
+    ],
+    "vid": [
+      13060584
+    ],
+    "view_count": [
+      175
+    ],
+    "search_api_id": [
+      "entity:node/602907720:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/buses-aurangabad-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      88
+    ],
+    "published_date": [
+      1550209924
+    ],
+    "body:value": [
+      "This catalog helps understand the public transportation system of a\\\r\ncity\\\r\n"
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1549101591
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bus",
+      "cost",
+      "earnings",
+      "Revenue",
+      "stands",
+      "Stops",
+      "Terminals"
+    ],
+    "nid": [
+      602907724
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Buses : AURANGABAD"
+    ],
+    "uuid": [
+      "5178a40e-bc95-41d8-8032-cb27ad86ced7"
+    ],
+    "vid": [
+      13060585
+    ],
+    "view_count": [
+      85
+    ],
+    "search_api_id": [
+      "entity:node/602907724:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/buses-aurangabad-1"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      590
+    ],
+    "published_date": [
+      1550209924
+    ],
+    "body:value": [
+      "This catalog helps understand the public transportation system of a\\\r\ncity"
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1549102366
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bus",
+      "cost",
+      "earnings",
+      "Revenue",
+      "stands",
+      "Stops",
+      "Terminals"
+    ],
+    "nid": [
+      602907730
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Buses : AURANGABAD"
+    ],
+    "uuid": [
+      "cca35012-4622-49e8-80c5-b94c855d4372"
+    ],
+    "vid": [
+      13060586
+    ],
+    "view_count": [
+      74
+    ],
+    "search_api_id": [
+      "entity:node/602907730:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-management-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      120
+    ],
+    "published_date": [
+      1550146146
+    ],
+    "body:value": [
+      "This catalog defines source segregation, D2D collection efficiency, placement and sizes of bins, collection vehicles and their capacity, types of processing of waste and disposal options available for waste collected"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549107174
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bins",
+      "capacity",
+      "Collection",
+      "D2D",
+      "door2door",
+      "Energy",
+      "garbage",
+      "Households",
+      "Process",
+      "Quantity",
+      "Revenue",
+      "Sanitation",
+      "segregation",
+      "sewerage",
+      "toilet",
+      "vehicle",
+      "Waste",
+      "water"
+    ],
+    "nid": [
+      602907793
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste Management : AURANGABAD"
+    ],
+    "uuid": [
+      "3620b3ad-dc51-4e42-a3f9-b81b96b5e93b"
+    ],
+    "vid": [
+      13054082
+    ],
+    "view_count": [
+      113
+    ],
+    "search_api_id": [
+      "entity:node/602907793:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/health-infrastructure-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      128
+    ],
+    "published_date": [
+      1550209941
+    ],
+    "body:value": [
+      "This catalog gives out ward wise details of name of facilities, type of\\\r\nthe facility, level of facility, number of beds, doctors, physicians,\\\r\nnurses and midwives present"
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1549107986
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC",
+      "Health Infra"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Health",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bed",
+      "Doctor",
+      "Equipment",
+      "facility",
+      "Hospital",
+      "Maternity",
+      "nurse",
+      "Physician",
+      "primary",
+      "Private",
+      "professional",
+      "Public",
+      "secondary",
+      "Tertiary",
+      "Ward"
+    ],
+    "nid": [
+      602907807
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Health Infrastructure : AURANGABAD"
+    ],
+    "uuid": [
+      "7c076e8d-8a97-49ff-aeb5-349b085bef13"
+    ],
+    "vid": [
+      13060235
+    ],
+    "view_count": [
+      99
+    ],
+    "search_api_id": [
+      "entity:node/602907807:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/city-profile-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      165
+    ],
+    "published_date": [
+      1550146476
+    ],
+    "body:value": [
+      "The catalog contains data regarding basic indicators like area, population, workforce participation and households present in the city. These indicators define the basic profile of the city."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549016288
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Households",
+      "Labour",
+      "Population",
+      "smart city",
+      "Workforce"
+    ],
+    "nid": [
+      602907597
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "City Profile : AURANGABAD"
+    ],
+    "uuid": [
+      "b4903a96-0aff-44a2-8db6-cbdefffb98e6"
+    ],
+    "vid": [
+      13011496
+    ],
+    "view_count": [
+      154
+    ],
+    "search_api_id": [
+      "entity:node/602907597:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/itc-neighbourhood-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      73
+    ],
+    "published_date": [
+      1550146323
+    ],
+    "body:value": [
+      "Facilities for children at ward level; % of total area covered under\\\r\nparks, playgrounds and open spaces; % of municipal budget\\\r\nallocated for open spaces\\\r\n"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549019059
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Facilities",
+      "municipal",
+      "neighbourhood",
+      "Park",
+      "Playground",
+      "residential"
+    ],
+    "nid": [
+      602907609
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "ITC Neighbourhood : Aurangabad"
+    ],
+    "uuid": [
+      "ee535174-89c9-401d-922f-15973c51e055"
+    ],
+    "vid": [
+      13012498
+    ],
+    "view_count": [
+      68
+    ],
+    "search_api_id": [
+      "entity:node/602907609:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-health-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      76
+    ],
+    "published_date": [
+      1550209924
+    ],
+    "body:value": [
+      "This indicator helps in determining Financial health of the city"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549020243
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Finance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "Income",
+      "Loss",
+      "Profit",
+      "Revenue"
+    ],
+    "nid": [
+      602907619
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Financial Health : Aurangabad"
+    ],
+    "uuid": [
+      "49bb8216-99a2-4f6d-be90-3c7423ee579a"
+    ],
+    "vid": [
+      13055372
+    ],
+    "view_count": [
+      72
+    ],
+    "search_api_id": [
+      "entity:node/602907619:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/water-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      96
+    ],
+    "published_date": [
+      1550209924
+    ],
+    "body:value": [
+      "is catalog helps determine the water consumption per capita"
+    ],
+    "changed": [
+      1739360435
+    ],
+    "created": [
+      1549023087
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Drinking Water",
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "domestic",
+      "supply",
+      "water"
+    ],
+    "nid": [
+      602907631
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Water: AURANGABAD"
+    ],
+    "uuid": [
+      "4b0e21c4-7510-4bb3-8da0-5706d5f7cda0"
+    ],
+    "vid": [
+      12988151
+    ],
+    "view_count": [
+      81
+    ],
+    "search_api_id": [
+      "entity:node/602907631:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/property-tax-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7987
+    ],
+    "published_date": [
+      1550146378
+    ],
+    "body:value": [
+      "This denotes the efficiency achieved by a city in collecting property taxes against the tax demand raised in a given year."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549084933
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "Property",
+      "Tax"
+    ],
+    "nid": [
+      602907671
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Property Tax : AURANGABAD"
+    ],
+    "uuid": [
+      "26b96cc3-7a7e-4e31-bc26-d96d243c4f0f"
+    ],
+    "vid": [
+      13052953
+    ],
+    "view_count": [
+      7975
+    ],
+    "search_api_id": [
+      "entity:node/602907671:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/housing-slums-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      234
+    ],
+    "published_date": [
+      1550209924
+    ],
+    "body:value": [
+      "This catalog describes the slum and housing infrastructure details of the city"
+    ],
+    "changed": [
+      1739857487
+    ],
+    "created": [
+      1549086005
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Census",
+      "Census and Surveys",
+      "House listing and Housing Census"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "City",
+      "Female",
+      "Identified",
+      "Kutcha",
+      "Male",
+      "notified",
+      "Population",
+      "Pucca",
+      "Recognised",
+      "Semi-Pucca",
+      "slum",
+      "Smart",
+      "Type"
+    ],
+    "nid": [
+      602907673
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Housing & Slums : AURANGABAD"
+    ],
+    "uuid": [
+      "4d9db705-279f-4ad9-8c53-cffecb2ce910"
+    ],
+    "vid": [
+      13059817
+    ],
+    "view_count": [
+      115
+    ],
+    "search_api_id": [
+      "entity:node/602907673:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/electricity-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      96
+    ],
+    "published_date": [
+      1550146418
+    ],
+    "body:value": [
+      "This catalog helps in determining the electricty consumption of the\\\r\ncity"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549086724
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "commercial",
+      "Consumption",
+      "domestic",
+      "electricity",
+      "Industry",
+      "Public"
+    ],
+    "nid": [
+      602907675
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Electricity : Aurangabad"
+    ],
+    "uuid": [
+      "7062b9f4-27dc-4825-9f8c-cac5635c091d"
+    ],
+    "vid": [
+      13004322
+    ],
+    "view_count": [
+      92
+    ],
+    "search_api_id": [
+      "entity:node/602907675:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/city-profile-aurangabad-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      166
+    ],
+    "published_date": [
+      1550209924
+    ],
+    "body:value": [
+      "The catalog contains data regarding basic indicators like area, population, workforce participation and households present in the city. These indicators define the basic profile of the city."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549088190
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Households",
+      "Labour",
+      "Population",
+      "smart city",
+      "Workforce"
+    ],
+    "nid": [
+      602907681
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "City Profile : AURANGABAD"
+    ],
+    "uuid": [
+      "60592148-4b63-4276-9581-98675a9da160"
+    ],
+    "vid": [
+      13011500
+    ],
+    "view_count": [
+      149
+    ],
+    "search_api_id": [
+      "entity:node/602907681:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/digital-payments-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      66
+    ],
+    "published_date": [
+      1550209924
+    ],
+    "body:value": [
+      "This indicator helps determine the Digital Payments efficiency of a city"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549089031
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "Digital",
+      "digital payment",
+      "online"
+    ],
+    "nid": [
+      602907688
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Digital Payments : AURANGABAD"
+    ],
+    "uuid": [
+      "ef7cae66-ce3d-4326-b039-ce360086d5ea"
+    ],
+    "vid": [
+      13052954
+    ],
+    "view_count": [
+      63
+    ],
+    "search_api_id": [
+      "entity:node/602907688:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/street-lights-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      82
+    ],
+    "published_date": [
+      1550146267
+    ],
+    "body:value": [
+      "This catalog describes the number of street lights available in the city which are LED and connected to renewable resources"
+    ],
+    "changed": [
+      1556697949
+    ],
+    "created": [
+      1549089736
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bulbs",
+      "LED",
+      "poles",
+      "street lights"
+    ],
+    "nid": [
+      602907692
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Street Lights: AURANGABAD"
+    ],
+    "uuid": [
+      "88355d22-3fd9-42bd-88f6-d4c313eff449"
+    ],
+    "vid": [
+      12089123
+    ],
+    "view_count": [
+      79
+    ],
+    "search_api_id": [
+      "entity:node/602907692:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/transportation-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      93
+    ],
+    "published_date": [
+      1550209924
+    ],
+    "body:value": [
+      "This catalog helps understand the transportation insights of a city"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549091600
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Auto",
+      "Bus",
+      "cycle",
+      "metro",
+      "Mode",
+      "Registration",
+      "Rickshaw",
+      "share",
+      "Train",
+      "Trip",
+      "vehicle",
+      "walking"
+    ],
+    "nid": [
+      602907703
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Transportation: AURANGABAD"
+    ],
+    "uuid": [
+      "0cafb601-a24c-4f46-9d7e-fd67ec14e6c5"
+    ],
+    "vid": [
+      13055852
+    ],
+    "view_count": [
+      84
+    ],
+    "search_api_id": [
+      "entity:node/602907703:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/governance-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      113
+    ],
+    "published_date": [
+      1550146515
+    ],
+    "body:value": [
+      "This indicator helps determine the governance structure of the municipality."
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549000796
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Local Government"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "booths",
+      "Election",
+      "municipal",
+      "Poll",
+      "Registered",
+      "Voter"
+    ],
+    "nid": [
+      602907536
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Governance : Aurangabad"
+    ],
+    "uuid": [
+      "4760daa7-c767-43a0-baa2-9d2507873aa6"
+    ],
+    "vid": [
+      13055232
+    ],
+    "view_count": [
+      104
+    ],
+    "search_api_id": [
+      "entity:node/602907536:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/traffic-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      230
+    ],
+    "published_date": [
+      1550209924
+    ],
+    "body:value": [
+      "Total number of operational signalized intersections"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549004849
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "INTERSECTIONS"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Places",
+      "Travel and Tourism"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "intersections",
+      "Junctions",
+      "Motorized",
+      "Operational",
+      "Signal",
+      "trips"
+    ],
+    "nid": [
+      602907556
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Traffic: AURANGABAD"
+    ],
+    "uuid": [
+      "d38c37d3-14c2-45c4-a52c-5416c2b84b36"
+    ],
+    "vid": [
+      13056355
+    ],
+    "view_count": [
+      206
+    ],
+    "search_api_id": [
+      "entity:node/602907556:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/mortality-rate-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      379
+    ],
+    "published_date": [
+      1550146215
+    ],
+    "body:value": [
+      "This catalog defines various indicators under mortality such as\\\r\nnumber of live births, number of deaths divided by male, female,\\\r\ninfants, children"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549108706
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Health",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "birth",
+      "child",
+      "Death",
+      "Infant",
+      "Mortality"
+    ],
+    "nid": [
+      602907824
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Mortality Rate : AURANGABAD"
+    ],
+    "uuid": [
+      "1a08d524-b0f2-4424-ae16-05f5e83bff41"
+    ],
+    "vid": [
+      13000420
+    ],
+    "view_count": [
+      372
+    ],
+    "search_api_id": [
+      "entity:node/602907824:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-management-aurangabad-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      227
+    ],
+    "published_date": [
+      1550209941
+    ],
+    "body:value": [
+      "This catalog defines source segregation, D2D collection efficiency, placement and sizes of bins, collection vehicles and their capacity, types of processing of waste and disposal options available for waste collected"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549109271
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bins",
+      "capacity",
+      "Collection",
+      "D2D",
+      "door2door",
+      "Energy",
+      "garbage",
+      "Households",
+      "Process",
+      "Quantity",
+      "Revenue",
+      "Sanitation",
+      "segregation",
+      "sewerage",
+      "toilet",
+      "vehicle",
+      "Waste",
+      "water"
+    ],
+    "nid": [
+      602907836
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste Management : AURANGABAD"
+    ],
+    "uuid": [
+      "5ef3efa9-e432-4409-8eb2-7111ab296437"
+    ],
+    "vid": [
+      13054087
+    ],
+    "view_count": [
+      214
+    ],
+    "search_api_id": [
+      "entity:node/602907836:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/diseases-aurangabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      110
+    ],
+    "published_date": [
+      1550209941
+    ],
+    "body:value": [
+      "this indicator helps determine the period prevalence of vector borne\\\r\n(indicator of the measures taken by city administrations to control\\\r\nthe growth of mosquitoes and other organisms that spread such\\\r\ndiseases, and the general level of hygiene and sanitation) and water "
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1549109363
+    ],
+    "field_asset_jurisdiction:name": [
+      "Aurangabad",
+      "Maharashtra",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AMC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Aurangabad"
+    ],
+    "field_sector:name": [
+      "Health",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air",
+      "Disease",
+      "Vector",
+      "water"
+    ],
+    "nid": [
+      602907839
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Diseases : AURANGABAD"
+    ],
+    "uuid": [
+      "f511fc63-73f4-40e4-9796-b7af74d5372b"
+    ],
+    "vid": [
+      13057145
+    ],
+    "view_count": [
+      95
+    ],
+    "search_api_id": [
+      "entity:node/602907839:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

@@ -1,0 +1,5347 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/rural-health-statistics-2016"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      30937
+    ],
+    "published_date": [
+      1488882325
+    ],
+    "body:value": [
+      "It provides data of Rural Health Statistics 2016.  Rural Health Statistics 2016 contains Infrastructural information and building positions of Sub Centres, Primary Health Centres (PHCs) and Community Health Centres (CHCs). It also contains state wise number of Sub Divisional Hospital, District Hospital & Mobile Medical Units. Get state/Ut wise information of Specialist Doctors, Health Workers, Auxiliary Mid wife Nurse (ANM), Nursing Staffs, Health Assistants, Radiographers, Pharmacists. It includes information of staffs in position, requirement of staffs and shortfall. District wise availability of health centres has also been furnished in the data."
+    ],
+    "changed": [
+      1566286809
+    ],
+    "created": [
+      1486717428
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Health Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANM",
+      "area",
+      "CHC",
+      "child",
+      "community",
+      "Doctor",
+      "Hospital",
+      "Infant",
+      "Infrastructure",
+      "maternal",
+      "Medical",
+      "PHC",
+      "primary",
+      "Rural",
+      "Staff",
+      "Tribal",
+      "Facility",
+      "PHCs",
+      "CHCs",
+      "Nurse",
+      "mobile",
+      "Nursing",
+      "Worker",
+      "RHS",
+      "Specialist",
+      "Pharmacists",
+      "Auxiliary",
+      "Midwife",
+      "Divisional",
+      "Assistant",
+      "Radiographer"
+    ],
+    "nid": [
+      2005921
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rural Health Statistics - 2016"
+    ],
+    "uuid": [
+      "2a7f31fd-412a-4194-aa22-f94f8327b35a"
+    ],
+    "vid": [
+      7897057
+    ],
+    "view_count": [
+      29253
+    ],
+    "search_api_id": [
+      "entity:node/2005921:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1969"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      645
+    ],
+    "published_date": [
+      1489727585
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1969. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1490675084
+    ],
+    "created": [
+      1487072112
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "girls",
+      "Kidnapping",
+      "Robbery",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Victim",
+      "Forces"
+    ],
+    "nid": [
+      2009821
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1969"
+    ],
+    "uuid": [
+      "c377f450-2171-4777-9999-93514a99fdca"
+    ],
+    "vid": [
+      7897061
+    ],
+    "view_count": [
+      527
+    ],
+    "search_api_id": [
+      "entity:node/2009821:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/month-wise-export-data-principal-commodity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      15127
+    ],
+    "published_date": [
+      1424950870
+    ],
+    "body:value": [
+      "The data contains India's export data for Principal Commodity month-wise. The data for export has been classified based on the Principal Commodities by DGCIS. 168 commodity groups for publication of principal commodity level foreign trade data has been introduced by DGCIS. The data includes value in Indian rupee. Source of data is DGCIS, Kolkata."
+    ],
+    "changed": [
+      1462180906
+    ],
+    "created": [
+      1424330885
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Principal Commodity"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department of Commerce",
+      "Directorate General of Foreign Trade (DGFT)"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Export"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commerce",
+      "commercial",
+      "Export",
+      "Industry",
+      "intelligence",
+      "DGCIS",
+      "Directorate",
+      "Statistic"
+    ],
+    "nid": [
+      205103
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Month-wise Export data for Principal Commodity "
+    ],
+    "uuid": [
+      "186a2897-9587-4091-b7de-ffa6419deb89"
+    ],
+    "vid": [
+      7891708
+    ],
+    "view_count": [
+      13209
+    ],
+    "search_api_id": [
+      "entity:node/205103:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cases-registered-under-cyber-crimes-suspects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6750
+    ],
+    "published_date": [
+      1425366328
+    ],
+    "body:value": [
+      "Get the data regarding the details of Cases registered under Cyber Crimes by Suspects like: Foreign National /Group, Disgrunted Employee /Employee, Cracker/Student/ Professional learners, Business Competitor, Neighbours /Friends & Relatives and Others."
+    ],
+    "changed": [
+      1441625829
+    ],
+    "created": [
+      1424693562
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Cyber",
+      "Suspect"
+    ],
+    "nid": [
+      206063
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cases registered under Cyber Crimes by Suspects"
+    ],
+    "uuid": [
+      "9c973689-a1cd-4ae2-a42c-a4f1bdefddb8"
+    ],
+    "vid": [
+      7891713
+    ],
+    "view_count": [
+      5887
+    ],
+    "search_api_id": [
+      "entity:node/206063:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cases-registered-under-cyber-crimes-motives"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      16308
+    ],
+    "published_date": [
+      1425366306
+    ],
+    "body:value": [
+      "Get the data regarding the details of Cases registered under Cyber Crimes by Motives like: Revenge /Settling scores, Greed/ Money, Extortion, Cause Disrepute, Prank/ Satisfaction of Gaining Control , Fraud/ Illegal Gain, Eve teasing/ Harassment and Others."
+    ],
+    "changed": [
+      1441625644
+    ],
+    "created": [
+      1424694006
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Cyber",
+      "Motive"
+    ],
+    "nid": [
+      206103
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cases registered under Cyber Crimes by Motives"
+    ],
+    "uuid": [
+      "c33e83e9-1f20-4639-bee9-06ed0711c5fb"
+    ],
+    "vid": [
+      7891718
+    ],
+    "view_count": [
+      14803
+    ],
+    "search_api_id": [
+      "entity:node/206103:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/accidental-deaths-suicides-india-adsi-1998"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      566
+    ],
+    "published_date": [
+      1490674421
+    ],
+    "body:value": [
+      "The catalog contains the details of natural & un-natural accidents, traffic accidents and suicides. Major causes of accidental deaths are Traffic accidents, Drowning, Lightning, Heart Attacks, Accidental Fire, Falls, Poisoning. Major causes of Suicides are Family Problems, Illness, Bankruptcy or Indebtedness."
+    ],
+    "changed": [
+      1490674908
+    ],
+    "created": [
+      1487655622
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Accidental Deaths and Suicides"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Attack",
+      "Death",
+      "Fire",
+      "Traffic",
+      "Lightning",
+      "Illness",
+      "Accident",
+      "ADSI",
+      "Drowning",
+      "Bankruptcy",
+      "Indebtedness",
+      "suicide",
+      "Natural",
+      "Heart"
+    ],
+    "nid": [
+      2063841
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Accidental Deaths & Suicides in India (ADSI) - 1998"
+    ],
+    "uuid": [
+      "41bd496c-e365-4441-8085-51a0adc4922f"
+    ],
+    "vid": [
+      7897085
+    ],
+    "view_count": [
+      422
+    ],
+    "search_api_id": [
+      "entity:node/2063841:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/villagetown-wise-primary-census-abstract-2011-uttar-pradesh"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      130113
+    ],
+    "published_date": [
+      1425291166
+    ],
+    "body:value": [
+      "Get data on Village/Town-wise Primary Census Abstract, 2011 - Uttar Pradesh. It contains the details of No. of Households, Population, population with age group 0-6, SC ST Population, Literate/Illiterate population, Total Workers/Main Workers/Marginal workers Population, Main Cultivator/Main Agriculture Laborers/ Main Household Industries/ Main Other Workers Population, Marginal Cultivator/ Marginal Agriculture Laborers/ Marginal Household Industries/ Marginal Other Workers Population and Non-working Population categories with Male, Female and Total."
+    ],
+    "changed": [
+      1479206695
+    ],
+    "created": [
+      1424837932
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Socio-Economic"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "census",
+      "Cultivator",
+      "Household",
+      "Literate",
+      "Population",
+      "SC",
+      "ST",
+      "Caste",
+      "Worker",
+      "Marginal",
+      "Labourer",
+      "Scheduled",
+      "Tribe",
+      "Illetarate"
+    ],
+    "nid": [
+      206523
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "792"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village/Town-wise Primary Census Abstract, 2011 - UTTAR PRADESH"
+    ],
+    "uuid": [
+      "21b0a22f-944e-41e9-a916-7becffa78877"
+    ],
+    "vid": [
+      7891723
+    ],
+    "view_count": [
+      121589
+    ],
+    "search_api_id": [
+      "entity:node/206523:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1968"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1744
+    ],
+    "published_date": [
+      1489726341
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1968. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1490674240
+    ],
+    "created": [
+      1487762988
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "girls",
+      "Kidnapping",
+      "Robbery",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Victim",
+      "Forces"
+    ],
+    "nid": [
+      2065541
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1968"
+    ],
+    "uuid": [
+      "e14b00c1-b8fa-40ee-9f12-91e04321e4e0"
+    ],
+    "vid": [
+      7897089
+    ],
+    "view_count": [
+      1626
+    ],
+    "search_api_id": [
+      "entity:node/2065541:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/villagetown-wise-primary-census-abstract-2011-goa"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8362
+    ],
+    "published_date": [
+      1425274992
+    ],
+    "body:value": [
+      "Get data on Village/Town-wise Primary Census Abstract, 2011 - Goa. It contains the details of No. of Households, Population, population with age group 0-6, SC ST Population, Literate/Illiterate population, Total Workers/Main Workers/Marginal workers Population, Main Cultivator/Main Agriculture Laborers/ Main Household Industries/ Main Other Workers Population, Marginal Cultivator/ Marginal Agriculture Laborers/ Marginal Household Industries/ Marginal Other Workers Population and Non-working Population categories with Male, Female and Total."
+    ],
+    "changed": [
+      1441625532
+    ],
+    "created": [
+      1424840078
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Socio-Economic"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "census",
+      "Cultivator",
+      "Household",
+      "Literate",
+      "Population",
+      "SC",
+      "ST",
+      "Caste",
+      "Worker",
+      "Marginal",
+      "Labourer",
+      "Scheduled",
+      "Tribe",
+      "Illetarate"
+    ],
+    "nid": [
+      206583
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "791",
+      "797"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village/Town-wise Primary Census Abstract, 2011 - GOA"
+    ],
+    "uuid": [
+      "35365ce1-22be-4b5e-8db9-86c21b381dc3"
+    ],
+    "vid": [
+      7891728
+    ],
+    "view_count": [
+      7026
+    ],
+    "search_api_id": [
+      "entity:node/206583:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/villagetown-wise-primary-census-abstract-2011-kerala"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      45667
+    ],
+    "published_date": [
+      1425275801
+    ],
+    "body:value": [
+      "Get data on Village/Town-wise Primary Census Abstract, 2011 - Kerala. It contains the details of No. of Households, Population, population with age group 0-6, SC ST Population, Literate/Illiterate population, Total Workers/Main Workers/Marginal workers Population, Main Cultivator/Main Agriculture Laborers/ Main Household Industries/ Main Other Workers Population, Marginal Cultivator/ Marginal Agriculture Laborers/ Marginal Household Industries/ Marginal Other Workers Population and Non-working Population categories with Male, Female and Total."
+    ],
+    "changed": [
+      1441625524
+    ],
+    "created": [
+      1424840366
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Socio-Economic"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "census",
+      "Cultivator",
+      "Household",
+      "Literate",
+      "Population",
+      "SC",
+      "ST",
+      "Caste",
+      "Worker",
+      "Marginal",
+      "Labourer",
+      "Scheduled",
+      "Tribe",
+      "Illetarate"
+    ],
+    "nid": [
+      206603
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village/Town-wise Primary Census Abstract, 2011 - KERALA"
+    ],
+    "uuid": [
+      "bd209618-20f2-4a56-ba43-53b4737c1879"
+    ],
+    "vid": [
+      7891733
+    ],
+    "view_count": [
+      42197
+    ],
+    "search_api_id": [
+      "entity:node/206603:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/villagetown-wise-primary-census-abstract-2011-tamil-nadu"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      80539
+    ],
+    "published_date": [
+      1424927538
+    ],
+    "body:value": [
+      "Get data on Village/Town-wise Primary Census Abstract, 2011 - Tamil Nadu. It contains the details of No. of Households, Population, population with age group 0-6, SC ST Population, Literate/Illiterate population, Total Workers/Main Workers/Marginal workers Population, Main Cultivator/Main Agriculture Laborers/ Main Household Industries/ Main Other Workers Population, Marginal Cultivator/ Marginal Agriculture Laborers/ Marginal Household Industries/ Marginal Other Workers Population and Non-working Population categories with Male, Female and Total."
+    ],
+    "changed": [
+      1478158123
+    ],
+    "created": [
+      1424840426
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Socio-Economic"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "census",
+      "Cultivator",
+      "Household",
+      "Literate",
+      "Population",
+      "SC",
+      "ST",
+      "Caste",
+      "Worker",
+      "Marginal",
+      "Labourer",
+      "Scheduled",
+      "Tribe",
+      "Illetarate"
+    ],
+    "nid": [
+      206623
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village/Town-wise Primary Census Abstract, 2011 - TAMIL NADU"
+    ],
+    "uuid": [
+      "da3d38e0-ad2e-4583-9066-6119f54c9383"
+    ],
+    "vid": [
+      7891738
+    ],
+    "view_count": [
+      76400
+    ],
+    "search_api_id": [
+      "entity:node/206623:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/registration-new-companies-region-state-wise-distribution"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9354
+    ],
+    "published_date": [
+      1425555426
+    ],
+    "body:value": [
+      "The data contains regarding Region / State wise Distribution of Registration of New  Companies. It contains data of Authorized Capital (Private, Public and Total). Report has been published by The Ministry of Corporate Affairs, Government of India."
+    ],
+    "changed": [
+      1633955940
+    ],
+    "created": [
+      1424930953
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Classification",
+      "Construction",
+      "industrial",
+      "Private",
+      "Public",
+      "Paid",
+      "Limited",
+      "Authorized"
+    ],
+    "nid": [
+      214963
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Registration of New  Companies - Region / State wise Distribution"
+    ],
+    "uuid": [
+      "78b2e72d-c804-4a3f-9106-8af202e6e159"
+    ],
+    "vid": [
+      7891742
+    ],
+    "view_count": [
+      7386
+    ],
+    "search_api_id": [
+      "entity:node/214963:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/non-government-companies-struck-regionstate-wise-distribution"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3041
+    ],
+    "published_date": [
+      1425966037
+    ],
+    "body:value": [
+      "Get the data details about on Region / State wise Distribution of  Non-Government Companies  struck off. Report has been published by The Ministry of Corporate Affairs, Government of India."
+    ],
+    "changed": [
+      1634020502
+    ],
+    "created": [
+      1424931283
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Classification",
+      "Construction",
+      "industrial",
+      "Private",
+      "Provisional",
+      "Public",
+      "Paid",
+      "Limited"
+    ],
+    "nid": [
+      215023
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Non-Government Companies struck off - Region/State wise Distribution"
+    ],
+    "uuid": [
+      "fb6b339d-eeb4-4da8-a559-d53e5779647f"
+    ],
+    "vid": [
+      7891745
+    ],
+    "view_count": [
+      2275
+    ],
+    "search_api_id": [
+      "entity:node/215023:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-distribution-number-active-companies"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      17809
+    ],
+    "published_date": [
+      1425555772
+    ],
+    "body:value": [
+      "The data contains State wise Distribution of  Number of Active Companies. It contains data of Authorized Capital (Private, Public and Total). Report has been published by The Ministry of Corporate Affairs, Government of India."
+    ],
+    "changed": [
+      1634020782
+    ],
+    "created": [
+      1424931808
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Classification",
+      "Construction",
+      "industrial",
+      "Private",
+      "Public",
+      "Paid",
+      "Limited",
+      "Authorized"
+    ],
+    "nid": [
+      215063
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State wise Distribution of Number of Active Companies"
+    ],
+    "uuid": [
+      "43faabb8-bc1a-473a-9373-64c541f206e9"
+    ],
+    "vid": [
+      7891749
+    ],
+    "view_count": [
+      13521
+    ],
+    "search_api_id": [
+      "entity:node/215063:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-distribution-number-active-government-companies-limited-shares"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3263
+    ],
+    "published_date": [
+      1425965922
+    ],
+    "body:value": [
+      "Get the data details about on State-wise Distribution of Number of Active Government Companies Limited by Shares. Data has been published by The Ministry of Corporate Affairs, Government of India."
+    ],
+    "changed": [
+      1634020727
+    ],
+    "created": [
+      1424931811
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Classification",
+      "Construction",
+      "industrial",
+      "Private",
+      "Provisional",
+      "Public",
+      "Paid",
+      "Limited"
+    ],
+    "nid": [
+      215083
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Distribution of Number of Active Government Companies Limited by Shares"
+    ],
+    "uuid": [
+      "4e0a2ec7-9cb2-4a52-916a-4ddffa7d6384"
+    ],
+    "vid": [
+      7891752
+    ],
+    "view_count": [
+      2562
+    ],
+    "search_api_id": [
+      "entity:node/215083:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-distribution-number-active-non-government-companies-limited-shares"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4033
+    ],
+    "published_date": [
+      1425965806
+    ],
+    "body:value": [
+      "Get the data details about on State-wise Distribution of Number of Active Non-Government Companies Limited by Shares. Data has been published by The Ministry of Corporate Affairs, Government of India."
+    ],
+    "changed": [
+      1634020830
+    ],
+    "created": [
+      1424931814
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Classification",
+      "Construction",
+      "industrial",
+      "Private",
+      "Provisional",
+      "Public",
+      "Paid",
+      "Limited"
+    ],
+    "nid": [
+      215103
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Distribution of Number of Active Non-Government Companies Limited by Shares"
+    ],
+    "uuid": [
+      "2a375abf-beac-4010-b5c6-07fb0cdb8ed3"
+    ],
+    "vid": [
+      7891755
+    ],
+    "view_count": [
+      3177
+    ],
+    "search_api_id": [
+      "entity:node/215103:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/economic-activity-wise-active-companies"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5925
+    ],
+    "published_date": [
+      1425965683
+    ],
+    "body:value": [
+      "The data describes details on Economic- Activity wise Active Companies. Data has been published by The Ministry of Corporate Affairs, Government of India."
+    ],
+    "changed": [
+      1633956024
+    ],
+    "created": [
+      1424931816
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Classification",
+      "Construction",
+      "industrial",
+      "Private",
+      "Provisional",
+      "Public",
+      "Paid",
+      "Limited"
+    ],
+    "nid": [
+      215123
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Economic- Activity wise Active Companies"
+    ],
+    "uuid": [
+      "eeaf99f9-d52d-4206-b02f-24d6240d909a"
+    ],
+    "vid": [
+      7891758
+    ],
+    "view_count": [
+      4499
+    ],
+    "search_api_id": [
+      "entity:node/215123:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/economic-activity-wise-active-government-companies"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3033
+    ],
+    "published_date": [
+      1425965597
+    ],
+    "body:value": [
+      "The data describes details on Economic- Activity wise Active Government Companies. Data has been published by The Ministry of Corporate Affairs, Government of India."
+    ],
+    "changed": [
+      1634020306
+    ],
+    "created": [
+      1424931819
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Classification",
+      "Construction",
+      "industrial",
+      "Private",
+      "Provisional",
+      "Public",
+      "Paid",
+      "Limited"
+    ],
+    "nid": [
+      215143
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Economic- Activity wise Active Government Companies"
+    ],
+    "uuid": [
+      "c4880d2b-4a3e-415c-8d8c-34cbe641a77e"
+    ],
+    "vid": [
+      7891761
+    ],
+    "view_count": [
+      2564
+    ],
+    "search_api_id": [
+      "entity:node/215143:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/economic-activity-wise-active-non-government-companies"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6154
+    ],
+    "published_date": [
+      1425965479
+    ],
+    "body:value": [
+      "The data describes details on  Economic- Activity wise Active Non-Government Companies. Data has been published by The Ministry of Corporate Affairs, Government of India."
+    ],
+    "changed": [
+      1634020563
+    ],
+    "created": [
+      1424931822
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Classification",
+      "Construction",
+      "industrial",
+      "Private",
+      "Provisional",
+      "Public",
+      "Paid",
+      "Limited"
+    ],
+    "nid": [
+      215163
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      " Economic- Activity wise Active Non-Government Companies"
+    ],
+    "uuid": [
+      "fa5e9e49-2184-4978-b7c1-cfc11d382988"
+    ],
+    "vid": [
+      7891764
+    ],
+    "view_count": [
+      5017
+    ],
+    "search_api_id": [
+      "entity:node/215163:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/roc-wise-statistics-prosecutions"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6701
+    ],
+    "published_date": [
+      1425965208
+    ],
+    "body:value": [
+      "Get the data regarding ROC-wise statistics of prosecutions. The data has been published by Ministry of Corporate Affairs."
+    ],
+    "changed": [
+      1532949513
+    ],
+    "created": [
+      1424934419
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Company",
+      "Private",
+      "Public",
+      "ROC",
+      "Limited"
+    ],
+    "nid": [
+      215583
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "ROC-wise statistics of prosecutions"
+    ],
+    "uuid": [
+      "7f4affc8-0f57-4b13-8372-a85219390ea4"
+    ],
+    "vid": [
+      7891767
+    ],
+    "view_count": [
+      5160
+    ],
+    "search_api_id": [
+      "entity:node/215583:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/classwise-enrolment-different-categories-schools-provisional-data"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      15182
+    ],
+    "published_date": [
+      1426054346
+    ],
+    "body:value": [
+      "The class wise enrolment refers to the admission of students in all the classes from I to XII. The data is related to number of students enrolled across different education level or class in Rural/Urban/Total Area at all India level in all the 35 states. It also includes gender(Boys/Girls) based enrolment at all the school levels\r\n"
+    ],
+    "changed": [
+      1459415503
+    ],
+    "created": [
+      1425547517
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Eighth All India School Education Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of School Education and Literacy",
+      "National Council of Educational Research and Training (NCERT)"
+    ],
+    "field_sector:name": [
+      "Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "primary",
+      "School",
+      "secondary",
+      "Class",
+      "Higher",
+      "Scondary",
+      "Admission"
+    ],
+    "nid": [
+      216803
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Classwise enrolment in different categories of schools (Provisional data)"
+    ],
+    "uuid": [
+      "b17b9e37-87d2-4b85-8a00-fa27196e2939"
+    ],
+    "vid": [
+      7891776
+    ],
+    "view_count": [
+      14185
+    ],
+    "search_api_id": [
+      "entity:node/216803:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-daman-diu"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      590
+    ],
+    "published_date": [
+      1427719870
+    ],
+    "body:value": [
+      "Get data of Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State Daman & Diu. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605850035
+    ],
+    "created": [
+      1427356720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Daman and Diu (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222803
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Daman & Diu"
+    ],
+    "uuid": [
+      "80fd608a-6f62-4f81-818f-1ef094f04998"
+    ],
+    "vid": [
+      7892127
+    ],
+    "view_count": [
+      528
+    ],
+    "search_api_id": [
+      "entity:node/222803:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-delhi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2949
+    ],
+    "published_date": [
+      1427525484
+    ],
+    "body:value": [
+      "Get data of Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State Delhi. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605850059
+    ],
+    "created": [
+      1427356770
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Delhi (NCT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222823
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "127"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Delhi"
+    ],
+    "uuid": [
+      "197ff6f4-2147-420e-ac90-4fc8f622462c"
+    ],
+    "vid": [
+      7892146
+    ],
+    "view_count": [
+      2615
+    ],
+    "search_api_id": [
+      "entity:node/222823:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-goa"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1005
+    ],
+    "published_date": [
+      1427719273
+    ],
+    "body:value": [
+      "Get data of Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State Goa. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605850048
+    ],
+    "created": [
+      1427356862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Goa"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222843
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "791",
+      "797"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Goa"
+    ],
+    "uuid": [
+      "4c4066ce-7ce5-4407-85d7-82c8afecb003"
+    ],
+    "vid": [
+      7892156
+    ],
+    "view_count": [
+      887
+    ],
+    "search_api_id": [
+      "entity:node/222843:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-gujarat"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5210
+    ],
+    "published_date": [
+      1427708497
+    ],
+    "body:value": [
+      "Get data of Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State Gujarat. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605850058
+    ],
+    "created": [
+      1427356941
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Gujarat"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222863
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "126"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Gujarat"
+    ],
+    "uuid": [
+      "c6645782-cf3a-400f-96f8-116e8b67b347"
+    ],
+    "vid": [
+      7892197
+    ],
+    "view_count": [
+      4862
+    ],
+    "search_api_id": [
+      "entity:node/222863:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-haryana"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3138
+    ],
+    "published_date": [
+      1427700776
+    ],
+    "body:value": [
+      "Get data of Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State Haryana. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605850038
+    ],
+    "created": [
+      1427357030
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222883
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "128"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Haryana"
+    ],
+    "uuid": [
+      "183325cb-e38c-45ba-94f2-830ebded4c31"
+    ],
+    "vid": [
+      7892226
+    ],
+    "view_count": [
+      2763
+    ],
+    "search_api_id": [
+      "entity:node/222883:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-himachal-pradesh"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2051
+    ],
+    "published_date": [
+      1427718713
+    ],
+    "body:value": [
+      "Get data of Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State Himachal Pradesh. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605518635
+    ],
+    "created": [
+      1427357093
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Himachal Pradesh"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222903
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "782"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Himachal Pradesh"
+    ],
+    "uuid": [
+      "19b180a9-5dd2-4c80-84da-7a017ad8437f"
+    ],
+    "vid": [
+      7892246
+    ],
+    "view_count": [
+      1837
+    ],
+    "search_api_id": [
+      "entity:node/222903:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-jammu-kashmir"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2495
+    ],
+    "published_date": [
+      1427705782
+    ],
+    "body:value": [
+      "Get data on Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State Jammu & Kashmir. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605519298
+    ],
+    "created": [
+      1427357188
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Jammu and Kashmir (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222923
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "800"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Jammu & Kashmir"
+    ],
+    "uuid": [
+      "1048eeec-32ec-4513-8c3d-f46b6eee891c"
+    ],
+    "vid": [
+      7892276
+    ],
+    "view_count": [
+      2423
+    ],
+    "search_api_id": [
+      "entity:node/222923:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-jharkhand"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3233
+    ],
+    "published_date": [
+      1427524584
+    ],
+    "body:value": [
+      "Get data of Health Management Information System (HMIS) item wise and month wise comparison of Various Indicators of the State Jharkhand. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605519303
+    ],
+    "created": [
+      1427357267
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Jharkhand"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222943
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "784"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Jharkhand"
+    ],
+    "uuid": [
+      "ec5e564d-9aa9-4275-8635-e31bb08a2540"
+    ],
+    "vid": [
+      7892308
+    ],
+    "view_count": [
+      3191
+    ],
+    "search_api_id": [
+      "entity:node/222943:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-uttarakhand"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2593
+    ],
+    "published_date": [
+      1430280524
+    ],
+    "body:value": [
+      "Get data on Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State Uttarakhand. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605518512
+    ],
+    "created": [
+      1429873083
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Uttarakhand"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      240563
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "790"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Uttarakhand"
+    ],
+    "uuid": [
+      "8518e4cd-3576-4894-8a6a-0adae842f1ce"
+    ],
+    "vid": [
+      7892511
+    ],
+    "view_count": [
+      2481
+    ],
+    "search_api_id": [
+      "entity:node/240563:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-west-bengal"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5515
+    ],
+    "published_date": [
+      1430194295
+    ],
+    "body:value": [
+      "Get data on Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State West Bengal. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605850042
+    ],
+    "created": [
+      1429873154
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "West Bengal"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      240583
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "795"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of West Bengal"
+    ],
+    "uuid": [
+      "352b7095-e205-47aa-b711-a54190b45e1d"
+    ],
+    "vid": [
+      7892515
+    ],
+    "view_count": [
+      5302
+    ],
+    "search_api_id": [
+      "entity:node/240583:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1966"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1457
+    ],
+    "published_date": [
+      1490673823
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1966. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Violent crimes, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Unidentified dead bodies recovered and inquest conducted, Victims of kidnapping & abduction, Disposal of crime cases, Charge sheet of crimes, Complaint received and case registered under IPC and SLL, Conviction rate , Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Offenders relation and nearness to rape victims, Crimes committed against children, Crime committed against scheduled castes and schedule tribes, Property stolen & recovered and percentage recovery, Vehicles stolen, Recovered and co-ordinated, Dacoity cases, Robbery cases, Burglary cases, Theft cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Deaths in police custody /lockup, Escapes from police custody, Reported custodial rape cases and their disposal, Persons arrested under custodial ,Rape and their disposal by police and courts, Event wise persons killed or injured under police firing, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Incidence of human right violation by police, Sanctioned and strength of civil police including district armed police, Information on police housing, Sanctioned and actual strength of home guards and auxiliary force, Equipments and transport support, Police stations by volume of crime, Police stations by strength of personnel, Organization setup, Representation of SCs/STs and muslims in police etc."
+    ],
+    "changed": [
+      1490674434
+    ],
+    "created": [
+      1490001160
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Death",
+      "Infrastructure",
+      "Kidnapping",
+      "Theft",
+      "Girl",
+      "Police",
+      "Murder",
+      "Incest",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "Auto",
+      "Trial",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Offender",
+      "Facilitie",
+      "Suicidal"
+    ],
+    "nid": [
+      2464961
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1966"
+    ],
+    "uuid": [
+      "52da5e4d-2cef-4500-8c2e-6807c5c7f965"
+    ],
+    "vid": [
+      7897129
+    ],
+    "view_count": [
+      1198
+    ],
+    "search_api_id": [
+      "entity:node/2464961:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      8
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/bhuvan-applications"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10984
+    ],
+    "published_date": [
+      1431500378
+    ],
+    "body:value": [
+      "This catalogue contains Bhuvan Applications which has been developed in collaboration with different agencies. Thus Bhuvan provides platform to create, visualize, share, and analyze Geospatial data products and services towards Spatial Mashups. \r\nDifferent Ministries and state governments have collaborated with Bhuvan. Some of the collaborators are Punjab Heritage & Tourism Promotion Board, Punjab Remote Sensing Centre, Ludhiana Municipal Corporation, Karnataka Forest Department, Himachal Pradesh Forest Department, Central Water Commission, India Meteorological Department. "
+    ],
+    "changed": [
+      1575277458
+    ],
+    "created": [
+      1430222559
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Department of Space",
+      "Indian Space Research Organization",
+      "National Remote Sensing Centre"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ISRO",
+      "research",
+      "space",
+      "NRSC",
+      "Collaboration",
+      "Organisation",
+      "Remote",
+      "Sensing",
+      "Mashup",
+      "Centric"
+    ],
+    "nid": [
+      249463
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Bhuvan Applications"
+    ],
+    "uuid": [
+      "c4184007-fcdb-46b1-8506-15b3071a4cb8"
+    ],
+    "vid": [
+      7892532
+    ],
+    "view_count": [
+      7699
+    ],
+    "search_api_id": [
+      "entity:node/249463:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/bhuvan-android-apps"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      54108
+    ],
+    "published_date": [
+      1443597897
+    ],
+    "body:value": [
+      "Get Bhuvan Android Apps. These Apps are available for Android-based smart phones for \"Locate and track\" facility and Field Data (Point of Interest) Collection."
+    ],
+    "changed": [
+      1443597897
+    ],
+    "created": [
+      1430376055
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Bhuvan"
+    ],
+    "field_ministry_department:name": [
+      "Department of Space",
+      "Indian Space Research Organization",
+      "National Remote Sensing Centre"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ISRO",
+      "research",
+      "satellite",
+      "space",
+      "NRSC",
+      "Download",
+      "Organisation",
+      "Remote",
+      "Sensing"
+    ],
+    "nid": [
+      250043
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Bhuvan Android Apps"
+    ],
+    "uuid": [
+      "fea799ba-abfd-4633-be03-bd7adc00e606"
+    ],
+    "vid": [
+      7892537
+    ],
+    "view_count": [
+      52502
+    ],
+    "search_api_id": [
+      "entity:node/250043:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/foreign-direct-investment-telecom-sector-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5437
+    ],
+    "published_date": [
+      1430991700
+    ],
+    "body:value": [
+      "Data shows the Foreign Direct Investment in Telecom Sector. FDI is the process whereby residents of one country (the home country) acquire ownership of assets for the purpose of controlling the production, distribution and other activities of a firm in another country (the host country). 100%  FDI  has  been  permitted  in  all  telecommunication  services.  "
+    ],
+    "changed": [
+      1430991700
+    ],
+    "created": [
+      1430822691
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Telecom"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Communications",
+      "Department of Telecommunications (DOT)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Telecom"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "FDI",
+      "Foreign",
+      "Investment",
+      "Telecommunication"
+    ],
+    "nid": [
+      253343
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Foreign Direct Investment in Telecom Sector"
+    ],
+    "uuid": [
+      "c4f249d0-014b-4cb4-b498-b9fc00af823c"
+    ],
+    "vid": [
+      7892542
+    ],
+    "view_count": [
+      5058
+    ],
+    "search_api_id": [
+      "entity:node/253343:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/teledensity-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8320
+    ],
+    "published_date": [
+      1430990583
+    ],
+    "body:value": [
+      "Teledensity, which denotes the number of telephones per 100 population, is an indicator of telecom penetration in the country. Data describes the tele density percentage on different parameters viz rural, urban, Wireless, Wireline, Public and Private."
+    ],
+    "changed": [
+      1690782187
+    ],
+    "created": [
+      1430907600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Telecom"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Communications",
+      "Department of Telecommunications (DOT)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Telecom"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "Private",
+      "Public",
+      "Rural",
+      "Telephone",
+      "Urban",
+      "Wireless",
+      "Telecom"
+    ],
+    "nid": [
+      253583
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Teledensity in India"
+    ],
+    "uuid": [
+      "90afc0db-5274-46fc-90b5-7387242ecd24"
+    ],
+    "vid": [
+      7892545
+    ],
+    "view_count": [
+      7242
+    ],
+    "search_api_id": [
+      "entity:node/253583:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dailyweekly-wholesale-prices-brinjal"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      410
+    ],
+    "published_date": [
+      1442812220
+    ],
+    "body:value": [
+      "Get  Daily/weekly data of Wholesale prices of Brinjal. Price is monitored for essential commodities based on data collected from 75 market centres spread across the country representing North, West, East, South and North-eastern regions of the country. Price Monitoring Cell (PMC) in the Department of Consumer Affairs is responsible for monitoring prices of selected essential commodities. The Quality and variety of the item for which prices are reported may vary from centre to centre but remains the same for a given centre. Generally, prices are reported for the Fair Average Quality of the item for a given centre. Every centre has a standard quality and variety of item for which prices are reported by them."
+    ],
+    "changed": [
+      1442812220
+    ],
+    "created": [
+      1438342908
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Essential Commodities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Consumer Affairs"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Consumer Affairs"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Monitoring",
+      "Price",
+      "PMC",
+      "cell",
+      "Essential"
+    ],
+    "nid": [
+      327381
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily/weekly Wholesale prices of Brinjal"
+    ],
+    "uuid": [
+      "6e9be88b-fb7d-43d9-b9b1-fc092e116585"
+    ],
+    "vid": [
+      7894809
+    ],
+    "view_count": [
+      351
+    ],
+    "search_api_id": [
+      "entity:node/327381:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dailyweekly-wholesale-prices-cabbage"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      836
+    ],
+    "published_date": [
+      1442899223
+    ],
+    "body:value": [
+      "Get  Daily/weekly data of Wholesale prices of Cabbage. Price is monitored for essential commodities based on data collected from 75 market centres spread across the country representing North, West, East, South and North-eastern regions of the country. Price Monitoring Cell (PMC) in the Department of Consumer Affairs is responsible for monitoring prices of selected essential commodities. The Quality and variety of the item for which prices are reported may vary from centre to centre but remains the same for a given centre. Generally, prices are reported for the Fair Average Quality of the item for a given centre. Every centre has a standard quality and variety of item for which prices are reported by them."
+    ],
+    "changed": [
+      1442899223
+    ],
+    "created": [
+      1438342975
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Essential Commodities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Consumer Affairs"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Consumer Affairs"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Monitoring",
+      "Price",
+      "PMC",
+      "cell",
+      "Essential"
+    ],
+    "nid": [
+      327401
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily/weekly Wholesale prices of Cabbage"
+    ],
+    "uuid": [
+      "7123ed39-4882-4de7-baf1-a9b151137db6"
+    ],
+    "vid": [
+      7894812
+    ],
+    "view_count": [
+      576
+    ],
+    "search_api_id": [
+      "entity:node/327401:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dailyweekly-wholesale-prices-gram-dal"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      735
+    ],
+    "published_date": [
+      1438751240
+    ],
+    "body:value": [
+      "Get  Daily/weekly data of Wholesale prices of Gram Dal. Price is monitored for essential commodities based on data collected from 75 market centres spread across the country representing North, West, East, South and North-eastern regions of the country. Price Monitoring Cell (PMC) in the Department of Consumer Affairs is responsible for monitoring prices of selected essential commodities. The Quality and variety of the item for which prices are reported may vary from centre to centre but remains the same for a given centre. Generally, prices are reported for the Fair Average Quality of the item for a given centre. Every centre has a standard quality and variety of item for which prices are reported by them."
+    ],
+    "changed": [
+      1438751240
+    ],
+    "created": [
+      1438343028
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Essential Commodities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Consumer Affairs"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Consumer Affairs"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Monitoring",
+      "Price",
+      "PMC",
+      "cell",
+      "Essential"
+    ],
+    "nid": [
+      327421
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily/weekly Wholesale prices of Gram Dal"
+    ],
+    "uuid": [
+      "355431ab-b40a-4db0-8fdb-18b6a667a297"
+    ],
+    "vid": [
+      7894815
+    ],
+    "view_count": [
+      632
+    ],
+    "search_api_id": [
+      "entity:node/327421:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dailyweekly-wholesale-prices-groundnut-oil-packed"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      935
+    ],
+    "published_date": [
+      1438753007
+    ],
+    "body:value": [
+      "Get  Daily/weekly data of Wholesale prices of Groundnut Oil (Packed). Price is monitored for essential commodities based on data collected from 75 market centres spread across the country representing North, West, East, South and North-eastern regions of the country. Price Monitoring Cell (PMC) in the Department of Consumer Affairs is responsible for monitoring prices of selected essential commodities. The Quality and variety of the item for which prices are reported may vary from centre to centre but remains the same for a given centre. Generally, prices are reported for the Fair Average Quality of the item for a given centre. Every centre has a standard quality and variety of item for which prices are reported by them."
+    ],
+    "changed": [
+      1438753007
+    ],
+    "created": [
+      1438343073
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Essential Commodities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Consumer Affairs"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Consumer Affairs"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Monitoring",
+      "Price",
+      "PMC",
+      "Essential",
+      "Packed"
+    ],
+    "nid": [
+      327441
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily/weekly Wholesale prices of Groundnut Oil (Packed)"
+    ],
+    "uuid": [
+      "edbb5334-485d-4a3c-a728-d70750b6bbf8"
+    ],
+    "vid": [
+      7894818
+    ],
+    "view_count": [
+      788
+    ],
+    "search_api_id": [
+      "entity:node/327441:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dailyweekly-wholesale-prices-gur"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      386
+    ],
+    "published_date": [
+      1438923838
+    ],
+    "body:value": [
+      "Get  Daily/weekly data of Wholesale prices of Gur. Price is monitored for essential commodities based on data collected from 75 market centres spread across the country representing North, West, East, South and North-eastern regions of the country. Price Monitoring Cell (PMC) in the Department of Consumer Affairs is responsible for monitoring prices of selected essential commodities. The Quality and variety of the item for which prices are reported may vary from centre to centre but remains the same for a given centre. Generally, prices are reported for the Fair Average Quality of the item for a given centre. Every centre has a standard quality and variety of item for which prices are reported by them."
+    ],
+    "changed": [
+      1438923838
+    ],
+    "created": [
+      1438343152
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Essential Commodities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Consumer Affairs"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Consumer Affairs"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Monitoring",
+      "Price",
+      "PMC",
+      "cell",
+      "Essential"
+    ],
+    "nid": [
+      327461
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily/weekly Wholesale prices of Gur"
+    ],
+    "uuid": [
+      "bc31bf59-01db-4edd-9377-d128e2dd3beb"
+    ],
+    "vid": [
+      7894821
+    ],
+    "view_count": [
+      358
+    ],
+    "search_api_id": [
+      "entity:node/327461:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dailyweekly-wholesale-prices-masoor-dal"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5271
+    ],
+    "published_date": [
+      1439270413
+    ],
+    "body:value": [
+      "Get  Daily/weekly data of Wholesale prices of Masoor Dal. Price is monitored for essential commodities based on data collected from 75 market centres spread across the country representing North, West, East, South and North-eastern regions of the country. Price Monitoring Cell (PMC) in the Department of Consumer Affairs is responsible for monitoring prices of selected essential commodities. The Quality and variety of the item for which prices are reported may vary from centre to centre but remains the same for a given centre. Generally, prices are reported for the Fair Average Quality of the item for a given centre. Every centre has a standard quality and variety of item for which prices are reported by them."
+    ],
+    "changed": [
+      1439270413
+    ],
+    "created": [
+      1438343222
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Essential Commodities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Consumer Affairs"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Consumer Affairs"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Monitoring",
+      "Price",
+      "PMC",
+      "cell",
+      "Essential"
+    ],
+    "nid": [
+      327481
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily/weekly Wholesale prices of Masoor Dal"
+    ],
+    "uuid": [
+      "ed3fe0e9-9344-464f-9d11-db656d0a8dd7"
+    ],
+    "vid": [
+      7894824
+    ],
+    "view_count": [
+      5180
+    ],
+    "search_api_id": [
+      "entity:node/327481:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dailyweekly-wholesale-prices-milk"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4574
+    ],
+    "published_date": [
+      1439271624
+    ],
+    "body:value": [
+      "Get  Daily/weekly data of Wholesale prices of Milk. Price is monitored for essential commodities based on data collected from 75 market centres spread across the country representing North, West, East, South and North-eastern regions of the country. Price Monitoring Cell (PMC) in the Department of Consumer Affairs is responsible for monitoring prices of selected essential commodities. The Quality and variety of the item for which prices are reported may vary from centre to centre but remains the same for a given centre. Generally, prices are reported for the Fair Average Quality of the item for a given centre. Every centre has a standard quality and variety of item for which prices are reported by them."
+    ],
+    "changed": [
+      1439271624
+    ],
+    "created": [
+      1438343277
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Essential Commodities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Consumer Affairs"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Consumer Affairs"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Monitoring",
+      "Price",
+      "PMC",
+      "cell",
+      "Essential"
+    ],
+    "nid": [
+      327501
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily/weekly Wholesale prices of Milk"
+    ],
+    "uuid": [
+      "406e8eeb-455a-4ea9-9c57-3eca5aa574da"
+    ],
+    "vid": [
+      7894827
+    ],
+    "view_count": [
+      3965
+    ],
+    "search_api_id": [
+      "entity:node/327501:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dailyweekly-wholesale-prices-moong-dal"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4415
+    ],
+    "published_date": [
+      1439269940
+    ],
+    "body:value": [
+      "Get  Daily/weekly data of Wholesale prices of Moong Dal. Price is monitored for essential commodities based on data collected from 75 market centres spread across the country representing North, West, East, South and North-eastern regions of the country. Price Monitoring Cell (PMC) in the Department of Consumer Affairs is responsible for monitoring prices of selected essential commodities. The Quality and variety of the item for which prices are reported may vary from centre to centre but remains the same for a given centre. Generally, prices are reported for the Fair Average Quality of the item for a given centre. Every centre has a standard quality and variety of item for which prices are reported by them."
+    ],
+    "changed": [
+      1439269940
+    ],
+    "created": [
+      1438343347
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Essential Commodities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Consumer Affairs"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Consumer Affairs"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Monitoring",
+      "Price",
+      "PMC",
+      "cell",
+      "Essential"
+    ],
+    "nid": [
+      327521
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily/weekly Wholesale prices of Moong Dal"
+    ],
+    "uuid": [
+      "10bde2cb-fe64-4a65-ad4d-ab9eb75ae40a"
+    ],
+    "vid": [
+      7894830
+    ],
+    "view_count": [
+      4227
+    ],
+    "search_api_id": [
+      "entity:node/327521:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dailyweekly-wholesale-prices-mustard-oil-packed"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      869
+    ],
+    "published_date": [
+      1441091312
+    ],
+    "body:value": [
+      "Get  Daily/weekly data of Wholesale prices of Mustard Oil (Packed). Price is monitored for essential commodities based on data collected from 75 market centres spread across the country representing North, West, East, South and North-eastern regions of the country. Price Monitoring Cell (PMC) in the Department of Consumer Affairs is responsible for monitoring prices of selected essential commodities. The Quality and variety of the item for which prices are reported may vary from centre to centre but remains the same for a given centre. Generally, prices are reported for the Fair Average Quality of the item for a given centre. Every centre has a standard quality and variety of item for which prices are reported by them."
+    ],
+    "changed": [
+      1441091312
+    ],
+    "created": [
+      1438343419
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Essential Commodities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Consumer Affairs"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Consumer Affairs"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Monitoring",
+      "Price",
+      "PMC",
+      "Essential",
+      "Packed"
+    ],
+    "nid": [
+      327541
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily/weekly Wholesale prices of Mustard Oil (Packed)"
+    ],
+    "uuid": [
+      "2df51771-86fc-489a-8e2e-0659fe93b436"
+    ],
+    "vid": [
+      7894833
+    ],
+    "view_count": [
+      728
+    ],
+    "search_api_id": [
+      "entity:node/327541:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dailyweekly-wholesale-prices-onion"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2555
+    ],
+    "published_date": [
+      1439271129
+    ],
+    "body:value": [
+      "Get  Daily/weekly data of Wholesale prices of Onion. Price is monitored for essential commodities based on data collected from 75 market centres spread across the country representing North, West, East, South and North-eastern regions of the country. Price Monitoring Cell (PMC) in the Department of Consumer Affairs is responsible for monitoring prices of selected essential commodities. The Quality and variety of the item for which prices are reported may vary from centre to centre but remains the same for a given centre. Generally, prices are reported for the Fair Average Quality of the item for a given centre. Every centre has a standard quality and variety of item for which prices are reported by them."
+    ],
+    "changed": [
+      1459916795
+    ],
+    "created": [
+      1438343492
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Essential Commodities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Consumer Affairs"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Consumer Affairs"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Monitoring",
+      "Price",
+      "PMC",
+      "cell",
+      "Essential"
+    ],
+    "nid": [
+      327561
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily/weekly Wholesale prices of Onion"
+    ],
+    "uuid": [
+      "0757f9b6-f5cb-4eb8-97dd-32a3881d8433"
+    ],
+    "vid": [
+      7894836
+    ],
+    "view_count": [
+      2258
+    ],
+    "search_api_id": [
+      "entity:node/327561:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dailyweekly-wholesale-prices-palm-oil-packed"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1092
+    ],
+    "published_date": [
+      1440759175
+    ],
+    "body:value": [
+      "Get  Daily/weekly data of Wholesale prices of Palm Oil (Packed). Price is monitored for essential commodities based on data collected from 75 market centres spread across the country representing North, West, East, South and North-eastern regions of the country. Price Monitoring Cell (PMC) in the Department of Consumer Affairs is responsible for monitoring prices of selected essential commodities. The Quality and variety of the item for which prices are reported may vary from centre to centre but remains the same for a given centre. Generally, prices are reported for the Fair Average Quality of the item for a given centre. Every centre has a standard quality and variety of item for which prices are reported by them."
+    ],
+    "changed": [
+      1440759175
+    ],
+    "created": [
+      1438343555
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Essential Commodities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Consumer Affairs"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Consumer Affairs"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Monitoring",
+      "Price",
+      "PMC",
+      "Essential",
+      "Packed"
+    ],
+    "nid": [
+      327581
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily/weekly Wholesale prices of Palm Oil (Packed)"
+    ],
+    "uuid": [
+      "dcc7c9cf-752b-4d9c-abc4-40d6b60e2205"
+    ],
+    "vid": [
+      7894839
+    ],
+    "view_count": [
+      857
+    ],
+    "search_api_id": [
+      "entity:node/327581:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dailyweekly-wholesale-prices-potato"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1834
+    ],
+    "published_date": [
+      1440760059
+    ],
+    "body:value": [
+      "Get  Daily/weekly data of Wholesale prices of Potato. Price is monitored for essential commodities based on data collected from 75 market centres spread across the country representing North, West, East, South and North-eastern regions of the country. Price Monitoring Cell (PMC) in the Department of Consumer Affairs is responsible for monitoring prices of selected essential commodities. The Quality and variety of the item for which prices are reported may vary from centre to centre but remains the same for a given centre. Generally, prices are reported for the Fair Average Quality of the item for a given centre. Every centre has a standard quality and variety of item for which prices are reported by them."
+    ],
+    "changed": [
+      1440760059
+    ],
+    "created": [
+      1438343642
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Essential Commodities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Consumer Affairs"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Consumer Affairs"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Monitoring",
+      "Price",
+      "PMC",
+      "cell",
+      "Essential"
+    ],
+    "nid": [
+      327601
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily/weekly Wholesale prices of Potato"
+    ],
+    "uuid": [
+      "eda30633-3698-4598-be1f-5325853424f4"
+    ],
+    "vid": [
+      7894842
+    ],
+    "view_count": [
+      1394
+    ],
+    "search_api_id": [
+      "entity:node/327601:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dailyweekly-wholesale-prices-rice"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4050
+    ],
+    "published_date": [
+      1439275536
+    ],
+    "body:value": [
+      "Get  Daily/weekly data of Wholesale prices of Rice. Price is monitored for essential commodities based on data collected from 75 market centres spread across the country representing North, West, East, South and North-eastern regions of the country. Price Monitoring Cell (PMC) in the Department of Consumer Affairs is responsible for monitoring prices of selected essential commodities. The Quality and variety of the item for which prices are reported may vary from centre to centre but remains the same for a given centre. Generally, prices are reported for the Fair Average Quality of the item for a given centre. Every centre has a standard quality and variety of item for which prices are reported by them."
+    ],
+    "changed": [
+      1459416464
+    ],
+    "created": [
+      1438344190
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Essential Commodities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Consumer Affairs"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Consumer Affairs"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Monitoring",
+      "Price",
+      "PMC",
+      "cell",
+      "Essential"
+    ],
+    "nid": [
+      327621
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily/weekly Wholesale prices of Rice"
+    ],
+    "uuid": [
+      "25737fb4-0101-4704-9ea4-083a28001ccf"
+    ],
+    "vid": [
+      7894845
+    ],
+    "view_count": [
+      3416
+    ],
+    "search_api_id": [
+      "entity:node/327621:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dailyweekly-wholesale-prices-salt"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3994
+    ],
+    "published_date": [
+      1438672336
+    ],
+    "body:value": [
+      "Get  Daily/weekly data of Wholesale prices of Salt. Price is monitored for essential commodities based on data collected from 75 market centres spread across the country representing North, West, East, South and North-eastern regions of the country. Price Monitoring Cell (PMC) in the Department of Consumer Affairs is responsible for monitoring prices of selected essential commodities. The Quality and variety of the item for which prices are reported may vary from centre to centre but remains the same for a given centre. Generally, prices are reported for the Fair Average Quality of the item for a given centre. Every centre has a standard quality and variety of item for which prices are reported by them."
+    ],
+    "changed": [
+      1459416473
+    ],
+    "created": [
+      1438344269
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Essential Commodities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Consumer Affairs"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Consumer Affairs"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Loose",
+      "Monitoring",
+      "Price",
+      "PMC",
+      "Essential",
+      "Packed",
+      "Iodised"
+    ],
+    "nid": [
+      327641
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily/weekly Wholesale prices of Salt"
+    ],
+    "uuid": [
+      "761dc41c-6505-4462-8a19-2beeffa59355"
+    ],
+    "vid": [
+      7894848
+    ],
+    "view_count": [
+      3496
+    ],
+    "search_api_id": [
+      "entity:node/327641:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

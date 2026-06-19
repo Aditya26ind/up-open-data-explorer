@@ -1,0 +1,5054 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/digital-payments-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      105
+    ],
+    "published_date": [
+      1549691489
+    ],
+    "body:value": [
+      "This indicator helps determine the Digital Payments efficiency of a city"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549105245
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Digital Payments"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "Digital",
+      "digital payment",
+      "online"
+    ],
+    "nid": [
+      602907761
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Digital Payments Visakhapatnam"
+    ],
+    "uuid": [
+      "9a48442c-3c18-4d32-afdb-f1afc1c4dfd3"
+    ],
+    "vid": [
+      13052959
+    ],
+    "view_count": [
+      98
+    ],
+    "search_api_id": [
+      "entity:node/602907761:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/demographic-profile-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      499
+    ],
+    "published_date": [
+      1549691525
+    ],
+    "body:value": [
+      "The catalog contains data regarding basic indicators like area, population, workforce participation and households present in the city. These indicators define the basic profile of the city."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549106131
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Demographic Profile"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Households",
+      "Labour",
+      "Population",
+      "smart city",
+      "Workforce"
+    ],
+    "nid": [
+      602907771
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Demographic Profile Visakhapatnam"
+    ],
+    "uuid": [
+      "a6ba2472-0294-4e35-8d3a-454744f44378"
+    ],
+    "vid": [
+      13011501
+    ],
+    "view_count": [
+      419
+    ],
+    "search_api_id": [
+      "entity:node/602907771:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/public-amenities-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      130
+    ],
+    "published_date": [
+      1549691525
+    ],
+    "body:value": [
+      "This catalog provides basic details of the amenities provided to the public like schools, toilets, hospitals, libraries, community gardens, parks, gardens, bus stops, colleges, aadhar enrollment centers and licensed hawkers"
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1549106435
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Public Amenities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AADHAR",
+      "bus stops",
+      "College",
+      "convention center",
+      "gardens",
+      "Green",
+      "hawkers",
+      "Hospitals",
+      "library",
+      "Parks",
+      "primary",
+      "Public",
+      "schools",
+      "secondary",
+      "students"
+    ],
+    "nid": [
+      602907778
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Public Amenities Visakhapatnam"
+    ],
+    "uuid": [
+      "7c9dd6e9-fbbc-43e6-ab31-18434647976b"
+    ],
+    "vid": [
+      13060468
+    ],
+    "view_count": [
+      84
+    ],
+    "search_api_id": [
+      "entity:node/602907778:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/community-facilities-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      77
+    ],
+    "published_date": [
+      1549691525
+    ],
+    "body:value": [
+      "This catalog gives out ward wise details of the community facilities and gives out information about name and capacity"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549106750
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Community Facilities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Auditorium",
+      "Community Hall",
+      "Convention",
+      "smart city"
+    ],
+    "nid": [
+      602907783
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Community Facilities Visakhapatnam"
+    ],
+    "uuid": [
+      "47f42cbc-c65c-4fde-ac69-b33fb7317ad7"
+    ],
+    "vid": [
+      13055609
+    ],
+    "view_count": [
+      66
+    ],
+    "search_api_id": [
+      "entity:node/602907783:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/digital-availability-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      174
+    ],
+    "published_date": [
+      1549811127
+    ],
+    "body:value": [
+      "This indicator helps determine the % of citizen services available\\\r\nonline\\\r\n"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549017985
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Digital Availability"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Access",
+      "Citizen",
+      "Digital",
+      "payment"
+    ],
+    "nid": [
+      602907605
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Digital Availability Visakhapatnam"
+    ],
+    "uuid": [
+      "22fe37cd-7457-429a-bacf-c2e60f4d8397"
+    ],
+    "vid": [
+      13002838
+    ],
+    "view_count": [
+      142
+    ],
+    "search_api_id": [
+      "entity:node/602907605:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/public-transport-access-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      73
+    ],
+    "published_date": [
+      1549812064
+    ],
+    "body:value": [
+      "This catalog helps understand the public transportation\\\r\nsystem of a city\\\r\n"
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1549040816
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bus",
+      "cost",
+      "earnings",
+      "Revenue",
+      "stands",
+      "Stops",
+      "Terminals"
+    ],
+    "nid": [
+      602907645
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Public Transport Access KAKINADA"
+    ],
+    "uuid": [
+      "d4443c1b-0276-47ee-9d21-2f2b05d21061"
+    ],
+    "vid": [
+      13060582
+    ],
+    "view_count": [
+      53
+    ],
+    "search_api_id": [
+      "entity:node/602907645:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-buses-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      92
+    ],
+    "published_date": [
+      1549812064
+    ],
+    "body:value": [
+      "This catalog helps understand the public transportation\\\r\nsystem of a city\\\r\n"
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1549041442
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bus",
+      "cost",
+      "earnings",
+      "Revenue",
+      "stands",
+      "Stops",
+      "Terminals"
+    ],
+    "nid": [
+      602907646
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "NUMBER OF BUSES KAKINADA"
+    ],
+    "uuid": [
+      "c9eeb64a-a57f-4e49-aacf-1933cc25dbcd"
+    ],
+    "vid": [
+      13060583
+    ],
+    "view_count": [
+      68
+    ],
+    "search_api_id": [
+      "entity:node/602907646:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/public-toilets-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      226
+    ],
+    "published_date": [
+      1549812064
+    ],
+    "body:value": [
+      "This catalog descrives the sewerage network and details the\\\r\nspread of public toilets available within an area in the city\\\r\n"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549042138
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Households",
+      "Sanitation",
+      "sewerage",
+      "toilet",
+      "water"
+    ],
+    "nid": [
+      602907647
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "PUBLIC TOILETS IN KAKINADA"
+    ],
+    "uuid": [
+      "cc3531c2-fb58-4532-88ec-b5461ed0270e"
+    ],
+    "vid": [
+      13005258
+    ],
+    "view_count": [
+      200
+    ],
+    "search_api_id": [
+      "entity:node/602907647:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/conditions-roads-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      69
+    ],
+    "published_date": [
+      1549812064
+    ],
+    "body:value": [
+      "Determining the condition of roads of the city"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549042936
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Drainage",
+      "footpath",
+      "Length",
+      "Roads",
+      "tar",
+      "water"
+    ],
+    "nid": [
+      602907648
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "CONDITIONS OF ROADS IN KAKINADA"
+    ],
+    "uuid": [
+      "b59dcacd-6982-4703-8d33-dd35d94414b6"
+    ],
+    "vid": [
+      13004905
+    ],
+    "view_count": [
+      56
+    ],
+    "search_api_id": [
+      "entity:node/602907648:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/digital-access-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      60
+    ],
+    "published_date": [
+      1549812064
+    ],
+    "body:value": [
+      "This indicator helps determine the % of citizen services\\\r\navailable online\\\r\n"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549043673
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Access",
+      "Citizen",
+      "Digital",
+      "payment"
+    ],
+    "nid": [
+      602907650
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "DIGITAL ACCESS KAKINADA"
+    ],
+    "uuid": [
+      "0247d148-4025-40f5-8565-41ecac8043b2"
+    ],
+    "vid": [
+      13002839
+    ],
+    "view_count": [
+      53
+    ],
+    "search_api_id": [
+      "entity:node/602907650:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/mortality-rate-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      50
+    ],
+    "published_date": [
+      1549812064
+    ],
+    "body:value": [
+      "This catalog defines various indicators under mortality such\\\r\nas number of live births, number of deaths divided by male,\\\r\nfemale, infants, children\\\r\n"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549044217
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Health",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "birth",
+      "child",
+      "Death",
+      "Infant",
+      "Mortality"
+    ],
+    "nid": [
+      602907651
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Mortality Rate KAKINADA"
+    ],
+    "uuid": [
+      "e5b62a60-89ee-49d9-8a11-7bd6052941a4"
+    ],
+    "vid": [
+      13000414
+    ],
+    "view_count": [
+      44
+    ],
+    "search_api_id": [
+      "entity:node/602907651:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/d2d-collection-coverage-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      73
+    ],
+    "published_date": [
+      1549812064
+    ],
+    "body:value": [
+      "This catalog defines source segregation, D2D collection\\\r\nefficiency, placement and sizes of bins, collection vehicles and\\\r\ntheir capacity, types of processing of waste and disposal\\\r\noptions available for waste collected\\\r\n"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549045234
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bins",
+      "Collection",
+      "D2D",
+      "door2door",
+      "garbage",
+      "Households",
+      "Quantity",
+      "Sanitation",
+      "segregation",
+      "sewerage",
+      "toilet",
+      "vehicle",
+      "Waste",
+      "water"
+    ],
+    "nid": [
+      602907652
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "D2D COLLECTION COVERAGE IN KAKINADA"
+    ],
+    "uuid": [
+      "54e22c85-53f0-476a-9418-58d407e1b186"
+    ],
+    "vid": [
+      13052952
+    ],
+    "view_count": [
+      51
+    ],
+    "search_api_id": [
+      "entity:node/602907652:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/water-tax-visakhapatnam-2013-2018"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      174
+    ],
+    "published_date": [
+      1549691507
+    ],
+    "body:value": [
+      "Indicates the water tax collection for the city"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549108516
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Tax"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "Drinking Water",
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "Deficit",
+      "Tax",
+      "WATER TAX"
+    ],
+    "nid": [
+      602907819
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Water Tax Visakhapatnam : 2013 to 2018"
+    ],
+    "uuid": [
+      "47659c75-e582-47b4-a099-1ec1275ee83f"
+    ],
+    "vid": [
+      13052971
+    ],
+    "view_count": [
+      112
+    ],
+    "search_api_id": [
+      "entity:node/602907819:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/city-profile-amaravati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      294
+    ],
+    "published_date": [
+      1550818886
+    ],
+    "body:value": [
+      "The catalog contains data regarding basic indicators like area,\\\r\npopulation, workforce participation and households present in the\\\r\ncity. These indicators define the basic profile of the city."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1548934701
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "Guntur",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Amravati"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "households.",
+      "Labour",
+      "Population",
+      "smart city",
+      "Workforce"
+    ],
+    "nid": [
+      602907481
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "City Profile : Amaravati"
+    ],
+    "uuid": [
+      "56bec811-f646-4175-82dc-4e628fe3a892"
+    ],
+    "vid": [
+      13011491
+    ],
+    "view_count": [
+      273
+    ],
+    "search_api_id": [
+      "entity:node/602907481:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/water-sanitation-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      112
+    ],
+    "published_date": [
+      1549691525
+    ],
+    "body:value": [
+      "This catalog descrives the sewerage network and details the spread of public toilets available within an area in the city"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549108580
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water & Sanitation"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Households",
+      "Sanitation",
+      "sewerage",
+      "toilet",
+      "water"
+    ],
+    "nid": [
+      602907820
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Water & Sanitation Visakhapatnam"
+    ],
+    "uuid": [
+      "b5ab5e9b-b04c-4720-91fa-e96970ea705f"
+    ],
+    "vid": [
+      13005270
+    ],
+    "view_count": [
+      76
+    ],
+    "search_api_id": [
+      "entity:node/602907820:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-management-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      678
+    ],
+    "published_date": [
+      1549691507
+    ],
+    "body:value": [
+      "This catalog defines source segregation, D2D collection efficiency, placement and sizes of bins, collection vehicles and their capacity, types of processing of waste and disposal options available for waste collected"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549108647
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Solid Waste Management"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaerobic Digestion",
+      "Bins",
+      "Biomethanation",
+      "capacity",
+      "Charges",
+      "Collection",
+      "Compost",
+      "Composting",
+      "D2D",
+      "Disposal",
+      "door2door",
+      "Energy",
+      "garbage",
+      "Generation",
+      "Households",
+      "incineration",
+      "Landfill",
+      "Pelletization",
+      "Plasma Pyrolysis",
+      "Power",
+      "Process",
+      "Quantity",
+      "RDF",
+      "recyclables",
+      "Recycling",
+      "Refuse Derived Fuel",
+      "Revenue",
+      "Sanitation",
+      "segregation",
+      "sewerage",
+      "toilet",
+      "Transportation",
+      "treatment",
+      "user",
+      "vehicle",
+      "Waste",
+      "water",
+      "Windrow composting"
+    ],
+    "nid": [
+      602907822
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste Management Visakhapatnam"
+    ],
+    "uuid": [
+      "8678128b-d3ba-4d0a-a019-ca621c9a7637"
+    ],
+    "vid": [
+      13056473
+    ],
+    "view_count": [
+      576
+    ],
+    "search_api_id": [
+      "entity:node/602907822:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/water-sanitation-visakhapatnam-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      164
+    ],
+    "published_date": [
+      1549691489
+    ],
+    "body:value": [
+      "This catalog descrives the sewerage network and details the spread of public toilets available within an area in the city"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549108715
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water & Sanitation Visakhapatnam"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Households",
+      "Sanitation",
+      "sewerage",
+      "toilet",
+      "water"
+    ],
+    "nid": [
+      602907825
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Water & Sanitation Visakhapatnam"
+    ],
+    "uuid": [
+      "51a24aac-5574-4d9b-9e02-2c2d6c0969a8"
+    ],
+    "vid": [
+      13005272
+    ],
+    "view_count": [
+      134
+    ],
+    "search_api_id": [
+      "entity:node/602907825:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/property-tax-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      134
+    ],
+    "published_date": [
+      1549691489
+    ],
+    "body:value": [
+      "This denotes the efficiency achieved by a city in collecting property taxes against the tax demand raised in a given year."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549108902
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Property Tax Visakhapatnam"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "Property",
+      "Tax"
+    ],
+    "nid": [
+      602907826
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Property Tax Visakhapatnam"
+    ],
+    "uuid": [
+      "7bf311d8-f3e1-4222-a31d-4ef5012e870d"
+    ],
+    "vid": [
+      13052973
+    ],
+    "view_count": [
+      124
+    ],
+    "search_api_id": [
+      "entity:node/602907826:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/education-data-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      588
+    ],
+    "published_date": [
+      1549691489
+    ],
+    "body:value": [
+      "This indicator denotes educational opportunity, and determines the coverage of formal education among school-aged population in the city and availability of adequate number of teachers in schools for providing primary education"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549109040
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education Data  Visakhapatnam"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Population",
+      "primary",
+      "Private",
+      "Public",
+      "school",
+      "secondary",
+      "student",
+      "Teacher"
+    ],
+    "nid": [
+      602907829
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Education Data  Visakhapatnam"
+    ],
+    "uuid": [
+      "fc375830-2a7d-4b08-bf3a-9e1e781fe729"
+    ],
+    "vid": [
+      13010979
+    ],
+    "view_count": [
+      302
+    ],
+    "search_api_id": [
+      "entity:node/602907829:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/roads-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      145
+    ],
+    "published_date": [
+      1549691489
+    ],
+    "body:value": [
+      "Determining the condition of roads of the city"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549109182
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Roads Visakhapatnam"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Drainage",
+      "footpath",
+      "Length",
+      "Roads",
+      "tar",
+      "water"
+    ],
+    "nid": [
+      602907833
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Roads Visakhapatnam"
+    ],
+    "uuid": [
+      "4301d93a-5ce3-43b0-9a58-71d47ad5f325"
+    ],
+    "vid": [
+      13004907
+    ],
+    "view_count": [
+      135
+    ],
+    "search_api_id": [
+      "entity:node/602907833:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/street-lights-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      133
+    ],
+    "published_date": [
+      1549691525
+    ],
+    "body:value": [
+      "This catalog describes the number of street lights available in the city which are LED and connected to renewable resources"
+    ],
+    "changed": [
+      1563896587
+    ],
+    "created": [
+      1549109262
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Street Lights"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bulbs",
+      "LED",
+      "poles",
+      "street lights"
+    ],
+    "nid": [
+      602907835
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Street Lights Visakhapatnam"
+    ],
+    "uuid": [
+      "9ade8c1c-db8f-4bd3-9bfb-5df39ccc18cf"
+    ],
+    "vid": [
+      12092502
+    ],
+    "view_count": [
+      116
+    ],
+    "search_api_id": [
+      "entity:node/602907835:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/housing-slums-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      374
+    ],
+    "published_date": [
+      1549691489
+    ],
+    "body:value": [
+      "This catalog describes the slum and housing infrastructure details of the city"
+    ],
+    "changed": [
+      1739857487
+    ],
+    "created": [
+      1549109865
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing & Slums Visakhapatnam"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "Housing",
+      "Rural Housing",
+      "Urban Housing"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "City",
+      "Female",
+      "Identified",
+      "Kutcha",
+      "Male",
+      "notified",
+      "Population",
+      "Pucca",
+      "Recognised",
+      "Semi-Pucca",
+      "slum",
+      "Smart",
+      "Type"
+    ],
+    "nid": [
+      602907844
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Housing & Slums Visakhapatnam"
+    ],
+    "uuid": [
+      "9a29fb88-0f3c-41b0-be75-232a5d476a40"
+    ],
+    "vid": [
+      13059819
+    ],
+    "view_count": [
+      216
+    ],
+    "search_api_id": [
+      "entity:node/602907844:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/open-spaces-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      120
+    ],
+    "published_date": [
+      1549691525
+    ],
+    "body:value": [
+      "This catalog helps determine the per capita availability of green spaces"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549109917
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Open Spaces"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Green",
+      "greenery",
+      "openspace",
+      "Tree"
+    ],
+    "nid": [
+      602907846
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Open Spaces Visakhapatnam"
+    ],
+    "uuid": [
+      "38ccd277-9e04-4a88-80e1-0174a869bf84"
+    ],
+    "vid": [
+      13054615
+    ],
+    "view_count": [
+      106
+    ],
+    "search_api_id": [
+      "entity:node/602907846:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/natural-landscape-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      131
+    ],
+    "published_date": [
+      1549691489
+    ],
+    "body:value": [
+      "This catalog helps determine the area covered by Natural landscape in a city"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549109987
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Natural Landscape Visakhapatnam"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Ecology",
+      "Forest",
+      "Lake",
+      "Pond",
+      "river",
+      "water"
+    ],
+    "nid": [
+      602907849
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Natural Landscape Visakhapatnam"
+    ],
+    "uuid": [
+      "482f5201-02d7-4a1a-8068-aeb5ac38ee46"
+    ],
+    "vid": [
+      13003263
+    ],
+    "view_count": [
+      121
+    ],
+    "search_api_id": [
+      "entity:node/602907849:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cultural-heritage-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      109
+    ],
+    "published_date": [
+      1549691525
+    ],
+    "body:value": [
+      "This catalog helps identify the heritages of importance in a city"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549110170
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Cultural Heritage"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Culture",
+      "Heritage",
+      "Monuments",
+      "Street"
+    ],
+    "nid": [
+      602907857
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Cultural Heritage Visakhapatnam"
+    ],
+    "uuid": [
+      "2fc6a0e9-c504-49c6-8c82-6667f9998322"
+    ],
+    "vid": [
+      13056672
+    ],
+    "view_count": [
+      90
+    ],
+    "search_api_id": [
+      "entity:node/602907857:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/itc-neighbourhood-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      170
+    ],
+    "published_date": [
+      1549691489
+    ],
+    "body:value": [
+      "Facilities for children at ward level; % of total area covered under parks, playgrounds and open spaces; % of municipal budget allocated for open spaces"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549110284
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "ITC Neighbourhood"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Facilities",
+      "municipal",
+      "neighbourhood",
+      "Park",
+      "Playground",
+      "residential"
+    ],
+    "nid": [
+      602907859
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "ITC Neighbourhood Visakhapatnam"
+    ],
+    "uuid": [
+      "5c7daf06-f779-4f72-b795-e10b055d2957"
+    ],
+    "vid": [
+      13012500
+    ],
+    "view_count": [
+      166
+    ],
+    "search_api_id": [
+      "entity:node/602907859:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/buses-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      248
+    ],
+    "published_date": [
+      1549691507
+    ],
+    "body:value": [
+      "This catalog helps understand the public transportation system of a city"
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1549110716
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Buses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bus",
+      "cost",
+      "earnings",
+      "Revenue",
+      "stands",
+      "Stops",
+      "Terminals"
+    ],
+    "nid": [
+      602907867
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Buses Visakhapatnam"
+    ],
+    "uuid": [
+      "a65b5401-e493-41ca-97e4-f405f9a8a7e5"
+    ],
+    "vid": [
+      13060590
+    ],
+    "view_count": [
+      168
+    ],
+    "search_api_id": [
+      "entity:node/602907867:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/transportation-visakhapatnam-2015-2018"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      275
+    ],
+    "published_date": [
+      1549691507
+    ],
+    "body:value": [
+      "This catalog helps understand the transportation insights of a city"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549110851
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transportation Visakhapatnam"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Auto",
+      "Bus",
+      "cycle",
+      "metro",
+      "Mode",
+      "Registration",
+      "Rickshaw",
+      "share",
+      "Train",
+      "Trip",
+      "vehicle",
+      "walking"
+    ],
+    "nid": [
+      602907869
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Transportation Visakhapatnam 2015 to 2018"
+    ],
+    "uuid": [
+      "76eb36ba-0e17-4a30-9a0b-bfec12688a24"
+    ],
+    "vid": [
+      13055854
+    ],
+    "view_count": [
+      221
+    ],
+    "search_api_id": [
+      "entity:node/602907869:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/traffic-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      453
+    ],
+    "published_date": [
+      1549691507
+    ],
+    "body:value": [
+      "Total number of operational signalized intersections"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549110887
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Traffic"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "intersections",
+      "junctiones",
+      "Motorized",
+      "Operational",
+      "Signal",
+      "trips"
+    ],
+    "nid": [
+      602907870
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Traffic Visakhapatnam"
+    ],
+    "uuid": [
+      "bf8e7813-2922-4b05-bf50-ed5f60817c33"
+    ],
+    "vid": [
+      13056356
+    ],
+    "view_count": [
+      365
+    ],
+    "search_api_id": [
+      "entity:node/602907870:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/road-safety-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      173
+    ],
+    "published_date": [
+      1549691507
+    ],
+    "body:value": [
+      "This indicator will help determine the number of injuries per lakh Population and number of Fatalities per lakh Population"
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1549110965
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Safety Visakhapatnam"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bus",
+      "Car",
+      "cycle",
+      "Fatalities",
+      "Fatality",
+      "Injuries",
+      "Road",
+      "walk"
+    ],
+    "nid": [
+      602907872
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Road Safety Visakhapatnam"
+    ],
+    "uuid": [
+      "f0b5005b-e454-4d1d-ae11-e78086521069"
+    ],
+    "vid": [
+      13056912
+    ],
+    "view_count": [
+      141
+    ],
+    "search_api_id": [
+      "entity:node/602907872:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/water-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      274
+    ],
+    "published_date": [
+      1549691507
+    ],
+    "body:value": [
+      "This catalog helps determine the water consumption per capita"
+    ],
+    "changed": [
+      1739360435
+    ],
+    "created": [
+      1549111078
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "Drinking Water",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "domestic",
+      "supply",
+      "water"
+    ],
+    "nid": [
+      602907875
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Water Visakhapatnam"
+    ],
+    "uuid": [
+      "87cc78e4-2ecd-44cf-9140-4c5067ee7c61"
+    ],
+    "vid": [
+      12988156
+    ],
+    "view_count": [
+      223
+    ],
+    "search_api_id": [
+      "entity:node/602907875:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/electricity-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      349
+    ],
+    "published_date": [
+      1549691507
+    ],
+    "body:value": [
+      "This catalog helps in determining the electricty consumption of the city"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549111320
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Electricity Visakhapatnam"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "commercial",
+      "Consumption",
+      "domestic",
+      "electricity",
+      "Industry",
+      "Public"
+    ],
+    "nid": [
+      602907879
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Electricity Visakhapatnam"
+    ],
+    "uuid": [
+      "14c2eba3-7724-4b90-aa82-ba7f9b3ae5dc"
+    ],
+    "vid": [
+      13004333
+    ],
+    "view_count": [
+      299
+    ],
+    "search_api_id": [
+      "entity:node/602907879:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/diseases-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      178
+    ],
+    "published_date": [
+      1549691489
+    ],
+    "body:value": [
+      "this indicator helps determine the period prevalence of vector borne (indicator of the measures taken by city administrations to control the growth of mosquitoes and other organisms that spread such diseases, and the general level of hygiene and sanitation) and water borne (indicator of the quality of water used for drinking, washing, bathing etc. in the city) diseases"
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1549111608
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Diseases Visakhapatnam"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "Health",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air",
+      "Disease",
+      "Vector",
+      "water"
+    ],
+    "nid": [
+      602907882
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Diseases Visakhapatnam"
+    ],
+    "uuid": [
+      "7545d8e5-aa7c-4928-9f59-91dc89bf225d"
+    ],
+    "vid": [
+      13057146
+    ],
+    "view_count": [
+      121
+    ],
+    "search_api_id": [
+      "entity:node/602907882:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crimes-visakhapatnam-2014-2018"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      260
+    ],
+    "published_date": [
+      1549691489
+    ],
+    "body:value": [
+      "This indicator helps understand the prevalent crime rate in a city"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549111699
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crimes"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crimes",
+      "Record"
+    ],
+    "nid": [
+      602907883
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Crimes Visakhapatnam 2014 to 2018"
+    ],
+    "uuid": [
+      "914008fc-8076-4dab-ae36-9646b097772c"
+    ],
+    "vid": [
+      13052379
+    ],
+    "view_count": [
+      220
+    ],
+    "search_api_id": [
+      "entity:node/602907883:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/vat-gst-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      165
+    ],
+    "published_date": [
+      1549691507
+    ],
+    "body:value": [
+      "This indicator helps in determining economic productivity and competitiveness of a city"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549111802
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "VAT & GST Visakhapatnam"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "GST",
+      "Sales",
+      "Tax",
+      "VAT"
+    ],
+    "nid": [
+      602907885
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "VAT & GST Visakhapatnam"
+    ],
+    "uuid": [
+      "4a193faf-c9a8-4d50-9310-f5a533bea611"
+    ],
+    "vid": [
+      13052979
+    ],
+    "view_count": [
+      126
+    ],
+    "search_api_id": [
+      "entity:node/602907885:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/city-profile-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      247
+    ],
+    "published_date": [
+      1549812045
+    ],
+    "body:value": [
+      "The catalog contains data regarding basic indicators like area,\\\r\npopulation, workforce participation and households present\\\r\nin the city. These indicators define the basic profile of the city.\\\r\n"
+    ],
+    "changed": [
+      1643455536
+    ],
+    "created": [
+      1549204950
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "National Population Register"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "smart city population"
+    ],
+    "nid": [
+      602907974
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "CITY PROFILE KAKINADA"
+    ],
+    "uuid": [
+      "c7c2e839-3d8a-4911-a188-69a2cd369912"
+    ],
+    "vid": [
+      12097291
+    ],
+    "view_count": [
+      180
+    ],
+    "search_api_id": [
+      "entity:node/602907974:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/injuries-fatalities-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      72
+    ],
+    "published_date": [
+      1549812045
+    ],
+    "body:value": [
+      "This indicator will help determine the number of injuries per\\\r\nlakh Population and number of Fatalities per lakh Population\\\r\n"
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1549205660
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bus",
+      "Car",
+      "cycle",
+      "Fatalities",
+      "Fatality",
+      "Injuries",
+      "Road",
+      "walk"
+    ],
+    "nid": [
+      602907980
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Injuries & Fatalities kakinada"
+    ],
+    "uuid": [
+      "2b5510f1-2089-470a-8cef-f533fa4356fe"
+    ],
+    "vid": [
+      13056914
+    ],
+    "view_count": [
+      53
+    ],
+    "search_api_id": [
+      "entity:node/602907980:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/diseases-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      94
+    ],
+    "published_date": [
+      1549812045
+    ],
+    "body:value": [
+      "this indicator helps determine the period prevalence of vector\\\r\nborne (indicator of the measures taken by city\\\r\nadministrations to control the growth of mosquitoes and\\\r\nother organisms that spread such diseases, and the general\\\r\nlevel of hygiene and sanitation) and water borne (indicator of\\\r\nthe quality of water used for drinking, washing, bathing etc. in\\\r\nthe city) diseases\\\r\n"
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1549206150
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Health",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air",
+      "Disease",
+      "Vector",
+      "water"
+    ],
+    "nid": [
+      602907982
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "DISEASES KAKINADA"
+    ],
+    "uuid": [
+      "2f43aad9-061d-490e-bce9-242ed1ebfb96"
+    ],
+    "vid": [
+      13057148
+    ],
+    "view_count": [
+      78
+    ],
+    "search_api_id": [
+      "entity:node/602907982:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/water-supply-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      178
+    ],
+    "published_date": [
+      1549812045
+    ],
+    "body:value": [
+      "This catalog helps determine the water consumption per\\\r\ncapita\\\r\n"
+    ],
+    "changed": [
+      1739360435
+    ],
+    "created": [
+      1549206657
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Drinking Water",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "domestic",
+      "supply",
+      "water"
+    ],
+    "nid": [
+      602907984
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "water supply kakinada"
+    ],
+    "uuid": [
+      "97ad2dc3-343a-41bf-82a9-c26d1fdd31f0"
+    ],
+    "vid": [
+      12988160
+    ],
+    "view_count": [
+      148
+    ],
+    "search_api_id": [
+      "entity:node/602907984:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/signalized-intersections-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      59
+    ],
+    "published_date": [
+      1549812045
+    ],
+    "body:value": [
+      "Total number of operational signalized intersections"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549207387
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Internal Security"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "intersections",
+      "junctiones",
+      "Motorized",
+      "Operational",
+      "Signal",
+      "trips"
+    ],
+    "nid": [
+      602907986
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Signalized Intersections in kakinada"
+    ],
+    "uuid": [
+      "c2d1e6a0-99ab-4083-8177-ad33abb65d49"
+    ],
+    "vid": [
+      13056358
+    ],
+    "view_count": [
+      42
+    ],
+    "search_api_id": [
+      "entity:node/602907986:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/itc-neighbourhood-2-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      56
+    ],
+    "published_date": [
+      1549812045
+    ],
+    "body:value": [
+      "Facilities for children at ward level; % of total area covered\\\r\nunder parks, playgrounds and open spaces; % of municipal\\\r\nbudget allocated for open spaces\\\r\n"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549207954
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Facilities",
+      "municipal",
+      "neighbourhood",
+      "Park",
+      "Playground",
+      "residential"
+    ],
+    "nid": [
+      602907987
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "ITC Neighbourhood 2 kakinada"
+    ],
+    "uuid": [
+      "b807864c-3afa-4412-a2f3-bc920ecc8092"
+    ],
+    "vid": [
+      13012502
+    ],
+    "view_count": [
+      53
+    ],
+    "search_api_id": [
+      "entity:node/602907987:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/itc-neighbourhood-1-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      46
+    ],
+    "published_date": [
+      1549812045
+    ],
+    "body:value": [
+      "Facilities for children at ward level; % of total area covered\\\r\nunder parks, playgrounds and open spaces; % of municipal\\\r\nbudget allocated for open spaces\\\r\n"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549208362
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Facilities",
+      "municipal",
+      "neighbourhood",
+      "Park",
+      "Playground",
+      "residential"
+    ],
+    "nid": [
+      602907988
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "ITC Neighbourhood 1 kakinada"
+    ],
+    "uuid": [
+      "af334923-c1c7-423a-b12b-0d9ef45e1d5e"
+    ],
+    "vid": [
+      13012503
+    ],
+    "view_count": [
+      40
+    ],
+    "search_api_id": [
+      "entity:node/602907988:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cultural-heritage-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      280
+    ],
+    "published_date": [
+      1549812045
+    ],
+    "body:value": [
+      "This catalog helps identify the heritages of importance in a\\\r\ncity\\\r\n"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549208791
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Art and Culture",
+      "Heritage"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Culture",
+      "Heritage",
+      "Monuments",
+      "Street"
+    ],
+    "nid": [
+      602907989
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Cultural Heritage in kakinada"
+    ],
+    "uuid": [
+      "80ff636f-86de-430e-9e70-8dd87d020921"
+    ],
+    "vid": [
+      13056677
+    ],
+    "view_count": [
+      201
+    ],
+    "search_api_id": [
+      "entity:node/602907989:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/household-profile-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      77
+    ],
+    "published_date": [
+      1549812045
+    ],
+    "body:value": [
+      "The catalog contains data regarding basic indicators like area,\\\r\npopulation, workforce participation and households present\\\r\nin the city. These indicators define the basic profile of the city.\\\r\n"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549209362
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Housing",
+      "Urban Housing"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Households",
+      "Labour",
+      "Population",
+      "smart city",
+      "Workforce"
+    ],
+    "nid": [
+      602907990
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Household Profile kakinada"
+    ],
+    "uuid": [
+      "b2841686-8fcc-4f47-a269-d03ccccb7bb3"
+    ],
+    "vid": [
+      13011504
+    ],
+    "view_count": [
+      54
+    ],
+    "search_api_id": [
+      "entity:node/602907990:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/natural-landscape-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      77
+    ],
+    "published_date": [
+      1549812027
+    ],
+    "body:value": [
+      "This catalog helps determine the area covered by Natural\\\r\nlandscape in a city\\\r\n"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549209830
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Ecology",
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Ecology",
+      "Forest",
+      "Lake",
+      "Pond",
+      "river",
+      "water"
+    ],
+    "nid": [
+      602907991
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Natural Landscape kakinada"
+    ],
+    "uuid": [
+      "a36fbb7a-cbc2-4fb2-9c63-b0f7da56f09f"
+    ],
+    "vid": [
+      13003265
+    ],
+    "view_count": [
+      71
+    ],
+    "search_api_id": [
+      "entity:node/602907991:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/governance-amaravati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      163
+    ],
+    "published_date": [
+      1552301031
+    ],
+    "body:value": [
+      "This indicator helps determine the governance structure of\\\r\nthe municipality."
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549283261
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "Guntur",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Amravati"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Local Government"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "booths",
+      "Election",
+      "municipal",
+      "Poll",
+      "Registered",
+      "Voter"
+    ],
+    "nid": [
+      602908492
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Governance : Amaravati "
+    ],
+    "uuid": [
+      "1d3a4e3c-efe2-47ba-893b-2666b0d87a02"
+    ],
+    "vid": [
+      13055236
+    ],
+    "view_count": [
+      127
+    ],
+    "search_api_id": [
+      "entity:node/602908492:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/environment-amaravati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      176
+    ],
+    "published_date": [
+      1552301334
+    ],
+    "body:value": [
+      "The catalog contains data regarding the pollutions levels of the city.\\\r\nIt provides the monthly mean concentration of various pollutant\\\r\nparticles such as Pm2.5, PM10, NO2, SO2, and O3."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549267394
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "Guntur",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Amravati"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Vehicular Air Pollution"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air quality",
+      "concentration",
+      "NO2",
+      "O3",
+      "PM10",
+      "PM2.5",
+      "pollution",
+      "sensors.",
+      "smart city",
+      "SO2"
+    ],
+    "nid": [
+      602908179
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Environment : Amaravati"
+    ],
+    "uuid": [
+      "4a2a1959-ce32-46df-ad45-5d7985be7996"
+    ],
+    "vid": [
+      13011121
+    ],
+    "view_count": [
+      157
+    ],
+    "search_api_id": [
+      "entity:node/602908179:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/citizen-facilities-visakhaptnam-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      249
+    ],
+    "published_date": [
+      1549811061
+    ],
+    "body:value": [
+      "This catalog gives out ward wise details of the name and address of CSC/CFCs along with the staff count and services provided"
+    ],
+    "changed": [
+      1564123901
+    ],
+    "created": [
+      1549278573
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Citizen Facilities Visakhaptnam"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CFC",
+      "Citizen",
+      "CSC",
+      "Facilitation",
+      "facility",
+      "services",
+      "smart city"
+    ],
+    "nid": [
+      602908366
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Citizen Facilities Visakhaptnam"
+    ],
+    "uuid": [
+      "532d3e3d-80fc-4be3-828a-217a051e642a"
+    ],
+    "vid": [
+      12104140
+    ],
+    "view_count": [
+      207
+    ],
+    "search_api_id": [
+      "entity:node/602908366:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/health-infrastructure-catalog-amaravati"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      181
+    ],
+    "published_date": [
+      1550818790
+    ],
+    "body:value": [
+      "This catalog gives out ward wise details of the name of facilities, type of\\\r\nthe facility, level of the facility, number of beds, doctors, physicians,\\\r\nnurses and midwives present."
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1549280528
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "Guntur",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Infra"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Amravati"
+    ],
+    "field_sector:name": [
+      "Health",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bed",
+      "Doctor",
+      "Equipment",
+      "facility",
+      "Hospital",
+      "Maternity",
+      "nurse",
+      "Physician",
+      "primary",
+      "private.",
+      "professional",
+      "Public",
+      "secondary",
+      "Tertiary",
+      "Ward"
+    ],
+    "nid": [
+      602908430
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Health Infrastructure Catalog : Amaravati"
+    ],
+    "uuid": [
+      "a2aa855b-a7ca-439c-99f4-727e0abf4891"
+    ],
+    "vid": [
+      13060241
+    ],
+    "view_count": [
+      143
+    ],
+    "search_api_id": [
+      "entity:node/602908430:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-management-collection-revenue-data-kakinada"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      151
+    ],
+    "published_date": [
+      1549969095
+    ],
+    "body:value": [
+      "This catalog defines source segregation, D2D collection\\\r\nefficiency, placement and sizes of bins, collection vehicles and\\\r\ntheir capacity, types of processing of waste and disposal\\\r\noptions available for waste collected\\\r\n"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549212843
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "East Godavari",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Kakinada"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Municipal Waste"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaerobic Digestion",
+      "Bins",
+      "Biomethanation",
+      "capacity",
+      "Charges",
+      "Collection",
+      "Compost",
+      "Composting",
+      "D2D",
+      "Disposal",
+      "door2door",
+      "Energy",
+      "garbage",
+      "Generation",
+      "Households",
+      "incineration",
+      "Landfill",
+      "Pelletization",
+      "Plasma Pyrolysis",
+      "Power",
+      "Process",
+      "Quantity",
+      "RDF",
+      "recyclables",
+      "Recycling",
+      "Refuse Derived Fuel",
+      "Revenue",
+      "Sanitation",
+      "segregation",
+      "sewerage",
+      "toilet",
+      "Transportation",
+      "treatment",
+      "user",
+      "vehicle",
+      "Waste",
+      "water",
+      "Windrow composting"
+    ],
+    "nid": [
+      602908005
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste Management collection revenue data Kakinada"
+    ],
+    "uuid": [
+      "f9c16ae2-1f0f-4391-80d4-d0de513c4fb4"
+    ],
+    "vid": [
+      13056477
+    ],
+    "view_count": [
+      134
+    ],
+    "search_api_id": [
+      "entity:node/602908005:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

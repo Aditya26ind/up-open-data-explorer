@@ -1,0 +1,4651 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/water-tax-jhansi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1907
+    ],
+    "published_date": [
+      1571381832
+    ],
+    "body:value": [
+      "Indicates the water tax collection for the city"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1571135414
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Jhansi"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "Deficit",
+      "Tax",
+      "WATER TAX"
+    ],
+    "nid": [
+      602918981
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Water Tax : Jhansi"
+    ],
+    "uuid": [
+      "1e23bfb7-6d3e-4446-a436-a8a8fcfc4650"
+    ],
+    "vid": [
+      13053952
+    ],
+    "view_count": [
+      1812
+    ],
+    "search_api_id": [
+      "entity:node/602918981:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/information-and-technology-pimpri-chinchwad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      730
+    ],
+    "published_date": [
+      1642693887
+    ],
+    "body:value": [
+      "This catalog contains datasets pertaining to IT department of Pimpri Chinchwad, which can be used by other cities and intersted citizens to understand the existing IT infrastructure of the city"
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1642413884
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Information and Technology"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Pimpri Chinchwad"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "digital availability",
+      "Digital Maturity",
+      "Digital Payments"
+    ],
+    "nid": [
+      602920972
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Information and Technology Pimpri Chinchwad"
+    ],
+    "uuid": [
+      "2a32095a-409f-4e6d-aa70-ebf782004d51"
+    ],
+    "vid": [
+      13060446
+    ],
+    "view_count": [
+      105
+    ],
+    "search_api_id": [
+      "entity:node/602920972:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/police-satna"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      88
+    ],
+    "published_date": [
+      1643628397
+    ],
+    "body:value": [
+      "This catalog contains data related to city police services in the city "
+    ],
+    "changed": [
+      1643628628
+    ],
+    "created": [
+      1642414131
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Public Amenities:Satna"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Madhya Pradesh",
+      "Satna"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Local Government"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Satna Data",
+      "Satna Police",
+      "Satna Police Related Data"
+    ],
+    "nid": [
+      602920977
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Police : Satna"
+    ],
+    "uuid": [
+      "af2c82ab-af1e-46df-913f-4dbf428724e1"
+    ],
+    "vid": [
+      12110784
+    ],
+    "view_count": [
+      34
+    ],
+    "search_api_id": [
+      "entity:node/602920977:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/iccc-pune"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      78
+    ],
+    "published_date": [
+      1642569206
+    ],
+    "body:value": [
+      "Services through ICCC"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1642149870
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Maharashtra",
+      "Pune"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ICCC",
+      "Service"
+    ],
+    "nid": [
+      602920613
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "ICCC Pune"
+    ],
+    "uuid": [
+      "b78d6fe4-b3a1-4cfd-a39e-fcf02c7734aa"
+    ],
+    "vid": [
+      13011324
+    ],
+    "view_count": [
+      50
+    ],
+    "search_api_id": [
+      "entity:node/602920613:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/community-facilities-ranchi-city"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      36
+    ],
+    "published_date": [
+      1642569218
+    ],
+    "body:value": [
+      "This catalog gives out ward wise details of the community facilities\\\r\nand gives out information about name and capacity"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1641976281
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Jharkhand",
+      "Ranchi"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Auditorium",
+      "Community Hall",
+      "Convention",
+      "smart city"
+    ],
+    "nid": [
+      602920510
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Community Facilities of Ranchi City"
+    ],
+    "uuid": [
+      "ed5e76fd-7773-4703-a6b1-d3e4721b34e4"
+    ],
+    "vid": [
+      13055696
+    ],
+    "view_count": [
+      19
+    ],
+    "search_api_id": [
+      "entity:node/602920510:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/renewable-energy-indore"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      270
+    ],
+    "published_date": [
+      1643884234
+    ],
+    "body:value": [
+      "Consumption from Renewable sources of Electricity"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1642676764
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Madhya Pradesh",
+      "Indore"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Renewable Energy"
+    ],
+    "nid": [
+      602922703
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Renewable Energy : Indore"
+    ],
+    "uuid": [
+      "eb1c126f-51fe-4976-a312-5163e39b1e55"
+    ],
+    "vid": [
+      13001598
+    ],
+    "view_count": [
+      91
+    ],
+    "search_api_id": [
+      "entity:node/602922703:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/city-profile-indore"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      897
+    ],
+    "published_date": [
+      1643885518
+    ],
+    "body:value": [
+      "ward wise population of city "
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1642678951
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Madhya Pradesh",
+      "Indore"
+    ],
+    "field_sector:name": [
+      "Census and Surveys"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Population"
+    ],
+    "nid": [
+      602922784
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "City profile Indore"
+    ],
+    "uuid": [
+      "af2bbdfe-b3fd-48ea-a043-7fdbb9d2eda6"
+    ],
+    "vid": [
+      13003855
+    ],
+    "view_count": [
+      191
+    ],
+    "search_api_id": [
+      "entity:node/602922784:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/household-indore"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      372
+    ],
+    "published_date": [
+      1643885978
+    ],
+    "body:value": [
+      "ward wise household data"
+    ],
+    "changed": [
+      1643885978
+    ],
+    "created": [
+      1642679858
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Madhya Pradesh",
+      "Indore"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "city households wards"
+    ],
+    "nid": [
+      602922799
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Household : Indore"
+    ],
+    "uuid": [
+      "810d4fd9-1ff1-4875-a5d1-9341279ce0fe"
+    ],
+    "vid": [
+      12085826
+    ],
+    "view_count": [
+      165
+    ],
+    "search_api_id": [
+      "entity:node/602922799:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/property-tax-3"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      460
+    ],
+    "published_date": [
+      1646655978
+    ],
+    "body:value": [
+      "property tax collected by ULB"
+    ],
+    "changed": [
+      1647242769
+    ],
+    "created": [
+      1642682915
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Madhya Pradesh",
+      "Indore"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Property Tax"
+    ],
+    "nid": [
+      602922856
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Property Tax"
+    ],
+    "uuid": [
+      "fb5a8de4-7b9e-48fb-a01b-80c4585abfa3"
+    ],
+    "vid": [
+      12085965
+    ],
+    "view_count": [
+      96
+    ],
+    "search_api_id": [
+      "entity:node/602922856:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/water-treatment-plant"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      369
+    ],
+    "published_date": [
+      1646655938
+    ],
+    "body:value": [
+      "Water Treatment Plant "
+    ],
+    "changed": [
+      1646655969
+    ],
+    "created": [
+      1642683256
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Madhya Pradesh",
+      "Indore"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Water Treatment Plants"
+    ],
+    "nid": [
+      602922858
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Water Treatment Plant "
+    ],
+    "uuid": [
+      "007c3d91-83c0-4b87-8e8b-a906a2ea1f9b"
+    ],
+    "vid": [
+      12085971
+    ],
+    "view_count": [
+      144
+    ],
+    "search_api_id": [
+      "entity:node/602922858:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      25
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/general-election-lok-sabha-2024-statistical-reports-data"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9277
+    ],
+    "published_date": [
+      1736920974
+    ],
+    "body:value": [
+      "The catalog contains cover a range of variables, such as details of PC/AC /State wise electors, number of polling stations, State/ PC wise voter turnout, Party wise vote share, gender-based voting behavior, state wise participation of women electors, regional variations, constituency data summary report, performance of National/ State parties/ RUPPs, winning candidates analysis, constituency wise detailed results and many more.\r\n"
+    ],
+    "changed": [
+      1737351520
+    ],
+    "created": [
+      1736920044
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "General Election",
+      "Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Election Commission of India"
+    ],
+    "field_search_keywords": [
+      "Election Election Election ECI ECI ECI Vote Voter Voters"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Parliament Of india"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Voters",
+      "Election"
+    ],
+    "nid": [
+      603501188
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "General Election to Lok Sabha 2024 - Statistical Reports Data"
+    ],
+    "uuid": [
+      "560e038e-ce8e-42d5-aab9-e53e1417bd55"
+    ],
+    "vid": [
+      12899980
+    ],
+    "search_api_id": [
+      "entity:node/603501188:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-267"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2600
+    ],
+    "published_date": [
+      1746791008
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 265 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1753944300
+    ],
+    "created": [
+      1746612791
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "RS Session 267"
+    ],
+    "nid": [
+      603752113
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 267"
+    ],
+    "uuid": [
+      "e3b19e4d-e287-4d32-b53d-70e9617c7770"
+    ],
+    "vid": [
+      13248519
+    ],
+    "search_api_id": [
+      "entity:node/603752113:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/inspire-manak-innovation-science-pursuit-inspired-research-million-minds-augmenting"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      351
+    ],
+    "published_date": [
+      1749114499
+    ],
+    "body:value": [
+      "Department of Science and Technology (DST) is implementing INSPIRE MANAK (Million Minds Augmenting National Aspiration and Knowledge) Scheme under its flagship programme Innovation in Science Pursuit for Inspired Research (INSPIRE). MANAK is a unique initiative to attract talented school students at an early age to study science and pursue research career apart from fostering a culture of innovation among them. Scheme caters to school children in the age group of 10-15 years and studying in Class 6-10. INSPIRE-MANAK scheme targets ten (10.0) lakh ideas from more than five (05) lakh middle and high schools across the country every year. Out of these, one lakh ideas are eligible for INSPIRE Award of Rs. 10,000/-each. "
+    ],
+    "changed": [
+      1749114657
+    ],
+    "created": [
+      1748944251
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)"
+    ],
+    "field_sector:name": [
+      "Science and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "MANAK",
+      "INSPIRE",
+      "TECHNOLOGY",
+      "SCIENCE ",
+      "DST"
+    ],
+    "nid": [
+      603807366
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      " INSPIRE-MANAK - Innovation in Science Pursuit for Inspired Research - Million Minds Augmenting National Aspiration and Knowledge"
+    ],
+    "uuid": [
+      "4622f17b-a36f-4179-8e3d-a4ff25d7aabd"
+    ],
+    "vid": [
+      13306315
+    ],
+    "search_api_id": [
+      "entity:node/603807366:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/one-district-one-product"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2693
+    ],
+    "published_date": [
+      1751972189
+    ],
+    "body:value": [
+      "One District One Product (ODOP) initiative is aimed at fostering balanced regional development across all districts of the country. The initiative aims to select, brand, and promote at least One Product from each District (One District - One Product) of the country for enabling holistic socioeconomic growth across all regions. The ODOP Initiative has identified a total of 1241 products from 777 districts across the country. Under the ODOP initiative, all products have been selected by States/UTs by taking into consideration the existing ecosystem on the ground, products identified under Districts as Export Hubs (DEH), and GI-tagged products. The finalized list is communicated to DPIIT by the relevant Department of States/UTs. All activities including exhibitions, capacity building, etc. are undertaken at the State/UT and district level, in consultation and coordination with the States/UTs."
+    ],
+    "changed": [
+      1751972315
+    ],
+    "created": [
+      1751279231
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department for Promotion of industry and Internal Trade"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Industries",
+      "Commerce"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Textiles",
+      "Agriculture",
+      "Handlooms",
+      "Handicrafts",
+      "District",
+      "ODOP"
+    ],
+    "nid": [
+      603861277
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "One District One Product"
+    ],
+    "uuid": [
+      "33eba342-aba3-434f-8fa6-50fc3c8b1acf"
+    ],
+    "vid": [
+      13376683
+    ],
+    "search_api_id": [
+      "entity:node/603861277:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/biometric-device-performance"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      523
+    ],
+    "published_date": [
+      1755162872
+    ],
+    "body:value": [
+      "This dataset contains the top 10 best-performing biometric devices, along with their corresponding success and failure rates, for each month. "
+    ],
+    "changed": [
+      1755162985
+    ],
+    "created": [
+      1751348957
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Electronics and Information Technology (MeitY)",
+      "Unique Identification Authority of India (UIDAI)"
+    ],
+    "field_sector:name": [
+      "Governance and Administration"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Aadhaar"
+    ],
+    "nid": [
+      603862651
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Biometric Device Performance"
+    ],
+    "uuid": [
+      "8704c1d4-acca-4d18-8964-435b5fbd6b0e"
+    ],
+    "vid": [
+      13484489
+    ],
+    "search_api_id": [
+      "entity:node/603862651:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/contact-details-tangedco-officials"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10618
+    ],
+    "published_date": [
+      1521005092
+    ],
+    "body:value": [
+      "Contact Details of TANGEDCO Officials"
+    ],
+    "changed": [
+      1563538707
+    ],
+    "created": [
+      1520940933
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Energy Department",
+      "Tamil Nadu Generation and Distribution Corporation (TANGEDCO) Ltd"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Contact Details of TANGEDCO Officials : Contact Details : TANGEDCO"
+    ],
+    "nid": [
+      6184261
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "Contact Details of TANGEDCO Officials"
+    ],
+    "uuid": [
+      "68902cfc-9618-4346-ad56-80573dce822d"
+    ],
+    "vid": [
+      10702055
+    ],
+    "view_count": [
+      8751
+    ],
+    "search_api_id": [
+      "entity:node/6184261:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/details-individual-household-latrines-ihhl-under-swachh-bharat-mission-tamil-nadu"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      931
+    ],
+    "published_date": [
+      1521194606
+    ],
+    "body:value": [
+      "Details of Individual Household Latrines (IHHL) under Swachh Bharat Mission in Tamil Nadu"
+    ],
+    "changed": [
+      1563772963
+    ],
+    "created": [
+      1521192675
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Governance and Administration"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Municipal Administration and Water Supply Department",
+      "Commissionerate of Municipal Administration (CMA)"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Details of Individual Household Latrines",
+      "Swachh Bharat Mission in Tamil Nadu"
+    ],
+    "nid": [
+      6185081
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "Details of Individual Household Latrines (IHHL) under Swachh Bharat Mission in Tamil Nadu"
+    ],
+    "uuid": [
+      "98f95069-92a4-4817-ae1f-b9974b4937b9"
+    ],
+    "vid": [
+      10702062
+    ],
+    "view_count": [
+      783
+    ],
+    "search_api_id": [
+      "entity:node/6185081:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/details-water-supply-hsc-given-corporations-and-municipalities-tamil-nadu"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1400
+    ],
+    "published_date": [
+      1521194265
+    ],
+    "body:value": [
+      "Details of Water Supply (HSC) given for Corporations and Municipalities in Tamil Nadu"
+    ],
+    "changed": [
+      1563773115
+    ],
+    "created": [
+      1521193349
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Governance and Administration"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Municipal Administration and Water Supply Department",
+      "Commissionerate of Municipal Administration (CMA)"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Details of Water Supply (HSC) given for Corporations and Municipalities in Tamil Nadu",
+      "Details of Water Supply (HSC)"
+    ],
+    "nid": [
+      6185161
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "Details of Water Supply (HSC) given for Corporations and Municipalities in Tamil Nadu"
+    ],
+    "uuid": [
+      "ba25211b-3f62-4451-b6b2-61c0a4e64a91"
+    ],
+    "vid": [
+      10702069
+    ],
+    "view_count": [
+      803
+    ],
+    "search_api_id": [
+      "entity:node/6185161:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      4
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/details-blocks-habitations-and-village-panchayats-tamil-nadu"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7333
+    ],
+    "published_date": [
+      1521461952
+    ],
+    "body:value": [
+      "Details of Blocks, Habitations and Village Panchayats in Tamil Nadu"
+    ],
+    "changed": [
+      1539323507
+    ],
+    "created": [
+      1521461072
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Rural",
+      "Panchayati Raj"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Rural Development and Panchayat Raj Department"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Details of Blocks",
+      "Habitations and Village Panchayats in Tamil Nadu"
+    ],
+    "nid": [
+      6185281
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "Details of Blocks, Habitations and Village Panchayats in Tamil Nadu"
+    ],
+    "uuid": [
+      "f0724b85-eaac-4cc8-b9f4-3e91a03e5359"
+    ],
+    "vid": [
+      10702087
+    ],
+    "view_count": [
+      4666
+    ],
+    "search_api_id": [
+      "entity:node/6185281:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-forest-cover-tamil-nadu"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3936
+    ],
+    "published_date": [
+      1521693390
+    ],
+    "body:value": [
+      "District-wise Forest Cover of Tamil Nadu"
+    ],
+    "changed": [
+      1563539378
+    ],
+    "created": [
+      1521631500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Environment and Forests Department",
+      "Tamil Nadu Forests Department"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Forest Cover",
+      "District-wise forest cover"
+    ],
+    "nid": [
+      6185361
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "District-wise Forest Cover of Tamil Nadu"
+    ],
+    "uuid": [
+      "f1294526-0cd9-4bab-b25f-1c18c85ccf62"
+    ],
+    "vid": [
+      10702094
+    ],
+    "view_count": [
+      2416
+    ],
+    "search_api_id": [
+      "entity:node/6185361:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/drug-testing-laboratories-tamil-nadu"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1105
+    ],
+    "published_date": [
+      1522670352
+    ],
+    "body:value": [
+      " Drug Testing Laboratories in Tamil Nadu"
+    ],
+    "changed": [
+      1563771730
+    ],
+    "created": [
+      1522665093
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_group_name:name": [
+      "trfff"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Health and Family Welfare Department",
+      "Drug Control Administration"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Drug Testing Laboratories",
+      "Drug Test"
+    ],
+    "nid": [
+      6185441
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "Drug Testing Laboratories in Tamil Nadu"
+    ],
+    "uuid": [
+      "731d19ea-cbd0-4a10-9db9-6126ca3e4454"
+    ],
+    "vid": [
+      10702101
+    ],
+    "view_count": [
+      876
+    ],
+    "search_api_id": [
+      "entity:node/6185441:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/licensed-cosmetics-manufacturing-agencies-tamil-nadu"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      235
+    ],
+    "published_date": [
+      1522670281
+    ],
+    "body:value": [
+      "Licensed Cosmetics Manufacturing Agencies in Tamil Nadu"
+    ],
+    "changed": [
+      1563771881
+    ],
+    "created": [
+      1522668440
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Health and Family Welfare Department",
+      "Drug Control Administration"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Licensed Cosmetics Manufacturing Agencies",
+      "Licensed Cosmetics"
+    ],
+    "nid": [
+      6185481
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "Licensed Cosmetics Manufacturing Agencies in Tamil Nadu"
+    ],
+    "uuid": [
+      "c8ee928f-2e35-411a-a0b2-16972ff0cb1b"
+    ],
+    "vid": [
+      10702108
+    ],
+    "view_count": [
+      127
+    ],
+    "search_api_id": [
+      "entity:node/6185481:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/energy-jabalpur"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      107
+    ],
+    "published_date": [
+      1643627846
+    ],
+    "body:value": [
+      "This indicator helps to determine the renewable energy generation,\\\r\nconsumption and fossil fuel consumption"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1642779406
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Madhya Pradesh",
+      "Jabalpur"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Energy",
+      "fossil fuel",
+      "Renewable"
+    ],
+    "nid": [
+      602923440
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Energy: Jabalpur"
+    ],
+    "uuid": [
+      "ae2aa6e0-381a-4f63-a811-9cdf602bc9fb"
+    ],
+    "vid": [
+      12996002
+    ],
+    "view_count": [
+      48
+    ],
+    "search_api_id": [
+      "entity:node/602923440:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/pradhan-mantri-jan-dhan-yojana-pmjdy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2695
+    ],
+    "published_date": [
+      1709790189
+    ],
+    "body:value": [
+      "PMJDY is a National Mission on Financial Inclusion encompassing an integrated approach to bring about comprehensive financial inclusion of all the households in the country. The plan envisages universal access to banking facilities with at least one basic banking account for every household, financial literacy, access to credit, insurance and pension facility. In addition, the beneficiaries would get RuPay Debit card having inbuilt accident insurance cover of  1 lakh. The plan also envisages channeling all Government benefits (from Centre / State / Local Body) to the beneficiaries accounts and pushing the Direct Benefits Transfer (DBT) scheme of the Union Government. The technological issues like poor connectivity, on-line transactions will be addressed. Mobile transactions through telecom operators and their established centres as Cash Out Points are also planned to be used for Financial Inclusion under the Scheme. Also an effort is being made to reach out to the youth of this country to participate in this Mission Mode Programme."
+    ],
+    "changed": [
+      1729162650
+    ],
+    "created": [
+      1709632599
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Pradhan Mantri Jan Dhan Yojana"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Financial Services"
+    ],
+    "field_sector:name": [
+      "Banking"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Pradhan Mantri Jan Dhan Yojana",
+      "PMJDY"
+    ],
+    "nid": [
+      602941173
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Pradhan Mantri Jan Dhan Yojana (PMJDY)"
+    ],
+    "uuid": [
+      "85f33495-1f19-4742-b7c7-c55d33b5ebb5"
+    ],
+    "vid": [
+      12186049
+    ],
+    "search_api_id": [
+      "entity:node/602941173:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      6
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-263"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2539
+    ],
+    "published_date": [
+      1710147417
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 263 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1710138673
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Annexures"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Rajya Sabha"
+    ],
+    "nid": [
+      602950524
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 263"
+    ],
+    "uuid": [
+      "7a232bf8-f556-4d52-bf1c-4f6ce151a700"
+    ],
+    "vid": [
+      13001269
+    ],
+    "search_api_id": [
+      "entity:node/602950524:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/labour-welfare-scheme-health-under-directorate-general-labour-welfare-mole"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3001
+    ],
+    "published_date": [
+      1710915913
+    ],
+    "body:value": [
+      "Providing health care facilities to the beedi, cine, non-coal mine workers "
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1710774834
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "unorganised workers",
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Labour and Employment"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Unorganized Sector Workers"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "LWS",
+      "OPD Statistics",
+      "Patient Treated"
+    ],
+    "nid": [
+      602964749
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Labour Welfare Scheme Health  under Directorate General Labour Welfare (MoLE)"
+    ],
+    "uuid": [
+      "a038de9f-0e9e-4f60-99be-b5473c6f30c5"
+    ],
+    "vid": [
+      13013249
+    ],
+    "search_api_id": [
+      "entity:node/602964749:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      7
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/accidental-deaths-suicides-india-adsi-2022"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9294
+    ],
+    "published_date": [
+      1713867816
+    ],
+    "body:value": [
+      "The catalog contains the details of natural & un-natural accidents, traffic accidents and suicides. Major causes of accidental deaths are Traffic accidents, Drowning, Lightning, Heart Attacks, Accidental Fire, Falls, Poisoning. Major causes of Suicides are Family Problems, Illness, Bankruptcy or Indebtedness, with Percentage Variation Age and Gender-wise Distribution, It includes Data of All India Level, The information given in this report is police recorded data which has been obtained through State/UT Police, It includes Total number of Accidental Deaths with Mid-Year Projected Population and Rate of Accidental Deaths."
+    ],
+    "changed": [
+      1713867986
+    ],
+    "created": [
+      1712742122
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Accidental Deaths and Suicides"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Accidental Deaths",
+      "Suicides in India ",
+      "Accidental Deaths and Suicides in India",
+      "Accidental death by un-natural causes",
+      "Accidental deaths by natural causes",
+      "Accidental Fire",
+      "Social status of suicide victims",
+      "Suicides",
+      "Suicides by Means adopted",
+      "Farmers Suicides",
+      "Rate of Suicides"
+    ],
+    "nid": [
+      603005055
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Accidental Deaths & Suicides in India (ADSI) - 2022"
+    ],
+    "uuid": [
+      "3a815909-2a3d-4486-bfcb-78a10df6d5d1"
+    ],
+    "vid": [
+      12276530
+    ],
+    "search_api_id": [
+      "entity:node/603005055:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-and-national-highways-tamil-nadu"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7568
+    ],
+    "published_date": [
+      1510311105
+    ],
+    "body:value": [
+      "State and National Highways in Tamil Nadu"
+    ],
+    "changed": [
+      1537966144
+    ],
+    "created": [
+      1510310610
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Highways and Minor Ports Department",
+      "Highways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "National Highways",
+      "Tamilnadu State Highways"
+    ],
+    "nid": [
+      6183571
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "State and National Highways in Tamil Nadu"
+    ],
+    "uuid": [
+      "f776d7d6-2325-4907-a225-e97cdee6e61f"
+    ],
+    "vid": [
+      10703169
+    ],
+    "view_count": [
+      5642
+    ],
+    "search_api_id": [
+      "entity:node/6183571:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      7
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/list-polytechnic-colleges-tamil-nadu"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6941
+    ],
+    "published_date": [
+      1510923970
+    ],
+    "body:value": [
+      "List of Polytechnic Colleges in Tamil Nadu"
+    ],
+    "changed": [
+      1537966646
+    ],
+    "created": [
+      1510923704
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Education"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Higher Education Department",
+      "Directorate of Technical Education (DOTE)"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Polytechnic Institutions",
+      "Tamilnadu",
+      "polytechnic colleges"
+    ],
+    "nid": [
+      6183600
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "List of Polytechnic Colleges in Tamil Nadu"
+    ],
+    "uuid": [
+      "96c1d098-a334-43d6-9a5c-6bb5fa2c4bcb"
+    ],
+    "vid": [
+      10703198
+    ],
+    "view_count": [
+      5040
+    ],
+    "search_api_id": [
+      "entity:node/6183600:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/kallar-reclamation-schools-tamil-nadu"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1304
+    ],
+    "published_date": [
+      1511240541
+    ],
+    "body:value": [
+      "Kallar Reclamation Schools in Tamil Nadu"
+    ],
+    "changed": [
+      1563537399
+    ],
+    "created": [
+      1511239970
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Education"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Backward Classes Most Backward Classes and Minorities Welfare Department",
+      "Backward Classes Welfare Directorate"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Schools",
+      "Tamilnadu",
+      "kallar",
+      "reclamation"
+    ],
+    "nid": [
+      6183604
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "Kallar Reclamation Schools in Tamil Nadu"
+    ],
+    "uuid": [
+      "49526aea-3909-4eaf-9589-8292867562d8"
+    ],
+    "vid": [
+      10703207
+    ],
+    "view_count": [
+      970
+    ],
+    "search_api_id": [
+      "entity:node/6183604:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/statistical-hand-book-2016-state-excise"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1303
+    ],
+    "published_date": [
+      1511349733
+    ],
+    "body:value": [
+      "Statistical Hand Book 2016"
+    ],
+    "changed": [
+      1537966959
+    ],
+    "created": [
+      1511343740
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_group_name:name": [
+      "Statistical Hand Book 2016"
+    ],
+    "field_sector:name": [
+      "Finance"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Planning, Development and Special Initiatives Department",
+      "Department of Economics and Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "2016",
+      "handbook",
+      "statistical data"
+    ],
+    "nid": [
+      6183615
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "Statistical Hand Book 2016 : State Excise"
+    ],
+    "uuid": [
+      "2705b96e-c4a2-4cc4-b03d-0e65800c5a11"
+    ],
+    "vid": [
+      10703246
+    ],
+    "view_count": [
+      1152
+    ],
+    "search_api_id": [
+      "entity:node/6183615:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/statistical-hand-book-2016-family-welfare"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      248
+    ],
+    "published_date": [
+      1511351879
+    ],
+    "body:value": [
+      "Statistical Hand Book 2016 Family Welfare"
+    ],
+    "changed": [
+      1537967205
+    ],
+    "created": [
+      1511351279
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_group_name:name": [
+      "Statistical Hand Book 2016"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Planning, Development and Special Initiatives Department",
+      "Department of Economics and Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "2016",
+      "handbook",
+      "statistical data",
+      "Famil Welfare"
+    ],
+    "nid": [
+      6183619
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "Statistical Hand Book 2016 : Family Welfare"
+    ],
+    "uuid": [
+      "df9c3233-3439-4f20-8ad2-d7e3fb768d62"
+    ],
+    "vid": [
+      10703257
+    ],
+    "view_count": [
+      164
+    ],
+    "search_api_id": [
+      "entity:node/6183619:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/statistical-hand-book-2016-income-tax"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1848
+    ],
+    "published_date": [
+      1511351950
+    ],
+    "body:value": [
+      "Statistical Hand Book 2016 : Income Tax"
+    ],
+    "changed": [
+      1537967249
+    ],
+    "created": [
+      1511351723
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_group_name:name": [
+      "Statistical Hand Book 2016"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Planning, Development and Special Initiatives Department",
+      "Department of Economics and Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Income Tax",
+      "2016",
+      "handbook",
+      "statistical data"
+    ],
+    "nid": [
+      6183621
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "Statistical Hand Book 2016 : Income Tax"
+    ],
+    "uuid": [
+      "7ccc825e-0857-4d3c-9720-c8958ad3e3a7"
+    ],
+    "vid": [
+      10703268
+    ],
+    "view_count": [
+      1495
+    ],
+    "search_api_id": [
+      "entity:node/6183621:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      29
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-266"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4886
+    ],
+    "published_date": [
+      1735062578
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 265 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1753941132
+    ],
+    "created": [
+      1735019690
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "RS Session 266"
+    ],
+    "nid": [
+      603467117
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 266"
+    ],
+    "uuid": [
+      "78889f83-0f96-484b-9fbc-5be92454446f"
+    ],
+    "vid": [
+      12866217
+    ],
+    "search_api_id": [
+      "entity:node/603467117:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2022"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      26104
+    ],
+    "published_date": [
+      1712922400
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India - 2022. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Violent crimes, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Unidentified dead bodies recovered and inquest conducted, Victims of kidnapping & abduction, Disposal of crime cases, Charge sheet of crimes, Complaint received and case registered under IPC and SLL, Conviction rate , Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Offenders relation and nearness to rape victims, Crimes committed against children, Crime committed against scheduled castes and schedule tribes, Property stolen & recovered and percentage recovery, Vehicles stolen, Recovered and co-ordinated, Dacoity cases, Robbery cases, Burglary cases, Theft cases, Cultural property (including antiques) stolen and recovered, Cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Deaths in police custody /lockup, Escapes from police custody, Reported custodial rape cases and their disposal, Persons arrested under custodial ,Rape and their disposal by police and courts, Event wise persons killed or injured under police firing, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Incidence of human right violation by police, Sanctioned and strength of civil police including district armed police, Information on police housing, Sanctioned and actual strength of home guards and auxiliary force, Equipments and transport support, Police stations by volume of crime, Police stations by strength of personnel, Organization setup, Representation of SCs/STs and muslims in police etc."
+    ],
+    "changed": [
+      1712922857
+    ],
+    "created": [
+      1712742731
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Indian Penal Code",
+      "Crime",
+      "Crimes under Special and Local Laws",
+      "crimes against women",
+      "Crimes against Children ",
+      "Cognizable Crimes Registered",
+      "Crimes against Senior Citizen",
+      "Crimes by Place of Occurrence",
+      "Cognizable Crime Under IPC",
+      "Disposal of Juveniles Apprehended (Under IPC And SLL Crimes)",
+      "Juveniles Apprehended Under IPC Crimes",
+      "Juveniles Apprehended Under SLL Crimes",
+      "Crimes against Scheduled Castes",
+      "Crimes against Scheduled Tribes"
+    ],
+    "nid": [
+      603005071
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2022"
+    ],
+    "uuid": [
+      "07f94dd3-f6fe-4140-a246-7ae19cc00016"
+    ],
+    "vid": [
+      12253891
+    ],
+    "search_api_id": [
+      "entity:node/603005071:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cotton-production-and-consumption-textiles"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1288
+    ],
+    "published_date": [
+      1713441580
+    ],
+    "body:value": [
+      "The catalog contains production and consumption of cotton in Textiles sector."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1713430652
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "World"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Textiles Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Textiles"
+    ],
+    "field_sector:name": [
+      "Textiles"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cotton",
+      "Production",
+      "Consumption"
+    ],
+    "nid": [
+      603021735
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cotton Production and Consumption - Textiles"
+    ],
+    "uuid": [
+      "916790e3-1d17-4235-9ff5-e300699f1966"
+    ],
+    "vid": [
+      13002987
+    ],
+    "search_api_id": [
+      "entity:node/603021735:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      22
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/sampann-pensioner-data"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      20696
+    ],
+    "published_date": [
+      1717052597
+    ],
+    "body:value": [
+      "SAMPANN is an online pension payment software, catering 4.30 lakhs telecom pensioners of Department of Telecommunication, Ministry of Communications. This catalog provides State wise Telecom pensioner data onboarded on SAMPANN. "
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1714388701
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Pensioner "
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Communications",
+      "Department of Telecommunications (DOT)"
+    ],
+    "field_sector:name": [
+      "Telecom"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Pensioners",
+      "DoT",
+      "Telecommunication",
+      "Pension"
+    ],
+    "nid": [
+      603042021
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "SAMPANN Pensioner data"
+    ],
+    "uuid": [
+      "2072d9a2-6572-437c-befd-149654678b16"
+    ],
+    "vid": [
+      13011804
+    ],
+    "search_api_id": [
+      "entity:node/603042021:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/silk-data"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1624
+    ],
+    "published_date": [
+      1715064288
+    ],
+    "body:value": [
+      "The dataset provides details about silk plantation, production, imports, exports "
+    ],
+    "changed": [
+      1715064510
+    ],
+    "created": [
+      1714562741
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Textiles"
+    ],
+    "field_sector:name": [
+      "Textiles"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Silk"
+    ],
+    "nid": [
+      603045675
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Silk Data"
+    ],
+    "uuid": [
+      "edb00b73-621d-46b6-9d99-e3f1f3352cd9"
+    ],
+    "vid": [
+      12300252
+    ],
+    "search_api_id": [
+      "entity:node/603045675:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      9
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/defence-production-and-export"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4030
+    ],
+    "published_date": [
+      1719339627
+    ],
+    "body:value": [
+      "The dataset provides details about Defence Production, Defence Export Schemes of DDP"
+    ],
+    "changed": [
+      1739518167
+    ],
+    "created": [
+      1717568401
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Production"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Department of Defence Production",
+      "Defence Export",
+      "Defence Production"
+    ],
+    "nid": [
+      603092624
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Defence Production and Export"
+    ],
+    "uuid": [
+      "d6e3daf4-9493-4fae-a4ae-dfccb7ebbe86"
+    ],
+    "vid": [
+      12371123
+    ],
+    "search_api_id": [
+      "entity:node/603092624:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      15
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-262"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1670
+    ],
+    "published_date": [
+      1723200727
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 262 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1722947177
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Annexures"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Rajya Sabha"
+    ],
+    "nid": [
+      603183739
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 262"
+    ],
+    "uuid": [
+      "c87f45f9-6597-41c5-8125-28c5abf93116"
+    ],
+    "vid": [
+      13001270
+    ],
+    "search_api_id": [
+      "entity:node/603183739:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      8
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-265"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4137
+    ],
+    "published_date": [
+      1724325619
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 265 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1724324649
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Session"
+    ],
+    "nid": [
+      603217753
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 265"
+    ],
+    "uuid": [
+      "b63773fc-083b-40a0-8203-3de548241fc6"
+    ],
+    "vid": [
+      13051148
+    ],
+    "search_api_id": [
+      "entity:node/603217753:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/indian-petroleum-and-natural-gas-statistics-2022-23"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2932
+    ],
+    "published_date": [
+      1727074866
+    ],
+    "body:value": [
+      "Indian Petroleum and Natural Gas Statistics - 2022-23 provides exhaustive data on oil & gas sector in India. In addition, this catalog also gives a glimpse of the global petroleum scenario through the latest international petroleum statistics. It contains data on various parameters including inter-alia production, exploration, refining, transportation and marketing, imports and exports of crude oil and petroleum products along with taxes and duties realized, man power employed in oil & gas CPSEs, outlays and annual expenditure, dividends paid, equity capital and profit of the CPSEs etc."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1726741773
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Petroleum and Natural Gas"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "PNG",
+      "Natural Gas",
+      "Crude Oil"
+    ],
+    "nid": [
+      603281879
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Indian Petroleum and Natural Gas Statistics - 2022-23"
+    ],
+    "uuid": [
+      "19f7750f-ea64-4df9-a185-60dc242bffce"
+    ],
+    "vid": [
+      13011760
+    ],
+    "search_api_id": [
+      "entity:node/603281879:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/rajya-sabha-synopsis-list"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      365
+    ],
+    "published_date": [
+      1730195273
+    ],
+    "body:value": [
+      "The synopsis contains a brief record of speeches of members made during Special Mention, Short Duration Discussions, Discussions on Bills, Motions or Resolutions, etc. It is not an authoritative record of the proceedings of Rajya Sabha."
+    ],
+    "changed": [
+      1730195320
+    ],
+    "created": [
+      1730184624
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Synopsis "
+    ],
+    "nid": [
+      603359124
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rajya Sabha Synopsis List"
+    ],
+    "uuid": [
+      "3a9cd10a-a07d-456f-a503-589f9bf344c0"
+    ],
+    "vid": [
+      12756080
+    ],
+    "search_api_id": [
+      "entity:node/603359124:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/atal-mission-rejuvenation-and-urban-transformationamrut-progress-development-parks-various"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      516
+    ],
+    "published_date": [
+      1533018109
+    ],
+    "body:value": [
+      "Atal Mission for Rejuvenation and Urban Transformation(AMRUT): Progress on development of Parks in various ULBs (year-wise)"
+    ],
+    "changed": [
+      1563777261
+    ],
+    "created": [
+      1533016085
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Governance and Administration"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Municipal Administration and Water Supply Department",
+      "Commissionerate of Municipal Administration (CMA)"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Park Progress",
+      "Progress on development of Parks in various ULBs (year-wise)"
+    ],
+    "nid": [
+      6187413
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "Atal Mission for Rejuvenation and Urban Transformation(AMRUT): Progress on development of Parks in various ULBs (year-wise)"
+    ],
+    "uuid": [
+      "f4c1d849-9b15-4200-9f69-182d0c3c1371"
+    ],
+    "vid": [
+      10702254
+    ],
+    "view_count": [
+      341
+    ],
+    "search_api_id": [
+      "entity:node/6187413:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/sidco-industrial-estates-tamil-nadu-31072018"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8487
+    ],
+    "published_date": [
+      1534241940
+    ],
+    "body:value": [
+      "List of all the Industrial Estates Developed and Maintained by SIDCO."
+    ],
+    "changed": [
+      1539674249
+    ],
+    "created": [
+      1534226269
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Small Scale"
+    ],
+    "field_state_department:name": [
+      "Tamil Nadu",
+      "Micro Small and Medium Enterprises Department",
+      "Tamil Nadu Small Industries Development Corporation Ltd (TANSIDCO)"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Industrial Estates of SIDCO."
+    ],
+    "nid": [
+      6187433
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "61"
+    ],
+    "ogpl_module_domain_name": [
+      "tn.data.gov.in"
+    ],
+    "title": [
+      "SIDCO Industrial Estates in Tamil Nadu (as on 31.07.2018)"
+    ],
+    "uuid": [
+      "49dbc885-89c7-435d-af81-7d32a95ef134"
+    ],
+    "vid": [
+      10702310
+    ],
+    "view_count": [
+      7195
+    ],
+    "search_api_id": [
+      "entity:node/6187433:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/classification-main-workers-non-household-industry-trade-business-profession-or-service"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      194
+    ],
+    "published_date": [
+      1600319080
+    ],
+    "body:value": [
+      "The catalog contains data related to Classification of Main Workers in Non-Household Industry, Trade, Business, Profession or Service by Class of Worker, Age and Sex, Census 2011 - India and States. It includes data on Main Worker, Class of Worker, Employer, Employee, Single Worker, Family Worker."
+    ],
+    "changed": [
+      1600319197
+    ],
+    "created": [
+      1542194161
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employee",
+      "Employer",
+      "Worker",
+      "Family"
+    ],
+    "nid": [
+      6513801
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Classification of Main Workers in Non-Household Industry, Trade, Business, Profession or Service by Class of Worker, Age and Sex, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "246338f7-8d5b-4991-9b69-d600604d8b42"
+    ],
+    "vid": [
+      7899213
+    ],
+    "view_count": [
+      40
+    ],
+    "search_api_id": [
+      "entity:node/6513801:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/female-workers-classified-industrial-category-and-marital-status-census-2011-india-and"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      656
+    ],
+    "published_date": [
+      1600319587
+    ],
+    "body:value": [
+      "The catalog contains data related to Female Workers Classified by Industrial Category and Marital Status, Census 2011 - India and States. It includes data on Main Worker, Marginal Worker, Cultivator, Agricultural Labourer, Plantation, Livestock, Forestry, Fishing, Hunting, Allied Activities."
+    ],
+    "changed": [
+      1600319715
+    ],
+    "created": [
+      1542195235
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Cultivator",
+      "Fishing",
+      "Forestry",
+      "Hunting",
+      "Worker",
+      "Plantation",
+      "Marginal",
+      "Labourer",
+      "Allied"
+    ],
+    "nid": [
+      6513921
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Female Workers Classified by Industrial Category and Marital Status, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "c84a2582-b085-4b82-b2ed-09e95f8f2e96"
+    ],
+    "vid": [
+      7899217
+    ],
+    "view_count": [
+      78
+    ],
+    "search_api_id": [
+      "entity:node/6513921:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/main-workers-classified-age-industrial-category-and-sex-and-religious-community-census-2011"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      296
+    ],
+    "published_date": [
+      1600318943
+    ],
+    "body:value": [
+      "The catalog contains data related to Main Workers Classified by Age, Industrial Category and Sex and Religious Community, Census 2011 - India and States. It includes data on Main Worker, Industrial Category, Cultivator, Agricultural Labourer, Plantation, Livestock, Forestry, Fishing, Hunting, Allied Activities."
+    ],
+    "changed": [
+      1600319080
+    ],
+    "created": [
+      1542195600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Cultivator",
+      "Fishing",
+      "Forestry",
+      "Hunting",
+      "Worker",
+      "Plantation",
+      "Labourer",
+      "Allied"
+    ],
+    "nid": [
+      6513941
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Main Workers Classified by Age, Industrial Category and Sex and Religious Community, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "42ccc3d3-b664-44bf-a241-6529d683d8c6"
+    ],
+    "vid": [
+      7899221
+    ],
+    "view_count": [
+      33
+    ],
+    "search_api_id": [
+      "entity:node/6513941:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/main-workers-classified-industrial-category-age-and-sex-each-castetribe-separately-census"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      305
+    ],
+    "published_date": [
+      1600237144
+    ],
+    "body:value": [
+      "The catalog contains data related to Main Workers Classified by Industrial Category, Age and Sex (For Each Caste/Tribe Separately), Census 2011 - India and States. It includes data on Main Workers Classified by Scheduled Caste, Scheduled Tribe and Industrial Category like Agricultural Labourer, Cultivator, HHI, other Worker."
+    ],
+    "changed": [
+      1600237485
+    ],
+    "created": [
+      1542197780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Cultivator",
+      "Labour",
+      "SC",
+      "ST",
+      "Caste",
+      "Worker",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      6514041
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Main Workers Classified by Industrial Category, Age and Sex (For Each Caste/Tribe Separately), Census 2011 - India and States"
+    ],
+    "uuid": [
+      "1e37f5f4-270c-457b-b184-9c0f977ce047"
+    ],
+    "vid": [
+      7899225
+    ],
+    "view_count": [
+      30
+    ],
+    "search_api_id": [
+      "entity:node/6514041:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/main-workers-classified-industrial-category-educational-level-and-sex-each-castetribe"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      208
+    ],
+    "published_date": [
+      1600239813
+    ],
+    "body:value": [
+      "The catalog contains data related to Main Workers Classified by Industrial Category, Educational Level and Sex (For Each Caste/Tribe Separately), Census 2011 - India and States. It includes data on Main Workers Classified by Education level, Scheduled Caste, Scheduled Tribe and Industrial Category like Agricultural Labourer, Cultivator, HHI, other Worker."
+    ],
+    "changed": [
+      1600240066
+    ],
+    "created": [
+      1542198357
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Cultivator",
+      "Labour",
+      "SC",
+      "ST",
+      "Caste",
+      "Worker",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      6514061
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Main Workers Classified by Industrial Category, Educational Level and Sex (For Each Caste/Tribe Separately), Census 2011 - India and States"
+    ],
+    "uuid": [
+      "af7d6aa9-1ade-4468-84b0-ead1a79f4cae"
+    ],
+    "vid": [
+      7899229
+    ],
+    "view_count": [
+      37
+    ],
+    "search_api_id": [
+      "entity:node/6514061:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

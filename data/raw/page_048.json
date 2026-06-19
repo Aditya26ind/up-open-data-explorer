@@ -1,0 +1,4860 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-and-their-disposal-police-and-court-under-crime-against-children"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1724
+    ],
+    "published_date": [
+      1381406037
+    ],
+    "body:value": [
+      "The data refers to State/UT wise persons arrested and their disposal by police and court under crime against children by various crime heads. The various crime categories under the head are Infanticide (Section 315 IPC), Murder (Section 302 IPC), Rape (Section 376 IPC), Kidnapping And Abduction (Section 363-369, 371-373 IPC), Foeticide (Section 315, 316 IPC), Abetment To Suicide (Section 305 IPC), Exposure And Abandonment (Section 317 IPC), Procuration Of Minor Girls (Section 366-A IPC), Buying Of Girls For Prostitution (Section 373 IPC), Selling Of Girls For Prostitution (Section 372 IPC), Child Marriage Restraint Act, 1929 and Other Crimes Committed Against Children."
+    ],
+    "changed": [
+      1462768526
+    ],
+    "created": [
+      1379419260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Crime"
+    ],
+    "nid": [
+      89946
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested and their disposal by police and court under crime against children"
+    ],
+    "uuid": [
+      "5889a493-b58e-4026-8ca7-4b01c4b6c0d4"
+    ],
+    "vid": [
+      7855922
+    ],
+    "view_count": [
+      1657
+    ],
+    "search_api_id": [
+      "entity:node/89946:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-and-their-disposal-police-and-court-under-crime-against-women"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2511
+    ],
+    "published_date": [
+      1381407271
+    ],
+    "body:value": [
+      "The data refers to State/UT wise persons arrested and their disposal by police and court under crime against women by crime head. The various crime categories under crime head are Crime Head Rape (Section 376 IPC), Kidnapping And Abduction (Section 363-369, 371-373 IPC), Dowry Death (Section 304-B IPC), Cruelty By Husband Or His Relatives (Section 498-A IPC), Assault On Women With Intent To Outrage Her Modesty (Section 354 IPC), Insult To The Modesty Of Women (Section 509 IPC), Importation Of Girls From Foreign Country(Section 366-B IPC), Commission Of Sati Prevention Act, Immoral Traffic (Prevention) Act, Indecent Representation Of Women (Prohibition) Act and Dowry Prohibition Act."
+    ],
+    "changed": [
+      1462769367
+    ],
+    "created": [
+      1379419260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Women",
+      "Arrested",
+      "Disposal"
+    ],
+    "nid": [
+      89948
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested and their disposal by police and court under crime against women"
+    ],
+    "uuid": [
+      "3d2ed357-80ae-4351-aa17-e191c98aa2ea"
+    ],
+    "vid": [
+      7855932
+    ],
+    "view_count": [
+      2375
+    ],
+    "search_api_id": [
+      "entity:node/89948:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-and-their-disposal-police-and-court-under-crimes-committed-against-sc"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2500
+    ],
+    "published_date": [
+      1381473067
+    ],
+    "body:value": [
+      "The data refers to State/UT wise details on persons arrested and their disposal by police and court for crimes committed against Schedule Caste under different crime heads(Acts). Dataset provides details on such arrested person which includes Persons in custody or on bail during the stage of investigation at the beginning of the year, Persons arrested during the year, Persons released or freed by Police or Magistrate before trial for want of evidence or any other reason, Persons in custody or on bail during the stage of investigation at the end of the year, Persons in whose cases charge sheets were laid during the year, Persons under trial at the beginning of the year, Total number of persons under trial during the year, Persons against whom cases were compounded or withdrawn, Persons in custody or on bail during the stage of trial at the end of the year, Persons in whose cases trials were completed during the year, Persons convicted and Persons acquitted. The various crime heads covered in the dataset are Murder (Section 302 IPC), Rape (Section 376 IPC), Kidnapping And Abduction (Section 363-369, 371-373 IPC), Dacoity (Section 395-398 IPC), Robbery (Section 392-394, 397, 398 IPC), Arson (Section 435, 436, 438 IPC), Hurt (Section 323-333, 335-338 IPC), Protection Of Civil Rights Act, SC/ST (Prevention Of Atrocities) Act and Other Crimes against SC."
+    ],
+    "changed": [
+      1462768497
+    ],
+    "created": [
+      1379419260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "SC",
+      "Caste",
+      "Police",
+      "Person",
+      "Court",
+      "Scheduled",
+      "Disposal",
+      "Case",
+      "Committed",
+      "Arrest"
+    ],
+    "nid": [
+      89950
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested and their disposal by police and court under crimes committed against SC"
+    ],
+    "uuid": [
+      "9e00b4e3-0108-4247-9e43-1b4bde8c5391"
+    ],
+    "vid": [
+      7855942
+    ],
+    "view_count": [
+      2422
+    ],
+    "search_api_id": [
+      "entity:node/89950:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-and-their-disposal-police-and-court-under-crimes-committed-against-st"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1043
+    ],
+    "published_date": [
+      1381473334
+    ],
+    "body:value": [
+      "The data refers to State/UT wise details on persons arrested and their disposal by police and court for crimes committed against Schedule Tribe under different crime heads(Acts). Dataset provides details on such arrested person which includes Persons in custody or on bail during the stage of investigation at the beginning of the year, Persons arrested during the year, Persons released or freed by Police or Magistrate before trial for want of evidence or any other reason, Persons in custody or on bail during the stage of investigation at the end of the year, Persons in whose cases charge sheets were laid during the year, Persons under trial at the beginning of the year, Total number of persons under trial during the year, Persons against whom cases were compounded or withdrawn, Persons in custody or on bail during the stage of trial at the end of the year, Persons in whose cases trials were completed during the year, Persons convicted and Persons acquitted. The various crime heads covered in the dataset are Murder (Section 302 IPC), Rape (Section 376 IPC), Kidnapping And Abduction (Section 363-369, 371-373 IPC), Dacoity (Section 395-398 IPC), Robbery (Section 392-394, 397, 398 IPC), Arson (Section 435, 436, 438 IPC), Hurt (Section 323-333, 335-338 IPC), Protection Of Civil Rights Act, SC/ST (Prevention Of Atrocities) Act and Other Crimes against ST."
+    ],
+    "changed": [
+      1462768580
+    ],
+    "created": [
+      1379419260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "ST",
+      "Police",
+      "Person",
+      "Court",
+      "Scheduled",
+      "Tribe",
+      "Disposal",
+      "Case",
+      "Committed",
+      "Arrest"
+    ],
+    "nid": [
+      89952
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested and their disposal by police and court under crimes committed against ST"
+    ],
+    "uuid": [
+      "9cea544f-b445-4110-8233-7c16c6860efa"
+    ],
+    "vid": [
+      7855952
+    ],
+    "view_count": [
+      993
+    ],
+    "search_api_id": [
+      "entity:node/89952:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-and-their-disposal-police-and-court-under-human-trafficking"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2181
+    ],
+    "published_date": [
+      1381728339
+    ],
+    "body:value": [
+      "The data refers to State/UT wise persons arrested and their disposal by police and court under human trafficking by crime head. The various categories of crime under the crime head are Immoral Traffic (Prevention) Act, Buying Of Girls For Prostitution (Section 373 IPC), Selling Of Girls For Prostitution (Section 372 IPC), Procuration Of Minor Girls (Section 366-A IPC), Importation Of Girls From Foreign Country(Section 366-B IPC) and Human Trafficking."
+    ],
+    "changed": [
+      1441628718
+    ],
+    "created": [
+      1379419260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Human",
+      "Trafficking"
+    ],
+    "nid": [
+      89954
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested and their disposal by police and court under human trafficking"
+    ],
+    "uuid": [
+      "2b21a655-709f-41f4-9fdf-ef191018ef1e"
+    ],
+    "vid": [
+      7855962
+    ],
+    "view_count": [
+      2138
+    ],
+    "search_api_id": [
+      "entity:node/89954:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-and-their-disposal-police-and-court-under-indian-penal-code-ipc-crimes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2712
+    ],
+    "published_date": [
+      1381732563
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise persons arrested and their disposal by police and court under Indian Penal Code (IPC) by crime heads. The various categories of crimes covered are Murder (Section 302 IPC), Attempt To Commit Murder (Section 307 IPC), Culpable Homicide Not Amounting To Murder (Section 304, 308 IPC), Rape (Section 376 IPC), Under Custodial Rape, Under Other Rape, Kidnapping And Abduction (Section 363 To 369, 371 To 373 IPC), Kidnapping And Abduction Of Women And Girls, Kidnapping And Abduction Of Others, Dacoity (Section 395 To 398 IPC), Preparation And Assembly For Dacoity (Section 399 To 402 IPC), Robbery (Section 392 To 394, 397, 398 IPC), Burglary (Section 449 To 452, 454, 455, 457 To 460 IPC), Theft (Section 379 To 382 IPC), Auto Theft, Other Theft, Riots (Section 143, 144, 145, 147, 148, 149, 150, 151, 153, 153A, 153B, 157, 158, 160 IPC), Criminal Breach Of Trust (Section 406 To 409 IPC), Cheating (Section 419 To 420 IPC), Counterfeiting (Section 231-254 And 489A To 489D IPC), Arson (Section 435, 436, 438 IPC), Hurt (Section 323, 324 To 333, 335 To 338 IPC), Dowry Deaths (Section 304B IPC), Assault On Women With Intent To Outrage Her Modesty(Section 354 IPC), Insult To Modesty Of Women(Section 509 IPC), Cruelty By Husband Or His Relatives (Section 498A IPC), Importation Of Girls From Foreign Country (Section 366B IPC), Causing Death By Negligence (Section 304-A IPC) and Other IPC Crimes."
+    ],
+    "changed": [
+      1462768466
+    ],
+    "created": [
+      1379419260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "code",
+      "IPC",
+      "Penal"
+    ],
+    "nid": [
+      89956
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested and their disposal by police and court under Indian Penal Code (IPC) crimes"
+    ],
+    "uuid": [
+      "6ffee950-1679-4c49-a257-4ff8f0c71522"
+    ],
+    "vid": [
+      7855972
+    ],
+    "view_count": [
+      2540
+    ],
+    "search_api_id": [
+      "entity:node/89956:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-and-their-disposal-police-and-court-under-special-and-local-laws-sll"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      979
+    ],
+    "published_date": [
+      1381733788
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise persons arrested and their disposal by police and court under Special & Local Laws (SLL) crime heads. It provides details of Persons acquitted, Persons convicted, Persons in whose cases trials were completed during the year, Persons in custody or on bail during the stage of trial at the end of the year, Persons against whom cases were compounded or withdrawn, Total number of persons under trial during the year, Persons under trial at the beginning of the year, Persons in whose cases charge sheets were laid during the year, Persons in custody or on bail during the stage of investigation at the end of the year, Persons released or freed by Police or Magistrate before trial for want of evidence or any other reason, Persons arrested during the year and Persons in custody or on bail during the stage of investigation at the beginning of the year."
+    ],
+    "changed": [
+      1462768982
+    ],
+    "created": [
+      1379419260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Law",
+      "SLL",
+      "Special",
+      "Local"
+    ],
+    "nid": [
+      89958
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested and their disposal by police and court under Special and Local Laws (SLL) crimes"
+    ],
+    "uuid": [
+      "18a93f0a-447b-49aa-8cd4-df9cc5fe9b40"
+    ],
+    "vid": [
+      7855982
+    ],
+    "view_count": [
+      957
+    ],
+    "search_api_id": [
+      "entity:node/89958:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-sex-and-age-group-under-indian-penal-code-ipc-crimes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4116
+    ],
+    "published_date": [
+      1381730616
+    ],
+    "body:value": [
+      "The data refers to State/UT wise persons arrested by sex and age-group under various sections of Indian Penal Code (IPC) crime heads. The various crime categories covered are Murder (Section 302 IPC), Attempt To Commit Murder (Section 307 IPC), Culpable Homicide Not Amounting Murder (Section 304, 308 IPC), Rape (Section 376 IPC), Custodial Rape, Other Rape, Kidnapping And Abduction (Section 363 To 369, 371 To 373 IPC), Kidnapping And Abduction Of Women And Girls, Kidnapping And Abduction Of Others, Dacoity (Section 395 To 398 IPC), Preparation And Assembly For Dacoity (Section 399 To 402 IPC), Robbery (Section 392 To 394, 397, 398 IPC), Burglary (Section 449 To 452, 454, 455, 457 To 460 IPC), Theft (Section 379 To 382 IPC), Auto Theft, Other Theft, Riots (Section 143, 144, 145, 147, 148, 149, 150, 151, 153, 153A, 153B, 157, 158, 160 IPC), Criminal Breach Of Trust (Section 406 To 409), Cheating (Section 419 To 420 IPC), Counterfeiting (Section 231-254 And 489A To 489D IPC), Arson (Section 435, 436, 438 IPC), Hurt (Section 323, 324 To 333, 335 To 338 IPC), Dowry Deaths (Section 304B IPC), Assault On Women With Intent To Outrage Her Modesty(Section 354 IPC), Insult To The Modesty Of Women(Section 509 IPC), Cruelty By Husband Or His Relatives (Section 498A IPC), Importation Of Girls From Foreign Country(Section 366B IPC), Causing Death By Negligence (Section 304-A IPC)and Other IPC Crimes."
+    ],
+    "changed": [
+      1471498759
+    ],
+    "created": [
+      1379419260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "code",
+      "IPC",
+      "Penal"
+    ],
+    "nid": [
+      89960
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested by sex and age-group under Indian Penal Code (IPC) crimes"
+    ],
+    "uuid": [
+      "64f5f3a4-37ad-4958-b490-8682768b2176"
+    ],
+    "vid": [
+      7855992
+    ],
+    "view_count": [
+      3412
+    ],
+    "search_api_id": [
+      "entity:node/89960:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-sex-and-age-group-under-special-and-local-laws-sll-crimes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1503
+    ],
+    "published_date": [
+      1381733532
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise persons arrested by sex and age-group under various sections of Special & Local Laws (SLL) by crime heads. The various crime heads covered are Arms Act, NDPS ACT, Gambling Act, Excise Act, Prohibition Act, Explosives Substances Act, Immoral Traffic (P) Act, Indian Railways Act, Registration of Foreigners Act, Protection of Civil Rights Act, Indian Passport Act, Essential Commodities Act, Terrorist and Disruptive Activities Act, Antiquities and Art Treasures Act, Dowry Prohibition Act, 1961, Prohibition of Child Marriage Act, Indecent Rep. of Women (P) Act, Copyright Act, 1957, Commission of Sati (P) Act, 1987, SC/ST (Prev.of Attrocities) Act, Forest Act, 1927 and Other SLL Crimes."
+    ],
+    "changed": [
+      1470378819
+    ],
+    "created": [
+      1379419260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Law",
+      "SLL",
+      "Special",
+      "Local"
+    ],
+    "nid": [
+      89962
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested by sex and age-group under Special and Local Laws (SLL) crimes"
+    ],
+    "uuid": [
+      "2c92357e-9904-49d0-9251-8f421ca930b0"
+    ],
+    "vid": [
+      7856002
+    ],
+    "view_count": [
+      1435
+    ],
+    "search_api_id": [
+      "entity:node/89962:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-cognizable-crime-cases-under-pca-related-sections-ipc"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4148
+    ],
+    "published_date": [
+      1380176972
+    ],
+    "body:value": [
+      "The data refers to State/UT wise persons arrested and their disposal under cognizable crime under the prevention of corruption act & related sections of IPC. The rank of arrested persons as Gazetted gr 'A', Gazetted gr 'B' and private persons are also given."
+    ],
+    "changed": [
+      1441627392
+    ],
+    "created": [
+      1380109080
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Corruption",
+      "Prevention",
+      "Act"
+    ],
+    "nid": [
+      89964
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested in Cognizable Crime Cases under PCA & Related Sections of IPC"
+    ],
+    "uuid": [
+      "75386849-da92-48c4-b122-65d77afb595b"
+    ],
+    "vid": [
+      7856011
+    ],
+    "view_count": [
+      3924
+    ],
+    "search_api_id": [
+      "entity:node/89964:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-under-crime-against-schedule-caste"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1631
+    ],
+    "published_date": [
+      1381467173
+    ],
+    "body:value": [
+      "The data refers to State/UT wise details on persons arrested under crime against Schedule Caste under various crime heads. The nature of such crime includes Murder Of SCs, Rape Of SCs, Kidnapping And Abduction Of SCs, Dacoity Of SCs, Robbery Of SCs, Arson Of SCs, Hurt Of SCs, Other Crimes Against SCs, Protection Of Civil Rights Act For SCs and Sc/St (Prevention Of Atrocities) Act Of SCs."
+    ],
+    "changed": [
+      1462768369
+    ],
+    "created": [
+      1379419200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "SC",
+      "Caste",
+      "Scheduled"
+    ],
+    "nid": [
+      89966
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested under crime against Schedule Caste"
+    ],
+    "uuid": [
+      "fbda1043-135c-4e01-80dc-e3da51cf35a5"
+    ],
+    "vid": [
+      7856021
+    ],
+    "view_count": [
+      1548
+    ],
+    "search_api_id": [
+      "entity:node/89966:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-under-crime-against-schedule-tribe"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1093
+    ],
+    "published_date": [
+      1381466871
+    ],
+    "body:value": [
+      "The data refers to State/UT wise details on persons arrested under crime against Schedule Tribe during the year under various crime heads. The nature of such crime includes SC/ST (Prevention Of Atrocities) Act For STs, Robbery Of STs, Rape Of STs, Protection Of Civil Rights Act For STs, Other Crimes Against STs, Murder Of STs, Kidnapping And Abduction Of STs, Hurt Of STs, Dacoity Of STs and Arson Of STs."
+    ],
+    "changed": [
+      1462768254
+    ],
+    "created": [
+      1379419200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "ST",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      89968
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested under crime against Schedule Tribe"
+    ],
+    "uuid": [
+      "1a823001-ba58-49eb-be09-df84a5a9f494"
+    ],
+    "vid": [
+      7856031
+    ],
+    "view_count": [
+      1033
+    ],
+    "search_api_id": [
+      "entity:node/89968:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-under-crime-against-women"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      28187
+    ],
+    "published_date": [
+      1381466421
+    ],
+    "body:value": [
+      "The data refers to State/UT wise details on persons arrested under crime against women during the year under various crime heads. The various crimes covered are Rape (Section 376 IPC), Kidnapping And Abduction (Section 363 To 369, 371 To 373 IPC), Insult To The Modesty Of Women (Section 509 IPC), Indecent Representation Of Women (Prohibition) Act, 1986, Importation Of Girls From Foreign Country(Section 366B IPC), Immoral Traffic (Prevention) Act, 1956, Dowry Prohibition Act, 1961, Dowry Deaths (Section 304B IPC), Cruelty By Husband Or His Relatives (Section 498A IPC), Commission Of Sati Prevention Act, 1987 and Assault On Women With Intent To Outrage Her Modesty (Section 354 IPC)."
+    ],
+    "changed": [
+      1441626351
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Women",
+      "Person",
+      "Arrested"
+    ],
+    "nid": [
+      89970
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested under crime against Women"
+    ],
+    "uuid": [
+      "48e15d99-0883-4152-99c3-15a375607f5c"
+    ],
+    "vid": [
+      7856041
+    ],
+    "view_count": [
+      26891
+    ],
+    "search_api_id": [
+      "entity:node/89970:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-under-cyber-crime"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8423
+    ],
+    "published_date": [
+      1381467825
+    ],
+    "body:value": [
+      "The data refers to State/UT wise details on persons arrested by different age-group under various sections of IT Act and related IPC sections under Cyber Crime during the year. The crime covered are Tampering Computer Source Documents (Section 65 IT Act), Loss Or Damage To Computer Resource Or Utility (Section 66(1) IT Act), Hacking (Section 66(2) IT Act), Obscene Publication Or Transmission In Electronic Form (Section 67 IT Act), Failure - Of Compliance Or Orders Of Certifying Authority (Section 68  IT Act), Failure - To Assist In Decrypting The Information Intercepted By Govt Agency (Section 69 IT Act), Un-Authorised Access Or Attempt To Access To Protected Computer System (Section 70 IT Act), Obtaining License Or Digital Signature Certificate By Misrepresentation Or Suppression Of Fact (Section 71 IT Act), Publishing False Digital Signature Certificate (Section 73 IT Act), Fraud Digital Signature Certificate (Section 74 IT Act), Breach Of Confidentiality Or Privacy (Section 72 IT Act), Other Sections Of IT Act, Total IT Act, Offences By Or Against Public Servant (Section 167, 172, 173, 175 IPC), False Electronic Evidence (Section 193 IPC), Destruction Of Electronic Evidence (Section 204, 477 IPC), Forgery (Section 463, 465, 466, 468, 469, 471, 474, 476, 477A IPC), Criminal Breach Of Trust Or Fraud (Section 405, 406, 408, 409 IPC), Counterfeiting - Property Or Mark (Section 482, 183, 483, 484, 485 IPC), Counterfeiting - Tampering (Section 489 IPC), Counterfeiting - Currency Or Stamps (Section 489A To 489E IPC) and Cyber-Crime Related IPC Sections."
+    ],
+    "changed": [
+      1441628794
+    ],
+    "created": [
+      1379419200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Person",
+      "Arrested",
+      "Cyber"
+    ],
+    "nid": [
+      89973
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested under Cyber Crime"
+    ],
+    "uuid": [
+      "62466112-0de0-43ed-905d-07619872b23c"
+    ],
+    "vid": [
+      7856051
+    ],
+    "view_count": [
+      7833
+    ],
+    "search_api_id": [
+      "entity:node/89973:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-under-indian-penal-code-ipc-crime-cases"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4349
+    ],
+    "published_date": [
+      1381471863
+    ],
+    "body:value": [
+      "The data refers to State/UT wise details on persons arrested under Indian Penal Code (IPC) crime cases under different crime heads. The various crimes covered are Murder, Attempt To Commit Murder, C.H. Not Amounting To Murder, Rape, Kidnapping And Abduction, Dacoity, Preparation And Assembly For Dacoity, Robbery, Burglary, Theft, Riots, Criminal Breach Of Trust, Cheating, Counterfeiting, Arson, Hurt/Grevious Hurt, Dowry Deaths, Assault On Women With Intent To Outrage Her Modesty, Insult To The Modesty Of Women, Cruelty By Husband Or His Relatives, Importation Of Girls From Foreign , Causing Death By Negligence and Other IPC Crimes."
+    ],
+    "changed": [
+      1462768194
+    ],
+    "created": [
+      1379419200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Person",
+      "code",
+      "IPC",
+      "Arrested",
+      "Penal",
+      "Case"
+    ],
+    "nid": [
+      89975
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested under Indian Penal Code (IPC) Crime cases"
+    ],
+    "uuid": [
+      "2070263a-b236-4fc8-bf86-e847516ef8f6"
+    ],
+    "vid": [
+      7856061
+    ],
+    "view_count": [
+      4204
+    ],
+    "search_api_id": [
+      "entity:node/89975:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/persons-arrested-under-special-and-local-laws-sll-crime-cases"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1125
+    ],
+    "published_date": [
+      1381472269
+    ],
+    "body:value": [
+      "The data refers to State/UT wise details on persons arrested under Special and Local Laws (SLL) crime cases under various crime heads act. The nature of such crimes falls under Arms Act, NDPS Act, Gambling Act, Excise Act, Prohibition Act, Explosives And Explosive Substances Act, Immoral Traffic (Prevention) Act,1956, Indian Railways Act, Registration Of Foreigners Act, 1930, Protection Of Civil Rights Act, 1955, Indian Passport Act, Essential Commodities Act, Terrorist And Disruptive Activities Act, Antiquities And Art Treasures Act, 1972, Dowry Prohibition Act, 1961, Prohibition Of Child Marriage Act, Indecent Representation Of Women (P) Act, Copy Rights Act, Commission Of Sati Prevention Act, Sc/St (Prevention Of Atrocities) Act, Forest Act and Other SLL Crimes."
+    ],
+    "changed": [
+      1462768355
+    ],
+    "created": [
+      1379419200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Law",
+      "SLL",
+      "Special",
+      "Local"
+    ],
+    "nid": [
+      89977
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Persons arrested under Special and Local Laws (SLL) crime cases"
+    ],
+    "uuid": [
+      "bdbdd365-aaca-43b6-8087-35b881d7d2ca"
+    ],
+    "vid": [
+      7856071
+    ],
+    "view_count": [
+      1036
+    ],
+    "search_api_id": [
+      "entity:node/89977:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/petroleum-refining-capacity-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3679
+    ],
+    "published_date": [
+      1363241308
+    ],
+    "body:value": [
+      "The data refers to refinery capacity and year of commissioning of refinery in India."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1363168080
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "PNG Economic and Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "crude",
+      "Gas",
+      "LNG",
+      "LPG",
+      "OIL",
+      "Refinery",
+      "Reserve",
+      "Production",
+      "Performance",
+      "Public",
+      "Natural",
+      "Venture"
+    ],
+    "nid": [
+      89979
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Petroleum Refining Capacity in India"
+    ],
+    "uuid": [
+      "6e8af096-e5c6-4da9-a5d3-bace168d618e"
+    ],
+    "vid": [
+      7856076
+    ],
+    "view_count": [
+      3604
+    ],
+    "search_api_id": [
+      "entity:node/89979:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/phd-degrees-awarded-national-centre-cell-science"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1095
+    ],
+    "published_date": [
+      1372155869
+    ],
+    "body:value": [
+      "This data indicates details of Ph.D. degrees awarded (including title of Thesis, name of the Ph.D. student and research guide) by National Centre For Cell Science (NCCS), Pune during the year."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371471900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Centre For Cell Science"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India",
+      "National Centre for Cell Sciences (NCCS)"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NCCS",
+      "research",
+      "Thesis",
+      "Guide"
+    ],
+    "nid": [
+      89981
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Ph.D. Degrees Awarded By National Centre For Cell Science"
+    ],
+    "uuid": [
+      "87227f47-a50b-44d1-b249-25281d115f26"
+    ],
+    "vid": [
+      7856080
+    ],
+    "view_count": [
+      891
+    ],
+    "search_api_id": [
+      "entity:node/89981:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/pharmacists-laboratory-technicians-and-nursing-staff-primary-health-centres-and-community"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3242
+    ],
+    "published_date": [
+      1357906030
+    ],
+    "body:value": [
+      "As per minimum norms, a Community Health Centre (CHC) is required to be manned by four Medical Specialists i.e. Surgeon, Physician, Gynecologist and Pediatrician supported by paramedical and other staff including Pharmacist / Laboratory Technician / Nursing Staff. A Pharmacist / Laboratory Technician / Nursing Staff is also available at Primary Health Centre (PHC) level. The requirement is based on norm of one Pharmacist / Laboratory Technician per each existing PHC and CHC and the requirement is based on norm of one Nursing Staff per Primary Health Centre and seven per Community Health Centre. Sanctioned and In-Position figures are as reported by the States / UTs. All India figures for Vacancy (Sanctioned In-position) and Shortfall (Requirement In-position) are the totals of State-wise Vacancy and Shortfall ignoring surplus in some States/UTs."
+    ],
+    "changed": [
+      1566286979
+    ],
+    "created": [
+      1357799100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Health Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Medical",
+      "Pharmacist",
+      "position",
+      "Shortfall",
+      "sanction",
+      "Specialist",
+      "Technician"
+    ],
+    "nid": [
+      89983
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Pharmacists, Laboratory Technicians and Nursing Staff At Primary Health Centres and Community Health Centres"
+    ],
+    "uuid": [
+      "2a5ffa15-14b2-4bfd-b676-8f2f89e7deef"
+    ],
+    "vid": [
+      7856088
+    ],
+    "view_count": [
+      3146
+    ],
+    "search_api_id": [
+      "entity:node/89983:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-achievement-under-cmp-scheme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      639
+    ],
+    "published_date": [
+      1384939835
+    ],
+    "body:value": [
+      "The data refers to target and achievement details of various components under Clean Milk Production (CMP) Scheme as on 30th September 2013. It provides details on the total number of farmers trained, number of BMC for milk Chilling (Nos), chilling capacity of BMC (LPD) and strengthening of existing lab (nos). So far under this scheme 7.03 lakh farmers have been trained and 2231 numbers of Bulk milk coolers with a total chilling capacity of 46,13,800 litre per day have been installed and 1542 existing laboratories have been strengthened."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1384841220
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Dairying Scheme"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Dairying"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "capacity",
+      "Milk",
+      "Production",
+      "Farmer",
+      "Trained",
+      "Clean",
+      "Chilling"
+    ],
+    "nid": [
+      89985
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Achievement under CMP Scheme"
+    ],
+    "uuid": [
+      "0fb29c55-db44-407a-b381-81482b97e0f1"
+    ],
+    "vid": [
+      7856093
+    ],
+    "view_count": [
+      509
+    ],
+    "search_api_id": [
+      "entity:node/89985:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-achievements-under-nhdp-during-11th-five-year-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3356
+    ],
+    "published_date": [
+      1370421389
+    ],
+    "body:value": [
+      "The data refers to an overview of Physical Achievements under NHDP during 11th Five Year Plan."
+    ],
+    "changed": [
+      1436419233
+    ],
+    "created": [
+      1370316240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "national",
+      "Performance",
+      "Plan",
+      "Programme",
+      "Road",
+      "Highway"
+    ],
+    "nid": [
+      89987
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Achievements Under NHDP During 11th Five Year Plan"
+    ],
+    "uuid": [
+      "6316785b-d2e3-414f-874b-2fd8b9eddd18"
+    ],
+    "vid": [
+      7856096
+    ],
+    "view_count": [
+      3335
+    ],
+    "search_api_id": [
+      "entity:node/89987:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-and-financial-performance-mgnrega-overview"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2201
+    ],
+    "published_date": [
+      1369675923
+    ],
+    "body:value": [
+      "An overview of MGNREGA performance of 11th Five Year Plan from 200607 to 201112 (Twelfth Five Year Plan document). It provides year-wise details of households employed, person-days of employment generated, work provided per year to households, central release, total funds available in program (including Opening Balance), total budget outlay, expenditure, average wage per day, total works taken up and works completed."
+    ],
+    "changed": [
+      1436419239
+    ],
+    "created": [
+      1369669860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "Employment",
+      "expenditure",
+      "MGNREGA",
+      "Outlay",
+      "Release",
+      "Plan",
+      "Rural",
+      "Wage",
+      "Guarantee"
+    ],
+    "nid": [
+      89989
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical And Financial Performance of MGNREGA: An Overview"
+    ],
+    "uuid": [
+      "a0d8a2b3-9e7e-485a-b3c7-7f54be8504ec"
+    ],
+    "vid": [
+      7856102
+    ],
+    "view_count": [
+      2011
+    ],
+    "search_api_id": [
+      "entity:node/89989:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-and-financial-progress-nsap-components"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1858
+    ],
+    "published_date": [
+      1369673424
+    ],
+    "body:value": [
+      "The data refers to information about the physical and financial progress of 5 schemes covered under NSAP in Eleventh Plan from 2007-08 to 2011-12 (Twelfth Five Year Plan document). At present NSAP is an integration of the social security program that are: (i) Indira Gandhi National Old Age Pension Scheme (IGNOAPS); (ii) Indira Gandhi National Widow Pension Scheme (IGNWPS); (iii) Indira Gandhi National Disability Pension Scheme (IGNDPS); (vi) National Family Benefit Scheme (NFBS); and (v) Annapurna Scheme. IGNOAPS is the largest scheme within NSAP. In 201112, 82 per cent of the total NSAP expenditure was on IGNOAPS followed by the IGNWPS at 9.7 per cent."
+    ],
+    "changed": [
+      1436419239
+    ],
+    "created": [
+      1369669860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Annapurna",
+      "Budget",
+      "disability",
+      "IGNDPS",
+      "IGNOAPS",
+      "IGNWPS",
+      "Social",
+      "Pension",
+      "Security",
+      "Old"
+    ],
+    "nid": [
+      89991
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical And Financial Progress of NSAP Components"
+    ],
+    "uuid": [
+      "239715bc-02f3-4938-b0f4-e34ca3f53e39"
+    ],
+    "vid": [
+      7856108
+    ],
+    "view_count": [
+      1701
+    ],
+    "search_api_id": [
+      "entity:node/89991:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-and-financial-progress-under-jnnurm"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1526
+    ],
+    "published_date": [
+      1369297401
+    ],
+    "body:value": [
+      "JNNURM (Jawaharlal Nehru National Urban Renewal Mission) has four components viz Urban Infrastructure and Governance (UIG) and Urban Infrastructure Development Scheme for Small and Medium Towns (UIDSSMT) (implemented by M/o UD) and Basic Services to the Urban Poor (BSUP) and Integrated Housing and Slum Development Programme (IHSDP) (implemented by M/o HUPA). In the projects, sanctioned under JNNURM, the per cent of assistance varies among different components. For example, under BSUP, 50% of project is covered by Central Govt. whereas under IHSDP/UIDSSMT, 80% cost is covered."
+    ],
+    "changed": [
+      1436419248
+    ],
+    "created": [
+      1369228920
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Urban Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "BSUP",
+      "Development",
+      "Housing",
+      "IHSDP",
+      "Infrastructure",
+      "Integrated",
+      "Poor",
+      "Slum",
+      "Urban"
+    ],
+    "nid": [
+      89993
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical And Financial Progress Under JNNURM"
+    ],
+    "uuid": [
+      "634ca084-fbcd-4a55-8730-ae2dd9391f3f"
+    ],
+    "vid": [
+      7856112
+    ],
+    "view_count": [
+      1419
+    ],
+    "search_api_id": [
+      "entity:node/89993:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-and-financial-progress-under-pardhan-mantri-gram-sadak-yojna-pmgsy-swarnajayanti"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3599
+    ],
+    "published_date": [
+      1365010921
+    ],
+    "body:value": [
+      "Physical and Financial Progress of Pardhan Mantri Gram Sadak Yojna (PMGSY), Swarnajayanti Gram Swarozgar Yojana(SGSY) and Bharat Nirman have been furnished in the data. The Pradhan Mantri Gram Sadak Yojana or PMGSY is a nationwide plan in India to provide good all-weather road connectivity to unconnected villages. Swarnajayanti Gram Swarojgar Yojana (SGSY) is an initiative launched by the Government of India to provide sustainable income to poor people living in rural areas of the country. Bharat Nirman is a time-bound business plan for action in rural infrastructure. Under Bharat Nirman, action is proposed in the areas of irrigation, rural housing, rural water supply, rural electrification and rural telecommunication connectivity."
+    ],
+    "changed": [
+      1506517043
+    ],
+    "created": [
+      1364977800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Statistics",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Development",
+      "Infrastructure",
+      "PMGSY",
+      "Rural",
+      "SGSY",
+      "Yojana",
+      "Swarozgar",
+      "Sadak",
+      "Initiative",
+      "Swarnajayanti"
+    ],
+    "nid": [
+      89995
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical and Financial Progress under Pardhan Mantri Gram Sadak Yojna (PMGSY), Swarnajayanti Gram Swarozgar Yojana(SGSY) and Bharat Nirman"
+    ],
+    "uuid": [
+      "ee555c17-1acb-4c9a-a9ef-bea6e6a0fbfb"
+    ],
+    "vid": [
+      7856154
+    ],
+    "view_count": [
+      3391
+    ],
+    "search_api_id": [
+      "entity:node/89995:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-and-financial-progress-under-swarnjayanti-gram-swarozgar-yojana-sgsy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3010
+    ],
+    "published_date": [
+      1365010768
+    ],
+    "body:value": [
+      "Get the data regarding to physical and financial progress under Swarnjayanti Gram Swarozgar Yojana (SGSY)."
+    ],
+    "changed": [
+      1466406974
+    ],
+    "created": [
+      1364978280
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Statistics",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "gram",
+      "Rural",
+      "SGSY",
+      "Yojana",
+      "Swarnjanti",
+      "Swarozgar"
+    ],
+    "nid": [
+      89997
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical and Financial Progress under Swarnjayanti Gram Swarozgar Yojana (SGSY)"
+    ],
+    "uuid": [
+      "cd503cfd-a3d6-4a9e-8772-fd42382cbc6e"
+    ],
+    "vid": [
+      7856165
+    ],
+    "view_count": [
+      2868
+    ],
+    "search_api_id": [
+      "entity:node/89997:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-outcomes-under-mahatma-gandhi-national-rural-employment-guarantee-act-nrega"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6562
+    ],
+    "published_date": [
+      1365010766
+    ],
+    "body:value": [
+      "Get the data about State-wise and All India data on the work completed under NREGA like rural connectivity, flood control and protection, water conservation and water harvesting, micro irrigation work, land development etc."
+    ],
+    "changed": [
+      1602758463
+    ],
+    "created": [
+      1364978640
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Statistics",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "connectivity",
+      "Conservation",
+      "Development",
+      "Flood",
+      "irrigation",
+      "land",
+      "Micro",
+      "NREGA",
+      "Traditional",
+      "Water",
+      "Facility",
+      "Harvesting",
+      "outcome",
+      "Drought",
+      "Work",
+      "Control",
+      "Rajiv",
+      "Protection",
+      "Kendra",
+      "Proofing",
+      "Seva",
+      "Waterbody"
+    ],
+    "nid": [
+      90001
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical outcomes under Mahatma Gandhi National Rural Employment Guarantee Act (NREGA)"
+    ],
+    "uuid": [
+      "35b12a0f-bd79-4e35-b5cb-ac77f1d74cd6"
+    ],
+    "vid": [
+      7856202
+    ],
+    "view_count": [
+      5810
+    ],
+    "search_api_id": [
+      "entity:node/90001:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-performance-air-india-limited-during-eleventh-plan-period"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      807
+    ],
+    "published_date": [
+      1370431107
+    ],
+    "body:value": [
+      "The data refers to an overview of Physical Performance of Air India Limited during Eleventh Plan Period."
+    ],
+    "changed": [
+      1436419224
+    ],
+    "created": [
+      1370410560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Aviation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Performance",
+      "Physical",
+      "Plan",
+      "Factor",
+      "Load"
+    ],
+    "nid": [
+      90003
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Performance of Air India Limited During Eleventh Plan Period"
+    ],
+    "uuid": [
+      "536f2e8a-2147-4046-915f-1c5be2d00afc"
+    ],
+    "vid": [
+      7856204
+    ],
+    "view_count": [
+      753
+    ],
+    "search_api_id": [
+      "entity:node/90003:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-performance-indira-awaas-yojana-during-eleventh-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      17204
+    ],
+    "published_date": [
+      1369676047
+    ],
+    "body:value": [
+      "The data refers to the physical performance of Indira Awaas Yojana (IAY) during Eleventh Plan from 2007-08 to 2011-12 (Twelfth Five Year Plan document) including year-wise total target of IAY houses to be constructed and achieved in terms of contracted IAY Houses."
+    ],
+    "changed": [
+      1436419239
+    ],
+    "created": [
+      1369669860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Eleventh",
+      "IAY",
+      "Indira",
+      "Awaas",
+      "Yojana"
+    ],
+    "nid": [
+      90005
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Performance of Indira Awaas Yojana During Eleventh Plan"
+    ],
+    "uuid": [
+      "cd58e0cd-d064-4907-9351-d2f8c597cb32"
+    ],
+    "vid": [
+      7856210
+    ],
+    "view_count": [
+      17106
+    ],
+    "search_api_id": [
+      "entity:node/90005:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-performance-new-connectivityupgradation-roads-sample-blocks-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      715
+    ],
+    "published_date": [
+      1387429999
+    ],
+    "body:value": [
+      "The data refers to information on Physical Performance (Target and Achievement) of New Connectivity/Upgradation of Roads in Sample Blocks during 2005-06 to 2006-07. It provides details such as Habitations with 1000+ Population, Habitations with 500+ Population, Habitations Covered, Length (KM), Targets, Achievements for the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Achievement",
+      "Length",
+      "Population",
+      "target",
+      "Rural",
+      "upgradation",
+      "Bharat",
+      "Nirman",
+      "Covered",
+      "Habitatis",
+      "Cnectivity"
+    ],
+    "nid": [
+      90007
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Performance of New Connectivity/Upgradation of Roads in Sample Blocks - Based on Sample Survey"
+    ],
+    "uuid": [
+      "ac0200f9-e686-42e8-bfe2-5d6e1f1b5ff0"
+    ],
+    "vid": [
+      7856216
+    ],
+    "view_count": [
+      605
+    ],
+    "search_api_id": [
+      "entity:node/90007:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-performance-petroleum-and-natural-gas-sector"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      888
+    ],
+    "published_date": [
+      1370865776
+    ],
+    "body:value": [
+      "The data refers to details regarding Physical Performance of Petroleum and Natural Gas Sector. It gives the Actual figures for years 2007-11, Estimates for the year 2011-12, Eleventh Plan target and anticipated 11th plan estimates."
+    ],
+    "changed": [
+      1436419170
+    ],
+    "created": [
+      1370688360
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power & Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Gas",
+      "ONGC",
+      "Plan",
+      "target",
+      "Natural"
+    ],
+    "nid": [
+      90009
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Performance of Petroleum and Natural Gas Sector"
+    ],
+    "uuid": [
+      "08a7e0d7-382a-44a1-b8cf-d36e2f1c7259"
+    ],
+    "vid": [
+      7856219
+    ],
+    "view_count": [
+      826
+    ],
+    "search_api_id": [
+      "entity:node/90009:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-performance-rural-road-scheme-new-connectivity-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      864
+    ],
+    "published_date": [
+      1387430319
+    ],
+    "body:value": [
+      "The data refers to information on physical performance of rural road scheme (new connectivity) under Bharat Nirman (2005-06 to 2006-07). It provides details such as habitations with 1000+ population, habitations with 500+ population, habitations covered, length (km), targets, achievements for the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1386653760
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Achievement",
+      "Habitation",
+      "Population",
+      "Nirman",
+      "Covered"
+    ],
+    "nid": [
+      90011
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Performance of Rural Road Scheme (New Connectivity) - Based on Sample Survey"
+    ],
+    "uuid": [
+      "68e71225-2686-474a-80d0-9f7c99df0755"
+    ],
+    "vid": [
+      7856226
+    ],
+    "view_count": [
+      586
+    ],
+    "search_api_id": [
+      "entity:node/90011:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-performance-rural-road-scheme-upgradation-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      603
+    ],
+    "published_date": [
+      1387430237
+    ],
+    "body:value": [
+      "The data refers to information on physical performance of rural road scheme (upgradation) under Bharat Nirman (2005-06 to 2006-07). It provides details such as habitations with 1000+ population, habitations with 500+ population, habitations covered, length (km), targets, achievements for the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1386654780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Achievement",
+      "Habitation",
+      "Population",
+      "Nirman",
+      "Covered"
+    ],
+    "nid": [
+      90013
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Performance of Rural Road Scheme (Upgradation) - Based on Sample Survey"
+    ],
+    "uuid": [
+      "7d644239-73c6-4c96-b112-6baec298611c"
+    ],
+    "vid": [
+      7856231
+    ],
+    "view_count": [
+      476
+    ],
+    "search_api_id": [
+      "entity:node/90013:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-performance-srtus"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4105
+    ],
+    "published_date": [
+      1361536575
+    ],
+    "body:value": [
+      "The data refers to the physical parameters of reported SRTUs in India in terms of Average Fleet Held and Average Fleet Operated, Average Age of Fleet, Percentage of Overage Fleet to Total Fleet, Revenue Earning kilometre, Staff Strength, Fuel Efficiency, Passenger kilometres Offered, Passenger kilometre Performed, Passenger Carried and some accident related parameters like Number of Accidents and Number of Fatal Accidents of the reporting SRTUs. While, Average Fleet Held and Average Fleet Operated by various SRTUs may be used in order to define fleet utilisation, staff strength may be useful to calculate staff productivity. The Occupancy Ratio is defined as the Passenger kilometres Performed to Passenger kilometres offered."
+    ],
+    "changed": [
+      1518505251
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "SRTU - Physical"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "fatal",
+      "Fuel",
+      "KMS",
+      "passenger",
+      "Revenue",
+      "Road",
+      "Staff",
+      "transport",
+      "vehicle",
+      "Earning",
+      "Fleet",
+      "Accident",
+      "Held",
+      "Carried",
+      "Operated",
+      "Efficiency"
+    ],
+    "nid": [
+      90015
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Performance of SRTUs"
+    ],
+    "uuid": [
+      "e6016a99-71f4-4fc1-b03c-ae6c882bf4a6"
+    ],
+    "vid": [
+      7856295
+    ],
+    "view_count": [
+      3808
+    ],
+    "search_api_id": [
+      "entity:node/90015:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-progress-non-nhdp-nhs-during-eleventh-five-year-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      572
+    ],
+    "published_date": [
+      1370423556
+    ],
+    "body:value": [
+      "The data refers to an overview of physical progress of non-NHDP NHs during Eleventh Five Year Plan."
+    ],
+    "changed": [
+      1436419230
+    ],
+    "created": [
+      1370316780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "NHDP",
+      "research",
+      "Plan",
+      "Programme",
+      "Road",
+      "Highway"
+    ],
+    "nid": [
+      90028
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Progress Of Non-NHDP NHs During Eleventh Five Year Plan"
+    ],
+    "uuid": [
+      "66dc029f-1d09-42b3-900a-bcb202b09a4d"
+    ],
+    "vid": [
+      7856297
+    ],
+    "view_count": [
+      566
+    ],
+    "search_api_id": [
+      "entity:node/90028:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-progress-pmgsy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      901
+    ],
+    "published_date": [
+      1370425261
+    ],
+    "body:value": [
+      "The data refers to an over view of physical progress of PMGSY (as on 31 March, 2012) under Bharat Nirman / PMGSY."
+    ],
+    "changed": [
+      1436419230
+    ],
+    "created": [
+      1370317260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "connectivity",
+      "Habitation",
+      "Road",
+      "Rural",
+      "upgradation",
+      "Bharat",
+      "Nirman"
+    ],
+    "nid": [
+      90030
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Progress Of PMGSY"
+    ],
+    "uuid": [
+      "041c09a4-0b23-48a1-af94-c69ada1f3192"
+    ],
+    "vid": [
+      7856301
+    ],
+    "view_count": [
+      840
+    ],
+    "search_api_id": [
+      "entity:node/90030:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-progress-rural-roads-under-bharat-nirman"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1545
+    ],
+    "published_date": [
+      1365012191
+    ],
+    "body:value": [
+      "Get the data regarding All India and State-wise physical progress of rural roads under Bharat Nirman."
+    ],
+    "changed": [
+      1480051922
+    ],
+    "created": [
+      1364466300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Statistics",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Habitation",
+      "Physical",
+      "Road",
+      "Ruralm"
+    ],
+    "nid": [
+      90032
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Progress of Rural Roads Under Bharat Nirman"
+    ],
+    "uuid": [
+      "2a29fd52-74e4-41b4-871f-d95dcecf73d5"
+    ],
+    "vid": [
+      7856331
+    ],
+    "view_count": [
+      1336
+    ],
+    "search_api_id": [
+      "entity:node/90032:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-progress-total-sanitation-campaign-eleventh-plan-during-financial-year"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1788
+    ],
+    "published_date": [
+      1369904773
+    ],
+    "body:value": [
+      "The data refers to the physical progress of the total sanitation campaign in Eleventh Plan during financial year from 2007-08 to 2011-12 in construction of IHHL BPL, IHHL APL, Total IHHL, School Toilets, Sanitary Complexes and Anganwadi Toilets."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1369829940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Sanitation"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Rural"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "APL",
+      "BPL",
+      "Household",
+      "IHHL",
+      "poverty",
+      "School",
+      "Toilet",
+      "Latrine",
+      "Anganwadi",
+      "Individual",
+      "Sanitary",
+      "Complex"
+    ],
+    "nid": [
+      90034
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Progress Of The Total Sanitation Campaign In Eleventh Plan During Financial Year"
+    ],
+    "uuid": [
+      "9bde1166-a503-417d-8229-e33b2a6127f7"
+    ],
+    "vid": [
+      7856335
+    ],
+    "view_count": [
+      1702
+    ],
+    "search_api_id": [
+      "entity:node/90034:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-progress-under-rashtriya-gram-swaraj-yojana"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1804
+    ],
+    "published_date": [
+      1365012246
+    ],
+    "body:value": [
+      "The data refers to Physical Progress Under Rashtriya Gram Swaraj Yojana (Panchayat Resource centres at block level and Training Institutes) for the period 2008-09 to 2011-12."
+    ],
+    "changed": [
+      1462165012
+    ],
+    "created": [
+      1364467740
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Statistics",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Infrastructure",
+      "Institute",
+      "Panchayat",
+      "Training",
+      "resource",
+      "Ghar"
+    ],
+    "nid": [
+      90036
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Progress Under Rashtriya Gram Swaraj Yojana"
+    ],
+    "uuid": [
+      "cf004ef8-a827-40ac-b2f4-d241db90c485"
+    ],
+    "vid": [
+      7856361
+    ],
+    "view_count": [
+      1736
+    ],
+    "search_api_id": [
+      "entity:node/90036:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-targets-and-achievement-during-11th-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1768
+    ],
+    "published_date": [
+      1372329481
+    ],
+    "body:value": [
+      "The data refers to details regarding physical targets and achievement during the 11th plan period on the installed capacity of various renewable energy technologies."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371021180
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Renewable Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of New and Renewable Energy"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "capacity",
+      "Energy",
+      "MNRE",
+      "Power",
+      "Technology",
+      "Renewable",
+      "Installed",
+      "Grid"
+    ],
+    "nid": [
+      90038
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Targets And Achievement During The 11th Plan"
+    ],
+    "uuid": [
+      "cd2afb3b-68fb-4065-82e5-abed4e6e1180"
+    ],
+    "vid": [
+      7856364
+    ],
+    "view_count": [
+      1648
+    ],
+    "search_api_id": [
+      "entity:node/90038:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-targets-renewable-programme-twelfth-five-year-plan-power-sector"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      662
+    ],
+    "published_date": [
+      1370933409
+    ],
+    "body:value": [
+      "This table (Annexure to base table) provides Physical Targets of Renewable Programme for the Twelfth Five Year Plan. It gives category-wise and programme-wise physical targets for the Twelfth Five Year Plan (2012-17)."
+    ],
+    "changed": [
+      1436419170
+    ],
+    "created": [
+      1370683080
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Energy",
+      "Power",
+      "target",
+      "Twelfth",
+      "Renewable"
+    ],
+    "nid": [
+      90040
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical Targets of Renewable Programme for the Twelfth Five Year Plan - Power Sector"
+    ],
+    "uuid": [
+      "7f7cb91c-3989-4e57-b5b0-c195c26d428c"
+    ],
+    "vid": [
+      7856367
+    ],
+    "view_count": [
+      629
+    ],
+    "search_api_id": [
+      "entity:node/90040:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physiographic-zone-wise-bamboo-estimation-tofrural"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      868
+    ],
+    "published_date": [
+      1379923340
+    ],
+    "body:value": [
+      "The data refers to the physio-graphic zone-wise bamboo estimation in Trees Outside Forest (TOF) (rural). It gives details regarding the total number of culms estimated and the equivalent green weight for the rural TOF areas. This data set has been sourced from the \"India State of Forest Report 2011\"."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1379069820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "Rural",
+      "TOF",
+      "Tree",
+      "Zone"
+    ],
+    "nid": [
+      90042
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physiographic Zone-Wise Bamboo Estimation in TOF(Rural)"
+    ],
+    "uuid": [
+      "89253718-c3c0-4243-8759-ac4d6030992b"
+    ],
+    "vid": [
+      7856374
+    ],
+    "view_count": [
+      781
+    ],
+    "search_api_id": [
+      "entity:node/90042:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physiographic-zone-wise-growing-stock-volume"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      923
+    ],
+    "published_date": [
+      1379930720
+    ],
+    "body:value": [
+      "The data refers to details of physiographic zone-wise volume of growing stock (m. cum). Growing Stock refers to the sum (by number or volume) of all the trees growing/living in the forest or a specified part of it."
+    ],
+    "changed": [
+      1412833533
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "report"
+    ],
+    "nid": [
+      90044
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physiographic Zone-wise Growing Stock (Volume)"
+    ],
+    "uuid": [
+      "615766c5-a62d-4c1b-bb65-29d54ae1b613"
+    ],
+    "vid": [
+      7856391
+    ],
+    "view_count": [
+      867
+    ],
+    "search_api_id": [
+      "entity:node/90044:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physiographic-zone-wise-precision-estimates"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      654
+    ],
+    "published_date": [
+      1387966328
+    ],
+    "body:value": [
+      "The data refers to details of physiographic zone-wise precision of estimates. The data refers to the precision of estimates (SE%) for each physiographic zone. The overall precision of the estimate at the country level is 2.54 %. This data set has been sourced from the 'India State of Forest Report 2009'."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1387449360
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "report"
+    ],
+    "nid": [
+      90047
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physiographic Zone-wise Precision of Estimates"
+    ],
+    "uuid": [
+      "930d28ef-90e8-4bc0-9f9c-268160e1c5c9"
+    ],
+    "vid": [
+      7856395
+    ],
+    "view_count": [
+      589
+    ],
+    "search_api_id": [
+      "entity:node/90047:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physiographic-zone-wise-tree-cover-estimate"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1436
+    ],
+    "published_date": [
+      1379931227
+    ],
+    "body:value": [
+      "Data refers to details of physio-graphic zone-wise tree cover estimate. Tree cover comprises of tree patches outside the recorded forest area exclusive of forest cover and less than the minimum mappabe area (1 ha)."
+    ],
+    "changed": [
+      1412833765
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "report",
+      "Tree"
+    ],
+    "nid": [
+      90049
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physiographic Zone-Wise Tree Cover Estimate"
+    ],
+    "uuid": [
+      "59ea46b7-ceac-472a-9dde-599ae4bcaeb2"
+    ],
+    "vid": [
+      7856412
+    ],
+    "view_count": [
+      1294
+    ],
+    "search_api_id": [
+      "entity:node/90049:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/pilot-survey-causes-blindness-1999"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      741
+    ],
+    "published_date": [
+      1376915755
+    ],
+    "body:value": [
+      "The data refers to data related to pilot survey on the causes of blindness (1999)."
+    ],
+    "changed": [
+      1436419138
+    ],
+    "created": [
+      1376728560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Cause",
+      "Plan",
+      "blindness"
+    ],
+    "nid": [
+      90052
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Pilot Survey on Causes of Blindness (1999)"
+    ],
+    "uuid": [
+      "f8ff4536-b230-404c-94d8-5841b0f304bb"
+    ],
+    "vid": [
+      7856414
+    ],
+    "view_count": [
+      713
+    ],
+    "search_api_id": [
+      "entity:node/90052:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/plan-allocation-and-actual-expenditure-under-iddp-scheme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      952
+    ],
+    "published_date": [
+      1384928714
+    ],
+    "body:value": [
+      "The data refers to information about Plan wise allocation and actual expenditure under IDDP (Intensive Dairy Development Programme) Scheme from Eighth Plan to Eleventh. IDDP scheme was launched in 1993-94 on 100% grant-in-aid basis. The main objectives of the scheme are developing milch cattle, increasing milk production by providing technical input services, creating infrastructure to improve procurement, processing and marketing of milk in a cost effective manner, ensuring remunerative prices to the milk producers, by strengthening dairy cooperative societies at village level, generate additional employment opportunities, improving social, nutritional and economic status of residents of comparatively disadvantaged areas. The funds are released directly to the implementing agency i.e State Dairy Federation/District Milk Union. The Scheme is being continued during the 11th plan with a total plan outlay of Rs.275.00 Crore as merged scheme together with Clean Milk Production' Scheme."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1384850400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Dairying Scheme"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Dairying"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Allocation",
+      "Development",
+      "expenditure",
+      "Programme",
+      "Dairy",
+      "Intensive"
+    ],
+    "nid": [
+      90056
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Plan allocation and Actual Expenditure under IDDP Scheme"
+    ],
+    "uuid": [
+      "b191bbf8-1e0b-467c-8f7f-b5f92456f79b"
+    ],
+    "vid": [
+      7856428
+    ],
+    "view_count": [
+      845
+    ],
+    "search_api_id": [
+      "entity:node/90056:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/plan-allocation-and-expenditure-under-assistance-cooperatives-scheme-c"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      813
+    ],
+    "published_date": [
+      1385016946
+    ],
+    "body:value": [
+      "The data refers to information about Plan wise allocation and actual expenditure under Assistance to Cooperatives (A to C) Scheme during Ninth, Tenth and Eleventh Plan. The main Objective of the Scheme is to revitalize the sick dairy cooperative unions at the district level and cooperative federations at State level. The scheme was started on January, 2000."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1384849560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Dairying Scheme"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Dairying",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Allocation",
+      "expenditure"
+    ],
+    "nid": [
+      90058
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Plan allocation and Expenditure under Assistance to Cooperatives Scheme (A to C)"
+    ],
+    "uuid": [
+      "ad980659-3d2e-4862-973b-a4c8aa9e3cae"
+    ],
+    "vid": [
+      7856436
+    ],
+    "view_count": [
+      754
+    ],
+    "search_api_id": [
+      "entity:node/90058:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/plan-expenditure-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2108
+    ],
+    "published_date": [
+      1371726454
+    ],
+    "body:value": [
+      "This data contains plan expenditure pertaining to revenue, capital and loan & advances components (sector wise) of all states including UTs and Union Governments from year 2000 to 2011."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371708300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Finance Accounts"
+    ],
+    "field_ministry_department:name": [
+      "Comptroller And Auditor General of India(CAG)"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CAG",
+      "Capital",
+      "Economic",
+      "Grant",
+      "Loan",
+      "Revenue",
+      "Social",
+      "Service",
+      "Advance",
+      "Comptroller",
+      "Auditor",
+      "Aid"
+    ],
+    "nid": [
+      90060
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Plan Expenditure"
+    ],
+    "uuid": [
+      "a1ed0233-0428-46da-a4b2-ef117734589d"
+    ],
+    "vid": [
+      7856440
+    ],
+    "view_count": [
+      1971
+    ],
+    "search_api_id": [
+      "entity:node/90060:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/plan-grants-and-loans-states-and-union-territory-governments"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      916
+    ],
+    "published_date": [
+      1371473234
+    ],
+    "body:value": [
+      "It provides details of Plan Grants and Loans to State and Union Territory Governments."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1370589960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Union Budget 2013-14 - Expenditure Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "finance",
+      "Grant",
+      "Loan",
+      "Provision"
+    ],
+    "nid": [
+      90062
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Plan Grants and Loans to States and Union Territory Governments"
+    ],
+    "uuid": [
+      "08a8aec8-0bf2-433f-b533-003e755d3161"
+    ],
+    "vid": [
+      7856445
+    ],
+    "view_count": [
+      868
+    ],
+    "search_api_id": [
+      "entity:node/90062:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

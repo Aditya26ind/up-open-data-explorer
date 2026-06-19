@@ -1,0 +1,5130 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/electricity-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      95
+    ],
+    "published_date": [
+      1550821661
+    ],
+    "body:value": [
+      "This catalog helps in determining the electricty consumption of the city"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549460419
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "commercial",
+      "Consumption",
+      "domestic",
+      "electricity",
+      "Industry",
+      "Public"
+    ],
+    "nid": [
+      602910344
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Electricity : Amritsar "
+    ],
+    "uuid": [
+      "c50a1586-4ca0-4eab-840b-aa91031ae6a5"
+    ],
+    "vid": [
+      13004404
+    ],
+    "view_count": [
+      79
+    ],
+    "search_api_id": [
+      "entity:node/602910344:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/water-tax-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      100
+    ],
+    "published_date": [
+      1551856641
+    ],
+    "body:value": [
+      "Indicates the water tax collection for the city"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549524998
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Tax Amritsar"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Drinking Water",
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "Deficit",
+      "Tax",
+      "WATER TAX"
+    ],
+    "nid": [
+      602910483
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Water Tax Amritsar "
+    ],
+    "uuid": [
+      "5e5556fd-84a5-4825-b73c-862b01a2779a"
+    ],
+    "vid": [
+      13053243
+    ],
+    "view_count": [
+      80
+    ],
+    "search_api_id": [
+      "entity:node/602910483:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/unemployment-rate-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      266
+    ],
+    "published_date": [
+      1550747964
+    ],
+    "body:value": [
+      "The catalog contains data regarding basic indicators like area,\\\r\npopulation, workforce participation and households present in the\\\r\ncity. These indicators define the basic profile of the city.\\\r\n"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549548118
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Amritsar Unemployment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Employment",
+      "Labour and Employment"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Households",
+      "Labour",
+      "Population",
+      "smart city",
+      "Workforce"
+    ],
+    "nid": [
+      602910807
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Unemployment Rate Amritsar "
+    ],
+    "uuid": [
+      "a4be62c0-b0de-49ab-bd24-fb28a289768f"
+    ],
+    "vid": [
+      13011552
+    ],
+    "view_count": [
+      230
+    ],
+    "search_api_id": [
+      "entity:node/602910807:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/diseases-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      68
+    ],
+    "published_date": [
+      1550747964
+    ],
+    "body:value": [
+      "this indicator helps determine the period prevalence of vector borne\\\r\n(indicator of the measures taken by city administrations to control\\\r\nthe growth of mosquitoes and other organisms that spread such\\\r\ndiseases, and the general level of hygiene and sanitation) and water "
+    ],
+    "changed": [
+      1554813807
+    ],
+    "created": [
+      1549550946
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Diseases Amritsar"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Health",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Diseases Data"
+    ],
+    "nid": [
+      602910842
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Diseases Amritsar "
+    ],
+    "uuid": [
+      "7ba3fb81-24a7-455c-9617-6b0b56327eac"
+    ],
+    "vid": [
+      12108431
+    ],
+    "view_count": [
+      62
+    ],
+    "search_api_id": [
+      "entity:node/602910842:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/water-supply-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      153
+    ],
+    "published_date": [
+      1550821621
+    ],
+    "body:value": [
+      "This catalog helps determine the water consumption per capita "
+    ],
+    "changed": [
+      1739360435
+    ],
+    "created": [
+      1549559145
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water & Sanitation"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "domestic",
+      "supply",
+      "water"
+    ],
+    "nid": [
+      602910862
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Water Supply Amritsar "
+    ],
+    "uuid": [
+      "8b9919a8-b0ee-4b5e-9c4c-e7e5f16270af"
+    ],
+    "vid": [
+      12988212
+    ],
+    "view_count": [
+      114
+    ],
+    "search_api_id": [
+      "entity:node/602910862:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/vat-gst-taxes-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      91
+    ],
+    "published_date": [
+      1552451681
+    ],
+    "body:value": [
+      "This indicator helps in determining economic productivity and\\\r\ncompetitiveness of a city"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549606543
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Taxes"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "GST",
+      "Sales",
+      "Tax",
+      "VAT"
+    ],
+    "nid": [
+      602910964
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "VAT & GST : Taxes : Amritsar"
+    ],
+    "uuid": [
+      "031c0175-bd75-4662-92bc-2e1f6c691536"
+    ],
+    "vid": [
+      13053280
+    ],
+    "view_count": [
+      79
+    ],
+    "search_api_id": [
+      "entity:node/602910964:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-management-basic-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      82
+    ],
+    "published_date": [
+      1550747981
+    ],
+    "body:value": [
+      "This catalog defines source segregation, D2D collection efficiency,\\\r\nplacement and sizes of bins, collection vehicles and their capacity,\\\r\ntypes of processing of waste and disposal options available for waste\\\r\ncollected"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550072658
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Solid Waste Management Basic"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bins",
+      "capacity",
+      "Collection",
+      "D2D",
+      "door2door",
+      "Energy",
+      "garbage",
+      "Households",
+      "Process",
+      "Quantity",
+      "Revenue",
+      "Sanitation",
+      "segregation",
+      "sewerage",
+      "toilet",
+      "vehicle",
+      "Waste",
+      "water"
+    ],
+    "nid": [
+      602912994
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste Management Basic Amritsar "
+    ],
+    "uuid": [
+      "8d795283-714a-428e-9940-112fd9b15ca5"
+    ],
+    "vid": [
+      13054319
+    ],
+    "view_count": [
+      72
+    ],
+    "search_api_id": [
+      "entity:node/602912994:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/roads-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      124
+    ],
+    "published_date": [
+      1550747981
+    ],
+    "body:value": [
+      "Determining the condition of roads of the city"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1550151221
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Roads Amritsar"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "All",
+      "Infrastructure",
+      "Roads"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Drainage",
+      "footpath",
+      "Length",
+      "Roads",
+      "tar",
+      "water"
+    ],
+    "nid": [
+      602913503
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Roads  in Amritsar "
+    ],
+    "uuid": [
+      "da5ee80e-f788-425a-a279-09915024a452"
+    ],
+    "vid": [
+      13004935
+    ],
+    "view_count": [
+      89
+    ],
+    "search_api_id": [
+      "entity:node/602913503:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/housing-and-slum-population-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      217
+    ],
+    "published_date": [
+      1550727060
+    ],
+    "body:value": [
+      "This catalog describes the slum and housing infrastructure details of\\\r\nthe city"
+    ],
+    "changed": [
+      1739857487
+    ],
+    "created": [
+      1550151699
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing & Slum"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "City",
+      "Female",
+      "Identified",
+      "Kutcha",
+      "Male",
+      "notified",
+      "Population",
+      "Pucca",
+      "Recognised",
+      "Semi-Pucca",
+      "slum",
+      "Smart",
+      "Type"
+    ],
+    "nid": [
+      602913508
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Housing and slum Population Amritsar"
+    ],
+    "uuid": [
+      "3126dab1-5b69-40da-baa7-43896f115883"
+    ],
+    "vid": [
+      13059864
+    ],
+    "view_count": [
+      174
+    ],
+    "search_api_id": [
+      "entity:node/602913508:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/itc-neighbourhood-3-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      142
+    ],
+    "published_date": [
+      1550747981
+    ],
+    "body:value": [
+      "Facilities for children at ward level; % of total area covered under\\\r\nparks, playgrounds and open spaces; % of municipal budget\\\r\nallocated for open spaces"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1550152509
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "ITC Neighbourhood-3"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Finance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Facilities",
+      "municipal",
+      "neighbourhood",
+      "Park",
+      "Playground",
+      "residential"
+    ],
+    "nid": [
+      602913517
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "ITC Neighbourhood - 3 amritsar"
+    ],
+    "uuid": [
+      "35d86397-e4be-4926-b204-cbe043eb1f0b"
+    ],
+    "vid": [
+      13012583
+    ],
+    "view_count": [
+      65
+    ],
+    "search_api_id": [
+      "entity:node/602913517:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/digital-availability-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      94
+    ],
+    "published_date": [
+      1550747981
+    ],
+    "body:value": [
+      "This Catalog helps determine the % of citizen services available\\\r\nonline\\\r\n"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1550156658
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "D45-DigitalAvailability"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Local Government"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Access",
+      "Citizen",
+      "payment"
+    ],
+    "nid": [
+      602913537
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Digital Availability Amritsar "
+    ],
+    "uuid": [
+      "b136304e-119d-45b4-bb03-aaca252154d2"
+    ],
+    "vid": [
+      13002891
+    ],
+    "view_count": [
+      59
+    ],
+    "search_api_id": [
+      "entity:node/602913537:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/mortality-rate-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      270
+    ],
+    "published_date": [
+      1550821544
+    ],
+    "body:value": [
+      "This catalog defines various indicators under mortality such as number of live births, number of deaths divided by male, female,infants, children"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1550157514
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mortality Amritsar"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "All",
+      "Health",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "birth",
+      "child",
+      "Death",
+      "Infant",
+      "Mortality"
+    ],
+    "nid": [
+      602913545
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Mortality rate  Amritsar "
+    ],
+    "uuid": [
+      "93bc1766-4059-4d6f-be98-740cc4d03bb1"
+    ],
+    "vid": [
+      13000479
+    ],
+    "view_count": [
+      214
+    ],
+    "search_api_id": [
+      "entity:node/602913545:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/infrastructure-distribution-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      283
+    ],
+    "published_date": [
+      1550821677
+    ],
+    "body:value": [
+      "This catalog describes the slum and housing infrastructure details of\\\r\nthe city"
+    ],
+    "changed": [
+      1739857487
+    ],
+    "created": [
+      1550160622
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Infrastructure Distribution of Amritsar"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Civil Registration System"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "City",
+      "Female",
+      "Identified",
+      "Kutcha",
+      "Male",
+      "notified",
+      "Population",
+      "Pucca",
+      "Recognised",
+      "Semi-Pucca",
+      "slum",
+      "Smart",
+      "Type"
+    ],
+    "nid": [
+      602913552
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Infrastructure Distribution Amritsar "
+    ],
+    "uuid": [
+      "2c5feaec-b59d-4b4e-a394-519f64889c9c"
+    ],
+    "vid": [
+      13059865
+    ],
+    "view_count": [
+      102
+    ],
+    "search_api_id": [
+      "entity:node/602913552:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/digital-availability-amritsar-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      151
+    ],
+    "published_date": [
+      1550727093
+    ],
+    "body:value": [
+      "This indicator helps determine the Digital Payments efficiency of a\\\r\ncity"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550161927
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Amritsar Digital Payment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "Digital",
+      "digital payment",
+      "online"
+    ],
+    "nid": [
+      602913555
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Digital  Availability Amritsar "
+    ],
+    "uuid": [
+      "ccd17dd5-bb93-4955-bcaa-ef854ef8a4cb"
+    ],
+    "vid": [
+      13053511
+    ],
+    "view_count": [
+      99
+    ],
+    "search_api_id": [
+      "entity:node/602913555:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-management-efficiency-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      657
+    ],
+    "published_date": [
+      1550821513
+    ],
+    "body:value": [
+      "This catalog defines source segregation, D2D collection efficiency,\\\r\nplacement and sizes of bins, collection vehicles and their capacity,\\\r\ntypes of processing of waste and disposal options available for waste\\\r\ncollected"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550081954
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Solid Waste Management Amritsar"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bins",
+      "capacity",
+      "Collection",
+      "D2D",
+      "door2door",
+      "Energy",
+      "garbage",
+      "Households",
+      "Process",
+      "Quantity",
+      "Revenue",
+      "Sanitation",
+      "segregation",
+      "sewerage",
+      "toilet",
+      "vehicle",
+      "Waste",
+      "water"
+    ],
+    "nid": [
+      602913037
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste Management Efficiency amritsar"
+    ],
+    "uuid": [
+      "9c4b05dd-5a47-4bff-9ce3-426cb1a250f6"
+    ],
+    "vid": [
+      13054320
+    ],
+    "view_count": [
+      558
+    ],
+    "search_api_id": [
+      "entity:node/602913037:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-management-segregation-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      89
+    ],
+    "published_date": [
+      1550747981
+    ],
+    "body:value": [
+      "This catalog defines source segregation, D2D collection efficiency,\\\r\nplacement and sizes of bins, collection vehicles and their capacity,\\\r\ntypes of processing of waste and disposal options available for waste\\\r\ncollected"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550116521
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Solid Waste Segregation"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bins",
+      "capacity",
+      "Collection",
+      "D2D",
+      "door2door",
+      "Energy",
+      "garbage",
+      "Households",
+      "Process",
+      "Quantity",
+      "Revenue",
+      "Sanitation",
+      "segregation",
+      "sewerage",
+      "toilet",
+      "vehicle",
+      "Waste",
+      "water"
+    ],
+    "nid": [
+      602913066
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste Management  segregation Amritsar "
+    ],
+    "uuid": [
+      "a1f60b96-4c43-4b30-9366-21ad3f0417f4"
+    ],
+    "vid": [
+      13054321
+    ],
+    "view_count": [
+      82
+    ],
+    "search_api_id": [
+      "entity:node/602913066:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-management-door-door-collection-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      215
+    ],
+    "published_date": [
+      1550747981
+    ],
+    "body:value": [
+      "This catalog defines source segregation, D2D collection efficiency,\\\r\nplacement and sizes of bins, collection vehicles and their capacity,\\\r\ntypes of processing of waste and disposal options available for waste\\\r\ncollected"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550117696
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Solid Waste D2D Collection Revenue"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bins",
+      "capacity",
+      "Collection",
+      "D2D",
+      "door2door",
+      "Energy",
+      "garbage",
+      "Households",
+      "Process",
+      "Quantity",
+      "Revenue",
+      "Sanitation",
+      "segregation",
+      "sewerage",
+      "toilet",
+      "vehicle",
+      "Waste",
+      "water"
+    ],
+    "nid": [
+      602913070
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste Management door to door collection  Amritsar "
+    ],
+    "uuid": [
+      "ddb72c9d-fd5a-4fce-baf8-e98737af29a6"
+    ],
+    "vid": [
+      13054322
+    ],
+    "view_count": [
+      200
+    ],
+    "search_api_id": [
+      "entity:node/602913070:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-collection-equipments-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      140
+    ],
+    "published_date": [
+      1550821632
+    ],
+    "body:value": [
+      "This catalogue defines the type of equipments used in amritsar for solid waste management & placement and sizes of bins"
+    ],
+    "changed": [
+      1554813771
+    ],
+    "created": [
+      1550119010
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Solid waste Collection Equipments"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "collection vehicles and their capacity Amritsar"
+    ],
+    "nid": [
+      602913072
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "solid waste collection equipment's amritsar "
+    ],
+    "uuid": [
+      "f59808eb-30c7-4126-95db-d35f5d4729b4"
+    ],
+    "vid": [
+      12082717
+    ],
+    "view_count": [
+      98
+    ],
+    "search_api_id": [
+      "entity:node/602913072:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/waste-collection-vehicle-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      72
+    ],
+    "published_date": [
+      1550747981
+    ],
+    "body:value": [
+      "This catalog defines source segregation, D2D collection efficiency,\\\r\nplacement and sizes of bins, collection vehicles and their capacity,\\\r\ntypes of processing of waste and disposal options available for waste\\\r\ncollected"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550119817
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "solid waste collection vehicle amritsar"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bins",
+      "capacity",
+      "Collection",
+      "D2D",
+      "door2door",
+      "Energy",
+      "garbage",
+      "Households",
+      "Process",
+      "Quantity",
+      "Revenue",
+      "Sanitation",
+      "segregation",
+      "sewerage",
+      "toilet",
+      "vehicle",
+      "Waste",
+      "water"
+    ],
+    "nid": [
+      602913076
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Waste Collection Vehicle Amritsar "
+    ],
+    "uuid": [
+      "bb207f06-fcba-4c98-aeff-030e66c7610f"
+    ],
+    "vid": [
+      13054323
+    ],
+    "view_count": [
+      63
+    ],
+    "search_api_id": [
+      "entity:node/602913076:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-management-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      287
+    ],
+    "published_date": [
+      1550747981
+    ],
+    "body:value": [
+      "This catalog defines source segregation, D2D collection efficiency,\\\r\nplacement and sizes of bins, collection vehicles and their capacity,\\\r\ntypes of processing of waste and disposal options available for waste\\\r\ncollected"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550123721
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Solid waste Amritsar"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bins",
+      "capacity",
+      "Collection",
+      "D2D",
+      "door2door",
+      "Energy",
+      "garbage",
+      "Households",
+      "Process",
+      "Quantity",
+      "Revenue",
+      "Sanitation",
+      "segregation",
+      "sewerage",
+      "toilet",
+      "vehicle",
+      "Waste",
+      "water"
+    ],
+    "nid": [
+      602913088
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid waste Management Amritsar "
+    ],
+    "uuid": [
+      "9d81ddf4-2d6c-4db5-bebf-1536c4033900"
+    ],
+    "vid": [
+      13054324
+    ],
+    "view_count": [
+      283
+    ],
+    "search_api_id": [
+      "entity:node/602913088:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-disposal-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      168
+    ],
+    "published_date": [
+      1550747981
+    ],
+    "body:value": [
+      "This catalog defines source segregation, D2D collection efficiency,\\\r\nplacement and sizes of bins, collection vehicles and their capacity,\\\r\ntypes of processing of waste and disposal options available for waste\\\r\ncollected"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550124300
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Solid Waste Disposal Methods Assessment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bins",
+      "capacity",
+      "Collection",
+      "D2D",
+      "door2door",
+      "Energy",
+      "garbage",
+      "Households",
+      "Process",
+      "Quantity",
+      "Revenue",
+      "Sanitation",
+      "segregation",
+      "sewerage",
+      "toilet",
+      "vehicle",
+      "Waste",
+      "water"
+    ],
+    "nid": [
+      602913099
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste Disposal Amritsar"
+    ],
+    "uuid": [
+      "eeb32828-f0a5-43f9-bb84-6c2ea0b24473"
+    ],
+    "vid": [
+      13054325
+    ],
+    "view_count": [
+      154
+    ],
+    "search_api_id": [
+      "entity:node/602913099:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-management-revenue-generation-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      172
+    ],
+    "published_date": [
+      1552451850
+    ],
+    "body:value": [
+      "Catalog defines the solid waste management revenue generation,total expenditure in lakhs of treatment of waste "
+    ],
+    "changed": [
+      1554813801
+    ],
+    "created": [
+      1550124798
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Solid waste management revenue generation"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Solid waste management revenue generation"
+    ],
+    "nid": [
+      602913107
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid waste management revenue generation Amritsar"
+    ],
+    "uuid": [
+      "d1929d1b-6349-4e7a-a55d-6070024a0fa7"
+    ],
+    "vid": [
+      12083252
+    ],
+    "view_count": [
+      158
+    ],
+    "search_api_id": [
+      "entity:node/602913107:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financialhealthamritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      180
+    ],
+    "published_date": [
+      1555391969
+    ],
+    "body:value": [
+      "This indicator helps in determining Financial health of the city"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1555054654
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Health Amritsar"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "Income",
+      "Loss",
+      "Profit",
+      "Revenue"
+    ],
+    "nid": [
+      602916919
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Financial_Health:Amritsar "
+    ],
+    "uuid": [
+      "143bcb8e-c73b-43d0-afa8-80c6955e5868"
+    ],
+    "vid": [
+      13055443
+    ],
+    "view_count": [
+      115
+    ],
+    "search_api_id": [
+      "entity:node/602916919:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/street-light-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      131
+    ],
+    "published_date": [
+      1555391877
+    ],
+    "body:value": [
+      "This catalog describes the number of street lights available in the\\\r\ncity which are LED and connected to renewable resources\\\r\n"
+    ],
+    "changed": [
+      1555391901
+    ],
+    "created": [
+      1555055539
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Street Light Amritsar"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bulbs",
+      "LED",
+      "poles",
+      "street lights"
+    ],
+    "nid": [
+      602916921
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Street Light Amritsar"
+    ],
+    "uuid": [
+      "5aac071e-2776-4e3b-92e5-db49f02f3e8f"
+    ],
+    "vid": [
+      12105844
+    ],
+    "view_count": [
+      76
+    ],
+    "search_api_id": [
+      "entity:node/602916921:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/traffic-signalized-intersections-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      164
+    ],
+    "published_date": [
+      1555391837
+    ],
+    "body:value": [
+      "Total number of operational signalized intersections "
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1555056375
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Traffic Amritsar"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "intersections",
+      "junctiones",
+      "Motorized",
+      "Operational",
+      "Signal",
+      "trips"
+    ],
+    "nid": [
+      602916926
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      " Traffic Signalized Intersections Amritsar "
+    ],
+    "uuid": [
+      "c115df08-eddf-4e70-8cd8-545efefe0bca"
+    ],
+    "vid": [
+      13056420
+    ],
+    "view_count": [
+      108
+    ],
+    "search_api_id": [
+      "entity:node/602916926:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/environment-amritsar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      317
+    ],
+    "published_date": [
+      1555391742
+    ],
+    "body:value": [
+      "The catalog contains data regarding the pollutions levels of the city.\\\r\nIt provides the monthly mean concentration of varikous pollutant\\\r\nparticles such as Pm2.5, PM10, NO2, SO2 and O3"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1555059029
+    ],
+    "field_asset_jurisdiction:name": [
+      "Amritsar",
+      "Punjab",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment Amritsar"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Punjab",
+      "Amritsar"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Industrial Air Pollution"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air quality",
+      "concentration",
+      "NO2",
+      "O3",
+      "PM10",
+      "PM2.5",
+      "pollution",
+      "sensor",
+      "smart city",
+      "SO2"
+    ],
+    "nid": [
+      602916939
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Environment Amritsar "
+    ],
+    "uuid": [
+      "843e8dda-ab62-4407-bc9f-4b3b4968028c"
+    ],
+    "vid": [
+      13011194
+    ],
+    "view_count": [
+      205
+    ],
+    "search_api_id": [
+      "entity:node/602916939:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-newly-registered-motor-vehicles-and-number-registered-motor-vehicles-andaman-and"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3328
+    ],
+    "published_date": [
+      1399458073
+    ],
+    "body:value": [
+      "The data refers to Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Andaman and Nicobar Islands. Registered Motor Vehicles have been categorized in two broad categories, Transport and Non Transport. Multi-axled/ Articulated Vehicles/ Trucks and Lorries, Light Motor Vehicle (Goods),Buses,Taxis,Light Motor Vehicle (Passengers Auto) are falling under Transport Category and Two Wheelers,Cars,Jeeps,Omni Buses,Tractors,Trailers & Others are falling under Non Transport Category."
+    ],
+    "changed": [
+      1472643536
+    ],
+    "created": [
+      1398934148
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "vehicle",
+      "Registered",
+      "Motor",
+      "Newly"
+    ],
+    "nid": [
+      101159
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Andaman and Nicobar Islands"
+    ],
+    "uuid": [
+      "57c6e110-9557-4da7-936e-4b59c95d05d6"
+    ],
+    "vid": [
+      7888998
+    ],
+    "view_count": [
+      3193
+    ],
+    "search_api_id": [
+      "entity:node/101159:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/community-facilities-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      151
+    ],
+    "published_date": [
+      1550238391
+    ],
+    "body:value": [
+      "This catalog gives out ward wise details of the community facilities and gives out information about name and capacity."
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1550060072
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Others",
+      "Youth Affairs",
+      "Youth and Sports"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Auditorium",
+      "Community Hall",
+      "Convention",
+      "smart city"
+    ],
+    "nid": [
+      602912849
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Community Facilities : Port Blair"
+    ],
+    "uuid": [
+      "4e5e76e7-9ddc-47dc-bb1c-0f5bdf9bb040"
+    ],
+    "vid": [
+      13055646
+    ],
+    "view_count": [
+      131
+    ],
+    "search_api_id": [
+      "entity:node/602912849:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/education-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      73
+    ],
+    "published_date": [
+      1550238391
+    ],
+    "body:value": [
+      "This indicator denotes educational opportunity, and determines the coverage of formal education among school-aged population in Port Blair city and availability of adequate number of teachers in schools for providing primary education."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1550061166
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Population",
+      "primary",
+      "Private",
+      "Public",
+      "school",
+      "secondary",
+      "student",
+      "Teacher"
+    ],
+    "nid": [
+      602912870
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Education : Port Blair"
+    ],
+    "uuid": [
+      "8343efb6-70bb-4207-a81c-4fb526ffa2c6"
+    ],
+    "vid": [
+      13011015
+    ],
+    "view_count": [
+      69
+    ],
+    "search_api_id": [
+      "entity:node/602912870:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-management-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      558
+    ],
+    "published_date": [
+      1549983517
+    ],
+    "body:value": [
+      "This catalog defines source segregation, D2D collection efficiency, placement and sizes of bins, collection vehicles and their capacity, types of processing of waste and disposal options available for waste collected."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549955419
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bins",
+      "capacity",
+      "Collection",
+      "D2D",
+      "door2door",
+      "Energy",
+      "garbage",
+      "Households",
+      "Process",
+      "Quantity",
+      "Revenue",
+      "Sanitation",
+      "segregation",
+      "sewerage",
+      "toilet",
+      "vehicle",
+      "Waste",
+      "water"
+    ],
+    "nid": [
+      602912073
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste Management : Port Blair"
+    ],
+    "uuid": [
+      "df368131-e759-4225-985a-bbc23192fdd7"
+    ],
+    "vid": [
+      13054279
+    ],
+    "view_count": [
+      550
+    ],
+    "search_api_id": [
+      "entity:node/602912073:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/street-lights-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      57
+    ],
+    "published_date": [
+      1549983517
+    ],
+    "body:value": [
+      "This catalog describes the number of street lights available in Port Blair city which are LED and connected to renewable resources"
+    ],
+    "changed": [
+      1553524749
+    ],
+    "created": [
+      1549951343
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bulbs",
+      "LED",
+      "poles",
+      "street lights"
+    ],
+    "nid": [
+      602912021
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Street Lights : Port Blair"
+    ],
+    "uuid": [
+      "48fc7025-d80d-4145-88d6-1f88f04860e3"
+    ],
+    "vid": [
+      12091347
+    ],
+    "view_count": [
+      40
+    ],
+    "search_api_id": [
+      "entity:node/602912021:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/road-safety-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      60
+    ],
+    "published_date": [
+      1550238391
+    ],
+    "body:value": [
+      "This indicator will help determine the number of injuries per lakh Population and number of Fatalities per lakh Population."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1550052729
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Others",
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bus",
+      "Car",
+      "cycle",
+      "Fatalities",
+      "Fatality",
+      "Injuries",
+      "Road",
+      "walk"
+    ],
+    "nid": [
+      602912747
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Road Safety : Port Blair"
+    ],
+    "uuid": [
+      "75e562e1-cf3a-49f7-9946-8eaabd84a17e"
+    ],
+    "vid": [
+      13056941
+    ],
+    "view_count": [
+      48
+    ],
+    "search_api_id": [
+      "entity:node/602912747:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/environment-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      200
+    ],
+    "published_date": [
+      1549983517
+    ],
+    "body:value": [
+      "The catalog contains data regarding the pollutions levels of Port Blair city. It provides the monthly mean concentration of various pollutant particles such as Pm2.5, PM10, NO2, SO2 and O3."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549982293
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Industrial Air Pollution",
+      "Residential Air Pollution",
+      "Vehicular Air Pollution"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air quality",
+      "concentration",
+      "NO2",
+      "O3",
+      "PM10",
+      "PM2.5",
+      "pollution",
+      "sensors",
+      "smart city",
+      "SO2"
+    ],
+    "nid": [
+      602912413
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Environment : Port Blair"
+    ],
+    "uuid": [
+      "ae712b61-e9f6-4c6b-9703-a2fe8e2b3a86"
+    ],
+    "vid": [
+      13011158
+    ],
+    "view_count": [
+      84
+    ],
+    "search_api_id": [
+      "entity:node/602912413:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/water-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      74
+    ],
+    "published_date": [
+      1549983996
+    ],
+    "body:value": [
+      "This catalog helps determine the water consumption per capita."
+    ],
+    "changed": [
+      1739360435
+    ],
+    "created": [
+      1549983330
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Drinking Water",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "domestic",
+      "supply",
+      "water"
+    ],
+    "nid": [
+      602912416
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Water : Port Blair"
+    ],
+    "uuid": [
+      "81d7a26c-3699-4b46-9be5-2d823997c622"
+    ],
+    "vid": [
+      12988233
+    ],
+    "view_count": [
+      65
+    ],
+    "search_api_id": [
+      "entity:node/602912416:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crimes-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      171
+    ],
+    "published_date": [
+      1550238391
+    ],
+    "body:value": [
+      "This indicator helps understand the prevalent crime rate in Port Blair city."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550037091
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crimes",
+      "Record"
+    ],
+    "nid": [
+      602912516
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Crimes : Port Blair"
+    ],
+    "uuid": [
+      "b68177bc-bb82-48be-9da4-321459e8b1fc"
+    ],
+    "vid": [
+      13052420
+    ],
+    "view_count": [
+      159
+    ],
+    "search_api_id": [
+      "entity:node/602912516:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/digital-payments-port-blair-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      101
+    ],
+    "published_date": [
+      1550238374
+    ],
+    "body:value": [
+      "This indicator helps determine the Digital Payments efficiency of Port Blair city."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550234730
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Information and Communications",
+      "Information and Technology",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "Digital",
+      "digital payment",
+      "online"
+    ],
+    "nid": [
+      602913907
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Digital Payments : Port Blair"
+    ],
+    "uuid": [
+      "c6aebe56-6944-4fe7-9506-bd80bffb039d"
+    ],
+    "vid": [
+      13053539
+    ],
+    "view_count": [
+      53
+    ],
+    "search_api_id": [
+      "entity:node/602913907:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/electricity-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      106
+    ],
+    "published_date": [
+      1550238374
+    ],
+    "body:value": [
+      "This catalog helps in determining the electricity consumption of Port Blair city."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1550235854
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Non Renewable",
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "commercial",
+      "Consumption",
+      "domestic",
+      "electricity",
+      "Industry",
+      "Public"
+    ],
+    "nid": [
+      602913934
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Electricity : Port Blair"
+    ],
+    "uuid": [
+      "94175abf-46ef-4a78-aa4d-bf1c73e994c5"
+    ],
+    "vid": [
+      13004508
+    ],
+    "view_count": [
+      66
+    ],
+    "search_api_id": [
+      "entity:node/602913934:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/water-tax-port-blair-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      83
+    ],
+    "published_date": [
+      1550238374
+    ],
+    "body:value": [
+      "Indicates the water tax collection for Port Blair city."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550141590
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Drinking Water",
+      "Finance",
+      "Revenue",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "Deficit",
+      "Tax",
+      "WATER TAX"
+    ],
+    "nid": [
+      602913310
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Water Tax : Port Blair"
+    ],
+    "uuid": [
+      "56c7b9fb-4625-4bd9-9bc5-6e75684e4097"
+    ],
+    "vid": [
+      13053500
+    ],
+    "view_count": [
+      74
+    ],
+    "search_api_id": [
+      "entity:node/602913310:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/property-tax-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      108
+    ],
+    "published_date": [
+      1550238374
+    ],
+    "body:value": [
+      "This denotes the efficiency achieved by Port Blair city in collecting property taxes against the tax demand raised in a given year."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550144477
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "Property",
+      "Tax"
+    ],
+    "nid": [
+      602913353
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Property Tax : Port Blair"
+    ],
+    "uuid": [
+      "40176c05-28e2-4057-aa00-27b4b8e51f4c"
+    ],
+    "vid": [
+      13053503
+    ],
+    "view_count": [
+      101
+    ],
+    "search_api_id": [
+      "entity:node/602913353:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/open-spaces-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      58
+    ],
+    "published_date": [
+      1550238374
+    ],
+    "body:value": [
+      "This catalog helps determine the per capita availability of green spaces in Port Blair city."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550146355
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Green",
+      "greenery",
+      "openspace",
+      "Tree"
+    ],
+    "nid": [
+      602913394
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Open Spaces : Port Blair"
+    ],
+    "uuid": [
+      "8dad6f91-3972-417a-8c56-2b266047a94a"
+    ],
+    "vid": [
+      13054671
+    ],
+    "view_count": [
+      49
+    ],
+    "search_api_id": [
+      "entity:node/602913394:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/buses-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      128
+    ],
+    "published_date": [
+      1550753833
+    ],
+    "body:value": [
+      "This catalog helps understand the public transportation system of Port Blair city."
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1550553087
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bus",
+      "cost",
+      "earnings",
+      "Revenue",
+      "stands",
+      "Stops",
+      "Terminals"
+    ],
+    "nid": [
+      602914484
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Buses : Port Blair"
+    ],
+    "uuid": [
+      "48e11f00-4771-4977-9da2-518249726831"
+    ],
+    "vid": [
+      13060683
+    ],
+    "view_count": [
+      88
+    ],
+    "search_api_id": [
+      "entity:node/602914484:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/city-profile-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      238
+    ],
+    "published_date": [
+      1550753690
+    ],
+    "body:value": [
+      "The catalog contains data regarding basic indicators like area, population, workforce participation and households present in the city. These indicators define the basic profile of Port Blair city."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1550560164
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Census",
+      "Census and Surveys",
+      "Employment",
+      "Housing",
+      "Labour and Employment",
+      "Urban Housing"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Households",
+      "Labour",
+      "Population",
+      "smart city",
+      "Workforce"
+    ],
+    "nid": [
+      602914505
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "City Profile : Port Blair"
+    ],
+    "uuid": [
+      "53d816a5-560b-4178-be81-e0de7ca0bcf3"
+    ],
+    "vid": [
+      13011622
+    ],
+    "view_count": [
+      137
+    ],
+    "search_api_id": [
+      "entity:node/602914505:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/transportation-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      113
+    ],
+    "published_date": [
+      1550753833
+    ],
+    "body:value": [
+      "This catalog helps understand the transportation insights of Port Blair city."
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1550567867
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Auto",
+      "Bus",
+      "cycle",
+      "metro",
+      "Mode",
+      "Registration",
+      "Rickshaw",
+      "share",
+      "Train",
+      "Trip",
+      "vehicle",
+      "walking"
+    ],
+    "nid": [
+      602914544
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Transportation: Port Blair"
+    ],
+    "uuid": [
+      "3d73e513-d053-41b4-b758-5aab8a67cc8c"
+    ],
+    "vid": [
+      13055910
+    ],
+    "view_count": [
+      68
+    ],
+    "search_api_id": [
+      "entity:node/602914544:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/itc-neighbourhood-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      97
+    ],
+    "published_date": [
+      1550753833
+    ],
+    "body:value": [
+      "Facilities for children at ward level; % of total area covered under parks, playgrounds and open spaces; % of municipal budget allocated for open spaces."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1550568555
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Development",
+      "Urban"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Facilities",
+      "municipal",
+      "neighbourhood",
+      "Park",
+      "Playground",
+      "residential"
+    ],
+    "nid": [
+      602914550
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "ITC Neighbourhood: Port Blair"
+    ],
+    "uuid": [
+      "7618de2a-2048-4b6d-a976-a873aa215935"
+    ],
+    "vid": [
+      13012604
+    ],
+    "view_count": [
+      58
+    ],
+    "search_api_id": [
+      "entity:node/602914550:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/roads-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      165
+    ],
+    "published_date": [
+      1550753833
+    ],
+    "body:value": [
+      "Determining the condition of roads of Port Blair city."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1550569883
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Drainage",
+      "footpath",
+      "Length",
+      "Roads",
+      "tar",
+      "water"
+    ],
+    "nid": [
+      602914563
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Roads : Port Blair"
+    ],
+    "uuid": [
+      "588b3e15-4c00-4719-8111-8c6945ea618b"
+    ],
+    "vid": [
+      13004944
+    ],
+    "view_count": [
+      110
+    ],
+    "search_api_id": [
+      "entity:node/602914563:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-health-port-blair"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      123
+    ],
+    "published_date": [
+      1550753833
+    ],
+    "body:value": [
+      "This indicator helps in determining Financial health of Port Blair city."
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1550657634
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "South Andaman",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andaman & Nicobar Islands",
+      "Port Blair"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "Income",
+      "Loss",
+      "Profit",
+      "Revenue"
+    ],
+    "nid": [
+      602914670
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Financial Health : Port Blair"
+    ],
+    "uuid": [
+      "1d6f2921-8fd4-491d-a421-9628eb1e93e5"
+    ],
+    "vid": [
+      13055423
+    ],
+    "view_count": [
+      82
+    ],
+    "search_api_id": [
+      "entity:node/602914670:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/6th-minor-irrigation-census-village-schedule-ground-water-schemes-surface-water-schemes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4880
+    ],
+    "published_date": [
+      1698756618
+    ],
+    "body:value": [
+      "The Sixth Minor Irrigation Census was conducted with reference year 2017-18. All the relevant details and documents of the census like schedules, manuals, All India Reports etc. can be accessed at https://mowr.nic.in/irrigationcensus/"
+    ],
+    "changed": [
+      1721133847
+    ],
+    "created": [
+      1695104382
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andaman and Nicobar Island (UT)",
+      "Andhra Pradesh",
+      "Arunachal Pradesh",
+      "Assam",
+      "Bihar",
+      "Chandigarh (UT)",
+      "Chhattisgarh",
+      "Delhi (NCT)",
+      "Goa",
+      "Gujarat",
+      "Haryana",
+      "Himachal Pradesh",
+      "Jammu and Kashmir (UT)",
+      "Jharkhand",
+      "Karnataka",
+      "Kerala",
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Manipur",
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland",
+      "Odisha",
+      "Puducherry (UT)",
+      "Punjab",
+      "Rajasthan",
+      "Sikkim",
+      "Tamil Nadu",
+      "Telangana",
+      "Tripura",
+      "Uttar Pradesh",
+      "Uttarakhand",
+      "West Bengal"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Minor Irrigation Census",
+      "Ground Water Schemes",
+      "Surface Water Schemes"
+    ],
+    "nid": [
+      7694349
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4",
+      "792",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "6th Minor Irrigation Census - Village Schedule, Ground Water Schemes, Surface Water Schemes"
+    ],
+    "uuid": [
+      "35a18274-b04c-4db6-b732-b23ff68a359b"
+    ],
+    "vid": [
+      12317078
+    ],
+    "search_api_id": [
+      "entity:node/7694349:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-newly-registered-motor-vehicles-and-number-registered-motor-vehicles-andhra-pradesh"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      18866
+    ],
+    "published_date": [
+      1399460214
+    ],
+    "body:value": [
+      "The data refers to Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Andhra Pradesh. Registered Motor Vehicles have been categorized in two broad categories, Transport and Non Transport. Multi-axled/ Articulated Vehicles/ Trucks and Lorries, Light Motor Vehicle (Goods),Buses,Taxis,Light Motor Vehicle (Passengers Auto) are falling under Transport Category and Two Wheelers,Cars,Jeeps,Omni Buses,Tractors,Trailers & Others are falling under Non Transport Category."
+    ],
+    "changed": [
+      1472643916
+    ],
+    "created": [
+      1398934148
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "vehicle",
+      "Registered",
+      "Motor",
+      "Newly"
+    ],
+    "nid": [
+      101131
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Andhra Pradesh"
+    ],
+    "uuid": [
+      "e41a09fe-ce03-43c1-9ee0-0756bbac7c97"
+    ],
+    "vid": [
+      7888885
+    ],
+    "view_count": [
+      18239
+    ],
+    "search_api_id": [
+      "entity:node/101131:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-andhra-pradesh"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1344
+    ],
+    "published_date": [
+      1453900785
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Andhra Pradesh. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Health Mission (NHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430087
+    ],
+    "created": [
+      1452507726
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      484401
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of Andhra Pradesh"
+    ],
+    "uuid": [
+      "f0dc4649-de1c-453f-a302-e7fe717889b0"
+    ],
+    "vid": [
+      7895446
+    ],
+    "view_count": [
+      1078
+    ],
+    "search_api_id": [
+      "entity:node/484401:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/mortality-rate-visakhapatnam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      294
+    ],
+    "published_date": [
+      1549811078
+    ],
+    "body:value": [
+      "This catalog defines various indicators under mortality such as number of live births, number of deaths divided by male, female, infants, children"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549104991
+    ],
+    "field_asset_jurisdiction:name": [
+      "Andhra Pradesh",
+      "State",
+      "Visakhapatnam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mortality Rate"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Andhra Pradesh",
+      "Visakhapatnam"
+    ],
+    "field_sector:name": [
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "birth",
+      "child",
+      "Death",
+      "Infant",
+      "Mortality"
+    ],
+    "nid": [
+      602907757
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Mortality Rate Visakhapatnam"
+    ],
+    "uuid": [
+      "5b8f841c-a441-4695-bb41-b979149dd8b9"
+    ],
+    "vid": [
+      13000418
+    ],
+    "view_count": [
+      235
+    ],
+    "search_api_id": [
+      "entity:node/602907757:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

@@ -1,0 +1,4815 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/attendance-members-lok-sabha-session"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      23567
+    ],
+    "published_date": [
+      1374234840
+    ],
+    "body:value": [
+      "The data refers to details on the total number of days each member signed the member's attendance register in session of Lok Sabha."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Attendance of the Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "Loksabha",
+      "Member",
+      "Session"
+    ],
+    "nid": [
+      85981
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Attendance of the Members of Lok Sabha Session"
+    ],
+    "uuid": [
+      "01cd9aee-3714-4614-9074-6688fd2a9453"
+    ],
+    "vid": [
+      7840624
+    ],
+    "view_count": [
+      23149
+    ],
+    "search_api_id": [
+      "entity:node/85981:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/attendance-members-rajya-sabha-session"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8471
+    ],
+    "published_date": [
+      1379671918
+    ],
+    "body:value": [
+      "Each Session of Rajya Sabha starts from the date of commencement of its first sitting and concludes when the House is prorogued by the President.The Sessions are given consecutive numbers. Generally during a year three sessions of the Rajya Sabha are held, as follows-First Session (Budget Session) held between mid or late February to mid May has a Budget break from mid March to mid April to enable Department-related Committees to consider and report on Demands for Grants of the various Ministries. Second Session (Monsoon Session) is generally held in mid July to end of August. Third Session (Winter Session) is held from end of November to end of December. Before entering the Council Chamber, a member has to record his presence in the Attendance Register which remains placed  in the Inner Lobby and he has to sign it every day to mark his presence at the sittings of the House. For the convenience of members the Attendance Register has been split up into four parts and each part is kept on a separate rostrum in the Lobby. Members should be present in the House a few minutes before the scheduled time, which is ordinarily 11.00 a.m. At the appointed time in the House the Marshal announces the arrival of the Chairman, whereupon the Chairman immediately enters the Chamber. Members should stop all conversation, be in their seats and rise in their places. Members who enter the House at that time should stand silently in the gangway, till the Chairman takes the Chair and thereafter they should go to their seats. The data contains details on the total number of days each member signed the members attendance register of Rajya Sabha during the Session.The Rajya Sabha or Council of States is the upper house of the Parliament of India."
+    ],
+    "changed": [
+      1516168042
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Attendance of the Members of Rajya Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "Budget",
+      "House",
+      "Seat",
+      "Monsoon",
+      "Parliament",
+      "Session",
+      "Council",
+      "Winter"
+    ],
+    "nid": [
+      85995
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Attendance of the Members of Rajya Sabha for the Session"
+    ],
+    "uuid": [
+      "ca073923-5f18-45ae-aad7-d72535d76c4c"
+    ],
+    "vid": [
+      7841014
+    ],
+    "view_count": [
+      8145
+    ],
+    "search_api_id": [
+      "entity:node/85995:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/authorization-external-assistance-source"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1421
+    ],
+    "published_date": [
+      1372056185
+    ],
+    "body:value": [
+      "The data refers to the Authorization of External Assistance by Source. It gives details of the Country-wise distribution (including International Institutions) and Type of Assistance."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - External Assistance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Assistance",
+      "consortium",
+      "Country",
+      "Economic",
+      "finance",
+      "Grant",
+      "Loan",
+      "Survey",
+      "Member"
+    ],
+    "nid": [
+      86087
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Authorization of External Assistance by Source"
+    ],
+    "uuid": [
+      "de39181a-1d1b-4229-9752-852f5028d866"
+    ],
+    "vid": [
+      7841021
+    ],
+    "view_count": [
+      1291
+    ],
+    "search_api_id": [
+      "entity:node/86087:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/availability-and-functionality-kitchen-sheds-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      503
+    ],
+    "published_date": [
+      1385715106
+    ],
+    "body:value": [
+      "The data refers to Availability and Functionality of Kitchen Sheds in the selected sample states. It provides details of Availability of Kitchen Sheds in the School (% age), Condition of Kitchen Shed (%age) and Functional (%age). The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385703900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CMDM",
+      "Functional",
+      "Scheme",
+      "School",
+      "Condition",
+      "Cooked",
+      "Meal",
+      "Shed"
+    ],
+    "nid": [
+      86090
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Availability and Functionality of Kitchen Sheds - Based on Sample Survey"
+    ],
+    "uuid": [
+      "9ff7f8b7-127d-4799-b905-2fc8aab1d81e"
+    ],
+    "vid": [
+      7841028
+    ],
+    "view_count": [
+      473
+    ],
+    "search_api_id": [
+      "entity:node/86090:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/availability-cum-status-school-buildings-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      680
+    ],
+    "published_date": [
+      1385707809
+    ],
+    "body:value": [
+      "The data refers to availability cum status of School Buildings in the selected sample states. It provides details of Schools having Own Building (%age), Schools having Pucca Building (%age), Condition of Rooms in Pucca Building (%age) and Availability of Toilets (%age). The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385643540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Building",
+      "CMDM",
+      "Scheme",
+      "Room",
+      "Toilet",
+      "Pucca",
+      "Condition",
+      "Cooked",
+      "Meal",
+      "Own"
+    ],
+    "nid": [
+      86092
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Availability cum status of School Buildings - Based on Sample Survey"
+    ],
+    "uuid": [
+      "782f98ac-3994-47a0-8a57-3ea518f2a8c3"
+    ],
+    "vid": [
+      7841034
+    ],
+    "view_count": [
+      588
+    ],
+    "search_api_id": [
+      "entity:node/86092:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/availability-funds-maintenance-under-pmgsy-and-bharat-nirman-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      865
+    ],
+    "published_date": [
+      1387429864
+    ],
+    "body:value": [
+      "The data refers to information on Availability of Funds for Maintenance under PMGSY and Bharat Nirman during 2000-01 to 2006-07. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Maintenance",
+      "PMGSY",
+      "Road",
+      "Rural"
+    ],
+    "nid": [
+      86094
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Availability of Funds for Maintenance under PMGSY and Bharat Nirman - Based on Sample Survey"
+    ],
+    "uuid": [
+      "2d8bad18-9610-4834-b147-96e82b5dd197"
+    ],
+    "vid": [
+      7841039
+    ],
+    "view_count": [
+      667
+    ],
+    "search_api_id": [
+      "entity:node/86094:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/availability-human-resource-health-during-eleventh-plan-and-projections-twelfth-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      725
+    ],
+    "published_date": [
+      1369675418
+    ],
+    "body:value": [
+      "The data refers to details on major human resource categories and their enrolment and availability status, annual production capacity in the country and expected availability by 2017. The data projects the desirable density of each human resource category; number of colleges required for each category and expected density of HRH in 2017 and 2021, if colleges have been created. Also, depicts the current and expected Nurse/ANM: Doctor Ratio."
+    ],
+    "changed": [
+      1436419236
+    ],
+    "created": [
+      1369669860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANM",
+      "capacity",
+      "Density",
+      "Doctor",
+      "Health",
+      "HRH",
+      "Production",
+      "Plan",
+      "Annual",
+      "Ration",
+      "Human",
+      "Desirable"
+    ],
+    "nid": [
+      86096
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Availability of Human Resource For Health During Eleventh Plan And Projections For Twelfth Plan"
+    ],
+    "uuid": [
+      "b65cf96f-7296-4c02-9575-f8e4470008eb"
+    ],
+    "vid": [
+      7841044
+    ],
+    "view_count": [
+      678
+    ],
+    "search_api_id": [
+      "entity:node/86096:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/availability-manpower-cmdm-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1218
+    ],
+    "published_date": [
+      1385715525
+    ],
+    "body:value": [
+      "The data refers to information on the Availability of Manpower for CMDM in the selected sample states. It provides state-wise details of cooks per school and helper per school. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385704560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Scheme",
+      "School",
+      "Cook"
+    ],
+    "nid": [
+      86098
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Availability of Manpower for CMDM - Based on Sample Survey"
+    ],
+    "uuid": [
+      "b243a173-525b-4389-a1de-294192f3a63e"
+    ],
+    "vid": [
+      7841051
+    ],
+    "view_count": [
+      1163
+    ],
+    "search_api_id": [
+      "entity:node/86098:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/availability-store-room-schools-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      650
+    ],
+    "published_date": [
+      1385715439
+    ],
+    "body:value": [
+      "The data refers to Availability of Store room in schools in the selected sample states. It provides details of Availability of Store Rooms in Schools (% age), Condition of Store Rooms (%age) and Functionality (%age). The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385704560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CMDM",
+      "Scheme",
+      "School",
+      "Condition",
+      "Cooked",
+      "Meal",
+      "Midday",
+      "Functiality"
+    ],
+    "nid": [
+      86100
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Availability of Store room in schools - Based on Sample Survey"
+    ],
+    "uuid": [
+      "7e9a2973-1dfb-492f-bcc4-a0a4c8a2823f"
+    ],
+    "vid": [
+      7841057
+    ],
+    "view_count": [
+      581
+    ],
+    "search_api_id": [
+      "entity:node/86100:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/average-age-awws-and-distribution-aww-marital-status"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      598
+    ],
+    "published_date": [
+      1375253818
+    ],
+    "body:value": [
+      "The data refers to the Average Age of Angan Wadi Workers (AWWs) and distribution of Angan Wadi Workers (AWWs) by marital status. Most of the AWWs are in the age group (28-49) years; with the average age being 39 years. In Orissa, the percentage of unmarried AWWs was the highest."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Worker",
+      "Anganwadi",
+      "Marital"
+    ],
+    "nid": [
+      86102
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Average Age of AWWs and distribution of AWW by marital status"
+    ],
+    "uuid": [
+      "07221ef2-da01-4285-964f-3f98cb362923"
+    ],
+    "vid": [
+      7841063
+    ],
+    "view_count": [
+      582
+    ],
+    "search_api_id": [
+      "entity:node/86102:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/average-agricultural-daily-wage-rate-rural-rupees"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2243
+    ],
+    "published_date": [
+      1387776388
+    ],
+    "body:value": [
+      "The data refers to the Average Agricultural Daily Wage Rate Rural in Rupees for different categories of rural work like ploughing, sowing, weeding, transplanting, winnowing, threshing etc. for categories of men, women and children. This table also provides agricultural wage rate as average of all kind of rural work for comparative purpose."
+    ],
+    "changed": [
+      1436419036
+    ],
+    "created": [
+      1387612980
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agricultural Wage Rate"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Unorganized Sector Workers"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Rural",
+      "Wage",
+      "Rate"
+    ],
+    "nid": [
+      86104
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Average Agricultural Daily Wage Rate Rural in Rupees"
+    ],
+    "uuid": [
+      "58542a49-3102-4617-8cba-e01a71223287"
+    ],
+    "vid": [
+      7841066
+    ],
+    "view_count": [
+      2019
+    ],
+    "search_api_id": [
+      "entity:node/86104:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/average-allocation-and-expenditure-funds-block-level-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1141
+    ],
+    "published_date": [
+      1387428632
+    ],
+    "body:value": [
+      "The data refers to information on Average Allocation and Expenditure of Funds at the Block-level (State-wise). It provides details of allocation of funds and expenditure in new connectivity and upgradation of rural roads in the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "connectivity",
+      "expenditure",
+      "Road",
+      "Rural",
+      "upgradation",
+      "Nirman"
+    ],
+    "nid": [
+      86106
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Average Allocation and Expenditure of Funds at the Block-level - Based on Sample Survey"
+    ],
+    "uuid": [
+      "f1e62ea4-6354-4623-a62b-1a4e04603bc0"
+    ],
+    "vid": [
+      7841072
+    ],
+    "view_count": [
+      1077
+    ],
+    "search_api_id": [
+      "entity:node/86106:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/average-allocation-and-expenditure-funds-district-level-sample-states-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      860
+    ],
+    "published_date": [
+      1387428655
+    ],
+    "body:value": [
+      "The data refers to information on Average Allocation and Expenditure of Funds at the District-level for the Sample States (State-wise). It provides details of allocation of funds and expenditure in new connectivity and upgradation of rural roads in the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "connectivity",
+      "expenditure",
+      "Road",
+      "Rural",
+      "upgradation",
+      "Nirman"
+    ],
+    "nid": [
+      86108
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Average Allocation and Expenditure of Funds at the District-level for the Sample States - Based on Sample Survey"
+    ],
+    "uuid": [
+      "8aab8bf3-8406-4896-a4f6-26de282dcdff"
+    ],
+    "vid": [
+      7841077
+    ],
+    "view_count": [
+      791
+    ],
+    "search_api_id": [
+      "entity:node/86108:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/average-annual-growth-rates-major-crops"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1974
+    ],
+    "published_date": [
+      1377503859
+    ],
+    "body:value": [
+      "The data refers to annual average growth rate for major crops during Pre-green revolution, Green revolution, Early Liberalization, and during Ninth, Tenth and Eleventh five year plan period."
+    ],
+    "changed": [
+      1436419087
+    ],
+    "created": [
+      1377089700
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Crops"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "crop",
+      "Growth",
+      "Production",
+      "Rate"
+    ],
+    "nid": [
+      86110
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Average Annual Growth Rates of Major Crops"
+    ],
+    "uuid": [
+      "da3fe8e2-309f-4068-81f4-0b53e7a1700f"
+    ],
+    "vid": [
+      7841083
+    ],
+    "view_count": [
+      1807
+    ],
+    "search_api_id": [
+      "entity:node/86110:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/average-annual-income-households-beneficiary-children-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1338
+    ],
+    "published_date": [
+      1385715675
+    ],
+    "body:value": [
+      "The data refers to Average Annual Income of the Households for the Beneficiary Children as reported by the beneficiaries parents. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385704560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Beneficiary",
+      "Children",
+      "CMDM",
+      "Scheme",
+      "School",
+      "Cooked",
+      "Meal",
+      "Parent"
+    ],
+    "nid": [
+      86112
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Average Annual Income of the Households for the Beneficiary Children - Based on Sample Survey"
+    ],
+    "uuid": [
+      "03ca266b-1ae5-4508-a72b-cbc818ba6e05"
+    ],
+    "vid": [
+      7841090
+    ],
+    "view_count": [
+      978
+    ],
+    "search_api_id": [
+      "entity:node/86112:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/average-covered-area-dwelling-unit-states-and-type-dwelling-unit"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2264
+    ],
+    "published_date": [
+      1367427258
+    ],
+    "body:value": [
+      "The data refers to average covered area (in square metres) of dwelling unit by states and by type of dwelling unit such as independent house, flat and others as per NSSO Survey Report (65th Round)."
+    ],
+    "changed": [
+      1441694420
+    ],
+    "created": [
+      1367406000
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Housing",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Dwelling",
+      "Unit"
+    ],
+    "nid": [
+      86114
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Average Covered Area Of Dwelling Unit By States And By Type Of Dwelling Unit"
+    ],
+    "uuid": [
+      "5282703d-e346-4722-8b93-8f0db1cca37e"
+    ],
+    "vid": [
+      7841098
+    ],
+    "view_count": [
+      2002
+    ],
+    "search_api_id": [
+      "entity:node/86114:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/average-daily-wage-rates-male-agricultural-labour"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5210
+    ],
+    "published_date": [
+      1369675933
+    ],
+    "body:value": [
+      "The data refers to details of state-wise average daily wage for male agriculture labour during the month of December from 2008 to 2009 (Twelfth Five Year Plan document) as percentage increase over the previous years. Based on data, as a result of MGNREGA, there is a sharp increase in the average wage for men in the agriculture sector during the period 2008 to 2010. Nominal wages in the rural economy grew at an average annual rate of 2.7 per cent (year on year average). Post MGNREGA, the rate of average wage increase almost quadrupled to 9.7 per cent between 2006 and 2009. And between January 2010 and May 2011 (the last date for which this data is available), annual nominal wage growth averaged almost 18.8 per cent. Since January 2010, agricultural wages rose 20.2 per cent over year ago while non-agricultural rural wages increased 16.7 per cent over year ago. Wage growth for men in the agricultural sector averaged 19.7 per cent over year ago while that for women 20.8 per cent over year ago."
+    ],
+    "changed": [
+      1436419236
+    ],
+    "created": [
+      1369669860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Employment",
+      "MGNREGA",
+      "Plan",
+      "Rural",
+      "Guarantee",
+      "Labor"
+    ],
+    "nid": [
+      86116
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Average Daily Wage Rates For Male Agricultural Labour"
+    ],
+    "uuid": [
+      "d57d093f-0e0a-4b9a-8d9e-016aaa1f4e85"
+    ],
+    "vid": [
+      7841102
+    ],
+    "view_count": [
+      5048
+    ],
+    "search_api_id": [
+      "entity:node/86116:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-deep-tubewell-according-depth-deep-tubewells"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      422
+    ],
+    "published_date": [
+      1390913559
+    ],
+    "body:value": [
+      "The data refers to block wise distribution of Deep Tubewells according to the depth of the Deep Tubewells."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      86560
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block-wise distribution of deep tubewell according to depth of the deep tubewells"
+    ],
+    "uuid": [
+      "b6154131-d220-4340-9af0-0224f9dc240a"
+    ],
+    "vid": [
+      7842455
+    ],
+    "view_count": [
+      407
+    ],
+    "search_api_id": [
+      "entity:node/86560:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/branch-expansion-public-sector-banks-and-other-commercial-banks"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7941
+    ],
+    "published_date": [
+      1371793073
+    ],
+    "body:value": [
+      "The data refers to the branch expansion figures for Scheduled Commercial Banks and Non-Scheduled Commercial Banks. It gives details regarding all branches and separately for rural branches."
+    ],
+    "changed": [
+      1563972599
+    ],
+    "created": [
+      1371192840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Monetary Trends"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "finance",
+      "Foreign",
+      "Rural",
+      "SBI",
+      "Regional",
+      "Associate"
+    ],
+    "nid": [
+      86562
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Branch Expansion of Public Sector Banks and Other Commercial Banks"
+    ],
+    "uuid": [
+      "1251572b-7bac-4335-9004-a89e405498d9"
+    ],
+    "vid": [
+      7842460
+    ],
+    "view_count": [
+      7780
+    ],
+    "search_api_id": [
+      "entity:node/86562:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/breakup-orders-executed-against-research-and-development-cost-various-disciplines"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1271
+    ],
+    "published_date": [
+      1367412942
+    ],
+    "body:value": [
+      "As DRDO is involved in projects under variety of disciplines, the provided data presents a break-up of the R&D project costs under various disciples along with their status i.e. already executed and under execution"
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1367392080
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DRDO"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AERO",
+      "Engineering",
+      "vehicle",
+      "Defence",
+      "Electronic",
+      "Armament",
+      "Combat",
+      "Missile",
+      "Naval"
+    ],
+    "nid": [
+      86564
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Breakup of Orders executed Against Research and Development Cost for Various Disciplines"
+    ],
+    "uuid": [
+      "cc836fb9-ac7f-4997-9fc1-fafe393f9119"
+    ],
+    "vid": [
+      7842466
+    ],
+    "view_count": [
+      1041
+    ],
+    "search_api_id": [
+      "entity:node/86564:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/breakup-exploration-programme-twelfth-five-year-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      700
+    ],
+    "published_date": [
+      1370858149
+    ],
+    "body:value": [
+      "The data refers to Breakup of the Exploration Programme for the Twelfth Five Year Plan (2012-17). It gives details of sensitive petroleum products for the year 2012-17."
+    ],
+    "changed": [
+      1436419167
+    ],
+    "created": [
+      1370689740
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power & Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "distribution",
+      "expenditure",
+      "Gas",
+      "kerosene",
+      "OIL",
+      "ONGC",
+      "PDS",
+      "Petroleum",
+      "Private",
+      "Unit",
+      "Natural",
+      "Commision",
+      "Sensitive"
+    ],
+    "nid": [
+      86566
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Breakup of the Exploration Programme for the Twelfth Five Year Plan"
+    ],
+    "uuid": [
+      "c3ed05f1-0ab3-4bb5-9a75-32bf9a575f11"
+    ],
+    "vid": [
+      7842469
+    ],
+    "view_count": [
+      661
+    ],
+    "search_api_id": [
+      "entity:node/86566:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/budget-estimates"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2366
+    ],
+    "published_date": [
+      1371471486
+    ],
+    "body:value": [
+      "It provides budget estimates (plan as well non-plan) and shows variation over revised estimates."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1370589960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Union Budget 2013-14 - Expenditure Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "finance",
+      "Plan",
+      "Provision"
+    ],
+    "nid": [
+      86568
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Budget Estimates"
+    ],
+    "uuid": [
+      "eb5ce679-56e5-4fe8-95dd-44d7f521934c"
+    ],
+    "vid": [
+      7842475
+    ],
+    "view_count": [
+      2184
+    ],
+    "search_api_id": [
+      "entity:node/86568:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/budget-provisions-heads-accounts-capital"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1021
+    ],
+    "published_date": [
+      1371474755
+    ],
+    "body:value": [
+      "It provides details of major head/demand wise plan as well as non-plan capital expenditure."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1370589960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Union Budget 2013-14 - Expenditure Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "finance",
+      "Provision",
+      "Union"
+    ],
+    "nid": [
+      86570
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Budget Provisions by Heads of Accounts - Capital"
+    ],
+    "uuid": [
+      "4e466891-2b49-4ba1-bf35-77204dacee76"
+    ],
+    "vid": [
+      7842480
+    ],
+    "view_count": [
+      962
+    ],
+    "search_api_id": [
+      "entity:node/86570:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/budget-provisions-heads-accounts-revenue"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1697
+    ],
+    "published_date": [
+      1371474723
+    ],
+    "body:value": [
+      "It provides details of major head/demand wise plan as well as non-plan revenue expenditure."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1370589960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Union Budget 2013-14 - Expenditure Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "finance",
+      "Provision",
+      "Union"
+    ],
+    "nid": [
+      86572
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Budget Provisions by Heads of Accounts - Revenue"
+    ],
+    "uuid": [
+      "7112a5a2-b315-4c5d-9d4f-caf28fe4a431"
+    ],
+    "vid": [
+      7842485
+    ],
+    "view_count": [
+      1587
+    ],
+    "search_api_id": [
+      "entity:node/86572:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/budget-provisions-schemes-welfare-children"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      843
+    ],
+    "published_date": [
+      1371474592
+    ],
+    "body:value": [
+      "It provides department wise details of for Schemes for the Welfare of Children."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1370589960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Union Budget 2013-14 - Expenditure Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "finance",
+      "Provision",
+      "Union"
+    ],
+    "nid": [
+      86574
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Budget Provisions for Schemes for the Welfare of Children"
+    ],
+    "uuid": [
+      "17259096-e247-4161-8696-7ad840587da4"
+    ],
+    "vid": [
+      7842490
+    ],
+    "view_count": [
+      829
+    ],
+    "search_api_id": [
+      "entity:node/86574:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/budget-provisions-financial-year"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2059
+    ],
+    "published_date": [
+      1365054662
+    ],
+    "body:value": [
+      "Activity wise classification of budget provisions (with budget estimates plan and budget estimates n-plan)."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1364994240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Electronics and Information Technology (MeitY)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "DeitY",
+      "Fund",
+      "expenditure"
+    ],
+    "nid": [
+      86576
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Budget Provisions For The Financial Year"
+    ],
+    "uuid": [
+      "d42e1a0f-27a5-40e5-ad3b-a3f6ec1fd8c8"
+    ],
+    "vid": [
+      12996072
+    ],
+    "view_count": [
+      1844
+    ],
+    "search_api_id": [
+      "entity:node/86576:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/budget-support-departments-ministry-health-and-family-welfare-12th-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1007
+    ],
+    "published_date": [
+      1369675397
+    ],
+    "body:value": [
+      "The data refers to details of budget support for central departments in Eleventh Plan (200712) and Twelfth Plan (201217) projections (Rs. Crores) along with percentage increase from Eleventh Plan."
+    ],
+    "changed": [
+      1436419239
+    ],
+    "created": [
+      1369669860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "Central",
+      "Plan"
+    ],
+    "nid": [
+      86578
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Budget Support For Departments of Ministry of Health And Family Welfare In 12th Plan"
+    ],
+    "uuid": [
+      "31024f4a-cc73-4dab-84ab-4ce90adef7bc"
+    ],
+    "vid": [
+      7842503
+    ],
+    "view_count": [
+      924
+    ],
+    "search_api_id": [
+      "entity:node/86578:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/budget-support-iebr-and-outlay-central-ministry-or-department-tenth-plan-realization-and"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1269
+    ],
+    "published_date": [
+      1375854896
+    ],
+    "body:value": [
+      "The data refers to data related to Budget Support, Internal and Extra Budgetary Resources (IEBR) and Outlay for Central Ministry/Department - Tenth Plan (2002-07) realization and Eleventh Plan (2007-12) projections (in Rs. Crore) at 2006-07 prices. The allocation also includes funds for Central Road Fund, Energy (R&D) and Skill Development Mission."
+    ],
+    "changed": [
+      1436419141
+    ],
+    "created": [
+      1375456560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy",
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "support",
+      "resource",
+      "Internal"
+    ],
+    "nid": [
+      86580
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Budget Support, IEBR and Outlay for Central Ministry or Department - Tenth Plan Realization and Eleventh Plan Projections at 2006-07 Prices"
+    ],
+    "uuid": [
+      "db84e81c-b9d6-40f5-a9f6-ee5ae52d60da"
+    ],
+    "vid": [
+      7842507
+    ],
+    "view_count": [
+      1113
+    ],
+    "search_api_id": [
+      "entity:node/86580:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/budgetary-position-government-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1645
+    ],
+    "published_date": [
+      1367949881
+    ],
+    "body:value": [
+      "The data refers to budgetary position of the government of India from 2000-01 to 2011-12 for items such as revenue receipts, non-tax revenue, revenue expenditure, revenue deficit, capital receipts and capital expenditure."
+    ],
+    "changed": [
+      1506517156
+    ],
+    "created": [
+      1367918280
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Finance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "Deficit",
+      "expenditure",
+      "finance",
+      "Interest",
+      "Loan",
+      "Receipt",
+      "Revenue",
+      "primary"
+    ],
+    "nid": [
+      86582
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Budgetary Position of The Government of India"
+    ],
+    "uuid": [
+      "eb31930b-999c-48c0-8ceb-ea6bd15827dd"
+    ],
+    "vid": [
+      7842516
+    ],
+    "view_count": [
+      1557
+    ],
+    "search_api_id": [
+      "entity:node/86582:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/budgetary-transactions-central-and-state-governments-and-union-territories"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1211
+    ],
+    "published_date": [
+      1372247992
+    ],
+    "body:value": [
+      "The data refers to the Budgetary Transactions of the Central and State Governments & Union Territories of India for various years. It gives details of various Budgetary Transactions such as Total Outlay, Current Revenues, Non-Tax Revenue, etc.. It also includes the internal and extra-budgetary resources of public sector undertakings for their plans."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Budgetary Transactions"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Economic",
+      "finance",
+      "Government",
+      "IEBR",
+      "Interest",
+      "Outlay",
+      "Revenue",
+      "Survey",
+      "Tax",
+      "Payments",
+      "resource",
+      "Current",
+      "Budgetry"
+    ],
+    "nid": [
+      86584
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Budgetary Transactions of the Central and State Governments and Union Territories"
+    ],
+    "uuid": [
+      "ebec018f-6516-4710-be9d-53fb31ef2571"
+    ],
+    "vid": [
+      7842520
+    ],
+    "view_count": [
+      1085
+    ],
+    "search_api_id": [
+      "entity:node/86584:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/building-position-sub-centres-primary-health-centres-and-community-health-centres-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3076
+    ],
+    "published_date": [
+      1357905912
+    ],
+    "body:value": [
+      "The data refers to the distribution of total number of Sub Centres (SCs) / Primary Health Centres (PHCs) / Community Health Centres (CHCs) functioning according to the status of their building as per three categories i.e. a Government Building, a rented building and a rent free / panchayat / voluntary society building. It also gives the number of buildings under construction. The requirement of buildings is worked out as follows: Required Number = Total functioning - (Government Buildings + Under construction)"
+    ],
+    "changed": [
+      1566286979
+    ],
+    "created": [
+      1357805220
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Health Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "Government",
+      "Panchayat",
+      "Society",
+      "Voluntary"
+    ],
+    "nid": [
+      86586
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Building Position for Sub-Centres, Primary Health Centres and Community Health Centres"
+    ],
+    "uuid": [
+      "70a53f22-2959-40d2-a66d-324bb1688465"
+    ],
+    "vid": [
+      7842528
+    ],
+    "view_count": [
+      2962
+    ],
+    "search_api_id": [
+      "entity:node/86586:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/burden-four-major-diseases-millions-disability-adjusted-life-year"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1896
+    ],
+    "published_date": [
+      1376916794
+    ],
+    "body:value": [
+      "The data refers to data related to the burden for four major diseases (millions of DALYs) as disease and sex for age group (0-4, 15-44, 45-59 & 60+) in terms of Disability-adjusted Life Year (DALYs) from World Development Report 1993."
+    ],
+    "changed": [
+      1502427086
+    ],
+    "created": [
+      1376728140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Disability"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "disability",
+      "Diseases",
+      "Tuberculosis",
+      "Infection",
+      "Diarrhea",
+      "Worm"
+    ],
+    "nid": [
+      86588
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Burden for Four Major Diseases (Millions of Disability-adjusted Life Year)"
+    ],
+    "uuid": [
+      "f9152c7b-85b5-4012-9b4e-279d3c499f8f"
+    ],
+    "vid": [
+      7842538
+    ],
+    "view_count": [
+      1683
+    ],
+    "search_api_id": [
+      "entity:node/86588:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cag-local-bodies-audit-reports"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9796
+    ],
+    "published_date": [
+      1372066130
+    ],
+    "body:value": [
+      "CAG Local Bodies Audit reports are prepared by the concerned state Accountant Generals (AGs). On being approved by the CAG, the Local Bodies Audit reports are categorized into two types as 'Tabled in the Legislature' and 'Issued to State Government'. "
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1372063080
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "CAG Local Bodies Reports"
+    ],
+    "field_ministry_department:name": [
+      "Comptroller And Auditor General of India(CAG)"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Institution",
+      "PRI",
+      "ULB",
+      "Urban",
+      "Account",
+      "Comptroller",
+      "Auditor",
+      "Panchayati",
+      "Raj",
+      "DPC",
+      "Issue",
+      "Examiner",
+      "Legislature"
+    ],
+    "nid": [
+      86590
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "CAG Local Bodies Audit Reports"
+    ],
+    "uuid": [
+      "d0999885-e1cb-4982-b406-6d9d6f1c3165"
+    ],
+    "vid": [
+      7842541
+    ],
+    "view_count": [
+      9393
+    ],
+    "search_api_id": [
+      "entity:node/86590:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cag-state-audit-reports"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6664
+    ],
+    "published_date": [
+      1372053667
+    ],
+    "body:value": [
+      "The Accountants General conduct the audit of transactions of Consolidated Fund of the state. The findings of the audit of CAG of India are submitted to the state legislature. The reports are normally presented in the budget session and contain findings on the audit of transactions of the previous year. Like Union Government, the audit here is also conducted in two streams of Performance Audit and Regularity Audit. However, normally the findings of Performance Audit as well as regularity audit (compliance) are presented together. For bigger states the reports can be separated in up to three separate volumes: Civil, Commercial and Receipts. For smaller states findings are clubbed together in one single volume: State PSUs."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1372051440
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "CAG State Audit Reports"
+    ],
+    "field_ministry_department:name": [
+      "Comptroller And Auditor General of India(CAG)"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Civil",
+      "commercial",
+      "Compliance",
+      "COPU",
+      "Receipt",
+      "Performance",
+      "PSU",
+      "Autonomous",
+      "Comptroller",
+      "Auditor",
+      "Act",
+      "Body",
+      "DPC",
+      "Regularity"
+    ],
+    "nid": [
+      86592
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "CAG State Audit Reports"
+    ],
+    "uuid": [
+      "3dbe79f0-a306-4f8c-aaea-6201ef827c16"
+    ],
+    "vid": [
+      7842545
+    ],
+    "view_count": [
+      6343
+    ],
+    "search_api_id": [
+      "entity:node/86592:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cag-union-audit-reports"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5054
+    ],
+    "published_date": [
+      1371809291
+    ],
+    "body:value": [
+      "The Union Audit Reports of the Comptroller and Auditor General of India, contain the findings of transaction audit and performance audit in the areas i.e. Civil Audit, Audit of Autonomous Bodies, Defence Services, Railways, Receipts of the Government and Central Commercial. The Audit of the CAG is bifurcated into two streams namely Performance Audit and Regularity (Compliance) Audit. While audit of the Civil Departments, Railways and Defence are conducted as per the direct mandate in the constitution and relevant provisions of the CAG's Duties, Powers and Conditions of Service (DPC) Act, the Commercial Audit is conducted under the provisions of Company Act. Autonomous Bodies are audited as per the mandate in the act establishing the body. The reports of the CAG are deliberated upon by the Public Accounts Committee (PAC) of the parliament and the commercial reports are examined by the Committee on Public Undertakings (COPU)."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371799380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "CAG Union Audit Reports"
+    ],
+    "field_ministry_department:name": [
+      "Comptroller And Auditor General of India(CAG)"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CAG",
+      "Civil",
+      "Compliance",
+      "COPU",
+      "Performance",
+      "Power",
+      "Condition",
+      "Autonomous",
+      "Comptroller",
+      "Auditor",
+      "Body",
+      "DPC"
+    ],
+    "nid": [
+      86594
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "CAG Union Audit Reports "
+    ],
+    "uuid": [
+      "a6d4a6da-feeb-42fe-9fc6-407c1e67ee67"
+    ],
+    "vid": [
+      7842552
+    ],
+    "view_count": [
+      4716
+    ],
+    "search_api_id": [
+      "entity:node/86594:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capacity-creation-indian-railways-during-eleventh-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      624
+    ],
+    "published_date": [
+      1369904278
+    ],
+    "body:value": [
+      "The data refers to details on capacity creation of Indian Railways during Eleventh Plan."
+    ],
+    "changed": [
+      1436419236
+    ],
+    "created": [
+      1369748040
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Railways"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Railways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Gauge",
+      "Line",
+      "Conversion"
+    ],
+    "nid": [
+      86596
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Capacity Creation Of Indian Railways During Eleventh Plan"
+    ],
+    "uuid": [
+      "5454e36b-1ace-448e-88c1-90bbc4d80b24"
+    ],
+    "vid": [
+      7842555
+    ],
+    "view_count": [
+      603
+    ],
+    "search_api_id": [
+      "entity:node/86596:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capacity-jails-inmates-population"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1486
+    ],
+    "published_date": [
+      1382600340
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise and prison wise total number of prisons, the capacity of jails by sex of prisoners and actual inmates population lodged at the end of the each of the reference year. The actual and total capacity of prisons are categorized by male and female population."
+    ],
+    "changed": [
+      1474545784
+    ],
+    "created": [
+      1382519880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Prison Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "capacity",
+      "Population",
+      "Women",
+      "Inmate",
+      "Jail",
+      "Prison"
+    ],
+    "nid": [
+      86598
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Capacity of jails by inmates population"
+    ],
+    "uuid": [
+      "92f1ce80-41de-412b-bc92-7a7ea2e82ba2"
+    ],
+    "vid": [
+      7842572
+    ],
+    "view_count": [
+      1442
+    ],
+    "search_api_id": [
+      "entity:node/86598:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capital-expenditure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4117
+    ],
+    "published_date": [
+      1371726721
+    ],
+    "body:value": [
+      "This data pertains to capital expenditure (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371704160
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Finance Accounts"
+    ],
+    "field_ministry_department:name": [
+      "Comptroller And Auditor General of India(CAG)"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CAG",
+      "Economic",
+      "General",
+      "Social",
+      "Service",
+      "Comptroller",
+      "Auditor"
+    ],
+    "nid": [
+      86600
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Capital Expenditure"
+    ],
+    "uuid": [
+      "fc48b7f9-7700-45b0-8e7d-5d0a69703530"
+    ],
+    "vid": [
+      7842575
+    ],
+    "view_count": [
+      3881
+    ],
+    "search_api_id": [
+      "entity:node/86600:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capital-formation-constant-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1601
+    ],
+    "published_date": [
+      1367950449
+    ],
+    "body:value": [
+      "Get the data regarding details on capital formation at constant prices."
+    ],
+    "changed": [
+      1506517685
+    ],
+    "created": [
+      1367573220
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Product and Related Aggregates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Asset",
+      "Formation",
+      "Institution"
+    ],
+    "nid": [
+      86602
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Capital Formation at Constant Prices"
+    ],
+    "uuid": [
+      "7b32cb27-b05a-4495-80f2-9fb147857027"
+    ],
+    "vid": [
+      7842588
+    ],
+    "view_count": [
+      1505
+    ],
+    "search_api_id": [
+      "entity:node/86602:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capital-formation-current-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1363
+    ],
+    "published_date": [
+      1367950280
+    ],
+    "body:value": [
+      "Get the data regarding to details on capital formation at current prices."
+    ],
+    "changed": [
+      1599032338
+    ],
+    "created": [
+      1367572380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Product and Related Aggregates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Asset",
+      "Formation",
+      "Institution"
+    ],
+    "nid": [
+      86604
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Capital Formation at Current Prices"
+    ],
+    "uuid": [
+      "7e2ec01f-8609-48ea-b08b-e2b6ab161cde"
+    ],
+    "vid": [
+      7842600
+    ],
+    "view_count": [
+      1188
+    ],
+    "search_api_id": [
+      "entity:node/86604:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capital-infusion-public-sector-banks-government"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      11284
+    ],
+    "published_date": [
+      1375775038
+    ],
+    "body:value": [
+      "The data refers to details of capital infusion by the government in Public Sector Banks (PSBs)."
+    ],
+    "changed": [
+      1441625122
+    ],
+    "created": [
+      1375769940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Capital Infusion in Public Sector Banks"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Financial Services"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Banking"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bank",
+      "Capital",
+      "finance",
+      "Public",
+      "Infusion",
+      "PSB"
+    ],
+    "nid": [
+      86606
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Capital Infusion in Public Sector Banks by the Government"
+    ],
+    "uuid": [
+      "34cd6963-1586-47b9-90d3-344af530ea27"
+    ],
+    "vid": [
+      7842611
+    ],
+    "view_count": [
+      10447
+    ],
+    "search_api_id": [
+      "entity:node/86606:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capital-receipts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1167
+    ],
+    "published_date": [
+      1371726656
+    ],
+    "body:value": [
+      "This data pertains to capital receipts (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011.\n"
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371707040
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Finance Accounts"
+    ],
+    "field_ministry_department:name": [
+      "Comptroller And Auditor General of India(CAG)"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CAG",
+      "major",
+      "Receipt",
+      "Head",
+      "Comptroller",
+      "Auditor"
+    ],
+    "nid": [
+      86608
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Capital Receipts"
+    ],
+    "uuid": [
+      "458f4e8d-e9f3-4dd7-a938-3c356a54b2c9"
+    ],
+    "vid": [
+      7842614
+    ],
+    "view_count": [
+      1064
+    ],
+    "search_api_id": [
+      "entity:node/86608:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capital-chargeearnings-and-expenses-railways"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3358
+    ],
+    "published_date": [
+      1367315698
+    ],
+    "body:value": [
+      "Get the data regarding overall details on capital-at-charge, gross earnings, working expenses, net earnings, percentage of working expenses to gross earnings and percentage of net earnings to total capital-at-charge of Indian Railways."
+    ],
+    "changed": [
+      1506517451
+    ],
+    "created": [
+      1366891740
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Railways"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Statistics",
+      "Transport",
+      "Railways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Gross",
+      "Working",
+      "Earning"
+    ],
+    "nid": [
+      86610
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Capital-At-Charge/Earnings And Expenses Of Railways"
+    ],
+    "uuid": [
+      "6fd479ef-580a-4ccb-9f1c-7ecc76bc5607"
+    ],
+    "vid": [
+      7842635
+    ],
+    "view_count": [
+      3277
+    ],
+    "search_api_id": [
+      "entity:node/86610:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/carbon-dioxide-emissions-various-transport-modes-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3495
+    ],
+    "published_date": [
+      1369723127
+    ],
+    "body:value": [
+      "The data refers to details on Carbon Dioxide Emissions from Various Transport Modes in India."
+    ],
+    "changed": [
+      1436419242
+    ],
+    "created": [
+      1369661700
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "emission",
+      "Freight",
+      "Rail",
+      "passenger",
+      "Road",
+      "Shipping",
+      "transport",
+      "Carbon",
+      "Dioxide"
+    ],
+    "nid": [
+      86612
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Carbon Dioxide Emissions From Various Transport Modes In India"
+    ],
+    "uuid": [
+      "4e2b61a4-777a-409c-846f-418504b5a3c6"
+    ],
+    "vid": [
+      7842637
+    ],
+    "view_count": [
+      2273
+    ],
+    "search_api_id": [
+      "entity:node/86612:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cases-against-police-under-human-rights-violation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4933
+    ],
+    "published_date": [
+      1381426583
+    ],
+    "body:value": [
+      "The data refers to details on State/UT wise cases registered, policemen chargesheeted and convicted under human rights violation during the year. Different type of violation under which the cases were registered against policemen and they were chargesheeted and convicted are Disappearance of Persons, Illegal Detention/Arrest, Fake encounter killings, Violation against terrorists/extremists, Extortion, Torture, False implication, Failure in taking action, Indignity to women, Atrocities on SC/ST etc."
+    ],
+    "changed": [
+      1441628737
+    ],
+    "created": [
+      1379419200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Rights",
+      "Violation"
+    ],
+    "nid": [
+      86614
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cases against Police under Human rights violation"
+    ],
+    "uuid": [
+      "ac911415-64ff-40df-9cb1-0e9caa8db205"
+    ],
+    "vid": [
+      7842649
+    ],
+    "view_count": [
+      4727
+    ],
+    "search_api_id": [
+      "entity:node/86614:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cases-and-deaths-due-japanese-encephalitis-and-dengue-dhf-during-tenth-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2296
+    ],
+    "published_date": [
+      1376939487
+    ],
+    "body:value": [
+      "The data refers to data related to cases and deaths due to Japanese Encephalitis and Dengue / DHF during Tenth Plan."
+    ],
+    "changed": [
+      1436419141
+    ],
+    "created": [
+      1376725680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Cases",
+      "Death",
+      "Dengue",
+      "Fever",
+      "Japanese",
+      "Encephalitis",
+      "DHF",
+      "Hemorrhagic"
+    ],
+    "nid": [
+      86616
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cases and Deaths due to Japanese Encephalitis and Dengue / DHF during Tenth Plan"
+    ],
+    "uuid": [
+      "47e6b28b-7f71-4c14-a858-853a4d8b6699"
+    ],
+    "vid": [
+      7842651
+    ],
+    "view_count": [
+      2074
+    ],
+    "search_api_id": [
+      "entity:node/86616:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cases-and-deaths-due-kala-azar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1387
+    ],
+    "published_date": [
+      1382959109
+    ],
+    "body:value": [
+      "The data refers to data related to Cases and Deaths due to the illness Kala-Azar in Bihar, West Bengal and Country during the years 1996 till 2000."
+    ],
+    "changed": [
+      1436419141
+    ],
+    "created": [
+      1376725500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bihar",
+      "Kala-Azar"
+    ],
+    "nid": [
+      86618
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cases and Deaths due to Kala-Azar"
+    ],
+    "uuid": [
+      "5a272545-d119-48c9-b394-a2869641bb7a"
+    ],
+    "vid": [
+      7842655
+    ],
+    "view_count": [
+      1255
+    ],
+    "search_api_id": [
+      "entity:node/86618:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cases-and-their-value-property-stolen-recovered"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3723
+    ],
+    "published_date": [
+      1380176393
+    ],
+    "body:value": [
+      "The data refers to cases reported under Indian Penal Code (IPC) Crime in which property were stolen & recovered for each State/UT by different heads of crime. The different heads of crime covered are Dacoity, Robbery, Burglary, Theft etc. The data refers to details of such cases of property stolen and recovered by number and value of property."
+    ],
+    "changed": [
+      1441627397
+    ],
+    "created": [
+      1380109320
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Burglary",
+      "Crime",
+      "Dacoity",
+      "Robbery",
+      "Stolen",
+      "Theft",
+      "Property",
+      "Recovered"
+    ],
+    "nid": [
+      86620
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cases and their value Of property stolen & recovered"
+    ],
+    "uuid": [
+      "d3ae4ac8-e2d2-4ab4-b260-825a99e8ee3c"
+    ],
+    "vid": [
+      7842666
+    ],
+    "view_count": [
+      3447
+    ],
+    "search_api_id": [
+      "entity:node/86620:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cases-registered-and-their-disposal-under-crime-against-children"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1491
+    ],
+    "published_date": [
+      1381206799
+    ],
+    "body:value": [
+      "The data refers to crime-wise details of cases registered and their disposal under crime against Children by State/UT."
+    ],
+    "changed": [
+      1462768588
+    ],
+    "created": [
+      1379419140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Crime",
+      "Disposal",
+      "Case"
+    ],
+    "nid": [
+      86622
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cases registered and their disposal under crime against Children"
+    ],
+    "uuid": [
+      "a5309393-8b68-4558-bfaf-eb6a9c677c42"
+    ],
+    "vid": [
+      7842676
+    ],
+    "view_count": [
+      1393
+    ],
+    "search_api_id": [
+      "entity:node/86622:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cases-registered-and-their-disposal-under-crime-against-scheduled-castes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1625
+    ],
+    "published_date": [
+      1381209218
+    ],
+    "body:value": [
+      "The data refers to State/UT wise details of cases registered and their disposal under crime committed against Scheduled Castes. Total Crime Against Scheduled Castes includes: Murder, Rape, Kidnapping and Abduction, Dacoity, Robbery, Arson, Hurt, Protection of Civil Rights Act, SC/ST (Prevention of atrocities) Act and Other Crimes Committed Against Scheduled Castes. Figures of cases pending investigation or trial at the end of previous year may not match with figures of cases pending investigation or trial at the beginning of current year in respect of some data supplying centre (s) due to modification of these figures by the concerned data supplying centre (s)."
+    ],
+    "changed": [
+      1462768582
+    ],
+    "created": [
+      1379419140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "SC",
+      "Caste",
+      "Scheduled"
+    ],
+    "nid": [
+      86624
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cases registered and their disposal under crime against Scheduled Castes"
+    ],
+    "uuid": [
+      "ff95917f-1067-4cc9-b120-408092abb3bd"
+    ],
+    "vid": [
+      7842686
+    ],
+    "view_count": [
+      1526
+    ],
+    "search_api_id": [
+      "entity:node/86624:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

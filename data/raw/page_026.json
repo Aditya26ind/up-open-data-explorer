@@ -1,0 +1,5060 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/range-wise-quarterly-performance-public-facilities-ipd-attendance-india-across-statesuts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      518
+    ],
+    "published_date": [
+      1624454405
+    ],
+    "body:value": [
+      "Get data on Range-wise Quarterly Performance of Public Facilities for IPD Attendance in India (Across States/Uts). It contains type of facilities, number of facilities, and overall Quarterly performance of the facilities."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1624444268
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "CHC",
+      "community",
+      "Delivery",
+      "District",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "Management",
+      "PHC",
+      "primary",
+      "Public",
+      "SC",
+      "Facility",
+      "SDH",
+      "DH",
+      "Power"
+    ],
+    "nid": [
+      6881481
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Range-wise Quarterly Performance of Public Facilities for IPD Attendance in India (Across States/UTs)"
+    ],
+    "uuid": [
+      "addadd24-d9a0-4772-88e6-e341f98a2571"
+    ],
+    "vid": [
+      13003900
+    ],
+    "view_count": [
+      100
+    ],
+    "search_api_id": [
+      "entity:node/6881481:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/range-wise-quarterly-performance-public-facilities-opd-attendance-india-across-statesuts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1029
+    ],
+    "published_date": [
+      1624454422
+    ],
+    "body:value": [
+      "Get data on Range-wise Quarterly Performance of Public Facilities for OPD Attendance in India (Across States/Uts). It contains type of facilities, number of facilities, and overall Quarterly performance of the facilities."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1624444268
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "CHC",
+      "community",
+      "Delivery",
+      "District",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "Management",
+      "PHC",
+      "primary",
+      "Public",
+      "SC",
+      "Facility",
+      "SDH",
+      "DH",
+      "Power"
+    ],
+    "nid": [
+      6881482
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Range-wise Quarterly Performance of Public Facilities for OPD attendance in India (Across States/UTs)"
+    ],
+    "uuid": [
+      "c8e4898c-cbe5-420a-a17d-71f541996b55"
+    ],
+    "vid": [
+      13003901
+    ],
+    "view_count": [
+      547
+    ],
+    "search_api_id": [
+      "entity:node/6881482:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/range-wise-quarterly-performance-public-facilities-operation-major-general-and-spinal"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      369
+    ],
+    "published_date": [
+      1624454398
+    ],
+    "body:value": [
+      "Get data on Range-wise Quarterly Performance of Public Facilities for Operation major (General and Spinal Anaesthesia) in India (Across States/Uts). It contains type of facilities, number of facilities, and overall Quarterly performance of the facilities."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1624444268
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "CHC",
+      "community",
+      "Delivery",
+      "District",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "Management",
+      "PHC",
+      "primary",
+      "Public",
+      "SC",
+      "Facility",
+      "SDH",
+      "DH",
+      "Power"
+    ],
+    "nid": [
+      6881483
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Range-wise Quarterly Performance of Public Facilities for Operation major (General and Spinal Anaesthesia) in India (Across States/UTs)"
+    ],
+    "uuid": [
+      "248da0fc-375d-472e-b469-f37bad9db28b"
+    ],
+    "vid": [
+      13003902
+    ],
+    "view_count": [
+      131
+    ],
+    "search_api_id": [
+      "entity:node/6881483:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/range-wise-quarterly-performance-public-facilities-operation-minor-no-or-local-anaesthesia"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      415
+    ],
+    "published_date": [
+      1624454417
+    ],
+    "body:value": [
+      "Get data on Range-wise Quarterly Performance of Public Facilities for Operation minor (No or local Anaesthesia) in India (Across States/Uts). It contains type of facilities, number of facilities, and overall Quarterly performance of the facilities."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1624444268
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "CHC",
+      "community",
+      "Delivery",
+      "District",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "Management",
+      "PHC",
+      "primary",
+      "Public",
+      "SC",
+      "Facility",
+      "SDH",
+      "DH",
+      "Power"
+    ],
+    "nid": [
+      6881484
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Range-wise Quarterly Performance of Public Facilities for Operation minor (No or local Anaesthesia) in India (Across States/UTs)"
+    ],
+    "uuid": [
+      "aeb2a07c-a900-4f8e-a65d-206b0892b30e"
+    ],
+    "vid": [
+      13003903
+    ],
+    "view_count": [
+      175
+    ],
+    "search_api_id": [
+      "entity:node/6881484:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/all-india-level-monthly-maximum-and-minimum-performing-public-health-facilities-selected"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      916
+    ],
+    "published_date": [
+      1622696692
+    ],
+    "body:value": [
+      "Get data on monthly maximum & minimum performing public health facilities on selected data items Across Nation. Selected data items are deliveries conducted at facility, C-Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (State, District, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1623394241
+    ],
+    "created": [
+      1622205063
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6878803
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "All India Level Monthly Maximum and Minimum Performing Public Health Facilities on Selected Data Items"
+    ],
+    "uuid": [
+      "e3eba9cc-0232-408e-a8d2-1c2c79bea600"
+    ],
+    "vid": [
+      7910045
+    ],
+    "view_count": [
+      224
+    ],
+    "search_api_id": [
+      "entity:node/6878803:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/range-wise-monthly-performance-public-facilities-c-section-deliveries-facility-india-across"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      409
+    ],
+    "published_date": [
+      1623301505
+    ],
+    "body:value": [
+      "Get data on Range-wise Monthly Performance of Public Facilities for C -Section Deliveries at facility in India (Across States/Uts). It contains type of facilities, number of facilities, and overall Monthly performance of the facilities."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1622205063
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "CHC",
+      "community",
+      "Delivery",
+      "District",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "Management",
+      "PHC",
+      "primary",
+      "Public",
+      "SC",
+      "Facility",
+      "SDH",
+      "DH",
+      "Power"
+    ],
+    "nid": [
+      6878805
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Range-wise Monthly Performance of Public Facilities for C-Section Deliveries at facility in India (Across States/UTs)"
+    ],
+    "uuid": [
+      "395f8202-d783-4ae8-a529-4c7713cc1329"
+    ],
+    "vid": [
+      13003892
+    ],
+    "view_count": [
+      61
+    ],
+    "search_api_id": [
+      "entity:node/6878805:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/range-wise-monthly-performance-public-facilities-deliveries-conducted-facility-india-across"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      637
+    ],
+    "published_date": [
+      1622638212
+    ],
+    "body:value": [
+      "Get data on Range-wise Monthly Performance of Public Facilities for Deliveries  Cunducted at facility in India (Across States/Uts). It contains type of facilities, number of facilities, and overall Monthly performance of the facilities."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1622205063
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "CHC",
+      "community",
+      "Delivery",
+      "District",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "Management",
+      "PHC",
+      "primary",
+      "Public",
+      "SC",
+      "Facility",
+      "SDH",
+      "DH",
+      "Power"
+    ],
+    "nid": [
+      6878806
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Range-wise Monthly Performance of Public Facilities for Deliveries conducted at facility in India (Across States/UTs)"
+    ],
+    "uuid": [
+      "5ab6aed7-5396-47de-93e1-48ebce76bee8"
+    ],
+    "vid": [
+      13003893
+    ],
+    "view_count": [
+      307
+    ],
+    "search_api_id": [
+      "entity:node/6878806:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/range-wise-monthly-performance-public-facilities-ipd-attendance-india-across-statesuts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      342
+    ],
+    "published_date": [
+      1623301004
+    ],
+    "body:value": [
+      "Get data on Range-wise Monthly Performance of Public Facilities for IPD Attendance in India (Across States/Uts). It contains type of facilities, number of facilities, and overall Monthly performance of the facilities."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1622205063
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "CHC",
+      "community",
+      "Delivery",
+      "District",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "Management",
+      "PHC",
+      "primary",
+      "Public",
+      "SC",
+      "Facility",
+      "SDH",
+      "DH",
+      "Power"
+    ],
+    "nid": [
+      6878807
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Range-wise Monthly Performance of Public Facilities for IPD Attendance in India (Across States/UTs)"
+    ],
+    "uuid": [
+      "eddc49dc-1f7f-47b5-ae70-a16da5f08d76"
+    ],
+    "vid": [
+      13003894
+    ],
+    "view_count": [
+      93
+    ],
+    "search_api_id": [
+      "entity:node/6878807:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/range-wise-monthly-performance-public-facilities-opd-attendance-india-across-statesuts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      381
+    ],
+    "published_date": [
+      1622695475
+    ],
+    "body:value": [
+      "Get data on Range-wise Monthly Performance of Public Facilities for OPD Attendance in India (Across States/Uts). It contains type of facilities, number of facilities, and overall Monthly performance of the facilities."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1622205063
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "CHC",
+      "community",
+      "Delivery",
+      "District",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "Management",
+      "PHC",
+      "primary",
+      "Public",
+      "SC",
+      "Facility",
+      "SDH",
+      "DH",
+      "Power"
+    ],
+    "nid": [
+      6878808
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Range-wise Monthly Performance of Public Facilities for OPD attendance in India (Across States/UTs)"
+    ],
+    "uuid": [
+      "b7c444bb-3e27-49fc-9dc5-3136385d3423"
+    ],
+    "vid": [
+      13003895
+    ],
+    "view_count": [
+      193
+    ],
+    "search_api_id": [
+      "entity:node/6878808:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/range-wise-monthly-performance-public-facilities-operation-major-general-and-spinal"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      254
+    ],
+    "published_date": [
+      1623301604
+    ],
+    "body:value": [
+      "Get data on Range-wise Monthly Performance of Public Facilities for Operation major (General and Spinal Anaesthesia) in India (Across States/Uts). It contains type of facilities, number of facilities, and overall Monthly performance of the facilities."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1622205063
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "CHC",
+      "community",
+      "Delivery",
+      "District",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "Management",
+      "PHC",
+      "primary",
+      "Public",
+      "SC",
+      "Facility",
+      "SDH",
+      "DH",
+      "Power"
+    ],
+    "nid": [
+      6878809
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Range-wise Monthly Performance of Public Facilities for Operation major (General and Spinal Anaesthesia) in India (Across States/UTs)"
+    ],
+    "uuid": [
+      "55e2ea1f-f8a4-46d9-9cc9-1421b4bf77ac"
+    ],
+    "vid": [
+      13003896
+    ],
+    "view_count": [
+      39
+    ],
+    "search_api_id": [
+      "entity:node/6878809:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/range-wise-monthly-performance-public-facilities-operation-minor-no-or-local-anaesthesia"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      185
+    ],
+    "published_date": [
+      1622637223
+    ],
+    "body:value": [
+      "Get data on Range-wise Monthly Performance of Public Facilities for Operation minor (No or local Anaesthesia) in India (Across States/Uts). It contains type of facilities, number of facilities, and overall Monthly performance of the facilities."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1622205063
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "CHC",
+      "community",
+      "Delivery",
+      "District",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "Management",
+      "PHC",
+      "primary",
+      "Public",
+      "SC",
+      "Facility",
+      "SDH",
+      "DH",
+      "Power"
+    ],
+    "nid": [
+      6878810
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Range-wise Monthly Performance of Public Facilities for Operation minor (No or local Anaesthesia) in India (Across States/UTs)"
+    ],
+    "uuid": [
+      "2fbe4716-248d-4cdc-8fe7-e24babab28a5"
+    ],
+    "vid": [
+      13003897
+    ],
+    "view_count": [
+      50
+    ],
+    "search_api_id": [
+      "entity:node/6878810:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/union-budget-2021-22"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1941
+    ],
+    "published_date": [
+      1623409445
+    ],
+    "body:value": [
+      "The Union Budget of India, also referred to as the Annual Financial Statement in the Article 112 of the Constitution of India, is the annual budget of the Republic of India. It contains data of Union Budget: 2021-22."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1623398969
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "Deficit",
+      "Receipt",
+      "Subsidy",
+      "expenditure"
+    ],
+    "nid": [
+      6880342
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Union Budget: 2021-22"
+    ],
+    "uuid": [
+      "a7fc056f-229f-481e-95ed-49967d22531a"
+    ],
+    "vid": [
+      12996160
+    ],
+    "view_count": [
+      1112
+    ],
+    "search_api_id": [
+      "entity:node/6880342:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/indian-petroleum-and-natural-gas-statistics-2019-20"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1974
+    ],
+    "published_date": [
+      1624266791
+    ],
+    "body:value": [
+      "Indian Petroleum and Natural Gas Statistics - 2019-20 provides exhaustive data on oil & gas sector in India. In addition, this catalog also gives a glimpse of the global petroleum scenario through the latest international petroleum statistics. It contains data on various parameters including inter-alia production, exploration, refining, transportation and marketing, imports and exports of crude oil and petroleum products along with taxes and duties realized, man power employed in oil & gas CPSEs, outlays and annual expenditure, dividends paid, equity capital and profit of the CPSEs etc. "
+    ],
+    "changed": [
+      1624339031
+    ],
+    "created": [
+      1623875465
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Petroleum and Natural Gas"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CPSE",
+      "crude",
+      "expenditure",
+      "Exploration",
+      "Export",
+      "Gas",
+      "Import",
+      "Marketing",
+      "OIL",
+      "Outlay",
+      "Refining",
+      "Production",
+      "Petroleum",
+      "Natural",
+      "Transportation"
+    ],
+    "nid": [
+      6881246
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Indian Petroleum and Natural Gas Statistics - 2019-20"
+    ],
+    "uuid": [
+      "bc3eb618-9160-4c29-83a3-04a49f4d928d"
+    ],
+    "vid": [
+      7910315
+    ],
+    "view_count": [
+      1268
+    ],
+    "search_api_id": [
+      "entity:node/6881246:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/item-wise-monthly-hmis-report-all-india-across-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      617
+    ],
+    "published_date": [
+      1622092109
+    ],
+    "body:value": [
+      "The catalog contains data regarding various indicators of HMIS like Health, Abortions, Immunisation, AEFI, Adolescent, Bite, Sting, Disease, Diarrhoeal, Hypertension, HIV, AIDS, Malaria, Neurological, Stroke, Fever, Respiratory, Infection, suicide, Trauma, Accident, Burn, Tuberculosis, VHND, ASHA, JSY, CHC, PHC, SDH, DH, Hospital."
+    ],
+    "changed": [
+      1623393657
+    ],
+    "created": [
+      1620579661
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "HMIS",
+      "Health Indicator"
+    ],
+    "nid": [
+      6872938
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Item-wise Monthly HMIS Report of All India Across States"
+    ],
+    "uuid": [
+      "00284808-21a3-4b0f-9910-a13cb474be7e"
+    ],
+    "vid": [
+      7909838
+    ],
+    "view_count": [
+      164
+    ],
+    "search_api_id": [
+      "entity:node/6872938:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/steel-companies-financials"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1221
+    ],
+    "published_date": [
+      1627474137
+    ],
+    "body:value": [
+      "The catalog contains Revenue from Operations, Profit Before Tax and Profit After Tax for the steel companies."
+    ],
+    "changed": [
+      1627474158
+    ],
+    "created": [
+      1627467006
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Steel"
+    ],
+    "field_sector:name": [
+      "Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Revenue",
+      "Steel",
+      "Profit After Tax",
+      "CPSEs",
+      "Financials"
+    ],
+    "nid": [
+      6884990
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Steel Companies Financials"
+    ],
+    "uuid": [
+      "5d3b9285-bc59-4e77-bcea-4fe771e8bb15"
+    ],
+    "vid": [
+      7910969
+    ],
+    "view_count": [
+      560
+    ],
+    "search_api_id": [
+      "entity:node/6884990:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/20th-livestock-census"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      22959
+    ],
+    "published_date": [
+      1627628076
+    ],
+    "body:value": [
+      "Get data on details of Cattle, Buffalo, Sheep, Goat, Horse, Pony, Mule, Donkey, Camel and Pig in Rural and Urban combined at State and District level. 20th Livestock census covers the census of livestock, poultry, implements and machinery used for livestock rearing. It is the only source for providing various kind of detailed information for these groups. Livestock Census conducted in every five years in India. India has largest livestock numbers in the world."
+    ],
+    "changed": [
+      1627628253
+    ],
+    "created": [
+      1627624667
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock Census"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Buffalo",
+      "Cattle",
+      "Goat",
+      "livestock",
+      "Sheep",
+      "Pig",
+      "Horse",
+      "Pony",
+      "Donkey",
+      "Camel",
+      "Mule"
+    ],
+    "nid": [
+      6885101
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "20th Livestock Census"
+    ],
+    "uuid": [
+      "c5587b3a-b88d-455e-929d-27f7b47b5ff3"
+    ],
+    "vid": [
+      7911020
+    ],
+    "view_count": [
+      1162
+    ],
+    "search_api_id": [
+      "entity:node/6885101:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-252"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      974
+    ],
+    "published_date": [
+      1627042575
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 252 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1637923448
+    ],
+    "created": [
+      1627038729
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agricultural",
+      "Agriculture",
+      "Assistance",
+      "Ayush",
+      "Bank",
+      "birth",
+      "Credit",
+      "Crime",
+      "crude",
+      "Development",
+      "Electrified",
+      "Farm",
+      "FDI",
+      "Generation",
+      "goods",
+      "gram",
+      "Handloom",
+      "Health",
+      "Hospital",
+      "Household",
+      "Hydro",
+      "Import",
+      "Injured",
+      "Institute",
+      "Interest",
+      "Killed",
+      "Labour",
+      "Length",
+      "livelihood",
+      "Loan",
+      "Mission",
+      "national",
+      "NRLM",
+      "OIL",
+      "Outstanding",
+      "Rehabilitation",
+      "Release",
+      "PMGSY",
+      "pollution",
+      "Pond",
+      "Power",
+      "progress",
+      "Scheme",
+      "Public",
+      "Road",
+      "Sanctioned",
+      "SCA",
+      "Sector",
+      "station",
+      "Strength",
+      "Subsidy",
+      "Surgery",
+      "Tribal",
+      "Water",
+      "Women",
+      "Facility",
+      "Dispensary",
+      "Service",
+      "Worker",
+      "Police",
+      "Person",
+      "Tax",
+      "Scholarship",
+      "Cancer",
+      "Highway",
+      "Accident",
+      "Farmer",
+      "PMAY",
+      "PMKSY",
+      "Equity",
+      "Leprosy",
+      "suicide",
+      "Case",
+      "Care",
+      "Waste",
+      "Structure",
+      "Yojana",
+      "Trafficking",
+      "Trainee",
+      "Sadak",
+      "Level",
+      "Allied",
+      "Selection",
+      "Collection",
+      "Helper",
+      "Weaver",
+      "Honour",
+      "Killing",
+      "Recharge",
+      "Spot",
+      "Awas",
+      "Protsahan",
+      "Judicial",
+      "PMPRPY",
+      "Paridhan",
+      "Rojgar",
+      "Custody",
+      "AWWs",
+      "AWHs",
+      "Anganwadi Worker",
+      "Procuration",
+      "Scavenger",
+      "IHHLs",
+      "TSS",
+      "CLSS",
+      "RRBs",
+      "RCS",
+      "GST",
+      "ATL",
+      "Disburse",
+      "Amont",
+      "Sinchayee",
+      "Robber"
+    ],
+    "nid": [
+      6884072
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 252"
+    ],
+    "uuid": [
+      "3da2c35f-4909-4f65-a3e5-50d86f728a01"
+    ],
+    "vid": [
+      7910860
+    ],
+    "view_count": [
+      528
+    ],
+    "search_api_id": [
+      "entity:node/6884072:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/enrolment-location-school-management-school-category-and-social-category-udise-plus"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5265
+    ],
+    "published_date": [
+      1630998199
+    ],
+    "body:value": [
+      "The Catalog contains data related to enrolment by location, school management, school and social category. U-DISE has mandate to collecting enrolment information from all recognised and unrecognised schools imparting formal education from class I to XII. The dataset also contains information on academic year (ac_year), state code (st_code), state name (state_name), district code (dt_code), district name (district_name), block code (block_cd), udise block name (udise_block_name), location name (loc_name), school category id (sch_category_id), school category name (school_category), school management id (sch_mgmt_id), school management name (sch_mgmt_name), caste id (caste_id) and caste name (caste_name) etc."
+    ],
+    "changed": [
+      1640947337
+    ],
+    "created": [
+      1630655363
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Unified district information system for education"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of School Education and Literacy"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "School",
+      "UDISE"
+    ],
+    "nid": [
+      6887580
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Enrolment by Location, School Management, School Category and Social Category (UDISE plus)"
+    ],
+    "uuid": [
+      "2bf668f2-3f8f-49f9-a125-761bff74e1a4"
+    ],
+    "vid": [
+      7911701
+    ],
+    "view_count": [
+      1764
+    ],
+    "search_api_id": [
+      "entity:node/6887580:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/fund-allocation-and-expenditure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1636
+    ],
+    "published_date": [
+      1635767176
+    ],
+    "body:value": [
+      "Year wise data regarding fund allocation and expenditure by the Department of Science and Technology (Since 2016-17 to 2020-21)"
+    ],
+    "changed": [
+      1635747484
+    ],
+    "created": [
+      1635506091
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology"
+    ],
+    "field_sector:name": [
+      "Science and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Allocation",
+      "expenditure and funds",
+      "Department of Science and Technology"
+    ],
+    "nid": [
+      6899091
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Fund Allocation and Expenditure "
+    ],
+    "uuid": [
+      "5ea19329-591b-4cb3-9332-289889eda030"
+    ],
+    "vid": [
+      10285848
+    ],
+    "search_api_id": [
+      "entity:node/6899091:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/meity-startup-hub"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      864
+    ],
+    "published_date": [
+      1637672888
+    ],
+    "body:value": [
+      "Ministry of Electronics & Information Technology, Government of India is leading and facilitating a gamut of Innovation and IPR related activities across the country towards expansion of this ecosystem. In order to facilitate MeitYs vision of promoting technology innovation, start-ups and creation of Intellectual Properties, a nodal entity called MeitY Start-up Hub (MSH) has been setup under its aegis. MSH will act as a national coordination, facilitation and monitoring center that will integrate all the incubation centers, start-ups and innovation related activities of MeitY."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1636449568
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "MeitY Startup Hub"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Electronics and Information Technology (MeitY)"
+    ],
+    "field_sector:name": [
+      "Information and Broadcasting"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Data",
+      "ddd",
+      "MeitY",
+      "incubator"
+    ],
+    "nid": [
+      6899348
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "MeitY Startup Hub"
+    ],
+    "uuid": [
+      "5f2f59af-faf8-4c7b-8502-f1b8d1a88333"
+    ],
+    "vid": [
+      13058435
+    ],
+    "search_api_id": [
+      "entity:node/6899348:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      4
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/covid-19-testing-data"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3016
+    ],
+    "published_date": [
+      1637171770
+    ],
+    "body:value": [
+      "Weekly test positive rate (Districts more than 10% positivity)"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1637144625
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Surveillance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health Research",
+      "Indian Council of Medical Research (ICMR)"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "weekly",
+      "District",
+      "COVID 19",
+      "positivity rate"
+    ],
+    "nid": [
+      6899648
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "COVID 19 Testing data"
+    ],
+    "uuid": [
+      "c8e84328-d346-4385-9bf4-e03302d5198d"
+    ],
+    "vid": [
+      12994839
+    ],
+    "search_api_id": [
+      "entity:node/6899648:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-253"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      861
+    ],
+    "published_date": [
+      1631103673
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 253 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1640947001
+    ],
+    "created": [
+      1631089198
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Strength",
+      "Protsahan",
+      "PMPRPY",
+      "Rojgar",
+      "Judicial Sanctioned"
+    ],
+    "nid": [
+      6888535
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 253"
+    ],
+    "uuid": [
+      "88ec9509-df54-4c72-a623-f5d0183d2078"
+    ],
+    "vid": [
+      7911780
+    ],
+    "view_count": [
+      365
+    ],
+    "search_api_id": [
+      "entity:node/6888535:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      4
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/schools-availability-infrastructure-and-facilities-school-management-and-school-category"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5628
+    ],
+    "published_date": [
+      1631856229
+    ],
+    "body:value": [
+      "The catalog contains data related to number of schools by availability of infrastructure and facilities, school management and school category (UDISE plus). U-DISE has mandate to collect infrastructure information from all recognised and unrecognised schools imparting formal education from class I to XII."
+    ],
+    "changed": [
+      1640680880
+    ],
+    "created": [
+      1631622411
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Unified district information system for education"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of School Education and Literacy"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "School",
+      "UDISE"
+    ],
+    "nid": [
+      6889303
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Schools by Availability of Infrastructure and Facilities, School Management and School Category (UDISE plus)"
+    ],
+    "uuid": [
+      "1d08a062-5a2e-4cb7-9261-10382095c9d7"
+    ],
+    "vid": [
+      7911880
+    ],
+    "view_count": [
+      1162
+    ],
+    "search_api_id": [
+      "entity:node/6889303:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      4
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/public-enterprises-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1220
+    ],
+    "published_date": [
+      1632461739
+    ],
+    "body:value": [
+      "Public Enterprises Survey of DPE collates information on important physical and financial attributes on all CPSEs (except departmentally run public enterprises, banking institutions and insurance companies) into a comprehensive annual report, Public Enterprises Survey  which is placed in both the Houses of Parliament every year. Data for the Public Enterprises Survey is furnished directly by the CPSEs through an online platform based on Annual Report or audited financial statement of each CPSE."
+    ],
+    "changed": [
+      1639466627
+    ],
+    "created": [
+      1632389663
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Public Enterprises"
+    ],
+    "field_sector:name": [
+      "Finance"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CPSEs",
+      "DPE",
+      "PE Survey"
+    ],
+    "nid": [
+      6891170
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Public Enterprises Survey"
+    ],
+    "uuid": [
+      "0e502360-d847-4f83-b389-255c00a1d9d5"
+    ],
+    "vid": [
+      7912033
+    ],
+    "view_count": [
+      315
+    ],
+    "search_api_id": [
+      "entity:node/6891170:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/court-cases-through-legal-information-management-and-briefing-system"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      859
+    ],
+    "published_date": [
+      1632478099
+    ],
+    "body:value": [
+      "The catalog contains the data related to Ministry-wise court cases through legal information management and briefing system."
+    ],
+    "changed": [
+      1632478121
+    ],
+    "created": [
+      1632463533
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Law and Justice",
+      "Department of Legal Affairs"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Cases",
+      "Court",
+      "LIMBS"
+    ],
+    "nid": [
+      6891242
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Court Cases through Legal Information Management and Briefing System"
+    ],
+    "uuid": [
+      "96f6aae2-d5cb-4a8b-84ac-5666d75f15b3"
+    ],
+    "vid": [
+      7912069
+    ],
+    "view_count": [
+      316
+    ],
+    "search_api_id": [
+      "entity:node/6891242:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/references-received-various-ministries-departments-central-government-seeking-legal-advice"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      488
+    ],
+    "published_date": [
+      1632992659
+    ],
+    "body:value": [
+      "The catalog contains data about references received from various Ministries /Departments of the Central Government seeking legal advice from department of legal affairs."
+    ],
+    "changed": [
+      1739808639
+    ],
+    "created": [
+      1632476542
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Law and Justice",
+      "Department of Legal Affairs"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Legal",
+      "Advice",
+      "Affairs",
+      "Leave",
+      "Petition",
+      "Attorney",
+      "Solicitor",
+      "Cabinet"
+    ],
+    "nid": [
+      6891307
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "References Received from various Ministries /Departments of the Central Government Seeking Legal Advice from Department of Legal Affairs"
+    ],
+    "uuid": [
+      "9a7abe99-e003-446c-af2a-9e2ad86ba530"
+    ],
+    "vid": [
+      13041704
+    ],
+    "view_count": [
+      140
+    ],
+    "search_api_id": [
+      "entity:node/6891307:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/teachers-gender-academic-qualification-professional-qualification-classes-taught-school"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4418
+    ],
+    "published_date": [
+      1633498770
+    ],
+    "body:value": [
+      "The Catalog contains data related to number of school teachers by gender, academic qualification, professional qualification, classes taught, school category and school management (UDISE plus). U-DISE has mandate to collecting teachers' information from all recognised and unrecognised schools imparting formal education from class I to XII."
+    ],
+    "changed": [
+      1634188701
+    ],
+    "created": [
+      1632738850
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Unified district information system for education"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of School Education and Literacy"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "School",
+      "Teacher"
+    ],
+    "nid": [
+      6891443
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Teachers by Gender, Academic Qualification, Professional Qualification, Classes Taught, School Category and School Management (UDISE plus)"
+    ],
+    "uuid": [
+      "3ad9acda-9ac7-4176-94d8-43449613fc62"
+    ],
+    "vid": [
+      7912142
+    ],
+    "view_count": [
+      1461
+    ],
+    "search_api_id": [
+      "entity:node/6891443:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/startup-hub"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2655
+    ],
+    "published_date": [
+      1637672868
+    ],
+    "body:value": [
+      "Ministry of Electronics & Information Technology, Government of India is leading and facilitating a gamut of Innovation and IPR related activities across the country towards expansion of this ecosystem. In order to facilitate MeitY's vision of promoting technology innovation, start-ups and creation of Intellectual Properties, a nodal entity called MeitY Startup Hub has been setup under its aegis. MSH will act as a national coordination, facilitation and monitoring center that will integrate all the incubation centers, start-ups and innovation related activities of MeitY."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1634549045
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Electronics and Information Technology (MeitY)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ddd"
+    ],
+    "nid": [
+      6898460
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Startup Hub"
+    ],
+    "uuid": [
+      "be11fc59-a781-443f-af17-6bb1a54f49c9"
+    ],
+    "vid": [
+      13058434
+    ],
+    "view_count": [
+      248
+    ],
+    "search_api_id": [
+      "entity:node/6898460:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/scheme-wise-expenditure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1786
+    ],
+    "published_date": [
+      1635285391
+    ],
+    "body:value": [
+      "Funds released by the Department of Science & Technology for Central Sector Schemes."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1635254414
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology"
+    ],
+    "field_sector:name": [
+      "Science and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Funds",
+      "Scheme",
+      "expenditure"
+    ],
+    "nid": [
+      6898823
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Scheme wise Expenditure"
+    ],
+    "uuid": [
+      "7c14e40e-0979-41e6-81db-db09a8d0718c"
+    ],
+    "vid": [
+      12996163
+    ],
+    "search_api_id": [
+      "entity:node/6898823:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/modified-special-incentive-package-scheme-m-sips"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1083
+    ],
+    "published_date": [
+      1633689283
+    ],
+    "body:value": [
+      "In order to promote large scale manufacturing in the country, M-SIPS was announced by the Government in July, 2012 to offset disability and attract investments in Electronics System Design and Manufacturing (ESDM) Industries. The scheme provides incentive for investments on capital expenditure- 20% for investments in Special Economic Zones (SEZs) and 25% in non-SEZs. The Scheme was revised vide notification dated 03-08-2015 which was further amended vide notification dated 30-01-2017. The Scheme was closed to receive new application on 31 December, 2018. The catalogue contains name of the applicant, State, Vertical, employment proposed and sector. "
+    ],
+    "changed": [
+      1633689307
+    ],
+    "created": [
+      1633684757
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Electronics Manufacturing"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Electronics and Information Technology (MeitY)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Electronics",
+      "manufacturing",
+      "Scheme",
+      "MSIPS",
+      "MeitY",
+      "Systems"
+    ],
+    "nid": [
+      6898227
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Modified Special Incentive Package Scheme (M-SIPS)"
+    ],
+    "uuid": [
+      "ad1c3c44-7efc-4ec7-b208-3d68c709c60c"
+    ],
+    "vid": [
+      7912264
+    ],
+    "view_count": [
+      263
+    ],
+    "search_api_id": [
+      "entity:node/6898227:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/krishi-vigyan-kendra-kvk"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2738
+    ],
+    "published_date": [
+      1634555979
+    ],
+    "body:value": [
+      "It provides organizational details of KVKs and will also provide other information"
+    ],
+    "changed": [
+      1639467221
+    ],
+    "created": [
+      1634543047
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Krishi Vigyan Kendra"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Krishi Vigyan Kendra",
+      "KVK",
+      "Krishi",
+      "Vigyan"
+    ],
+    "nid": [
+      6898453
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Krishi Vigyan Kendra (KVK)"
+    ],
+    "uuid": [
+      "25ca01ec-203c-443a-aedc-8ddd19839f22"
+    ],
+    "vid": [
+      7912390
+    ],
+    "view_count": [
+      806
+    ],
+    "search_api_id": [
+      "entity:node/6898453:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      4
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2020"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5764
+    ],
+    "published_date": [
+      1640107707
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India - 2020. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Violent crimes, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Unidentified dead bodies recovered and inquest conducted, Victims of kidnapping & abduction, Disposal of crime cases, Charge sheet of crimes, Complaint received and case registered under IPC and SLL, Conviction rate , Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Offenders relation and nearness to rape victims, Crimes committed against children, Crime committed against scheduled castes and schedule tribes, Property stolen & recovered and percentage recovery, Vehicles stolen, Recovered and co-ordinated, Dacoity cases, Robbery cases, Burglary cases, Theft cases, Cultural property (including antiques) stolen and recovered, Cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Deaths in police custody /lockup, Escapes from police custody, Reported custodial rape cases and their disposal, Persons arrested under custodial ,Rape and their disposal by police and courts, Event wise persons killed or injured under police firing, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Incidence of human right violation by police, Sanctioned and strength of civil police including district armed police, Information on police housing, Sanctioned and actual strength of home guards and auxiliary force, Equipments and transport support, Police stations by volume of crime, Police stations by strength of personnel, Organization setup, Representation of SCs/STs and muslims in police etc."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1638884738
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Crime",
+      "Death",
+      "Kidnapping",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "Trial",
+      "Disposal",
+      "Victim",
+      "Offender"
+    ],
+    "nid": [
+      6903545
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2020"
+    ],
+    "uuid": [
+      "d84b3af6-b122-42e4-8263-47680eaf5c92"
+    ],
+    "vid": [
+      13013386
+    ],
+    "search_api_id": [
+      "entity:node/6903545:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/accidental-deaths-suicides-india-adsi-2020"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3048
+    ],
+    "published_date": [
+      1640107698
+    ],
+    "body:value": [
+      "The catalog contains the details of natural & un-natural accidents, traffic accidents and suicides. Major causes of accidental deaths are Traffic accidents, Drowning, Lightning, Heart Attacks, Accidental Fire, Falls, Poisoning. Major causes of Suicides are Family Problems, Illness, Bankruptcy or Indebtedness, with Percentage Variation Age and Gender-wise Distribution, It includes Data of All India Level, The information given in this report is police recorded data which has been obtained through State/UT Police, It includes Total number of Accidental Deaths with Mid-Year Projected Population and Rate of Accidental Deaths."
+    ],
+    "changed": [
+      1739807030
+    ],
+    "created": [
+      1638983957
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Accidental Deaths and Suicides"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Attack",
+      "Cultivator",
+      "Death",
+      "Fire",
+      "Food",
+      "incidence",
+      "industrial",
+      "Injured",
+      "Killed",
+      "Railway",
+      "Road",
+      "Traffic",
+      "Police",
+      "Train",
+      "Accident",
+      "Farmer",
+      "Animal",
+      "Drowning",
+      "Poisoning",
+      "ADIS",
+      "Bite",
+      "Natural",
+      "Drug",
+      "Armed",
+      "Pill",
+      "Heart",
+      "Crossing",
+      "Sudden",
+      "Snake",
+      "Insect",
+      "Overdose",
+      "Consuming",
+      "Sleeping",
+      "Poison",
+      "Hanging"
+    ],
+    "nid": [
+      6903916
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Accidental Deaths & Suicides in India (ADSI) - 2020"
+    ],
+    "uuid": [
+      "a0b7c250-0f31-45b6-8dbb-1199b329a64b"
+    ],
+    "vid": [
+      13041344
+    ],
+    "search_api_id": [
+      "entity:node/6903916:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/enrolment-age-and-class-udise-plus"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      24921
+    ],
+    "published_date": [
+      1642086545
+    ],
+    "body:value": [
+      "The catalog contains data related to enrolment by age and class. U-DISE has a mandate to collect enrolment information from all recognised and unrecognised schools imparting formal education from class I to XII. "
+    ],
+    "changed": [
+      1694695770
+    ],
+    "created": [
+      1642064748
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Unified district information system for education"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of School Education and Literacy"
+    ],
+    "field_sector:name": [
+      "Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrollment",
+      "Student",
+      "Class",
+      "UDISE"
+    ],
+    "nid": [
+      6910916
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Enrolment by Age and Class (UDISE plus)"
+    ],
+    "uuid": [
+      "d7f05b86-0209-47d1-9a10-e5039682b9bb"
+    ],
+    "vid": [
+      10285902
+    ],
+    "search_api_id": [
+      "entity:node/6910916:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/daily-data-evapotranspiration"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1570
+    ],
+    "published_date": [
+      1640108842
+    ],
+    "body:value": [
+      "Catalog contains district level data of Evapotranspiration Volume , level, aggregate level and aggregate volume"
+    ],
+    "changed": [
+      1640761274
+    ],
+    "created": [
+      1639484198
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Water Informatics Centre"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation",
+      "National Water Informatics Centre"
+    ],
+    "field_sector:name": [
+      "Water Resources",
+      "Surface Water"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Evapotranspiration",
+      "VIC MODEL"
+    ],
+    "nid": [
+      6905059
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily Data of Evapotranspiration"
+    ],
+    "uuid": [
+      "725ba82d-78f0-4f45-9a0b-4f0790353b5e"
+    ],
+    "vid": [
+      10362913
+    ],
+    "search_api_id": [
+      "entity:node/6905059:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/daily-data-soil-moisture"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6159
+    ],
+    "published_date": [
+      1640947981
+    ],
+    "body:value": [
+      "Catalog contains district level data of Soil Moisture Volume , level, aggregate level and aggregate volume"
+    ],
+    "changed": [
+      1640928461
+    ],
+    "created": [
+      1639570473
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Water Informatics Centre"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation",
+      "National Water Informatics Centre"
+    ],
+    "field_sector:name": [
+      "Water Resources",
+      "Surface Water"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "VIC MODEL",
+      "Soil Moisture"
+    ],
+    "nid": [
+      6905079
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily Data of Soil Moisture"
+    ],
+    "uuid": [
+      "da667622-c679-4361-9eaf-6198bc769b35"
+    ],
+    "vid": [
+      10362917
+    ],
+    "search_api_id": [
+      "entity:node/6905079:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/physical-and-financial-progress-under-national-rural-livelihoods-mission-nrlm"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3275
+    ],
+    "published_date": [
+      1466666181
+    ],
+    "body:value": [
+      "Swarnjayanti Gram Swarozgar Yojana (SGSY) has been restructured as National Rural Livelihoods Mission (NRLM), now renamed as Ajeevika to implement it in a mission mode in a phased manner for targeted and time bound delivery of results. The data indicates Physical and Financial Progress under National Rural Livelihoods Mission."
+    ],
+    "changed": [
+      1602755735
+    ],
+    "created": [
+      1461310620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural and Urban Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "gram",
+      "livelihood",
+      "NRLM",
+      "Physical",
+      "Rural",
+      "SGSY",
+      "Ajeevika",
+      "Yojana",
+      "Swarozgar",
+      "Swarnjayanti"
+    ],
+    "nid": [
+      690941
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Physical and Financial Progress under National Rural Livelihoods Mission (NRLM)"
+    ],
+    "uuid": [
+      "5b1211f7-ac98-44da-a927-4a3858c50007"
+    ],
+    "vid": [
+      7895769
+    ],
+    "view_count": [
+      2909
+    ],
+    "search_api_id": [
+      "entity:node/690941:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      8
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/reservoir-monitoring"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      541
+    ],
+    "published_date": [
+      1640966340
+    ],
+    "body:value": [
+      "It provides data related to storage of reservoirs."
+    ],
+    "changed": [
+      1640946606
+    ],
+    "created": [
+      1640942443
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "CWC"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation",
+      "Central Water Commission"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Water",
+      "Reservoir"
+    ],
+    "nid": [
+      6909798
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Reservoir Monitoring"
+    ],
+    "uuid": [
+      "3235f9de-973e-4290-b750-6d16a2c143d0"
+    ],
+    "vid": [
+      10285895
+    ],
+    "search_api_id": [
+      "entity:node/6909798:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-and-physical-progress-under-indira-awaas-yojana-iay"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      42441
+    ],
+    "published_date": [
+      1466666360
+    ],
+    "body:value": [
+      "The Indira Awaas Yojana (IAY)  is a flagship scheme of the Ministry of Rural Development to provide houses to the below Poverty Line (BPL) families in the rural areas. Get the data regarding Financial and Physical Progress under Indira Awaas Yojana."
+    ],
+    "changed": [
+      1466666530
+    ],
+    "created": [
+      1461312399
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural and Urban Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Financial",
+      "IAY",
+      "Physical",
+      "Awaas",
+      "Yojana"
+    ],
+    "nid": [
+      691001
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial and Physical Progress under Indira Awaas Yojana (IAY)"
+    ],
+    "uuid": [
+      "645d5374-de42-4a21-8283-eac6d0940e7c"
+    ],
+    "vid": [
+      7895773
+    ],
+    "view_count": [
+      42016
+    ],
+    "search_api_id": [
+      "entity:node/691001:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/list-grama-one-centers-details"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3335
+    ],
+    "published_date": [
+      1637235252
+    ],
+    "body:value": [
+      "List of Grama One centers details."
+    ],
+    "changed": [
+      1637235322
+    ],
+    "created": [
+      1637231717
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_group_name:name": [
+      "DIRECTORATE OF EDCS"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Union/State Government Administration"
+    ],
+    "field_state_department:name": [
+      "Karnataka",
+      "Department of Personnel and Administrative Reforms, Karnataka",
+      "Electronic Delivery of Citizen Services(EDCS)"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Grama One centers"
+    ],
+    "nid": [
+      6899716
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121"
+    ],
+    "ogpl_module_domain_name": [
+      "karnataka.data.gov.in"
+    ],
+    "title": [
+      "List of Grama One centers details."
+    ],
+    "uuid": [
+      "c99e9f20-4720-4181-883a-1a56bf48c6b6"
+    ],
+    "vid": [
+      10715058
+    ],
+    "view_count": [
+      8
+    ],
+    "search_api_id": [
+      "entity:node/6899716:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/list-sevasindhu-services"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      630
+    ],
+    "published_date": [
+      1637235075
+    ],
+    "body:value": [
+      "Sevasindhu Services"
+    ],
+    "changed": [
+      1637235127
+    ],
+    "created": [
+      1637232242
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_group_name:name": [
+      "DIRECTORATE OF EDCS"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Union/State Government Administration"
+    ],
+    "field_state_department:name": [
+      "Karnataka",
+      "Department of Personnel and Administrative Reforms, Karnataka",
+      "Electronic Delivery of Citizen Services(EDCS)"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Sevasindhu Services"
+    ],
+    "nid": [
+      6899718
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121"
+    ],
+    "ogpl_module_domain_name": [
+      "karnataka.data.gov.in"
+    ],
+    "title": [
+      "List of Sevasindhu Services"
+    ],
+    "uuid": [
+      "3c14e538-a974-4df4-8cf1-bcbad01401cd"
+    ],
+    "vid": [
+      10715062
+    ],
+    "view_count": [
+      21
+    ],
+    "search_api_id": [
+      "entity:node/6899718:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/details-various-prison-institutions-across-karnataka-state"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      313
+    ],
+    "published_date": [
+      1657857731
+    ],
+    "body:value": [
+      "Details of various Prison institutions across Karnataka State."
+    ],
+    "changed": [
+      1704780486
+    ],
+    "created": [
+      1645450844
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement"
+    ],
+    "field_state_department:name": [
+      "Karnataka",
+      "Home Department, Karnataka",
+      "Prisons and Correctional Services"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Police and Prisons"
+    ],
+    "nid": [
+      6920570
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121"
+    ],
+    "ogpl_module_domain_name": [
+      "karnataka.data.gov.in"
+    ],
+    "title": [
+      "Details of various Prison institutions across Karnataka State."
+    ],
+    "uuid": [
+      "75c8d178-7aff-4d83-9a34-846899b29793"
+    ],
+    "vid": [
+      11080511
+    ],
+    "search_api_id": [
+      "entity:node/6920570:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/disinvestment-receipts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      943
+    ],
+    "published_date": [
+      1643127541
+    ],
+    "body:value": [
+      "Disinvestment proceeds from sale of Minority shareholding: This data set contains the details of the proceeds received from the sale of minority shareholding of CPSE which includes: IPO, OFS etc."
+    ],
+    "changed": [
+      1643107791
+    ],
+    "created": [
+      1642591773
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Disinvestment Proceeds"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Investment and Public Asset Management"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "DISINVESTMENT",
+      "IPO",
+      "Minority proceeds",
+      "OFS"
+    ],
+    "nid": [
+      6911171
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Disinvestment Receipts"
+    ],
+    "uuid": [
+      "8cd650bd-5d39-4183-9548-a8ccf48c7776"
+    ],
+    "vid": [
+      10285909
+    ],
+    "search_api_id": [
+      "entity:node/6911171:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/vatsgst-loan-releases-year-2021-22-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      187
+    ],
+    "published_date": [
+      1658467257
+    ],
+    "body:value": [
+      "LOANS "
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1655375019
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_group_name:name": [
+      "KICs"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Heavy"
+    ],
+    "field_state_department:name": [
+      "Karnataka",
+      "Industries and Commerce Department, Karnataka",
+      "Department of Large Industries and Medium Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Loans"
+    ],
+    "nid": [
+      6928692
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121"
+    ],
+    "ogpl_module_domain_name": [
+      "karnataka.data.gov.in"
+    ],
+    "title": [
+      "VAT/SGST LOAN RELEASES OF THE YEAR 2021-22"
+    ],
+    "uuid": [
+      "b0bd8855-5a4e-41df-8ba2-dc48e3024b02"
+    ],
+    "vid": [
+      12999534
+    ],
+    "search_api_id": [
+      "entity:node/6928692:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/incentives-large-mega-industries-2021-22-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      696
+    ],
+    "published_date": [
+      1658467259
+    ],
+    "body:value": [
+      "INCENTIVES "
+    ],
+    "changed": [
+      1668489733
+    ],
+    "created": [
+      1655376698
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_group_name:name": [
+      "Industries"
+    ],
+    "field_sector:name": [
+      "Industries"
+    ],
+    "field_state_department:name": [
+      "Karnataka",
+      "Industries and Commerce Department, Karnataka",
+      "Department of Large Industries and Medium Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Large"
+    ],
+    "nid": [
+      6928697
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121"
+    ],
+    "ogpl_module_domain_name": [
+      "karnataka.data.gov.in"
+    ],
+    "title": [
+      "INCENTIVES TO LARGE & MEGA INDUSTRIES 2021-22"
+    ],
+    "uuid": [
+      "85e50ca2-8ed1-4d66-b496-4559b03b3b0c"
+    ],
+    "vid": [
+      10978382
+    ],
+    "search_api_id": [
+      "entity:node/6928697:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-health-survey-clinical-anthropometric-bio-chemical-cab-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      16548
+    ],
+    "published_date": [
+      1461834099
+    ],
+    "body:value": [
+      "Get data of Clinical, Anthropometric & Bio-chemical (CAB) Survey. To supplement the information provided by Annual Health Survey (AHS),a biomarker component has been introduced in AHS to collect data on nutritional status, life style diseases like diabetes & hypertension and anemia in Empowered Action Group (EAG) States & Assam. This component, namely Clinical, Anthropometric and Bio-chemical (CAB) survey, is conducted on a sub-sample of AHS in all EAG States namely Bihar, Chhattisgarh, Jharkhand, Madhya Pradesh, Odisha, Rajasthan, Uttarakhand & Uttar Pradesh and Assam. The survey has collected information on nutritional status of women, children (1 month and above) and men, prevalence of anemia among women, children (6 month and above) and men, prevalence of hypertension and abnormal fasting blood glucose among women and men 18 years and above and utilization of iodized salt in households. Stunting (Height for age),Wasting (Weight for height), Underweight (Weight for age) and under nourished (BMI for age) are the four major indicators available for measuring malnutrition level in children under 5 years. For children in the age 5 to18 years, under nourishment is provided and for persons 18 years and above, BMI indicators (<18.5,=25 and =30) are provided separately for male female and rural also. Anemia, measured by Hemoglobin level, is available for sex wise children, women and men. For children, the data is available for age 6-59 months, 5-9 years, and 10-17 years. Adult anemia is categorized for age 18-59 years and 60 and above. Blood sugar and Hypertension level are provided for person age 18 and above only. Blood sugar is provided in the range =110, =130 and=150 mg/dl and Hypertension in three separate categories of Systolic & Diastolic measurements viz. above normal (>140/90 mm of Hg),moderately high(>160/100 mm of Hg), and very high(>180/110 mm of Hg) is provided. Measured by the content of salt available in household, iodine content in salt is estimated and this data is also provided."
+    ],
+    "changed": [
+      1566286847
+    ],
+    "created": [
+      1461827821
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Annual Health Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AHS",
+      "Hemoglobin",
+      "malnutrition",
+      "Diabetes",
+      "Hypertension",
+      "Salt",
+      "Sugar",
+      "CAB",
+      "biomarker",
+      "EAG",
+      "Anemia",
+      "Stunting",
+      "Wasting",
+      "BMI",
+      "Systolic",
+      "Diastolic",
+      "Blood",
+      "Empowered",
+      "Chemical",
+      "Nutritional",
+      "Bio",
+      "Bourished",
+      "Nourishment",
+      "Iodized"
+    ],
+    "nid": [
+      692941
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "81"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Health Survey : Clinical, Anthropometric & Bio-chemical (CAB) Survey"
+    ],
+    "uuid": [
+      "3013a199-ae07-4b76-9b61-f51ac633cdcd"
+    ],
+    "vid": [
+      7895789
+    ],
+    "view_count": [
+      15118
+    ],
+    "search_api_id": [
+      "entity:node/692941:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-health-survey-combined-household-houselist-information"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      24195
+    ],
+    "published_date": [
+      1461834091
+    ],
+    "body:value": [
+      "Get data of Combined Household Houselist information under Annual Health Survey. It contains data of all 3 rounds of AHS Survey i.e Baseline, First Updation Round and Second Updation Round. The survey is conducted in all EAG States namely Bihar, Chhattisgarh, Jharkhand, Madhya Pradesh, Odisha, Rajasthan, Uttarakhand & Uttar Pradesh and Assam. During the Base line Survey in 2010-11, a total of 20.1 million population and 4.14 million households and during the first updation survey in 2011-12, 20.61 million population and 4.28 million households have actually been covered. The second updation survey (third and final round) covered a total of 20.94 million population and 4.32 million households in 2012-13. Despite being restricted to 9 States, the AHS is the largest demographic survey in the world and covers two and a half times that of the Sample Registration System. Data includes various Indicators like Whether usual Resident, Date/Month/Year of Birth, Age, Religion, Social Group, Marital Status, Date/Month/Year of first marriage, Attending school, not-attending school, Highest educational qualification attained, Occupation / Activity Status during last 365 days, Whether having any form of disability, Type of treatment for injury, Type of illness, Source of Treatment, Symptoms Pertaining to illness persisting for more than one month, Sought medical care, Various Diagononsis, Source of Diagnosis, Getting Regular Treatment, Person Chews/Smoke/Consume Alcohol, Status of House, Type of Structure of the House, Ownership status of the house, Source of Drinking water, Does the household treat the water in any way to make it safer to drink, Toilet facility, Household with electricity, Main source of lighting, Main source of fuel used for cooking, Number of dwelling rooms, Availability of Kitchen, Possess Radio/Transistor/Television/Computer/Laptop /Telephone/Mobile phone/Washing Machine/Refrigerator/Sewing machine/Bicycle/Motor/Scooter/Moped/Car/Jeep/Van/Tractor/Water Pump/Tube Well/Cart, Land Possessed, Residential Status, Covered by any health scheme or health insurance, Status of Household."
+    ],
+    "changed": [
+      1566286847
+    ],
+    "created": [
+      1461828554
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Annual Health Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "AHS",
+      "Alcohol",
+      "Car",
+      "Computer",
+      "Cooking",
+      "disability",
+      "Dwelling",
+      "electricity",
+      "Fuel",
+      "House",
+      "Insurance",
+      "land",
+      "Lighting",
+      "Medical",
+      "occupation",
+      "Radio",
+      "Ownership",
+      "Religion",
+      "residential",
+      "Scheme",
+      "Room",
+      "School",
+      "Source",
+      "Telephone",
+      "Television",
+      "Toilet",
+      "Water",
+      "Facility",
+      "treatment",
+      "pump",
+      "mobile",
+      "Phone",
+      "Kitchen",
+      "Transistor",
+      "Bicycle",
+      "Scooter",
+      "Moped",
+      "Jeep",
+      "Van",
+      "Marriage",
+      "Sewing",
+      "Qualification",
+      "COMB",
+      "Injury",
+      "Illness",
+      "Diagononsis",
+      "Chews",
+      "Laptop",
+      "Refrigerator",
+      "Motor",
+      "Tractor",
+      "Cart",
+      "Symptom",
+      "Marital",
+      "Attending",
+      "Educational",
+      "Drinking",
+      "Washing",
+      "Machine",
+      "Resident",
+      "Tubwell",
+      "Highest",
+      "Sought",
+      "Smoke",
+      "Consumes",
+      "Possessed"
+    ],
+    "nid": [
+      692981
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "81"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Health Survey : Combined Household Houselist information"
+    ],
+    "uuid": [
+      "1ec674ae-9c79-4aae-856c-89fdfbd1e302"
+    ],
+    "vid": [
+      7895796
+    ],
+    "view_count": [
+      22678
+    ],
+    "search_api_id": [
+      "entity:node/692981:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/prison-statistics-india-psi-2020"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2243
+    ],
+    "published_date": [
+      1648468142
+    ],
+    "body:value": [
+      "The catalog contains comprehensive statistics on a range of aspects like distribution & nature of prison institutions, overcrowding in prisons, type of prison inmates, prison inmates lodged under various IPC & SLL crimes with their detention period, demographic features of inmates, details on vocational training, jail inspections & visits, strength & training of jail officials and prison budget & expenditure."
+    ],
+    "changed": [
+      1738919657
+    ],
+    "created": [
+      1647328931
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Prison Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Law",
+      "Rehabilitation",
+      "IPC",
+      "SLL",
+      "NHRC",
+      "SHRC",
+      "Inmate",
+      "Jail",
+      "Prison",
+      "Prisoner",
+      "Detention",
+      "Convict",
+      "Undertrial",
+      "Detenue"
+    ],
+    "nid": [
+      7013132
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Prison Statistics India (PSI) - 2020"
+    ],
+    "uuid": [
+      "227785a5-3f02-4ed0-9422-f12b2951a5cf"
+    ],
+    "vid": [
+      12953273
+    ],
+    "search_api_id": [
+      "entity:node/7013132:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      16
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-254"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1934
+    ],
+    "published_date": [
+      1647948427
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 254 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1735211175
+    ],
+    "created": [
+      1647930786
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "nid": [
+      7022228
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 254"
+    ],
+    "uuid": [
+      "54c74b5d-74b1-4e9a-b16e-7023c6c0a6fd"
+    ],
+    "vid": [
+      10543626
+    ],
+    "search_api_id": [
+      "entity:node/7022228:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/national-accounts-key-aggregates"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2296
+    ],
+    "published_date": [
+      1649136554
+    ],
+    "body:value": [
+      "The catalogue contains Key Aggregates of National Accounts viz. GDP, GVA, Taxes and Subsidies, CFC, NDP, GNI, NNI , GNDI, NNDI etc. as well as Expenditure side components viz. PFCE, GFCE, GCF, Exports, Imports etc."
+    ],
+    "changed": [
+      1649136607
+    ],
+    "created": [
+      1649067440
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Accounts"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Export",
+      "GDP",
+      "PFCE",
+      "GVA",
+      "GFCE",
+      "Imports",
+      "Taxes",
+      "Subsidies",
+      "CFC",
+      "export and import"
+    ],
+    "nid": [
+      7038691
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "National Accounts - Key Aggregates"
+    ],
+    "uuid": [
+      "6b6ccac1-a7f0-461f-ba01-1c130e161fb1"
+    ],
+    "vid": [
+      10565329
+    ],
+    "search_api_id": [
+      "entity:node/7038691:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

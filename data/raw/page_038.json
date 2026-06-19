@@ -1,0 +1,4755 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/country-citizenship-non-us-citizens-awarded-science-and-engineering-doctorates-us"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      910
+    ],
+    "published_date": [
+      1365014641
+    ],
+    "body:value": [
+      "The data refers to Science And Engineering Doctorates degrees awarded by US universities to non-US citizens. The data are taken from the Science and Engineering Indicators, NSF, USA."
+    ],
+    "changed": [
+      1426769005
+    ],
+    "created": [
+      1364203020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - International Comparisons"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Doctor",
+      "PHD",
+      "Philosophy"
+    ],
+    "nid": [
+      86891
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Country of Citizenship of Non-U.S. Citizens Awarded Science And Engineering Doctorates By U.S. Universities"
+    ],
+    "uuid": [
+      "2483461f-3721-4de2-8ee3-3792105aa646"
+    ],
+    "vid": [
+      7843724
+    ],
+    "view_count": [
+      866
+    ],
+    "search_api_id": [
+      "entity:node/86891:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/country-wise-india-exports-principal-commodity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      16602
+    ],
+    "published_date": [
+      1369314459
+    ],
+    "body:value": [
+      "The data refers to details on country-wise India exports (quantity and value) by principal commodity."
+    ],
+    "changed": [
+      1478153369
+    ],
+    "created": [
+      1368760260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India Exports"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department of Commerce"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Export"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commerce",
+      "Export",
+      "Industry"
+    ],
+    "nid": [
+      86893
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Country-wise India Exports by Principal Commodity"
+    ],
+    "uuid": [
+      "c183fb97-e666-4af5-9815-b590e1c4b852"
+    ],
+    "vid": [
+      7843729
+    ],
+    "view_count": [
+      15985
+    ],
+    "search_api_id": [
+      "entity:node/86893:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/coverage-under-aam-aadmi-bima-yojana"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      15337
+    ],
+    "published_date": [
+      1375775017
+    ],
+    "body:value": [
+      "The data refers to state-wise coverage, claims paid and scholarship disbursement under Aam Aadmi Bima Yojana. Aam Aadmi Bima Yojana (AABY) is a social security insurance scheme which extends life and disability insurance cover to persons between the age of 18 years to 59 years, living below and marginally above the poverty line under identified vocational/ occupational groups. The scheme is being implemented through Life Insurance Corporation of India (LIC) in the country."
+    ],
+    "changed": [
+      1484635670
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Aam Aadmi Bima Yojana"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Financial Services"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Industries",
+      "Insurance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AABY",
+      "Corporation",
+      "finance",
+      "Insurance",
+      "LIC",
+      "Life",
+      "Yojana",
+      "Bima"
+    ],
+    "nid": [
+      86895
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Coverage under Aam Aadmi Bima Yojana"
+    ],
+    "uuid": [
+      "7759ea70-cc94-4672-aa3b-b83cadb682af"
+    ],
+    "vid": [
+      7843761
+    ],
+    "view_count": [
+      14504
+    ],
+    "search_api_id": [
+      "entity:node/86895:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/coverage-under-swavalamban-scheme-1"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3632
+    ],
+    "published_date": [
+      1375775074
+    ],
+    "body:value": [
+      "This data covers the subscribers enrolled by Aggregators, appointed by Pension Fund Regulatory and Development Authority (PFRDA). "
+    ],
+    "changed": [
+      1462422809
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Swavalamban Scheme"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Financial Services"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Pension Reforms"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "finance",
+      "Fund",
+      "PFRDA",
+      "Aggregator",
+      "Pension",
+      "Regulatory",
+      "Authority",
+      "Unorganised"
+    ],
+    "nid": [
+      86899
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Coverage under Swavalamban Scheme"
+    ],
+    "uuid": [
+      "1c54dc07-0039-49c6-af08-7a99eba39740"
+    ],
+    "vid": [
+      7843767
+    ],
+    "view_count": [
+      3489
+    ],
+    "search_api_id": [
+      "entity:node/86899:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/creation-fixed-assets-during-twelfth-five-year-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      948
+    ],
+    "published_date": [
+      1370083155
+    ],
+    "body:value": [
+      "The data refers to details on creation of fixed assets of Indian Railways during Twelfth Five Year Plan."
+    ],
+    "changed": [
+      1436419233
+    ],
+    "created": [
+      1370065080
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Railways"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Railways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Asset",
+      "Railway",
+      "Plan",
+      "Fixed"
+    ],
+    "nid": [
+      86902
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Creation Of Fixed Assets During Twelfth Five Year Plan"
+    ],
+    "uuid": [
+      "04a17a13-3c53-49bc-9f6b-3774c78ac952"
+    ],
+    "vid": [
+      7843771
+    ],
+    "view_count": [
+      903
+    ],
+    "search_api_id": [
+      "entity:node/86902:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-against-schedule-caste"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6941
+    ],
+    "published_date": [
+      1381211240
+    ],
+    "body:value": [
+      "The data refers to State/UT wise details on crime committed against Schedule Caste during the years categorized by different crime heads. The different crimes covered are Murder, Rape, Kidnapping and abduction, Dacoity, Robbery, Arson, Hurt, Protection of Civil Rights Act, SC/ST (Prevention of atrocities Act) and Other Crime against SCs."
+    ],
+    "changed": [
+      1462769348
+    ],
+    "created": [
+      1379419140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "SC",
+      "Caste",
+      "Scheduled"
+    ],
+    "nid": [
+      86904
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime against Schedule Caste"
+    ],
+    "uuid": [
+      "fa914d94-bab1-4d09-b930-0ba77c79a9bf"
+    ],
+    "vid": [
+      7843783
+    ],
+    "view_count": [
+      5337
+    ],
+    "search_api_id": [
+      "entity:node/86904:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-against-schedule-tribe"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1694
+    ],
+    "published_date": [
+      1381211597
+    ],
+    "body:value": [
+      "The data refers to State/UT wise crime committed against Schedule Tribe during the years categorized by different crime heads. The different crime covered are Murder, Rape, Kidnapping and abduction, Arson, Hurt, Protection of civil rights, Robbery, Dacoity, SC/ST Prevention of atrocities Act."
+    ],
+    "changed": [
+      1462769338
+    ],
+    "created": [
+      1379419140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "ST",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      86906
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime against Schedule Tribe"
+    ],
+    "uuid": [
+      "4e3c1c04-6636-4af4-8a42-41238163c9e1"
+    ],
+    "vid": [
+      7843793
+    ],
+    "view_count": [
+      1518
+    ],
+    "search_api_id": [
+      "entity:node/86906:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-against-women"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      25718
+    ],
+    "published_date": [
+      1381213033
+    ],
+    "body:value": [
+      "The data refers to State/UT wise crime committed against women categorized by different crime heads during the years . The different crime heads covered are Rape, Kidnapping And Abduction, Dowry Deaths, Assault On Women With Intent To Outrage Her Modesty, Insult To The Modesty Of Women, Cruelty By Husband Or His Relatives (IPC Section 498A), Importation Of Girls From Foreign Country, Immoral Traffic (P) Act, Dowry Prohibition Act, Indecent Representation Of Women (P) Act, Commission Of Sati Prevention Act and Total Crimes Against Women."
+    ],
+    "changed": [
+      1462769503
+    ],
+    "created": [
+      1379419140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Women",
+      "Committed"
+    ],
+    "nid": [
+      86908
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime against Women"
+    ],
+    "uuid": [
+      "8d3c4bfe-20d3-47f9-bb5e-85c19fb4e4da"
+    ],
+    "vid": [
+      7843806
+    ],
+    "view_count": [
+      21469
+    ],
+    "search_api_id": [
+      "entity:node/86908:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-committed-against-children"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6132
+    ],
+    "published_date": [
+      1380273081
+    ],
+    "body:value": [
+      "The data refers to Incidence of crime committed against Children in India under different crime heads."
+    ],
+    "changed": [
+      1462769078
+    ],
+    "created": [
+      1379409660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Crime",
+      "Committed"
+    ],
+    "nid": [
+      86910
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime committed against Children"
+    ],
+    "uuid": [
+      "286b6bb1-922a-4fde-a411-3efcc861f592"
+    ],
+    "vid": [
+      7843816
+    ],
+    "view_count": [
+      5613
+    ],
+    "search_api_id": [
+      "entity:node/86910:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-committed-against-children-under-different-crime-heads"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4296
+    ],
+    "published_date": [
+      1380273717
+    ],
+    "body:value": [
+      "The data refers to State/UT & crime head wise incidence of crime committed against children."
+    ],
+    "changed": [
+      1462769088
+    ],
+    "created": [
+      1379419140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Crime",
+      "Committed"
+    ],
+    "nid": [
+      86912
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime committed against children under different crime heads"
+    ],
+    "uuid": [
+      "60f5cb90-3b7c-498c-948a-374219547507"
+    ],
+    "vid": [
+      7843826
+    ],
+    "view_count": [
+      3567
+    ],
+    "search_api_id": [
+      "entity:node/86912:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-committed-against-schedule-castes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3016
+    ],
+    "published_date": [
+      1380273161
+    ],
+    "body:value": [
+      "The data refers to Incidence of crime committed against Schedule Castes in India under different crime heads."
+    ],
+    "changed": [
+      1462769335
+    ],
+    "created": [
+      1379419140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "SC",
+      "Caste",
+      "Scheduled"
+    ],
+    "nid": [
+      86914
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime committed against Schedule Castes"
+    ],
+    "uuid": [
+      "3d55fc5c-20e3-44c3-a03a-4e83120c28f6"
+    ],
+    "vid": [
+      7843836
+    ],
+    "view_count": [
+      2877
+    ],
+    "search_api_id": [
+      "entity:node/86914:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-committed-against-schedule-tribes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1044
+    ],
+    "published_date": [
+      1381407804
+    ],
+    "body:value": [
+      "The data refers to Incidence of crime committed against Schedule Tribes in India. The various crime categories under crime head are Murder, Rape, Kidnapping & Abduction, Dacoity, Robbery, Arson, Hurt, Other Crimes Against STs, Protection of Civil Rights Act and SC/ST (POA) Act."
+    ],
+    "changed": [
+      1462769331
+    ],
+    "created": [
+      1379419140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "ST",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      86916
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime committed against Schedule Tribes"
+    ],
+    "uuid": [
+      "911b3e87-d296-472f-a6d6-d05cc1e02eff"
+    ],
+    "vid": [
+      7843846
+    ],
+    "view_count": [
+      954
+    ],
+    "search_api_id": [
+      "entity:node/86916:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-committed-against-senior-citizen"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1989
+    ],
+    "published_date": [
+      1381410439
+    ],
+    "body:value": [
+      "The data refers to State/UT wise incidence of crime committed against senior citizen (aged above 50 years) by different crime heads during the year. The different categories of crime covered are Victims Of Murder, Culpable Homicide Not Amounting To Murder and Kidnapping And Abduction."
+    ],
+    "changed": [
+      1441628835
+    ],
+    "created": [
+      1379419140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "senior",
+      "Committed",
+      "Citizen"
+    ],
+    "nid": [
+      86918
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime committed against Senior citizen"
+    ],
+    "uuid": [
+      "3353915a-6327-41dd-b762-a976ae758b6c"
+    ],
+    "vid": [
+      7843856
+    ],
+    "view_count": [
+      1761
+    ],
+    "search_api_id": [
+      "entity:node/86918:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/disposal-cases-and-persons-held-under-human-trafficking"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2521
+    ],
+    "published_date": [
+      1380785940
+    ],
+    "body:value": [
+      "The data refers to State/UT wise detailed information on disposal of cases and persons arrested under human trafficking during the period under different crime heads with regards to cases and persons registered/arrested, charge-sheeted and convicted. The different crime heads covered are Immoral Trafficking, Buying of minor girls for prostitution, Selling of minor girls for prostitution, Procuration of minor girls, Importation of girls from foreign country and Total Crimes committed under Human Trafficking."
+    ],
+    "changed": [
+      1441628859
+    ],
+    "created": [
+      1379419140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Person",
+      "Disposal",
+      "Case",
+      "Human",
+      "Trafficking",
+      "Held"
+    ],
+    "nid": [
+      87120
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Disposal of cases and persons held under Human Trafficking"
+    ],
+    "uuid": [
+      "966da326-9c35-422d-825f-029406e55baf"
+    ],
+    "vid": [
+      7844488
+    ],
+    "view_count": [
+      2363
+    ],
+    "search_api_id": [
+      "entity:node/87120:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/disposal-cases-and-persons-held-under-indian-penal-code-ipc-crimes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1023
+    ],
+    "published_date": [
+      1380864754
+    ],
+    "body:value": [
+      "The data refers to State/UT wise detailed information on disposal of cases and persons arrested under Indian Penal Code (IPC) crimes during the period under different crime heads with regards to cases and persons registered/arrested, charge-sheeted and convicted. The different crime heads covered are Murder, Attempt To Commit Murder, Culpable Homicide Not Amounting To Murder, Rape, Kidnapping And Abduction, Dacoity, Preparation And Assembly For Dacoity, Robbery, Burglary, Theft, Riots, Criminal Breach Of Trust, Cheating, Counterfeiting, Arson, Hurt, Dowry Deaths, Assault On Women With Intent To Outrage Her Modesty, Insult To The Modesty Of Women, Cruelty By Husband Or His Relatives, Importation Of Girls From Foreign Country, Causing Death By Negligence, Other IPC Crimes and Total IPC Crimes."
+    ],
+    "changed": [
+      1462768362
+    ],
+    "created": [
+      1379419140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "code",
+      "IPC",
+      "Penal"
+    ],
+    "nid": [
+      87122
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Disposal of cases and persons held under Indian Penal Code (IPC) crimes"
+    ],
+    "uuid": [
+      "b9cdffe9-6008-40cb-9841-0d56759534cb"
+    ],
+    "vid": [
+      7844498
+    ],
+    "view_count": [
+      965
+    ],
+    "search_api_id": [
+      "entity:node/87122:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/disposal-cases-and-persons-under-crimes-against-children"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1276
+    ],
+    "published_date": [
+      1380274277
+    ],
+    "body:value": [
+      "The data refers to State/UT wise details on disposal of cases and persons held under Crimes against Children under different crime heads with regards to cases and persons registered/arrested, charge-sheeted and convicted. The different crime categories covered under crime heads are Infanticide, Murder, Rape, Kidnapping And Abduction, Foeticide, Abetment Of Suicide Of Children, Exposure And Abandonment Of Children, Procuration Of Minor Girls, Buying Of Girls For Prostitution, Selling Of Girls For Prostitution, Child Marriage Restrant Act, Other Crimes Committed Against Children and Total Crimes Committed Against Children."
+    ],
+    "changed": [
+      1462768352
+    ],
+    "created": [
+      1379419140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Crime",
+      "Person",
+      "Disposal",
+      "Case"
+    ],
+    "nid": [
+      87124
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Disposal of cases and persons under the Crimes against Children"
+    ],
+    "uuid": [
+      "6b221f29-c5db-4787-b352-988dee8d4e94"
+    ],
+    "vid": [
+      7844508
+    ],
+    "view_count": [
+      1100
+    ],
+    "search_api_id": [
+      "entity:node/87124:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/disposal-juveniles-apprehended-under-ipc-and-sll-crimes-and-sent-courts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1544
+    ],
+    "published_date": [
+      1380178415
+    ],
+    "body:value": [
+      "The data refers to State/UT wise disposal of juveniles apprehended (under IPC and SLL crimes)."
+    ],
+    "changed": [
+      1441627384
+    ],
+    "created": [
+      1380108900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Juveniles",
+      "Apprehend"
+    ],
+    "nid": [
+      87126
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Disposal of juveniles apprehended (Under IPC And SLL Crimes) and sent To Courts"
+    ],
+    "uuid": [
+      "caa9c433-6723-45a4-90fe-b27b4bca0a1a"
+    ],
+    "vid": [
+      7844517
+    ],
+    "view_count": [
+      1462
+    ],
+    "search_api_id": [
+      "entity:node/87126:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distance-schools-habitations-student-responses-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      922
+    ],
+    "published_date": [
+      1382684292
+    ],
+    "body:value": [
+      "The data refers to details of student responses to the school distance from their habitations. It provides details on the number of schools within a distance of 1 km and between 1 to 3 km radius. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission in eleven states and two union territories for 'Evaluation Report On Sarva Shiksha Abhiyan, 2010'. The reference period for the study was 2003 to 2007."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1382600520
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Habitation",
+      "School",
+      "Student",
+      "Distance",
+      "Response"
+    ],
+    "nid": [
+      87128
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distance of Schools in Habitations - Student Responses - Based on Sample Survey"
+    ],
+    "uuid": [
+      "6d161f0d-c341-4939-9d02-96fb32f35a8b"
+    ],
+    "vid": [
+      7844521
+    ],
+    "view_count": [
+      847
+    ],
+    "search_api_id": [
+      "entity:node/87128:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distribution-1000-workers-according-usual-status-taking-both-principal-and-subsidiary"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1412
+    ],
+    "published_date": [
+      1373975130
+    ],
+    "body:value": [
+      "The data refers to Distribution (per 1000) of workers according to usual status (taking both principal and subsidiary status together) by broad employment status for each State/UT."
+    ],
+    "changed": [
+      1441691047
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employment",
+      "Female",
+      "Rural",
+      "Urban",
+      "Employement",
+      "Usual"
+    ],
+    "nid": [
+      87130
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distribution (per 1000) of workers according to usual status (taking both principal and subsidiary status together) by broad employment status for each State/UT"
+    ],
+    "uuid": [
+      "73e7bab8-43b2-450c-bb62-d24fd7fe1fc3"
+    ],
+    "vid": [
+      7844578
+    ],
+    "view_count": [
+      1336
+    ],
+    "search_api_id": [
+      "entity:node/87130:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distribution-category-workers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1811
+    ],
+    "published_date": [
+      1381126038
+    ],
+    "body:value": [
+      "The data refers to data related to Distribution of Category of Workers (Cultivators, Agricultural labourers, Households Industry Workers, Other Workers) by religion (Muslim, Christians, Sikhs, Buddhists)."
+    ],
+    "changed": [
+      1436419039
+    ],
+    "created": [
+      1380626880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Christian",
+      "Cultivator",
+      "Household",
+      "Industry",
+      "Muslim",
+      "Religion",
+      "Sikh",
+      "Buddhist",
+      "Worker",
+      "Labourer"
+    ],
+    "nid": [
+      87140
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distribution of Category of Workers"
+    ],
+    "uuid": [
+      "9fc9963a-7269-4d06-919f-5630b58a0230"
+    ],
+    "vid": [
+      7844580
+    ],
+    "view_count": [
+      1699
+    ],
+    "search_api_id": [
+      "entity:node/87140:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distribution-different-types-inmates-suffering-mental-illness"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2131
+    ],
+    "published_date": [
+      1382598543
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise and inmate wise population of prison inmates at the end of the reference year. The prison inmates are categorised into male and female. The inmate population is classified as convicted, under trials, detenues and other prisoners."
+    ],
+    "changed": [
+      1441626410
+    ],
+    "created": [
+      1382519940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Prison Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Illness",
+      "Inmate",
+      "Prison",
+      "Mental"
+    ],
+    "nid": [
+      87142
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distribution of different types of inmates suffering from mental illness"
+    ],
+    "uuid": [
+      "e098d012-4d16-4af1-9ebd-d0d2b15fa162"
+    ],
+    "vid": [
+      7844592
+    ],
+    "view_count": [
+      1963
+    ],
+    "search_api_id": [
+      "entity:node/87142:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distribution-households-expenditure-class-rsmonth-beneficiary-vs-non-beneficiary"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1081
+    ],
+    "published_date": [
+      1375449632
+    ],
+    "body:value": [
+      "The data refers to the distribution of households by expenditure class (rs./month) beneficiary vs. non-beneficiary. It gives state-wise comparison for ICDS beneficiaries and non-beneficiaries by using different household monthly expenditure levels."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Scheme"
+    ],
+    "nid": [
+      87144
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distribution of Households by Expenditure Class (Rs./Month) - Beneficiary vs. Non-Beneficiary"
+    ],
+    "uuid": [
+      "c6e41041-694e-41b0-ba92-b33cfa589030"
+    ],
+    "vid": [
+      7844597
+    ],
+    "view_count": [
+      1011
+    ],
+    "search_api_id": [
+      "entity:node/87144:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distribution-households-level-education-beneficiary-vs-non-beneficiary"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1055
+    ],
+    "published_date": [
+      1375449618
+    ],
+    "body:value": [
+      "The data refers to the Distribution of Households by Level of Education Beneficiary vs. Non-Beneficiary. It gives state-wise details regarding the level of education Illiterate, Primary pass, Middle level pass, Matric pass, Graduate and above for beneficiary as well as non-beneficiary children."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Scheme"
+    ],
+    "nid": [
+      87146
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distribution of Households by Level of Education - Beneficiary vs. Non-Beneficiary"
+    ],
+    "uuid": [
+      "be952858-f4a5-453c-a5e7-98c591b2c284"
+    ],
+    "vid": [
+      7844603
+    ],
+    "view_count": [
+      951
+    ],
+    "search_api_id": [
+      "entity:node/87146:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distribution-households-occupation-group-beneficiary-vs-non-beneficiary"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2501
+    ],
+    "published_date": [
+      1375449624
+    ],
+    "body:value": [
+      "The data refers to the Distribution of Households by Occupation Group Beneficiary vs. Non-Beneficiary. It gives state-wise details regarding the occupation group - Agriculture, Wage earner or Salaried for beneficiary as well as non-beneficiary households."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Scheme"
+    ],
+    "nid": [
+      87148
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distribution of Households by Occupation Group - Beneficiary vs. Non-Beneficiary"
+    ],
+    "uuid": [
+      "68a1fca2-ee56-4261-9dae-391bf2980d0e"
+    ],
+    "vid": [
+      7844609
+    ],
+    "view_count": [
+      2385
+    ],
+    "search_api_id": [
+      "entity:node/87148:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distribution-persons-each-sector-each-stateut-over-12-classes-monthly-capita-expenditure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2603
+    ],
+    "published_date": [
+      1373976034
+    ],
+    "body:value": [
+      "The data refers to the distribution of person per 1000 number of persons within each Monthly Per Capita Expenditure bracket obtained by the NSS Consumer expenditure survey where household consumer expenditure on each item is recorded for a reference period of last 30 days preceding the date of survey (also known as uniform reference period MPCE) in Urban India."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NSS",
+      "Rural",
+      "Service",
+      "Round"
+    ],
+    "nid": [
+      87150
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distribution of persons of each sector of each State/UT over 12 classes of Monthly Per Capita Expenditure (URP)"
+    ],
+    "uuid": [
+      "ee89b4c9-77fc-40e5-af18-056956d9eb3f"
+    ],
+    "vid": [
+      7844621
+    ],
+    "view_count": [
+      2532
+    ],
+    "search_api_id": [
+      "entity:node/87150:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distribution-sentence-periods-convicts-various-jails-sex-and-age-groups"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1916
+    ],
+    "published_date": [
+      1382598640
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise and sentence wise convicted prisoners lodged in various jails at the end of the reference year. The prison inmates are categorised into male and female. The age of inmates are grouped into 16-18 yrs, 18-30 yrs, 30-50 yrs and 50 & above yrs. The dataset contains information on number of convicted prisoners serving capital punishment, life imprisonment, languishing in jails for the periods of 10-13 & more yrs, 7-10 yrs, etc."
+    ],
+    "changed": [
+      1441626413
+    ],
+    "created": [
+      1382519940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Prison Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Prison",
+      "Period",
+      "Convict"
+    ],
+    "nid": [
+      87153
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distribution of sentence periods of convicts in various jails by sex and age-groups"
+    ],
+    "uuid": [
+      "1dad5a13-4e25-4386-8147-e7bc2cb78d09"
+    ],
+    "vid": [
+      7844633
+    ],
+    "view_count": [
+      1800
+    ],
+    "search_api_id": [
+      "entity:node/87153:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-rainfall-normal-mm-monthly-seasonal-and-annual-data-period-1951-2000"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      55669
+    ],
+    "published_date": [
+      1369981110
+    ],
+    "body:value": [
+      "The data refers to details on climatological normals of district wise rainfall (in mm) calculated with the data for the period 1951-2000."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1369979940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rainfall"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Earth Sciences",
+      "India Meteorological Department (IMD)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Atmospheric Science"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "climatological",
+      "rainfall"
+    ],
+    "nid": [
+      87155
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District Rainfall Normal (in mm) Monthly, Seasonal And Annual : Data Period 1951-2000"
+    ],
+    "uuid": [
+      "e46c12b6-74fd-4fdf-81be-ac69ee8e8b70"
+    ],
+    "vid": [
+      7844636
+    ],
+    "view_count": [
+      50870
+    ],
+    "search_api_id": [
+      "entity:node/87155:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-community-service-centerscsc-roll-out-and-connectivity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      11967
+    ],
+    "published_date": [
+      1357732130
+    ],
+    "body:value": [
+      "More than 1 Lakh Community Service Centers(CSC) with Broadband Connectivity are envisaged. These are last mile kiosk for providing e-services to citizens. The CSCs have been established in PPP mode where Service Center Agencies(SCA) have been selected to run the kiosk. District Wise CSC Roll out details are provided in the dataset."
+    ],
+    "changed": [
+      1739508661
+    ],
+    "created": [
+      1357716780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "e-Governance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Electronics and Information Technology (MeitY)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Broadband",
+      "Communication",
+      "community",
+      "CSC",
+      "SCA",
+      "contract",
+      "Service"
+    ],
+    "nid": [
+      87159
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District Wise Community Service Centers(CSC) Roll out and Connectivity"
+    ],
+    "uuid": [
+      "cf65fe8d-da3a-449b-8357-0158b0db2839"
+    ],
+    "vid": [
+      13008338
+    ],
+    "view_count": [
+      11442
+    ],
+    "search_api_id": [
+      "entity:node/87159:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-deep-tubewells-according-source-energy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      214
+    ],
+    "published_date": [
+      1390910926
+    ],
+    "body:value": [
+      "The data refers to district wise number of Deep Tubewells according to various sources of energy. It includes details on sources like Electric pump, Solar pump, Diesel pump, Wind Mills and Manual/animal."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      87227
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise distribution of deep tubewells according to source of energy"
+    ],
+    "uuid": [
+      "8c4ffcc5-ec7f-4ae1-9be1-a4b6e29710e5"
+    ],
+    "vid": [
+      7844864
+    ],
+    "view_count": [
+      204
+    ],
+    "search_api_id": [
+      "entity:node/87227:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-deep-tubewells-according-total-hours-pumping-operation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      209
+    ],
+    "published_date": [
+      1390911037
+    ],
+    "body:value": [
+      "The data refers to district wise distribution of Deep Tubewells according to total hours of pumping operating during kharif and rabi seasons."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      87240
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise distribution of deep tubewells according to total hours of pumping operation"
+    ],
+    "uuid": [
+      "54113b71-f90a-42ed-abe9-71614415f350"
+    ],
+    "vid": [
+      7844904
+    ],
+    "view_count": [
+      200
+    ],
+    "search_api_id": [
+      "entity:node/87240:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-deep-tubewells-cost-maintenance"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      232
+    ],
+    "published_date": [
+      1390910391
+    ],
+    "body:value": [
+      "The data refers to district wise number of Deep Tubewells according to the annual cost of maintenance."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      87246
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise distribution of deep tubewells by cost of maintenance"
+    ],
+    "uuid": [
+      "cfb3b604-a661-4839-a0ea-0bffd1cc9f34"
+    ],
+    "vid": [
+      7844922
+    ],
+    "view_count": [
+      217
+    ],
+    "search_api_id": [
+      "entity:node/87246:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-deep-tubewells-location-command-majormedium-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      202
+    ],
+    "published_date": [
+      1390911173
+    ],
+    "body:value": [
+      "The data refers to district wise distribution of Deep Tubewells by location in the command of Major/Medium Projects which includes Outside command, Inside command and Inside command for augmentation only."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      87248
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise distribution of deep tubewells by location in the command of major/medium projects"
+    ],
+    "uuid": [
+      "95011dca-d8cb-4307-8524-5b0f61438642"
+    ],
+    "vid": [
+      7844927
+    ],
+    "view_count": [
+      193
+    ],
+    "search_api_id": [
+      "entity:node/87248:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-deep-tubewells-type"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      308
+    ],
+    "published_date": [
+      1390909961
+    ],
+    "body:value": [
+      "The data refers to district wise details on number of Deep Tubewells by types. The different types of Deep Tubewells included are Pucca, Kutcha and Dug-cum borewell."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      87254
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise distribution of deep tubewells by type"
+    ],
+    "uuid": [
+      "f0b3522d-16ed-4a46-b2fa-c34fbea15950"
+    ],
+    "vid": [
+      7844945
+    ],
+    "view_count": [
+      295
+    ],
+    "search_api_id": [
+      "entity:node/87254:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-deep-tubewells-permanently-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      244
+    ],
+    "published_date": [
+      1390910691
+    ],
+    "body:value": [
+      "The data refers to district wise number of Deep Tubewells permanent not in use due to Salinity, Drying up, Destroyed beyond repair and Sinking."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      87260
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise distribution of deep tubewells permanently not is use by reasons"
+    ],
+    "uuid": [
+      "26ebd98a-6d9f-433c-843d-f5d381948d35"
+    ],
+    "vid": [
+      7844960
+    ],
+    "view_count": [
+      200
+    ],
+    "search_api_id": [
+      "entity:node/87260:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-deep-tubewells-temporary-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      332
+    ],
+    "published_date": [
+      1390910609
+    ],
+    "body:value": [
+      "The data refers to district wise number of Deep Tubewells temporarily not in use due to Non-availability of adequate power, Mechanical break-down and Less discharge of water."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      87262
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise distribution of deep tubewells temporary not is use by reasons"
+    ],
+    "uuid": [
+      "b817e984-4853-46a8-9ea1-31f0757b0b40"
+    ],
+    "vid": [
+      7844965
+    ],
+    "view_count": [
+      224
+    ],
+    "search_api_id": [
+      "entity:node/87262:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-dugwells-according-depth-dugwells"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      372
+    ],
+    "published_date": [
+      1390998737
+    ],
+    "body:value": [
+      "The data refers to district wise distribution of dugwells according to the depth of the dugwells."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390554780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      87267
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Distribution of Dugwells according to depth of the Dugwells"
+    ],
+    "uuid": [
+      "1a0034b2-e519-466d-9615-9f96b34bf708"
+    ],
+    "vid": [
+      7844979
+    ],
+    "view_count": [
+      361
+    ],
+    "search_api_id": [
+      "entity:node/87267:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-surface-flow-schemes-permanently-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      192
+    ],
+    "published_date": [
+      1390989158
+    ],
+    "body:value": [
+      "The data refers to district-wise number of surface flow schemes permanent not in use due to Salinity, Drying up, Destroyed beyond repair and Sinking."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390541040
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI",
+      "Minor"
+    ],
+    "nid": [
+      87422
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Distribution of surface flow schemes permanently not is use by reasons"
+    ],
+    "uuid": [
+      "af163efc-6e2b-48ac-b886-132d45750ec2"
+    ],
+    "vid": [
+      7845437
+    ],
+    "view_count": [
+      182
+    ],
+    "search_api_id": [
+      "entity:node/87422:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-surface-flow-schemes-temporary-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      242
+    ],
+    "published_date": [
+      1390989113
+    ],
+    "body:value": [
+      "The data refers to district-wise number of surface flow schemes temporarily not in use due to Non-availability of adequate power, Mechanical break-down, Less discharge of water, Storage not filled up fully, Siltation of channel/storage and Channel break-down."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390541040
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI",
+      "Minor"
+    ],
+    "nid": [
+      87424
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Distribution of surface flow schemes temporary not is use by reasons"
+    ],
+    "uuid": [
+      "6d6fc6be-0fae-4688-a886-d73a9b909b71"
+    ],
+    "vid": [
+      7845442
+    ],
+    "view_count": [
+      228
+    ],
+    "search_api_id": [
+      "entity:node/87424:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-tankspondsreservoir-lift-schemes-cca-classes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      489
+    ],
+    "published_date": [
+      1391085034
+    ],
+    "body:value": [
+      "The data refers to district wise number of tanks/ponds/reservoirs by culturable command area in private and public."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390557660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI"
+    ],
+    "nid": [
+      87482
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Distribution of Tanks/Ponds/Reservoir of Lift Schemes by CCA classes"
+    ],
+    "uuid": [
+      "5dd9e469-9a3f-4c43-af57-628c4cf4e433"
+    ],
+    "vid": [
+      7845614
+    ],
+    "view_count": [
+      446
+    ],
+    "search_api_id": [
+      "entity:node/87482:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-tankspondsreservoir-lift-schemes-storage-size"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      417
+    ],
+    "published_date": [
+      1391085021
+    ],
+    "body:value": [
+      "The data refers to district wise number of tanks/ponds/reservoirs by designed storage capacities."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390557660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI"
+    ],
+    "nid": [
+      87484
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Distribution of Tanks/Ponds/Reservoir of Lift Schemes by storage size"
+    ],
+    "uuid": [
+      "272bc9e0-e1fb-41eb-83e0-b8aa18bdec04"
+    ],
+    "vid": [
+      7845619
+    ],
+    "view_count": [
+      364
+    ],
+    "search_api_id": [
+      "entity:node/87484:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-tankspondsreservoir-surface-flow-schemes-cca-classes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      356
+    ],
+    "published_date": [
+      1390989503
+    ],
+    "body:value": [
+      "The data refers to district-wise distribution of Tanks/Ponds/Reservoir of flow schemes by Culturable command area classes and Inside command for augmentation only under Private and Public ownership."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390541100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI",
+      "Minor"
+    ],
+    "nid": [
+      87486
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Distribution of Tanks/Ponds/Reservoir of surface flow schemes by CCA classes"
+    ],
+    "uuid": [
+      "2a572eb9-335b-47fc-8685-76c484ad4a76"
+    ],
+    "vid": [
+      7845624
+    ],
+    "view_count": [
+      338
+    ],
+    "search_api_id": [
+      "entity:node/87486:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-tankspondsreservoir-surface-flow-schemes-storage-size"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      411
+    ],
+    "published_date": [
+      1390989440
+    ],
+    "body:value": [
+      "The data refers to district-wise number of tanks/ponds/reservoirs by designed storage capacities."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390541100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI",
+      "Minor"
+    ],
+    "nid": [
+      87488
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Distribution of Tanks/Ponds/Reservoir of surface flow schemes by storage size"
+    ],
+    "uuid": [
+      "a3d3d082-9a3e-43ae-a035-a9cbd66487a4"
+    ],
+    "vid": [
+      7845629
+    ],
+    "view_count": [
+      357
+    ],
+    "search_api_id": [
+      "entity:node/87488:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-physical-performance-rural-road-scheme-under-bharat-nirman-programme-based"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1718
+    ],
+    "published_date": [
+      1387430009
+    ],
+    "body:value": [
+      "The data refers to information on District wise Physical Performance of Rural Road Scheme under Bharat Nirman Programme during the period of 2005-06 to 2006-07. It provides details such as New Connectivity and Upgradation with Habitations with 1000+ Population, Habitations with 500+ Population, Habitations Covered, Length (KM), Targets, Achievements for the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Achievement",
+      "connectivity",
+      "Habitation",
+      "Population",
+      "upgradation",
+      "Covered"
+    ],
+    "nid": [
+      87546
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Physical Performance of Rural Road Scheme under Bharat Nirman Programme- Based on Sample Survey"
+    ],
+    "uuid": [
+      "f161f6db-aba7-41c1-ad22-3c5d956cce7f"
+    ],
+    "vid": [
+      7845906
+    ],
+    "view_count": [
+      1602
+    ],
+    "search_api_id": [
+      "entity:node/87546:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-physical-performance-rural-road-scheme-under-pmgsy-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2435
+    ],
+    "published_date": [
+      1387430025
+    ],
+    "body:value": [
+      "The data refers to information on District-wise Physical Performance of Rural Road Scheme under PMGSY during the period of 2000-01 to 2004-05. It provides details such as New Connectivity and Upgradation with Habitations with 1000+ Population, Habitations with 500+ Population, Habitations Covered, Length (KM), Targets, Achievements for the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Achievement",
+      "connectivity",
+      "Habitation",
+      "Length",
+      "Population",
+      "target",
+      "upgradation",
+      "Bharat",
+      "Nirman",
+      "Covered"
+    ],
+    "nid": [
+      87548
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Physical Performance of Rural Road Scheme under PMGSY- Based on Sample Survey"
+    ],
+    "uuid": [
+      "3072d080-6902-434e-a18d-dec94a76d7bc"
+    ],
+    "vid": [
+      7845911
+    ],
+    "view_count": [
+      2274
+    ],
+    "search_api_id": [
+      "entity:node/87548:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-dugwells-according-source-energy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      466
+    ],
+    "published_date": [
+      1390998459
+    ],
+    "body:value": [
+      "The data refers to district wise number of dugwells according to various sources of energy. It includes details on sources like Electric pump, Solar pump, Diesel pump, Wind Mills and Manual/animal."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390554720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      87281
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Distribution of Dugwells according to source of energy"
+    ],
+    "uuid": [
+      "88fa4af7-88a1-490d-91f4-0d752b71ad75"
+    ],
+    "vid": [
+      7845023
+    ],
+    "view_count": [
+      404
+    ],
+    "search_api_id": [
+      "entity:node/87281:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-dugwells-according-total-hours-pumping-operation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      330
+    ],
+    "published_date": [
+      1390998551
+    ],
+    "body:value": [
+      "The data refers to district wise distribution of dugwells according to total hours of pumping operating during kharif and rabi seasons."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390554720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      87291
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Distribution of Dugwells according to total hours of pumping operation"
+    ],
+    "uuid": [
+      "dd1039a6-7bc5-4117-85fc-7eaa084cd58c"
+    ],
+    "vid": [
+      7845054
+    ],
+    "view_count": [
+      319
+    ],
+    "search_api_id": [
+      "entity:node/87291:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-dugwells-cost-maintenance"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      286
+    ],
+    "published_date": [
+      1390998289
+    ],
+    "body:value": [
+      "The data refers to district wise number of dugwells according to the annual cost of maintenance."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390554720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      87297
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Distribution of Dugwells by cost of maintenance"
+    ],
+    "uuid": [
+      "90591fa8-2479-45c1-b196-a3df14df6f2d"
+    ],
+    "vid": [
+      7845072
+    ],
+    "view_count": [
+      281
+    ],
+    "search_api_id": [
+      "entity:node/87297:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-dugwells-location-command-majormedium-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      424
+    ],
+    "published_date": [
+      1390998627
+    ],
+    "body:value": [
+      "The data refers to district wise distribution of dugwells by location in the command of Major/Medium Projects which includes Outside command, Inside command and Inside command for augmentation only."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390554780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      87299
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Distribution of Dugwells by location in the command of Major/Medium projects"
+    ],
+    "uuid": [
+      "77b0a3f0-9c8f-492e-9483-e5abf8b95342"
+    ],
+    "vid": [
+      7845077
+    ],
+    "view_count": [
+      412
+    ],
+    "search_api_id": [
+      "entity:node/87299:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-dugwells-permanently-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      306
+    ],
+    "published_date": [
+      1390998382
+    ],
+    "body:value": [
+      "The data refers to district wise number of dugwells permanent not in use due to Salinity, Drying up, Destroyed beyond repair and Sinking."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390554720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      87313
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Distribution of Dugwells permanently not is use by reasons"
+    ],
+    "uuid": [
+      "c09c841f-9822-480b-b4d0-5a1a07365060"
+    ],
+    "vid": [
+      7845118
+    ],
+    "view_count": [
+      265
+    ],
+    "search_api_id": [
+      "entity:node/87313:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-dugwells-temporary-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      293
+    ],
+    "published_date": [
+      1390998340
+    ],
+    "body:value": [
+      "The data refers to district wise number of dugwells temporarily not in use due to Non-availability of adequate power, Mechanical break-down and Less discharge of water."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390554720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      87315
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District wise Distribution of Dugwells temporary not is use by reasons"
+    ],
+    "uuid": [
+      "ae0584de-d549-4d3a-bf6c-910eff52b5a2"
+    ],
+    "vid": [
+      7845123
+    ],
+    "view_count": [
+      285
+    ],
+    "search_api_id": [
+      "entity:node/87315:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

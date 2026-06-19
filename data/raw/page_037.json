@@ -1,0 +1,4856 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/diversion-teaching-time-teachers-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      520
+    ],
+    "published_date": [
+      1385707213
+    ],
+    "body:value": [
+      "The data refers to information on diversion from teaching time of teachers. The data refers to Average Hours Spent per day per Teacher Engaged in the Arrangement of Provisions, Cooking and Serving in the sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385641020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CMDM",
+      "diversion",
+      "Scheme",
+      "Provision",
+      "Serving",
+      "Teacher",
+      "Meal",
+      "Cook",
+      "Spent"
+    ],
+    "nid": [
+      87637
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Diversion from Teaching Time of Teachers - Based on Sample Survey"
+    ],
+    "uuid": [
+      "52ef0fd3-a1d8-49cf-9932-e4b4fd362ebe"
+    ],
+    "vid": [
+      7846202
+    ],
+    "view_count": [
+      481
+    ],
+    "search_api_id": [
+      "entity:node/87637:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/doctorate-degrees-awarded-faculty-wise"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3831
+    ],
+    "published_date": [
+      1364835167
+    ],
+    "body:value": [
+      "The table presents doctorate degrees awarded faculty-wise in various disciplines. The data are taken from the University Grants Commission (UGC) annual report."
+    ],
+    "changed": [
+      1426768773
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Human Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Development",
+      "Education",
+      "Engineering",
+      "Faculty",
+      "Medicine",
+      "research",
+      "Science",
+      "Veterinary",
+      "Higher"
+    ],
+    "nid": [
+      87639
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Doctorate Degrees Awarded Faculty-Wise"
+    ],
+    "uuid": [
+      "5765ef9d-5b07-4294-b36f-cee6171a1750"
+    ],
+    "vid": [
+      7846214
+    ],
+    "view_count": [
+      3627
+    ],
+    "search_api_id": [
+      "entity:node/87639:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/domestic-production-petroleum-products"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4646
+    ],
+    "published_date": [
+      1365011863
+    ],
+    "body:value": [
+      "The data describes about All India data on Domestic Production of Petroleum Products (in million tonnes) like LPG, petrol, naptha, kerosene, ATF, HSDo, LDO, fuel oils, lubricants, bitumen, petroleum coke, and others."
+    ],
+    "changed": [
+      1441695726
+    ],
+    "created": [
+      1364805780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ATF",
+      "bitumen",
+      "Energy",
+      "Fuel",
+      "HSDo",
+      "kerosene",
+      "LDO",
+      "LPG",
+      "lubricants",
+      "naptha",
+      "petrol",
+      "Petroleum",
+      "Coke",
+      "Oils"
+    ],
+    "nid": [
+      87641
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Domestic Production of Petroleum Products"
+    ],
+    "uuid": [
+      "6d1716ae-48ac-47e6-9f57-4566f7053c5b"
+    ],
+    "vid": [
+      7846225
+    ],
+    "view_count": [
+      4370
+    ],
+    "search_api_id": [
+      "entity:node/87641:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/domestic-saving-type-institution-current-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3053
+    ],
+    "published_date": [
+      1367950478
+    ],
+    "body:value": [
+      "Saving represents the excess of current income over current expenditure of various sectors of the economy. It is the balancing item on the income and outlay accounts of the producing enterprises, households, Government administration and other final consumers. Estimates of domestic saving are prepared at current prices only by type of institutions i.e., public sector, private corporate sector and household sector (residual), separately. Data contains Gross Domestic Savings, Net domestic savings, Net capital inflow and Finances for gross capital formation."
+    ],
+    "changed": [
+      1602755805
+    ],
+    "created": [
+      1367574060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Product and Related Aggregates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Consumption",
+      "domestic",
+      "Economy",
+      "expenditure",
+      "GDP",
+      "GDS",
+      "Gross",
+      "Growth",
+      "Household",
+      "Income",
+      "Private",
+      "Public",
+      "Corporate",
+      "Inflow"
+    ],
+    "nid": [
+      87643
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Domestic Saving by type of Institution at Current Prices"
+    ],
+    "uuid": [
+      "0feb3d2c-beee-4d6c-9b0f-a673f3502db6"
+    ],
+    "vid": [
+      7846250
+    ],
+    "view_count": [
+      2802
+    ],
+    "search_api_id": [
+      "entity:node/87643:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/domestic-savings-and-components-thereof-proportion-gdp-current-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5372
+    ],
+    "published_date": [
+      1364618723
+    ],
+    "body:value": [
+      "Domestic Savings and Components thereof as proportion of GDP at current prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) (in per cent)"
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1364451060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Economy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "domestic",
+      "Gross",
+      "Household",
+      "Private",
+      "Public",
+      "Saving",
+      "Corporate"
+    ],
+    "nid": [
+      87645
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Domestic Savings and Components thereof as proportion of GDP at current prices"
+    ],
+    "uuid": [
+      "bc7a1a5c-90d2-45c9-b842-9468feb96b53"
+    ],
+    "vid": [
+      7846256
+    ],
+    "view_count": [
+      5091
+    ],
+    "search_api_id": [
+      "entity:node/87645:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/domicile-inmates"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1028
+    ],
+    "published_date": [
+      1382599729
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise and domicile-wise details of prison inmates at the end of the reference year. The prison inmates are categorised into male and female population. The age of inmates are grouped into 16-18 yrs, 18-30 yrs, 30-50 yrs and 50 & above yrs. Domiciles of jail inmates are categorised as belongs to same State and belongs to other State."
+    ],
+    "changed": [
+      1441626794
+    ],
+    "created": [
+      1382519880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Prison Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Inmate",
+      "Prison",
+      "Domicile"
+    ],
+    "nid": [
+      87647
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Domicile of inmates"
+    ],
+    "uuid": [
+      "42517da0-2a49-477d-8aab-c5d2e75ec617"
+    ],
+    "vid": [
+      7846267
+    ],
+    "view_count": [
+      940
+    ],
+    "search_api_id": [
+      "entity:node/87647:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/drdo-parliament"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2631
+    ],
+    "published_date": [
+      1361279437
+    ],
+    "body:value": [
+      "DRDO attracted attention of the parliamentarians throughout the year. Member of Parliament from both houses raised questions on subject matters such as BrahMos missile, Kaveri engine, Low Intensity Conflict (LIC), Light Combat Aircraft (LCA), Missile Development programmes, Performance of DRDO, Self-reliance in Defence R&D , Exodus of Scientists from DRDO and Main Battle Tank (MBT) Arjun."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1361257140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DRDO ANNUAL REPORT"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "House",
+      "Starred",
+      "Unstarred",
+      "Defence",
+      "Monsoon",
+      "Session",
+      "Winter"
+    ],
+    "nid": [
+      87649
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "DRDO in Parliament"
+    ],
+    "uuid": [
+      "cafdbd49-42bb-4890-9a88-f11c40c39a62"
+    ],
+    "vid": [
+      7846272
+    ],
+    "view_count": [
+      2405
+    ],
+    "search_api_id": [
+      "entity:node/87649:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/drinking-water-facility-and-source-water-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1612
+    ],
+    "published_date": [
+      1385715499
+    ],
+    "body:value": [
+      "The data refers to information on the drinking water facility and source of water in the selected sample states. It provides details of Availability of Drinking Water (%age) and Source of Drinking Water (Well, Tap or other). The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385704560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Availability",
+      "CMDM",
+      "Scheme",
+      "School",
+      "Tap",
+      "Well",
+      "Cooked",
+      "Meal"
+    ],
+    "nid": [
+      87651
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Drinking Water Facility and Source of Water - Based on Sample Survey"
+    ],
+    "uuid": [
+      "9df409fd-b19e-4ca3-8aa1-077ba3faf030"
+    ],
+    "vid": [
+      7846278
+    ],
+    "view_count": [
+      1478
+    ],
+    "search_api_id": [
+      "entity:node/87651:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dropout-rates"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4950
+    ],
+    "published_date": [
+      1375097258
+    ],
+    "body:value": [
+      "The dropout rate represent percentage of pupils who dropout from a given grade or cycle or level of education in a given school year and the method used to calculate it is apparent cohort method."
+    ],
+    "changed": [
+      1436418898
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Elementary",
+      "Ratio"
+    ],
+    "nid": [
+      87653
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Dropout Rates"
+    ],
+    "uuid": [
+      "7947c524-61e8-4bae-8155-d026ad4fa374"
+    ],
+    "vid": [
+      7846292
+    ],
+    "view_count": [
+      4727
+    ],
+    "search_api_id": [
+      "entity:node/87653:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dropouts-and-out-school-children-slums-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2211
+    ],
+    "published_date": [
+      1383198106
+    ],
+    "body:value": [
+      "The data refers to Dropouts and Out of School Children in urban Slums. It provides details of households with out of school children, number of dropouts or out of school child, number of dropouts or out of school children belonging to - SC/ST, OBC or General, female dropouts or out of school children and percentage of schools having pre primary sections. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission in eleven states and two union territories for 'Evaluation Report On Sarva Shiksha Abhiyan, 2010'. The reference period for the study was 2003 to 2007."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1383111480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "School",
+      "Slum"
+    ],
+    "nid": [
+      87657
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Dropouts and Out of School Children in Slums - Based on Sample Survey"
+    ],
+    "uuid": [
+      "b38e9f9e-cab6-4a7d-b24f-47be85466aa7"
+    ],
+    "vid": [
+      7846298
+    ],
+    "view_count": [
+      2027
+    ],
+    "search_api_id": [
+      "entity:node/87657:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/economic-census"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4783
+    ],
+    "published_date": [
+      1353857754
+    ],
+    "body:value": [
+      "Economic Census is a complete count of all economic units in the country. The Fifth Economic Census was conducted in 2005 covering all enterprises other than crop production and certain other categories. Complete information on the economic census can be accessed from the link provided"
+    ],
+    "changed": [
+      1616756185
+    ],
+    "created": [
+      1352711820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Census"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Activity",
+      "Adult",
+      "Agriculture",
+      "Children",
+      "Classification",
+      "Female",
+      "Fuel",
+      "Group",
+      "Male",
+      "Ownership",
+      "Power",
+      "Working",
+      "Social",
+      "Enterprise",
+      "Person",
+      "Premises"
+    ],
+    "nid": [
+      87659
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Economic Census"
+    ],
+    "uuid": [
+      "3f721c20-8920-4c10-8d0e-33a6dc3c1887"
+    ],
+    "vid": [
+      7846306
+    ],
+    "view_count": [
+      4229
+    ],
+    "search_api_id": [
+      "entity:node/87659:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/educational-institutions-scholars-and-expenditure-all-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1888
+    ],
+    "published_date": [
+      1365011994
+    ],
+    "body:value": [
+      "This is the summary table giving data regarding Educational Institutions, Scholars and Expenditure on education. Thus The data refers to a general idea of the educational development in the country from 2000-01 onwards."
+    ],
+    "changed": [
+      1441695745
+    ],
+    "created": [
+      1364813580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "College",
+      "Education",
+      "Schools",
+      "University"
+    ],
+    "nid": [
+      87663
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Educational Institutions, Scholars And Expenditure (All India)"
+    ],
+    "uuid": [
+      "686d4c64-8077-48ad-aa34-5a48b345f9ab"
+    ],
+    "vid": [
+      7846318
+    ],
+    "view_count": [
+      1764
+    ],
+    "search_api_id": [
+      "entity:node/87663:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/educational-levels-among-different-communities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1861
+    ],
+    "published_date": [
+      1374052598
+    ],
+    "body:value": [
+      "The data refers to that the literacy rate among the Muslims is significantly lower than among other communities although it is higher than among SCs and STs. The data refers to educational Levels among Different Communities."
+    ],
+    "changed": [
+      1436419157
+    ],
+    "created": [
+      1373637000
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Social Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development",
+      "Minority"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Literacy",
+      "Minority",
+      "Scheduled",
+      "Tribe",
+      "Rate",
+      "Cast"
+    ],
+    "nid": [
+      87665
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Educational Levels Among Different Communities"
+    ],
+    "uuid": [
+      "9a4fa660-4521-491c-85fa-82a2704ccc9d"
+    ],
+    "vid": [
+      7846320
+    ],
+    "view_count": [
+      1675
+    ],
+    "search_api_id": [
+      "entity:node/87665:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/committee-wise-reports-presented-lok-sabha"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1438
+    ],
+    "published_date": [
+      1374666090
+    ],
+    "body:value": [
+      "The data refers to committee-wise reports presented to Lok Sabha. It gives name of the committee, type of the committee, report number, report title, date of presentation and link to open the PDF file of the report."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374665700
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Parliamentary Committee Reports (Lok Sabha)"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "committee",
+      "report",
+      "Loksabha"
+    ],
+    "nid": [
+      86816
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Committee-wise Reports Presented to Lok Sabha"
+    ],
+    "uuid": [
+      "b9660d3e-fb7a-4203-8507-ee213129a426"
+    ],
+    "vid": [
+      7843459
+    ],
+    "view_count": [
+      1323
+    ],
+    "search_api_id": [
+      "entity:node/86816:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/committee-wise-reports-presented-rajya-sabha"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1863
+    ],
+    "published_date": [
+      1379672197
+    ],
+    "body:value": [
+      "Get data of committee-wise reports presented to Rajya Sabha. It gives name of the committee, type of the committee, report number, report title, date of presentation and link to open the PDF file of the report.\nThe Rajya Sabha or Council of States is the upper house of the Parliament of India. Members sit for six-year terms, with one third of the members retiring every two years.The Rajya Sabha meets in continuous sessions and, unlike the Lok Sabha, the lower house of Parliament, is not subject to dissolution."
+    ],
+    "changed": [
+      1406791236
+    ],
+    "created": [
+      1374578100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Parliamentary Committee Reports (Rajya Sabha)"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "committee",
+      "DRSC",
+      "House",
+      "Parliament",
+      "Parliamentary",
+      "Adhoc"
+    ],
+    "nid": [
+      86818
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Committee-wise Reports Presented to Rajya Sabha"
+    ],
+    "uuid": [
+      "23cd02e9-261c-4bec-960b-cb748907696e"
+    ],
+    "vid": [
+      7843465
+    ],
+    "view_count": [
+      1610
+    ],
+    "search_api_id": [
+      "entity:node/86818:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/commodity-and-country-wise-imports-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      34332
+    ],
+    "published_date": [
+      1369389873
+    ],
+    "body:value": [
+      "The data refers to details on commodity and country wise imports in India."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1369370100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India Imports"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department of Commerce"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Import"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commerce",
+      "Export",
+      "Import",
+      "Industry",
+      "Principal"
+    ],
+    "nid": [
+      86820
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Commodity And Country Wise Imports In India"
+    ],
+    "uuid": [
+      "8ec7ac46-361e-490c-9cae-f88b16edb457"
+    ],
+    "vid": [
+      7843468
+    ],
+    "view_count": [
+      33778
+    ],
+    "search_api_id": [
+      "entity:node/86820:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/commodity-balance-petroleum-and-petroleum-products"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2243
+    ],
+    "published_date": [
+      1372244187
+    ],
+    "body:value": [
+      "The data refers to the Commodity Balance of Petroleum and Petroleum Products in India. It gives details of Crude Oil and Petroleum products regarding Domestic production, Imports, Exports, etc. for various years."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Industry and Infrastructure"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "domestic",
+      "Economic",
+      "finance",
+      "Industry",
+      "Infrastructure",
+      "kerosene",
+      "Naphtha",
+      "Refinery",
+      "Production",
+      "Survey"
+    ],
+    "nid": [
+      86822
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Commodity Balance of Petroleum and Petroleum Products"
+    ],
+    "uuid": [
+      "aaaeabd6-de39-4a9e-8a15-3aec447682cf"
+    ],
+    "vid": [
+      7843473
+    ],
+    "view_count": [
+      2099
+    ],
+    "search_api_id": [
+      "entity:node/86822:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/commodity-wise-capacity-indian-ports-end-twelfth-five-year-plan-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1116
+    ],
+    "published_date": [
+      1370501470
+    ],
+    "body:value": [
+      "The data refers to an overview of commodity-wise capacity at Indian Ports by the end of Twelfth Five Year Plan (2016-17). It gives details regarding the number of existing major ports in 2011-12 and forecasts of number of major ports in 2016-17."
+    ],
+    "changed": [
+      1436419221
+    ],
+    "created": [
+      1370500380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Water ways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Port",
+      "Minor"
+    ],
+    "nid": [
+      86824
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Commodity-Wise Capacity at Indian Ports by the end of Twelfth Five Year Plan"
+    ],
+    "uuid": [
+      "8bf502d1-e0df-44fa-bfe7-922cc43ef553"
+    ],
+    "vid": [
+      7843478
+    ],
+    "view_count": [
+      1077
+    ],
+    "search_api_id": [
+      "entity:node/86824:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/commodity-wise-traffic-indian-ports-end-twelfth-five-year-plan-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1686
+    ],
+    "published_date": [
+      1370501526
+    ],
+    "body:value": [
+      "The data refers to an overview of commodity-wise traffic at Indian ports by the end of Twelfth Five Year Plan (2016-17). It gives details regarding the number of major ports, non-major ports and total ports in India."
+    ],
+    "changed": [
+      1436419221
+    ],
+    "created": [
+      1370500380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Water ways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Coal",
+      "Iron",
+      "Port",
+      "Ore"
+    ],
+    "nid": [
+      86826
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Commodity-Wise Traffic at Indian Ports by the end of Twelfth Five Year Plan"
+    ],
+    "uuid": [
+      "59718e09-1aa3-49ec-bd4c-f5920108670a"
+    ],
+    "vid": [
+      7843484
+    ],
+    "view_count": [
+      1645
+    ],
+    "search_api_id": [
+      "entity:node/86826:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/community-leaders-contribution-regarding-various-activities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      650
+    ],
+    "published_date": [
+      1375252960
+    ],
+    "body:value": [
+      "The data refers to the Community Leaders contribution regarding the various activities. It is believed that community workers should play a very important role in the success of an AWC. They could help in the following activities; selection of location, space, getting beneficiaries, helping in ensuring adequate infrastructure for an AWC and other activities like solving problems of beneficiaries and motivating people to avail the services of this facility etc.. Community leaders contribution for almost all of the activities was good in Kerala."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "community",
+      "contribution",
+      "Development",
+      "Integrated",
+      "Service",
+      "Anganwadi",
+      "AWC",
+      "Leader"
+    ],
+    "nid": [
+      86828
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Community Leaders Contribution regarding various activities"
+    ],
+    "uuid": [
+      "c34fd2aa-9c9e-4b0c-a0fa-4b93490681bf"
+    ],
+    "vid": [
+      7843491
+    ],
+    "view_count": [
+      604
+    ],
+    "search_api_id": [
+      "entity:node/86828:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/companies-limited-shares-work-distribution-industrial-activity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1277
+    ],
+    "published_date": [
+      1368098300
+    ],
+    "body:value": [
+      "The data refers to details on companies limited by shares at work (distribution by industrial activity). This data is based upon 56th Annual Report on the Working and Administration of the Companies Act, 1956. Report has been published by The Ministry of Corporate Affairs, Government of India."
+    ],
+    "changed": [
+      1532949783
+    ],
+    "created": [
+      1367842560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Capital",
+      "Classification",
+      "Construction",
+      "cost",
+      "manufacturing",
+      "Private",
+      "Provisional",
+      "Public",
+      "transport",
+      "Paid",
+      "Limited"
+    ],
+    "nid": [
+      86830
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Companies Limited By Shares At Work - Distribution by Industrial Activity"
+    ],
+    "uuid": [
+      "b5f49418-fa04-4ecd-af9a-30d1e5da8cad"
+    ],
+    "vid": [
+      7843496
+    ],
+    "view_count": [
+      1113
+    ],
+    "search_api_id": [
+      "entity:node/86830:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/companies-limited-shares-work-state-wise-distribution"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1230
+    ],
+    "published_date": [
+      1368098674
+    ],
+    "body:value": [
+      "The data refers to details on companies limited by shares at work (state-wise distribution). This data is based upon 56th Annual Report on the Working and Administration of the Companies Act, 1956. Report has been published by The Ministry of Corporate Affairs, Government of India."
+    ],
+    "changed": [
+      1532949835
+    ],
+    "created": [
+      1367841540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Capital",
+      "Classification",
+      "industrial",
+      "Private",
+      "Public",
+      "Paid"
+    ],
+    "nid": [
+      86832
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Companies Limited By Shares At Work - State-wise Distribution"
+    ],
+    "uuid": [
+      "7fc2c7be-c01c-4af8-b426-5e08dbb492da"
+    ],
+    "vid": [
+      7843503
+    ],
+    "view_count": [
+      1091
+    ],
+    "search_api_id": [
+      "entity:node/86832:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/companies-newly-registered-industrial-activity-number-and-authorised-capital"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5270
+    ],
+    "published_date": [
+      1366896123
+    ],
+    "body:value": [
+      "The data refers to all India (from 2001 to 2011) and state/UT-wise (2010 and 2011) details of companies (public and private) newly created by industrial activity (number and authorised capital) as on 31st March."
+    ],
+    "changed": [
+      1509364305
+    ],
+    "created": [
+      1366893300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Classification",
+      "Communication",
+      "Company",
+      "Construction",
+      "electricity",
+      "finance",
+      "Gas",
+      "Industry",
+      "manufacturing",
+      "Mining",
+      "Quarrying",
+      "Private",
+      "Public",
+      "Storage",
+      "Wholesale",
+      "trade",
+      "transport",
+      "Water",
+      "Allied",
+      "Retail"
+    ],
+    "nid": [
+      86834
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Companies Newly Registered By Industrial Activity - Number And Authorised Capital"
+    ],
+    "uuid": [
+      "33596d6e-7d23-41ea-8c69-16a670a10e93"
+    ],
+    "vid": [
+      7843513
+    ],
+    "view_count": [
+      5096
+    ],
+    "search_api_id": [
+      "entity:node/86834:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/companies-newly-registered-major-classification-number-and-authorised-capital"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4217
+    ],
+    "published_date": [
+      1366895956
+    ],
+    "body:value": [
+      "The data refers to state/UT-wise details of companies (public and private) newly registered by major classification (Number and Authorised Capital) as on 31st March 2009-10."
+    ],
+    "changed": [
+      1509362083
+    ],
+    "created": [
+      1366892520
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Company",
+      "Private",
+      "Public"
+    ],
+    "nid": [
+      86836
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Companies Newly Registered By Major Classification - Number And Authorised Capital"
+    ],
+    "uuid": [
+      "2065dada-9d02-4c6e-bc90-3db611422e3a"
+    ],
+    "vid": [
+      7843520
+    ],
+    "view_count": [
+      3869
+    ],
+    "search_api_id": [
+      "entity:node/86836:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/company-wise-production-coal-annual-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1194
+    ],
+    "published_date": [
+      1370934228
+    ],
+    "body:value": [
+      "This table (Annexure 14.3 to the base table) provides Company-wise Production for Annual Plan 201213 as per the Ministry of Coal. It gives company-wise details for the years 2006 to 2013 and projections for the year 2016-17."
+    ],
+    "changed": [
+      1436419215
+    ],
+    "created": [
+      1370682900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Company",
+      "Ministry"
+    ],
+    "nid": [
+      86838
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Company-wise Production of Coal - Annual Plan"
+    ],
+    "uuid": [
+      "85bd0698-ce6c-4f77-95f0-041c1ee1865f"
+    ],
+    "vid": [
+      7843522
+    ],
+    "view_count": [
+      1071
+    ],
+    "search_api_id": [
+      "entity:node/86838:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/company-wise-production-crude-oil-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4694
+    ],
+    "published_date": [
+      1363240794
+    ],
+    "body:value": [
+      "The data refers to company-wise and year-wise production of crude oil during in India."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1363166280
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "PNG Economic and Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Company",
+      "Consumption",
+      "JVC",
+      "Offshore",
+      "ONGC",
+      "Onshore",
+      "Refinery",
+      "Performance",
+      "Petroleum"
+    ],
+    "nid": [
+      86840
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Company-wise Production of Crude Oil in India"
+    ],
+    "uuid": [
+      "b79dd67e-d022-4102-9c1d-ebf305f77d29"
+    ],
+    "vid": [
+      7843529
+    ],
+    "view_count": [
+      4584
+    ],
+    "search_api_id": [
+      "entity:node/86840:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/comparison-atf-prices-india-competing-hubs"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3895
+    ],
+    "published_date": [
+      1370433616
+    ],
+    "body:value": [
+      "The data refers to the comparison of Aviation Turbine Fuel (ATF) prices in India with competing hubs. It gives a comparison of the ATF price per kilolitre(USD) in different locations across the world."
+    ],
+    "changed": [
+      1436419227
+    ],
+    "created": [
+      1370407080
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Aviation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ATF",
+      "Aviation",
+      "Fuel",
+      "Price",
+      "Airport",
+      "Turbe",
+      "KiloLitre",
+      "USD"
+    ],
+    "nid": [
+      86842
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Comparison of ATF Prices in India with Competing Hubs"
+    ],
+    "uuid": [
+      "e74ab05d-b034-460b-93eb-163e7d02e7a0"
+    ],
+    "vid": [
+      7843532
+    ],
+    "view_count": [
+      3572
+    ],
+    "search_api_id": [
+      "entity:node/86842:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/comparison-fee-received-national-permit-account-states-uts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      651
+    ],
+    "published_date": [
+      1389252885
+    ],
+    "body:value": [
+      "The data refers to Comparison of fee received in National Permit Account by States / UT."
+    ],
+    "changed": [
+      1472642897
+    ],
+    "created": [
+      1389002160
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "FEE",
+      "Permit",
+      "Received"
+    ],
+    "nid": [
+      86844
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Comparison of fee received in National Permit Account by States / UTs"
+    ],
+    "uuid": [
+      "cd08b0ca-182b-4e54-a53b-2ee3f8a212b4"
+    ],
+    "vid": [
+      7843544
+    ],
+    "view_count": [
+      574
+    ],
+    "search_api_id": [
+      "entity:node/86844:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/comparison-poverty-estimates-based-mixed-recall-period-eleventh-five-year-plan-period"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3248
+    ],
+    "published_date": [
+      1374754529
+    ],
+    "body:value": [
+      "The percentage of BPL population in the urban areas in India has declined from 23.64% to 21.7% in 2004-05 (based on mixed recall period). A comparison of poverty estimates based on mixed recall period is given in table."
+    ],
+    "changed": [
+      1436419154
+    ],
+    "created": [
+      1374723780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing and Urban Affairs"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "BPL",
+      "Population",
+      "poverty",
+      "Urban",
+      "Estimate",
+      "Line",
+      "Period",
+      "Below"
+    ],
+    "nid": [
+      86846
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Comparison Of Poverty Estimates Based On Mixed Recall Period - Eleventh Five Year Plan Period"
+    ],
+    "uuid": [
+      "fa4d2a6c-1550-411e-9ed8-66dbf95c7f7b"
+    ],
+    "vid": [
+      7843546
+    ],
+    "view_count": [
+      3126
+    ],
+    "search_api_id": [
+      "entity:node/86846:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/comparison-poverty-estimates-based-uniform-recall-period"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8186
+    ],
+    "published_date": [
+      1374754585
+    ],
+    "body:value": [
+      "The percentage of BPL population in the urban areas in India has declined from 32.4% in 199394 to 25.7% in 2004-05 (based on uniform recall period). The NSSO 61st Round shows that urban poverty has registered a decline in percentage terms; however, it has increased in absolute terms by 4.4 million persons. The fact is that the number of urban poor is rising continuously since 197374 as per the uniform recall period. A comparison of poverty estimates based on uniform recall period is given in table."
+    ],
+    "changed": [
+      1436419154
+    ],
+    "created": [
+      1374723540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing and Urban Affairs"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "BPL",
+      "NSSO",
+      "Poor",
+      "poverty",
+      "Urban",
+      "Estimate",
+      "Sample",
+      "Line",
+      "Period"
+    ],
+    "nid": [
+      86848
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Comparison Of Poverty Estimates Based On Uniform Recall Period"
+    ],
+    "uuid": [
+      "e09af4c7-9049-4df3-9564-ed5b0b74f801"
+    ],
+    "vid": [
+      7843550
+    ],
+    "view_count": [
+      7795
+    ],
+    "search_api_id": [
+      "entity:node/86848:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/comparison-tenth-plan-realization-eleventh-plan-projection-resources"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      560
+    ],
+    "published_date": [
+      1375858836
+    ],
+    "body:value": [
+      "The data refers to data related to comparison of Tenth Plan realization with Eleventh Plan projection of resources (in Rs. Crore) at 2006-07 prices."
+    ],
+    "changed": [
+      1436419144
+    ],
+    "created": [
+      1375455360
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy",
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "Economy",
+      "Macro"
+    ],
+    "nid": [
+      86850
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Comparison of Tenth Plan Realization with Eleventh Plan Projection of Resources"
+    ],
+    "uuid": [
+      "abf12498-56a5-420f-853a-db1be8a95533"
+    ],
+    "vid": [
+      7843554
+    ],
+    "view_count": [
+      520
+    ],
+    "search_api_id": [
+      "entity:node/86850:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/component-wise-pattern-assistance-and-unit-cost-under-deds"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1323
+    ],
+    "published_date": [
+      1384863682
+    ],
+    "body:value": [
+      "The data refers to information about Pattern of Assistance and Unit Cost for different components under Dairy Entrepreneurship Development Scheme (DEDS). The objective of this Scheme is to generate self-employment opportunities in dairy sector by covering activities such as enhancement of milk production, preservation, transportation, procurement and marketing of milk."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1384850220
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Dairying Scheme"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Dairying",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "cost",
+      "Development",
+      "DVCF",
+      "Fund",
+      "Scheme",
+      "Entrepreneurship",
+      "Dairy",
+      "Venture"
+    ],
+    "nid": [
+      86852
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Component wise Pattern of Assistance and Unit Cost under DEDS"
+    ],
+    "uuid": [
+      "59bbe7e1-ae44-461d-a046-5b08eb7c0add"
+    ],
+    "vid": [
+      7843560
+    ],
+    "view_count": [
+      1247
+    ],
+    "search_api_id": [
+      "entity:node/86852:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/composite-indices-behavioural-pattern-among-icds-beneficiaries"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      854
+    ],
+    "published_date": [
+      1375449556
+    ],
+    "body:value": [
+      "The data refers to the composite indices of behavioural pattern among ICDS beneficiaries. It gives state-wise details regarding Behavioural index, NHE Child index, NHE Mother index, Learning skills index, Hygiene and social behaviour index and Health-Check-Up Index."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Scheme"
+    ],
+    "nid": [
+      86854
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Composite Indices of Behavioural Pattern Among ICDS Beneficiaries"
+    ],
+    "uuid": [
+      "222ce54e-5b0b-44e3-8f1e-2be5b1bf7058"
+    ],
+    "vid": [
+      7843566
+    ],
+    "view_count": [
+      730
+    ],
+    "search_api_id": [
+      "entity:node/86854:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/comprehensive-environment-pollution-index-critically-polluted-industrial-areaclusters"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5486
+    ],
+    "published_date": [
+      1365011493
+    ],
+    "body:value": [
+      "The data refers to comprehensive environment pollution index for critically polluted /clusters."
+    ],
+    "changed": [
+      1462508067
+    ],
+    "created": [
+      1364881380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air",
+      "area",
+      "comprehensive",
+      "critically",
+      "enviornment",
+      "environment",
+      "Forest",
+      "industrial",
+      "land",
+      "polluted",
+      "pollution",
+      "Water",
+      "Cluster"
+    ],
+    "nid": [
+      86856
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Comprehensive Environment Pollution Index for Critically Polluted Industrial Area/Clusters"
+    ],
+    "uuid": [
+      "f742c6cb-ef4e-4287-bf51-37b5ebcca4ac"
+    ],
+    "vid": [
+      7843574
+    ],
+    "view_count": [
+      5076
+    ],
+    "search_api_id": [
+      "entity:node/86856:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/consumer-price-index-agricultural-labourers-and-rural-labourers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6270
+    ],
+    "published_date": [
+      1367950099
+    ],
+    "body:value": [
+      "The data indicates regarding to state-wise details on consumer price index for agricultural labourers and rural labourers."
+    ],
+    "changed": [
+      1441693460
+    ],
+    "created": [
+      1367840520
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Prices"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Prices",
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Price",
+      "Consurmer",
+      "Labourers"
+    ],
+    "nid": [
+      86858
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Consumer Price Index For Agricultural Labourers And Rural Labourers"
+    ],
+    "uuid": [
+      "abd64c00-7b07-41f5-b632-766f75f5de71"
+    ],
+    "vid": [
+      7843585
+    ],
+    "view_count": [
+      6070
+    ],
+    "search_api_id": [
+      "entity:node/86858:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/consumer-price-index-industrial-workers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      20905
+    ],
+    "published_date": [
+      1367950183
+    ],
+    "body:value": [
+      "The data indicates about state-wise consumer price index for industrial workers."
+    ],
+    "changed": [
+      1441693463
+    ],
+    "created": [
+      1367840040
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Prices"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Prices",
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CPI",
+      "index",
+      "industrial",
+      "Price",
+      "Worker",
+      "Consumer"
+    ],
+    "nid": [
+      86860
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Consumer Price Index For Industrial Workers"
+    ],
+    "uuid": [
+      "c29fe291-cbaa-4c8a-80dc-767f81e46b76"
+    ],
+    "vid": [
+      7843596
+    ],
+    "view_count": [
+      20505
+    ],
+    "search_api_id": [
+      "entity:node/86860:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/consumption-electricity-utility-sectors"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4850
+    ],
+    "published_date": [
+      1365012094
+    ],
+    "body:value": [
+      "The data refers to All India data on Consumption Of Electricity (From Utility) By Sectors like industry, agriculture, domestic, commercial, traction and railways and miscellaneous."
+    ],
+    "changed": [
+      1441695720
+    ],
+    "created": [
+      1364800200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "commercial",
+      "domestic",
+      "electricity",
+      "Industry",
+      "Railway",
+      "traction",
+      "Utility"
+    ],
+    "nid": [
+      86862
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Consumption Of Electricity (From Utility) By Sectors"
+    ],
+    "uuid": [
+      "c304269b-ecc7-4cad-9db2-c068539e8ca5"
+    ],
+    "vid": [
+      7843607
+    ],
+    "view_count": [
+      4609
+    ],
+    "search_api_id": [
+      "entity:node/86862:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/consumption-petroleum-products-year-wise"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9813
+    ],
+    "published_date": [
+      1365011865
+    ],
+    "body:value": [
+      "Get the data regarding to All India Consumption of Petroleum Products (in million tonnes) like LPG, petrol, naptha, kerosene, ATF, HSDo, LDO, fuel oils, lubricants, bitumen, petroleum coke, refinery fuel and others."
+    ],
+    "changed": [
+      1441695736
+    ],
+    "created": [
+      1364807880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ATF",
+      "bitumen",
+      "Energy",
+      "Fuel",
+      "HSDo",
+      "kerosene",
+      "LDO",
+      "LPG",
+      "naptha",
+      "OIL",
+      "Refinery",
+      "petrol",
+      "Petroleum",
+      "Coke",
+      "Lubricant"
+    ],
+    "nid": [
+      86864
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Consumption of Petroleum Products - Year-wise"
+    ],
+    "uuid": [
+      "8a664ad0-54db-499d-b8f7-bd26ebb7822e"
+    ],
+    "vid": [
+      7843618
+    ],
+    "view_count": [
+      9054
+    ],
+    "search_api_id": [
+      "entity:node/86864:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/consumption-petroleum-products"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3789
+    ],
+    "published_date": [
+      1370866776
+    ],
+    "body:value": [
+      "The data refers to the consumption of Petroleum Products. It provides details regarding the actual consumption and consumption in working group of Eleventh plan- Base scenario and upper scenario along with the Compounded Annual Growth Rate (CAGR) for the years 2007-12."
+    ],
+    "changed": [
+      1436419170
+    ],
+    "created": [
+      1370688180
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power & Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Eleventh",
+      "Growth",
+      "Plan",
+      "Rate",
+      "CAGR",
+      "Compunded"
+    ],
+    "nid": [
+      86866
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Consumption of Petroleum Products"
+    ],
+    "uuid": [
+      "86449502-f284-4f04-9052-a5096d55588d"
+    ],
+    "vid": [
+      7843620
+    ],
+    "view_count": [
+      3699
+    ],
+    "search_api_id": [
+      "entity:node/86866:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/consumption-raw-coal-different-industries"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4895
+    ],
+    "published_date": [
+      1365012097
+    ],
+    "body:value": [
+      "Get the data regarding All India data on consumption cf raw coal (million tonnes) by different industries like electricity, Steel and washery, cement, paper, cotton and other industries."
+    ],
+    "changed": [
+      1441695722
+    ],
+    "created": [
+      1364802060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cement",
+      "cotton",
+      "electricity",
+      "paper",
+      "Steel",
+      "washery"
+    ],
+    "nid": [
+      86868
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Consumption Of Raw Coal By Different Industries"
+    ],
+    "uuid": [
+      "31dc517a-bb1e-4a78-846c-5746bc143b68"
+    ],
+    "vid": [
+      7843633
+    ],
+    "view_count": [
+      4719
+    ],
+    "search_api_id": [
+      "entity:node/86868:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/convergence-iay-other-rural-infrastructure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1173
+    ],
+    "published_date": [
+      1369673976
+    ],
+    "body:value": [
+      "The data refers to the result of convergence of IAY with other rural infrastructure schemes during the period 2008-09 to 2010-11 (Twelfth Five Year Plan document). The data shows percentage of IAY beneficiaries who availed benefits of other program through convergence during this period. This will be one of major thrust areas of the program during 12th Five Year Plan."
+    ],
+    "changed": [
+      1436419239
+    ],
+    "created": [
+      1369669860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Beneficiary",
+      "Convergence"
+    ],
+    "nid": [
+      86870
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Convergence of IAY With Other Rural Infrastructure"
+    ],
+    "uuid": [
+      "c15763df-ef9a-4a9e-ae97-7542b815a278"
+    ],
+    "vid": [
+      7843637
+    ],
+    "view_count": [
+      1040
+    ],
+    "search_api_id": [
+      "entity:node/86870:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/convicts-type-ipc-offences"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1865
+    ],
+    "published_date": [
+      1382598346
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise and IPC section wise distribution of convicted inmates at the end of the reference year. The convicted prison inmates are categorised into male and female. The age of inmates are grouped into 16-18 yrs, 18-30 yrs, 30-50 yrs and 50 & above yrs. The various sections of IPC include murder, Kidnapping & Abduction, rape, molestation, etc."
+    ],
+    "changed": [
+      1441626427
+    ],
+    "created": [
+      1382519940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Prison Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "code",
+      "IPC",
+      "Penal",
+      "Prison",
+      "Offence"
+    ],
+    "nid": [
+      86872
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Convicts by the type of IPC offences"
+    ],
+    "uuid": [
+      "9aa45f7b-b74d-4b8f-8df7-9fc3d1512c8a"
+    ],
+    "vid": [
+      7843649
+    ],
+    "view_count": [
+      1763
+    ],
+    "search_api_id": [
+      "entity:node/86872:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/convicts-type-offences-under-special-and-local-laws"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1154
+    ],
+    "published_date": [
+      1382596786
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise and SLL Acts wise distribution of convicted inmates at the end of the reference year. The convicted prison inmates are categorised into male and female. The age of inmates are grouped into 16-18 yrs, 18-30 yrs, 30-50 yrs and 50 & above yrs. The SLL includes Arms Act, Dowry Prohibition Act, etc."
+    ],
+    "changed": [
+      1441626402
+    ],
+    "created": [
+      1382519940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Prison Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Law",
+      "SLL",
+      "Prison",
+      "Special",
+      "Offence",
+      "Local"
+    ],
+    "nid": [
+      86874
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Convicts by type of offences under Special and Local Laws"
+    ],
+    "uuid": [
+      "1fcad00b-5d85-46bb-b808-0de6d8eecbe3"
+    ],
+    "vid": [
+      7843659
+    ],
+    "view_count": [
+      1062
+    ],
+    "search_api_id": [
+      "entity:node/86874:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/copyrights-softwares-developed-under-deity-funding"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2785
+    ],
+    "published_date": [
+      1351744051
+    ],
+    "body:value": [
+      "List of Copyrights obtained by various entities for software developed under R&D funding of the Department of Electronics and Information Technology (DeitY), M/o C&IT, GoI"
+    ],
+    "changed": [
+      1573207826
+    ],
+    "created": [
+      1351743360
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "e-Governance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Electronics and Information Technology (MeitY)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "Fund",
+      "software",
+      "Copyright"
+    ],
+    "nid": [
+      86876
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Copyrights for Softwares Developed under DeitY Funding"
+    ],
+    "uuid": [
+      "0e44b922-c3fb-42e0-b1e3-33edf6e87d11"
+    ],
+    "vid": [
+      7843672
+    ],
+    "view_count": [
+      2567
+    ],
+    "search_api_id": [
+      "entity:node/86876:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/core-tenth-plan-realization-and-eleventh-plan-projection-resources-states-and-uts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      680
+    ],
+    "published_date": [
+      1375863288
+    ],
+    "body:value": [
+      "The data refers to data related to core Tenth Plan realization and Eleventh Plan projection of resources of states and UTs as percentage of GDP."
+    ],
+    "changed": [
+      1436419144
+    ],
+    "created": [
+      1375455240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy",
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "Economy",
+      "Macro"
+    ],
+    "nid": [
+      86878
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Core Tenth Plan Realization and Eleventh Plan Projection of Resources of States and UTs as Percentage of GDP"
+    ],
+    "uuid": [
+      "31316caf-ddd1-46c8-8196-ec21473bf110"
+    ],
+    "vid": [
+      7843674
+    ],
+    "view_count": [
+      647
+    ],
+    "search_api_id": [
+      "entity:node/86878:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/core-tenth-plan-resources-states-and-uts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      393
+    ],
+    "published_date": [
+      1375088293
+    ],
+    "body:value": [
+      "The data refers to data pertaining to Core Tenth Plan Resources of States and UTs (Rs. Crore at 2001-02 Prices)"
+    ],
+    "changed": [
+      1436419147
+    ],
+    "created": [
+      1374997140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Core",
+      "Plan",
+      "resource"
+    ],
+    "nid": [
+      86880
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Core Tenth Plan Resources of States and UTs"
+    ],
+    "uuid": [
+      "6ae4d056-89db-4a26-9154-d30e80fccfda"
+    ],
+    "vid": [
+      7843678
+    ],
+    "view_count": [
+      370
+    ],
+    "search_api_id": [
+      "entity:node/86880:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cost-estimates-some-principal-crops-five-major-producing-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2099
+    ],
+    "published_date": [
+      1364617701
+    ],
+    "body:value": [
+      "The data refers to cost estimates of some principal crops in Five Major Producing States During 2008-09."
+    ],
+    "changed": [
+      1506517500
+    ],
+    "created": [
+      1364462100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Crops",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Cultivation",
+      "Yield"
+    ],
+    "nid": [
+      86882
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cost Estimates of some Principal Crops in Five Major Producing States"
+    ],
+    "uuid": [
+      "b1be84b4-532e-4132-af84-8f41250b4f42"
+    ],
+    "vid": [
+      7843687
+    ],
+    "view_count": [
+      1962
+    ],
+    "search_api_id": [
+      "entity:node/86882:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cost-power-various-renewable-energy-sources"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1792
+    ],
+    "published_date": [
+      1370853007
+    ],
+    "body:value": [
+      "The cost of renewable power as against various sources of renewable energy is given in this table. The cost of wind power is already quite competitive. Solar power is much more expensive but costs are coming down. The data refers to the estimated initial capital cost and the estimated cost of electricity generation."
+    ],
+    "changed": [
+      1436419164
+    ],
+    "created": [
+      1370692260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cost",
+      "Energy",
+      "Power",
+      "Solar",
+      "Source",
+      "Wind",
+      "Renewable"
+    ],
+    "nid": [
+      86884
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cost of Power for Various Renewable Energy Sources"
+    ],
+    "uuid": [
+      "378e2a8e-f443-4d52-94a7-6098a4240294"
+    ],
+    "vid": [
+      7843689
+    ],
+    "view_count": [
+      1640
+    ],
+    "search_api_id": [
+      "entity:node/86884:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/counterfeit-currency-reports-received-under-prevention-money-laundering-act"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2582
+    ],
+    "published_date": [
+      1361269656
+    ],
+    "body:value": [
+      "The Prevention of Money-laundering Act, 2002, and rule thereunder require every banking company, financial institution and intermediary, to furnish to Financial Intelligence Unit India information relating to all cash transactions where forged or counterfeit currency notes or bank notes have been used as genuine or where any forgery of a valuable security or a document has taken place facilitating the transactions."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Intelligence"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Revenue",
+      "Financial Intelligence Unit - India"
+    ],
+    "field_sector:name": [
+      "Finance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CCR",
+      "Currency",
+      "finance",
+      "Financial",
+      "intelligence",
+      "PMLA",
+      "Prevention",
+      "Money",
+      "Laundering",
+      "Counterfeit",
+      "Laundring"
+    ],
+    "nid": [
+      86886
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Counterfeit Currency Reports received under Prevention of Money-laundering Act"
+    ],
+    "uuid": [
+      "960f7297-bfe3-4985-b59b-705a92872f32"
+    ],
+    "vid": [
+      7843703
+    ],
+    "view_count": [
+      2222
+    ],
+    "search_api_id": [
+      "entity:node/86886:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/country-level-estimated-volume-species-and-diameter-class-trees-outside-foresttof"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1091
+    ],
+    "published_date": [
+      1379668967
+    ],
+    "body:value": [
+      "The data refers to estimated volume by species and diameter class in Trees Outside Forest(TOF) at country level. "
+    ],
+    "changed": [
+      1411476025
+    ],
+    "created": [
+      1379069880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Fire",
+      "Forest",
+      "incidence",
+      "ISFR",
+      "volume",
+      "Tree"
+    ],
+    "nid": [
+      86889
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Country level estimated volume by species and diameter class in Trees Outside Forest(TOF)"
+    ],
+    "uuid": [
+      "7fac9f6a-b864-4c49-bb92-78c7d2846443"
+    ],
+    "vid": [
+      7843714
+    ],
+    "view_count": [
+      1048
+    ],
+    "search_api_id": [
+      "entity:node/86889:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

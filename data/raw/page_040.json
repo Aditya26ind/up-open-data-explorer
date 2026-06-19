@@ -1,0 +1,4886 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/installation-griddecentralized-renewable-energy-systemsdevices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2357
+    ],
+    "published_date": [
+      1365012090
+    ],
+    "body:value": [
+      "The data refers to State-wise (2009-10 and 2010-11) data of Installation Of Off-Grid/Decentralized Renewable Energy Systems/Devices like biogas plants, water pumping wind mills, SPV pumps, solar photovoltaic SLS, solar photovoltaic SL, solar photovoltaic PP, aerogen hybrid system, solar cooker, biomass gasifiers etc."
+    ],
+    "changed": [
+      1441695730
+    ],
+    "created": [
+      1364806860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biomass",
+      "Energy",
+      "hybrid",
+      "Solar",
+      "SPV",
+      "Wind",
+      "Water",
+      "pump",
+      "Biogas",
+      "Renewable",
+      "Mill",
+      "Plant",
+      "Aerogen",
+      "Cooker",
+      "Photovoltaic",
+      "Gasifiers",
+      "PP",
+      "SL",
+      "SLS"
+    ],
+    "nid": [
+      88680
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Installation Of Off-Grid/Decentralized Renewable Energy Systems/Devices"
+    ],
+    "uuid": [
+      "66c5efab-cdf7-4f9e-b811-6bcfb7c6e0c0"
+    ],
+    "vid": [
+      7850860
+    ],
+    "view_count": [
+      2228
+    ],
+    "search_api_id": [
+      "entity:node/88680:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/installed-capacity-addition-during-eleventh-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      736
+    ],
+    "published_date": [
+      1370944232
+    ],
+    "body:value": [
+      "The data refers to details on installed capacity addition during the Eleventh Plan (in MW)."
+    ],
+    "changed": [
+      1436419221
+    ],
+    "created": [
+      1370676360
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Energy",
+      "Hydro",
+      "Nuclear",
+      "Tharmal",
+      "Type"
+    ],
+    "nid": [
+      88682
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Installed Capacity Addition During The Eleventh Plan"
+    ],
+    "uuid": [
+      "cc8e0543-a48c-49b2-a1c4-338b1feb6eaf"
+    ],
+    "vid": [
+      7850862
+    ],
+    "view_count": [
+      712
+    ],
+    "search_api_id": [
+      "entity:node/88682:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/instant-money-order-post-offices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5934
+    ],
+    "published_date": [
+      1374482663
+    ],
+    "body:value": [
+      "Instant Money Order (iMO) is an instant web based money transfer service through Post Offices (iMO Centre) in India between two resident individuals in Indian territory. Money from INR 1,000/- to INR 50,000/- can be transferred from designated iMO Post Offices. The data set contain the list of Post offices (Circle wise) performing IMO service."
+    ],
+    "changed": [
+      1489119348
+    ],
+    "created": [
+      1367484000
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Postal Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Communications",
+      "Department of Posts"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Post"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "Instant",
+      "MO",
+      "remittance",
+      "transfer",
+      "Order",
+      "Money"
+    ],
+    "nid": [
+      88684
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Instant Money Order Post Offices"
+    ],
+    "uuid": [
+      "88ae2399-2c06-4f9d-a1e9-a2aea85a9d48"
+    ],
+    "vid": [
+      7850869
+    ],
+    "view_count": [
+      5289
+    ],
+    "search_api_id": [
+      "entity:node/88684:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/institution-wise-snapshot-performance"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2098
+    ],
+    "published_date": [
+      1375689900
+    ],
+    "body:value": [
+      "Data covers institution-wise and year-wise Institutional Finance (IF) - Export Import Bank of India (EXIM) and India Infrastructure Finance Company Limited (IIFCL)."
+    ],
+    "changed": [
+      1483436712
+    ],
+    "created": [
+      1375688460
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Institutional Finance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Financial Services"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Banking"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bank",
+      "finance",
+      "IIFCL",
+      "Institutional",
+      "EXIM"
+    ],
+    "nid": [
+      88686
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Institution-wise Snapshot Performance"
+    ],
+    "uuid": [
+      "83d806e7-2eff-4f30-bb73-308adeb04cb2"
+    ],
+    "vid": [
+      7850883
+    ],
+    "view_count": [
+      1917
+    ],
+    "search_api_id": [
+      "entity:node/88686:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/international-speed-post-ems-network-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10412
+    ],
+    "published_date": [
+      1358147445
+    ],
+    "body:value": [
+      "Backed by Universal Postal Union, EMS Speed Post offers economical and faster service to 97 foreign countries. International Speed Post tariff and names of the Countries can be seen from the data."
+    ],
+    "changed": [
+      1489119348
+    ],
+    "created": [
+      1357844340
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Speed Post"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Communications",
+      "Department of Posts"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Post"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "courier",
+      "EMS",
+      "International",
+      "Post",
+      "tariff",
+      "Urgent",
+      "Despatch"
+    ],
+    "nid": [
+      88688
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "International Speed Post (EMS) Network"
+    ],
+    "uuid": [
+      "24bd5d8c-e1c0-428d-8ce0-705761a516b1"
+    ],
+    "vid": [
+      7850888
+    ],
+    "view_count": [
+      10198
+    ],
+    "search_api_id": [
+      "entity:node/88688:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/inter-regional-flow-power-twelfth-five-year-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      576
+    ],
+    "published_date": [
+      1370941036
+    ],
+    "body:value": [
+      "The data refers to Inter-Regional Flow of Power at the end of Twelfth Five Year Plan (2012-17). The region-wise details are given at the end of Eleventh and Twelfth Five Year Plan period."
+    ],
+    "changed": [
+      1436419215
+    ],
+    "created": [
+      1370681640
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Plan",
+      "Power",
+      "Tentative"
+    ],
+    "nid": [
+      88690
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Inter-Regional Flow of Power - Twelfth Five Year Plan"
+    ],
+    "uuid": [
+      "a74be0fc-0af1-48b2-9e49-7d702221130f"
+    ],
+    "vid": [
+      7850891
+    ],
+    "view_count": [
+      539
+    ],
+    "search_api_id": [
+      "entity:node/88690:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/interventions-improving-accessibilities-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      421
+    ],
+    "published_date": [
+      1382683895
+    ],
+    "body:value": [
+      "The data refers to details of the interventions for improving accessibility to educational facilities for the surveyed states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission in eleven states and two union territories for 'Evaluation Report On Sarva Shiksha Abhiyan, 2010'. The reference period for the study was 2003 to 2007."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1382600520
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "classroom",
+      "primary",
+      "School"
+    ],
+    "nid": [
+      88692
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Interventions for Improving Accessibilities - Based on Sample Survey"
+    ],
+    "uuid": [
+      "adfbc3d6-1548-403e-901e-309fd801717b"
+    ],
+    "vid": [
+      7850898
+    ],
+    "view_count": [
+      410
+    ],
+    "search_api_id": [
+      "entity:node/88692:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/inventory-coal-and-lignite-reserves"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2392
+    ],
+    "published_date": [
+      1370940139
+    ],
+    "body:value": [
+      "The data refers to details of the Inventory of Coal and Lignite Reserves as on 1 April 2012."
+    ],
+    "changed": [
+      1436419215
+    ],
+    "created": [
+      1370682000
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Coal",
+      "Inventory",
+      "Lignite",
+      "Reserve"
+    ],
+    "nid": [
+      88694
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Inventory of Coal and Lignite Reserves"
+    ],
+    "uuid": [
+      "d339eafe-be13-432a-89df-6f45784e7c44"
+    ],
+    "vid": [
+      7850901
+    ],
+    "view_count": [
+      2167
+    ],
+    "search_api_id": [
+      "entity:node/88694:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/investigators-observations-about-items-pse-awc"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      744
+    ],
+    "published_date": [
+      1375449396
+    ],
+    "body:value": [
+      "The data refers to the Investigators observations on about items of Pre-School Education (PSE) (% AWC). It can be seen that Bihar had the least number of AWC with adequate facilities for PSE with only around 10-20 per cent having the required items for PSE."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AWW",
+      "child",
+      "Development",
+      "Education",
+      "ICDS",
+      "Integrated",
+      "Scheme",
+      "School",
+      "Worker",
+      "Anganwadi"
+    ],
+    "nid": [
+      88696
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Investigators Observations on about Items of PSE (% AWC)"
+    ],
+    "uuid": [
+      "3b859015-4e46-499b-b9cb-1cbfd0f3c65c"
+    ],
+    "vid": [
+      7850908
+    ],
+    "view_count": [
+      706
+    ],
+    "search_api_id": [
+      "entity:node/88696:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/investigators-observations-medical-kits-awc"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1176
+    ],
+    "published_date": [
+      1375449404
+    ],
+    "body:value": [
+      "The data refers to the Investigators observations on medical kits (%AWC). It can be seen that in most AWCs (almost 100%) of Himachal Pradesh, Gujarat, Karnataka, Tamil Nadu and Uttarakhand the medical kit were available."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Scheme",
+      "Anganwadi",
+      "AWC"
+    ],
+    "nid": [
+      88698
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Investigators Observations on Medical Kits (%AWC)"
+    ],
+    "uuid": [
+      "a0ce4908-a6d3-43f3-968a-5c0b92ac0adf"
+    ],
+    "vid": [
+      7850914
+    ],
+    "view_count": [
+      1115
+    ],
+    "search_api_id": [
+      "entity:node/88698:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/investment-and-consumption-expenditure-proportion-gdp-constant-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3646
+    ],
+    "published_date": [
+      1364619164
+    ],
+    "body:value": [
+      "Investment and Consumption Expenditure as proportion of GDP at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) (in per cent)"
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1364450760
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Economy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capita",
+      "Consumption",
+      "domestic",
+      "Gross",
+      "Plan",
+      "Rate",
+      "Formion"
+    ],
+    "nid": [
+      88700
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Investment and Consumption Expenditure as proportion of GDP at constant prices"
+    ],
+    "uuid": [
+      "94d41a6f-24d5-4aa0-94ed-cb51c4f29b1d"
+    ],
+    "vid": [
+      7850921
+    ],
+    "view_count": [
+      3417
+    ],
+    "search_api_id": [
+      "entity:node/88700:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/investment-railways-during-11th-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      823
+    ],
+    "published_date": [
+      1369904034
+    ],
+    "body:value": [
+      "The data refers to details on Investment in railways which includes Gross Budgetary Support, Internal Generation and Extra Budgetary Resources during 11th Plan."
+    ],
+    "changed": [
+      1493988671
+    ],
+    "created": [
+      1369747200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Railways"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Railways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Gross",
+      "support",
+      "budgetary",
+      "resource",
+      "Ternal",
+      "Extra"
+    ],
+    "nid": [
+      88702
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Investment In Railways During 11th Plan"
+    ],
+    "uuid": [
+      "76755e1b-cadc-450d-8890-96a48a6ecd02"
+    ],
+    "vid": [
+      7850927
+    ],
+    "view_count": [
+      764
+    ],
+    "search_api_id": [
+      "entity:node/88702:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/investment-requirement-estimates-high-powered-expert-committee-hpec-water-and"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1625
+    ],
+    "published_date": [
+      1369300079
+    ],
+    "body:value": [
+      "Isher Ahluwalia Committee estimated the 20 years investment requirement from different sources for Urban water supply, sewage, solid waste management and storm water based on service level benchmark developed by Ministry of Urban Development."
+    ],
+    "changed": [
+      1436419245
+    ],
+    "created": [
+      1369230420
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Urban Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "estimated",
+      "HPEC",
+      "Infrastructure",
+      "Management",
+      "Urban",
+      "Storm",
+      "Waste",
+      "Solid"
+    ],
+    "nid": [
+      88704
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Investment Requirement Estimates By High Powered Expert Committee (HPEC) - Water and Sanitation/Storm Water Drainage"
+    ],
+    "uuid": [
+      "70607bac-5864-457c-965f-a831b2dfb453"
+    ],
+    "vid": [
+      7850929
+    ],
+    "view_count": [
+      1461
+    ],
+    "search_api_id": [
+      "entity:node/88704:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/investment-requirements-indian-airports-during-twelfth-five-year-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      783
+    ],
+    "published_date": [
+      1370434937
+    ],
+    "body:value": [
+      "The data refers to an overview of investment requirements at Indian airports during the Twelfth Five-year(2012-17) Plan. The details regarding amounts of investments and type of investment are given."
+    ],
+    "changed": [
+      1436419227
+    ],
+    "created": [
+      1370406420
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Water ways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Private",
+      "Airport",
+      "Authority"
+    ],
+    "nid": [
+      88706
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Investment requirements at Indian Airports during the Twelfth Five-Year Plan"
+    ],
+    "uuid": [
+      "66c87200-fe53-4d27-b3b8-90d5e99b2f52"
+    ],
+    "vid": [
+      7850933
+    ],
+    "view_count": [
+      766
+    ],
+    "search_api_id": [
+      "entity:node/88706:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/exports-imports-and-trade-balance"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      34177
+    ],
+    "published_date": [
+      1371813872
+    ],
+    "body:value": [
+      "The trade balance is the difference between the monetary value of exports and imports of output in an economy, it is one of the most important  macroeconomic parameter. Data contains Exports, Imports and Trade Balance of India (in Rs Crore and Us $ Million) from 1949-50. It also contains the percentage rate of change of exports as well as imports with respect to the previous year. The data has been provided by Department of Economic Affairs."
+    ],
+    "changed": [
+      1401946694
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Economy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Deficit",
+      "Economic",
+      "Economy",
+      "Export",
+      "finance",
+      "Foreign",
+      "Import",
+      "Macro"
+    ],
+    "nid": [
+      87883
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Exports, Imports and Trade Balance"
+    ],
+    "uuid": [
+      "19ac619d-69dd-400f-9f68-4c964260fd98"
+    ],
+    "vid": [
+      7847292
+    ],
+    "view_count": [
+      32321
+    ],
+    "search_api_id": [
+      "entity:node/87883:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/external-payments-current-and-capital-account-proportion-gdp-current-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3491
+    ],
+    "published_date": [
+      1364465520
+    ],
+    "body:value": [
+      "Capital Account and Current account are two primary components of balance of payments. Balance of Payment (BoP) of a country is the Systematic record of all economic transactions between the residents of a foreign country. External Payments- Current & Capital Account as proportion of GDP at current prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) have been provided in the data. Data Contains comonents like Current Account Balance, Capital Account Balance, Merchandise Exports, Merchandise Imports, Merchandise Trade Deficit, Net Service export, Private remittances, Net Investment Income, Foreign Direct Investment, Portfolio equity, Loans and Banking capital. \nCapital Account gives a summary of the capital expenditure and income for a country and Current account balance compares net trade of a country in goods and services, plus net earnings, and net transfer payments to and from the rest of the world during the period specified. The main components  of  the  capital  account  include  foreign investment,  loans and banking  capital.  Foreign  investment, comprising  Foreign  Direct  Investment (FDI)  and  Portfolio  Investment."
+    ],
+    "changed": [
+      1401955363
+    ],
+    "created": [
+      1364451240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Economy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Banking",
+      "Capital",
+      "Deficit",
+      "domestic",
+      "Economy",
+      "expenditure",
+      "Export",
+      "FDI",
+      "finance",
+      "Foreign",
+      "Gross",
+      "Import",
+      "Income",
+      "International",
+      "Investment",
+      "Loan",
+      "remittance",
+      "payment",
+      "trade",
+      "Macroeconomics",
+      "BOP",
+      "transfer",
+      "Earning",
+      "Equity",
+      "Account",
+      "Balance",
+      "Prive",
+      "Direct",
+      "Merchise",
+      "Portfolio"
+    ],
+    "nid": [
+      87886
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "External Payments - Current and Capital Account as proportion of GDP at current prices"
+    ],
+    "uuid": [
+      "7df4e611-eb8e-4c77-a3de-2e6c9cc73f02"
+    ],
+    "vid": [
+      7847300
+    ],
+    "view_count": [
+      3095
+    ],
+    "search_api_id": [
+      "entity:node/87886:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/extramural-grants-received-nabi-scientists"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      868
+    ],
+    "published_date": [
+      1375264435
+    ],
+    "body:value": [
+      "The data refers to the details on the extramural grants received by NABI scientists from different national funding agencies."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1372669440
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Agri - Food Biotechnology Institute"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India",
+      "National Agri-Food Biotechnology Institute (NABI), Mohali"
+    ],
+    "field_sector:name": [
+      "Biotechnology",
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agri",
+      "Agriculture",
+      "Biotechnology",
+      "Food",
+      "Grant",
+      "Institute",
+      "national"
+    ],
+    "nid": [
+      87888
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Extramural Grants Received by NABI Scientists"
+    ],
+    "uuid": [
+      "61dd871b-80c3-4ac4-b43e-84ecf06cf2ce"
+    ],
+    "vid": [
+      7847303
+    ],
+    "view_count": [
+      783
+    ],
+    "search_api_id": [
+      "entity:node/87888:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/factors-responsible-increase-attendance-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      832
+    ],
+    "published_date": [
+      1385706870
+    ],
+    "body:value": [
+      "The data refers to state-wise information of factors responsible for increase in attendance in schools. It provides details such as Increase in Attendance (%age of Sample School), Increase in Attendance Attributed to CMDM and Other Contributing Factors for Increase in attendance for the sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385641020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CMDM",
+      "Scheme",
+      "School",
+      "Cotributing"
+    ],
+    "nid": [
+      87890
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Factors Responsible for Increase in Attendance - Based on Sample Survey"
+    ],
+    "uuid": [
+      "2eae6a72-5f7d-4d2f-b147-0bef3754d171"
+    ],
+    "vid": [
+      7847309
+    ],
+    "view_count": [
+      730
+    ],
+    "search_api_id": [
+      "entity:node/87890:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/factors-responsible-increase-retention-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      786
+    ],
+    "published_date": [
+      1385706983
+    ],
+    "body:value": [
+      "The data refers to state-wise information of factors responsible for increase in Retention in schools. It provides details such as Increase in Retention (%age of Sample Schools), Increase in Retention Attributed to CMDM, Other Contributing Factors for Increase in Retention for the sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385641020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CMDM",
+      "retention",
+      "Scheme",
+      "School",
+      "Cooked",
+      "Meal",
+      "Ctribute"
+    ],
+    "nid": [
+      87892
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Factors Responsible for Increase in Retention - Based on Sample Survey"
+    ],
+    "uuid": [
+      "9a3a13cc-5f6f-4343-bdda-bb078c8c395a"
+    ],
+    "vid": [
+      7847315
+    ],
+    "view_count": [
+      704
+    ],
+    "search_api_id": [
+      "entity:node/87892:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/factory-employment"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1887
+    ],
+    "published_date": [
+      1365011433
+    ],
+    "body:value": [
+      "The data relates to the employment in factories (employing 10 workers or more with the aid of power, 20 workers or more without the aid of power) in Public sector as well as Private sector. The shows employment in various sectors namely Textiles, machinery, Transport equipment, Electricity, gas etc. The information is based on the annual statutory returns received by Labour bureau From States and Union Territories. The periodicity of the data is annual and the reference period is calendar year."
+    ],
+    "changed": [
+      1602755809
+    ],
+    "created": [
+      1364898840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Labour",
+      "Private",
+      "Public"
+    ],
+    "nid": [
+      87894
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Factory Employment"
+    ],
+    "uuid": [
+      "3728ef06-bb97-4bc8-8813-6b9f49d33d92"
+    ],
+    "vid": [
+      7847329
+    ],
+    "view_count": [
+      1747
+    ],
+    "search_api_id": [
+      "entity:node/87894:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/factory-employment-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2202
+    ],
+    "published_date": [
+      1365011432
+    ],
+    "body:value": [
+      "The employment relate to persons employed directly or through any agency, whether for wages or not, in any manufacturing process or in cleaning any part of the machinery or premises used for a manufacturing process or any other kind of work incidental to or connected with the manufacturing process or the subject of manufacturing process. The information is based on the annual statutory returns received by Labour bureau From States and Union Territories. The information at States and Union Territories level is collected by the Chief Inspectors of the Factories from individual units situated in the States and Union Territories under their jurisdictions and is transmitted to Labour Bureau in prescribed format after aggregating at the State level. Labour Bureau compiles and disseminates the information relating to factories at all India level. The periodicity of the data is annual and the reference period is calendar year. The Factory Act, 1948 covers factories employing 10 workers or more with the aid of power, 20 workers or more without the aid of power and factories specially brought under the purview of the Act by the State Governments. "
+    ],
+    "changed": [
+      1602755823
+    ],
+    "created": [
+      1364898840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employment",
+      "Labour"
+    ],
+    "nid": [
+      87896
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Factory Employment By States"
+    ],
+    "uuid": [
+      "03910f79-d319-4e72-8910-9a7f9eb49cbd"
+    ],
+    "vid": [
+      7847342
+    ],
+    "view_count": [
+      2051
+    ],
+    "search_api_id": [
+      "entity:node/87896:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/faculty-wise-enrolment-higher-education"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1944
+    ],
+    "published_date": [
+      1364834465
+    ],
+    "body:value": [
+      "The data refers to faculty-wise enrolment in higher education sector by various disciplines are presented in this table. The data are taken from the University Grants Commission (UGC) annual report."
+    ],
+    "changed": [
+      1426768991
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Human Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Commerce",
+      "Engineering",
+      "Faculty",
+      "Grant",
+      "Law",
+      "Science",
+      "University",
+      "UGC",
+      "Veterinary",
+      "Commission"
+    ],
+    "nid": [
+      87898
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Faculty-Wise Enrolment In Higher Education"
+    ],
+    "uuid": [
+      "8d651d8b-adff-4bf5-8fc0-cf85eec389c9"
+    ],
+    "vid": [
+      7847352
+    ],
+    "view_count": [
+      1825
+    ],
+    "search_api_id": [
+      "entity:node/87898:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/faculty-wise-enrolment-women-higher-education"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2050
+    ],
+    "published_date": [
+      1364834676
+    ],
+    "body:value": [
+      "The data refers to faculty-wise enrolment of women in higher education sector by various disciplines are presented in this table. The data are taken from the University Grants Commission (UGC) annual report."
+    ],
+    "changed": [
+      1426852034
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Human Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Engineering",
+      "Faculty",
+      "Science",
+      "Technology",
+      "Veterinary"
+    ],
+    "nid": [
+      87900
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Faculty-Wise Enrolment of Women In Higher Education"
+    ],
+    "uuid": [
+      "3ea86df0-3dad-4c12-a94f-ab116fac9890"
+    ],
+    "vid": [
+      7847362
+    ],
+    "view_count": [
+      1950
+    ],
+    "search_api_id": [
+      "entity:node/87900:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/faculty-wise-students-enrolment-higher-education-different-streams"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2188
+    ],
+    "published_date": [
+      1368611697
+    ],
+    "body:value": [
+      "The data refers to details on faculty-wise students enrolment in higher education (graduates+post graduates) in different streams like Arts, Science, Commerce/Management, Engineering / Technology, Medicine etc for the period 2007-08 to 2009-10."
+    ],
+    "changed": [
+      1436419251
+    ],
+    "created": [
+      1368538080
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Higher Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Approved",
+      "Education",
+      "Enrolment",
+      "Institute",
+      "MBA",
+      "Student",
+      "Graduate",
+      "Higher"
+    ],
+    "nid": [
+      87902
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Faculty-wise students enrolment in higher education in different streams"
+    ],
+    "uuid": [
+      "2cd10cd8-bc3b-424a-b8de-a5006a4a7dc0"
+    ],
+    "vid": [
+      7847367
+    ],
+    "view_count": [
+      2080
+    ],
+    "search_api_id": [
+      "entity:node/87902:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/female-literacy-rates-sts-and-total-population-percentage"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1119
+    ],
+    "published_date": [
+      1374050936
+    ],
+    "body:value": [
+      "Gaps continue between Female literacy levels and health indicators of STs and the general population and have widened over the years. The continuing\ngap between literacy levels of STs and the general population is shown in this table."
+    ],
+    "changed": [
+      1436419161
+    ],
+    "created": [
+      1373635200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Social Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development",
+      "Women"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "gap",
+      "Health",
+      "Literacy",
+      "Indicator",
+      "Rate",
+      "Level"
+    ],
+    "nid": [
+      87906
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Female Literacy Rates Of STs And Total Population (In Percentage)"
+    ],
+    "uuid": [
+      "c6d0f2cc-8541-4ea7-bae9-b9e10943058a"
+    ],
+    "vid": [
+      7847375
+    ],
+    "view_count": [
+      966
+    ],
+    "search_api_id": [
+      "entity:node/87906:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/female-research-and-development-manpower-qualifications-central-and-state-sectors"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      757
+    ],
+    "published_date": [
+      1365013697
+    ],
+    "body:value": [
+      "The table presents data on female Research and Development manpower by qualifications for Central And State sectors. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Human Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Engineering",
+      "Medical",
+      "Science",
+      "Technology",
+      "Women",
+      "Social",
+      "Natural"
+    ],
+    "nid": [
+      87908
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Female Research and Development Manpower By Qualifications For Central And State Sectors"
+    ],
+    "uuid": [
+      "e181ac12-07da-475c-8006-0d6fadb0e8f0"
+    ],
+    "vid": [
+      7847382
+    ],
+    "view_count": [
+      732
+    ],
+    "search_api_id": [
+      "entity:node/87908:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/female-research-and-development-manpower-qualifications-public-and-private-sectors"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1356
+    ],
+    "published_date": [
+      1365317584
+    ],
+    "body:value": [
+      "The table presents data on female R&D manpower by qualifications for public and private sectors. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Human Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Engineering",
+      "Medical",
+      "Science",
+      "Technology",
+      "Women",
+      "Social",
+      "Natural"
+    ],
+    "nid": [
+      87910
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Female Research And Development Manpower By Qualifications For Public And Private Sectors"
+    ],
+    "uuid": [
+      "adba628c-a815-414d-a9a9-fc59c3390d2b"
+    ],
+    "vid": [
+      7847388
+    ],
+    "view_count": [
+      1300
+    ],
+    "search_api_id": [
+      "entity:node/87910:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/field-crop-varieties-released-central-release"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6321
+    ],
+    "published_date": [
+      1366462832
+    ],
+    "body:value": [
+      "The data refers to the information about the field crops varieties released by centre during the year. The dataset contains the name of the field crop, name of the variety released, the duration of the variety, and the recommended zone of its production."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1366271280
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Field Crops"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Crops"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "crop",
+      "Field",
+      "Recommend"
+    ],
+    "nid": [
+      87912
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Field Crop varieties released (Central Release)"
+    ],
+    "uuid": [
+      "c0c05276-53e7-40a6-917e-b08dc9862f71"
+    ],
+    "vid": [
+      7847394
+    ],
+    "view_count": [
+      4232
+    ],
+    "search_api_id": [
+      "entity:node/87912:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-achievement-under-cmp-scheme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      720
+    ],
+    "published_date": [
+      1384940974
+    ],
+    "body:value": [
+      "The data refers to information on Financial achievements under Clean Milk Production (CMP) Scheme. It provides details of the total number of projects approved, on-going projects and completed projects under CMP Scheme. It further provides details on the total approved outlay, central share and funds released. This scheme was started during the year 2003-04 (Oct 2003) with a total outlay of Rs 30.00 crore for the Tenth Five year Plan. It is being continued during the 11th Five year Plan as merged scheme together with Intensive Dairy Development Programme (IDDP) with a total plan outlay of Rs 225.00 Crore (IDDP & CMP) and budget provision of Rs 30.00 Crore for CMP during 2013-14."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1384840980
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Dairying Scheme"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Dairying"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Approved",
+      "Development",
+      "Fund",
+      "IDDP",
+      "Milk",
+      "Outlay",
+      "released",
+      "Production",
+      "Programme",
+      "Project",
+      "Scheme",
+      "Dairy",
+      "Clean",
+      "Intensive",
+      "Completed"
+    ],
+    "nid": [
+      87914
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial achievement under CMP Scheme"
+    ],
+    "uuid": [
+      "3f862a62-d216-4e8a-b30b-8806ea644b1a"
+    ],
+    "vid": [
+      7847399
+    ],
+    "view_count": [
+      671
+    ],
+    "search_api_id": [
+      "entity:node/87914:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-and-physical-performance-under-poverty-alleviation-programmes-irdp-sgsy-jry-jgsy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6563
+    ],
+    "published_date": [
+      1375096462
+    ],
+    "body:value": [
+      "The data refers to Financial and Physical Performance under Poverty Alleviation Programmes IRDP, SGSY, JRY, JGSY and EAS during Five Year Plan - Yearwise. This includes total allocation by Center and States, expenditure and number of beneficiaries/families assisted under Integrated Rural Development Program (IRDP), Swaranjayanti Gram Swarozgar Yojana (SGSY), Jawahar Rozgar Yojana (JRY), Jawahar Gram Samridhi Yojana (JGSY), Employment Assurance Scheme (EAS)"
+    ],
+    "changed": [
+      1436418915
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "Employment",
+      "Financial",
+      "gram",
+      "Integrated",
+      "Performance",
+      "Physical",
+      "Scheme",
+      "Rural",
+      "Yojana",
+      "Assurance",
+      "Swarozgar",
+      "Program",
+      "Jawahar",
+      "Samridhi",
+      "Rozgar",
+      "Swaranjayanti"
+    ],
+    "nid": [
+      87916
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial and Physical Performance under Poverty Alleviation Programmes IRDP, SGSY, JRY, JGSY and EAS during Five Year Plan - Yearwise"
+    ],
+    "uuid": [
+      "668b367f-5e64-41bd-92df-2ccf8cc16662"
+    ],
+    "vid": [
+      7847403
+    ],
+    "view_count": [
+      6416
+    ],
+    "search_api_id": [
+      "entity:node/87916:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-and-physical-performance-under-national-social-assistance-programme-during-10th"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1320
+    ],
+    "published_date": [
+      1375094327
+    ],
+    "body:value": [
+      "The centrally supported Social Assistance Programme was one of the two major initiatives of the government in the 1990s. The National Social Assistance Programme (NSAP), launched in August 1995 marks a significant step towards fulfilment of the Directive Principles of State Policy. The data refers to details of expenditure and the number of beneficiaries covered under the NSAP during 10th Five year plan (2002 to 2007). The NSAP had three components, National Old Age Pension Scheme (NOAPS), National Family Benefit Scheme (NFBS), National Maternity Benefit Scheme (NMBS). The NSAP is a centrally-sponsored programme that aims at ensuring a minimum national standard of social assistance over and above the assistance that states provide from their own resources. The NOAPS provides a monthly pension of Rs. 75 to destitute BPL persons above the age of 65. The NFBS is a scheme for BPL families who are given Rs. 10,000 in the event of the death of the breadwinner. The NMBS provides Rs. 500 to support nutritional intake for pregnant women."
+    ],
+    "changed": [
+      1436419150
+    ],
+    "created": [
+      1374844620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "Benefit",
+      "Maternity",
+      "NFBS",
+      "NMBS",
+      "NOAPS",
+      "Scheme",
+      "Pension",
+      "Family"
+    ],
+    "nid": [
+      87919
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial and Physical Performance under the National Social Assistance Programme during 10th Five Year Plan"
+    ],
+    "uuid": [
+      "1c2d62bc-16c5-4b12-b4f6-89ad082743c2"
+    ],
+    "vid": [
+      7847408
+    ],
+    "view_count": [
+      1181
+    ],
+    "search_api_id": [
+      "entity:node/87919:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-and-physical-progress-under-deds-scheme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1098
+    ],
+    "published_date": [
+      1384862487
+    ],
+    "body:value": [
+      "The data refers to year-wise information on financial and physical progress of Dairy Entrepreneurship Development Scheme (DEDS). The objective of this Scheme is to generate self-employment opportunities in dairy sector by covering activities such as enhancement of milk production, preservation, transportation, procuring and marketing of milk. The data refers to details on the yearly amount released by Government of India to NABARD, subsidy released by NABARD , 2013) and number of dairy units established from 2010-11 to 2013-14 (up to 30th September."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1384849980
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Dairying Scheme"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Dairying"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Development",
+      "DVCF",
+      "Fund",
+      "progress",
+      "Entrepreneurship",
+      "Dairy",
+      "Venture"
+    ],
+    "nid": [
+      87921
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial and Physical Progress under DEDS Scheme"
+    ],
+    "uuid": [
+      "f46963aa-09bd-4772-9a86-abfdac7ca282"
+    ],
+    "vid": [
+      7847414
+    ],
+    "view_count": [
+      1015
+    ],
+    "search_api_id": [
+      "entity:node/87921:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-assistance-sanctioned-and-disbursed-all-india-financial-institutions"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2162
+    ],
+    "published_date": [
+      1371795449
+    ],
+    "body:value": [
+      "The data refers to details regarding the financial assistance sanctioned and disbursed by all India Financial Institutions such as Industrial Finance Corporation of India Ltd, Industrial Development Bank of India, Life Insurance Corporation of India, etc."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Monetary Trends"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Assistance",
+      "Development",
+      "disbursed",
+      "Economic",
+      "finance",
+      "Financial",
+      "industrial",
+      "Survey",
+      "Monetary",
+      "Trend"
+    ],
+    "nid": [
+      87923
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Assistance Sanctioned and Disbursed by All India Financial Institutions"
+    ],
+    "uuid": [
+      "321d5ea8-1655-4554-84b6-72ddcea8d874"
+    ],
+    "vid": [
+      7847419
+    ],
+    "view_count": [
+      1988
+    ],
+    "search_api_id": [
+      "entity:node/87923:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-intelligence-unit-india-cooperation-domestic-and-international-law-enforcement"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3500
+    ],
+    "published_date": [
+      1361270485
+    ],
+    "body:value": [
+      "As a part of Global Anti Money Laundering and Combating of Financial Terrorism efforts, Timely dissemination of Intelligence is an essential activity of FIU and FIU receives /sends request on Money Laundering, Terrorist Financing, Corporate frauds, Organised crimes, Fake currency & Tax evasion."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Intelligence"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Revenue",
+      "Financial Intelligence Unit - India"
+    ],
+    "field_sector:name": [
+      "Finance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AML",
+      "CFT",
+      "Cooperation",
+      "finance",
+      "Anti",
+      "Money",
+      "Laundering",
+      "Combating",
+      "Terrorism"
+    ],
+    "nid": [
+      87925
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Intelligence Unit India cooperation with domestic and international law enforcement agencies"
+    ],
+    "uuid": [
+      "2fc4e064-e907-43a9-a4c7-55db1949fe78"
+    ],
+    "vid": [
+      7847432
+    ],
+    "view_count": [
+      3120
+    ],
+    "search_api_id": [
+      "entity:node/87925:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-outcomes-under-mahatma-gandhi-national-rural-employment-guarantee-act-nrega"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3115
+    ],
+    "published_date": [
+      1365010763
+    ],
+    "body:value": [
+      "The data describes about State-wise and All India data on the funds released by government and expenditure on wages, materials and administration."
+    ],
+    "changed": [
+      1441701374
+    ],
+    "created": [
+      1364973840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Statistics",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Administration",
+      "expenditure",
+      "Material",
+      "NREGA",
+      "Wage"
+    ],
+    "nid": [
+      87928
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Outcomes Under Mahatma Gandhi National Rural Employment Guarantee Act (NREGA)"
+    ],
+    "uuid": [
+      "72539a12-513e-4e9a-99bc-bbab1d4270a9"
+    ],
+    "vid": [
+      7847464
+    ],
+    "view_count": [
+      2897
+    ],
+    "search_api_id": [
+      "entity:node/87928:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-performance-air-india-limited-during-eleventh-plan-period"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      847
+    ],
+    "published_date": [
+      1370430807
+    ],
+    "body:value": [
+      "The data refers to an overview of the Financial Performance of Air India limited during the Eleventh Plan Period."
+    ],
+    "changed": [
+      1436419224
+    ],
+    "created": [
+      1370410740
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Aviation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Financial",
+      "Performance"
+    ],
+    "nid": [
+      87930
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Performance of Air India Limited During The Eleventh Plan Period"
+    ],
+    "uuid": [
+      "84a3828e-f1b8-4614-8dc9-c81faaed6403"
+    ],
+    "vid": [
+      7847466
+    ],
+    "view_count": [
+      789
+    ],
+    "search_api_id": [
+      "entity:node/87930:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-performance-airports-authority-india-aai-during-eleventh-plan-period"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1374
+    ],
+    "published_date": [
+      1370430490
+    ],
+    "body:value": [
+      "The data refers to an overview of the Financial Performance of Airports Authority of India (AAI) during Eleventh Plan Period."
+    ],
+    "changed": [
+      1436419224
+    ],
+    "created": [
+      1370410920
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Aviation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AAI",
+      "Financial",
+      "Performance",
+      "Airport",
+      "Authority"
+    ],
+    "nid": [
+      87932
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Performance of Airports Authority of India (AAI) During Eleventh Plan Period"
+    ],
+    "uuid": [
+      "bde01f4a-018c-488e-98db-20e2f006fde3"
+    ],
+    "vid": [
+      7847470
+    ],
+    "view_count": [
+      1288
+    ],
+    "search_api_id": [
+      "entity:node/87932:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-performance-indian-railways"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3677
+    ],
+    "published_date": [
+      1372073363
+    ],
+    "body:value": [
+      "The data refers to the Financial Performance of Indian Railways. It gives item-wise details for various years."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Budgetary Transactions"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "finance",
+      "Receipt",
+      "passenger",
+      "Traffic",
+      "Coaching"
+    ],
+    "nid": [
+      87934
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Performance of Indian Railways"
+    ],
+    "uuid": [
+      "0f090753-759d-4ea3-81ae-a5ed8236ee6f"
+    ],
+    "vid": [
+      7847476
+    ],
+    "view_count": [
+      3524
+    ],
+    "search_api_id": [
+      "entity:node/87934:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-performance-pawan-hans-helicopters-limited-during-eleventh-plan-period"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      603
+    ],
+    "published_date": [
+      1370430128
+    ],
+    "body:value": [
+      "The data refers to an overview of the Financial Performance of Pawan Hans Helicopters limited during Eleventh Plan Period."
+    ],
+    "changed": [
+      1436419224
+    ],
+    "created": [
+      1370411100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Aviation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Financial",
+      "Performance",
+      "Pawan",
+      "Hans",
+      "Helicopter"
+    ],
+    "nid": [
+      87936
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Performance of Pawan Hans Helicopters Limited During Eleventh Plan Period"
+    ],
+    "uuid": [
+      "15dcb632-e67f-43e5-a3db-9cc855c78373"
+    ],
+    "vid": [
+      7847479
+    ],
+    "view_count": [
+      525
+    ],
+    "search_api_id": [
+      "entity:node/87936:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-performance-public-sector-general-insurance-companies"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      22469
+    ],
+    "published_date": [
+      1375775086
+    ],
+    "body:value": [
+      "financial performance of the four Public Sector General Insurance Companies (PSGICs) have been furnished in the data.  An overview of performance figures company-wise and segment-wise has been also provided. The public sector general insurance companies are New India Assurance Company Limited (NIA), United India Insurance Company Limited (UIL), Oriental Insurance Company Limited (OICL) and National Insurance Company Limited (NICL)."
+    ],
+    "changed": [
+      1530592242
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "General Insurance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Financial Services"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Industries",
+      "Insurance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Company",
+      "domestic",
+      "finance",
+      "Gross",
+      "Industry",
+      "Premium",
+      "NIA",
+      "UIL",
+      "OICL",
+      "NICL",
+      "Commission",
+      "Assurance",
+      "Claim",
+      "Limited",
+      "Incurred",
+      "PSGIC",
+      "United",
+      "Oriental",
+      "Earned"
+    ],
+    "nid": [
+      87938
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Performance of Public Sector General Insurance Companies"
+    ],
+    "uuid": [
+      "e481d94b-bffc-4586-9676-172b96d90166"
+    ],
+    "vid": [
+      7847569
+    ],
+    "view_count": [
+      21347
+    ],
+    "search_api_id": [
+      "entity:node/87938:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-performance-srtus"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3876
+    ],
+    "published_date": [
+      1361536066
+    ],
+    "body:value": [
+      "The data refers to the financial performances of reporting SRTUs in India in terms of total revenue, total cost and various components of costs of the reporting SRTUs."
+    ],
+    "changed": [
+      1518410176
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "SRTU - Financial"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cost",
+      "DEPRECIATION",
+      "Fuel",
+      "Interest",
+      "Revenue",
+      "Road",
+      "Spares",
+      "Staff",
+      "transport",
+      "Tube",
+      "Tyre",
+      "Lubricant",
+      "Taxe"
+    ],
+    "nid": [
+      87942
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Performance of SRTUs"
+    ],
+    "uuid": [
+      "10b7e80b-a5e9-476a-99b0-2f1a9758d7de"
+    ],
+    "vid": [
+      7847629
+    ],
+    "view_count": [
+      3671
+    ],
+    "search_api_id": [
+      "entity:node/87942:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-performance-coal-sector-eleventh-five-year-plan-outlay"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      511
+    ],
+    "published_date": [
+      1370932106
+    ],
+    "body:value": [
+      "The data refers to the Financial Performance of the Coal Sector in the Eleventh Five Year Plan period. It gives sector-wise Eleventh Plan Outlay in terms of Approved, Mid-Term Appraisal (MTA) and Anticipated outlay."
+    ],
+    "changed": [
+      1436419170
+    ],
+    "created": [
+      1370684340
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anticipated",
+      "Appraisal",
+      "Approved",
+      "MTA"
+    ],
+    "nid": [
+      87955
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Performance of the Coal Sector- Eleventh Five Year Plan Outlay"
+    ],
+    "uuid": [
+      "799aa0eb-d382-4834-ae77-afa89dee0090"
+    ],
+    "vid": [
+      7847631
+    ],
+    "view_count": [
+      479
+    ],
+    "search_api_id": [
+      "entity:node/87955:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-performance-department-posts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      727
+    ],
+    "published_date": [
+      1372073762
+    ],
+    "body:value": [
+      "The data refers to the Financial Performance of the Department of Posts. It gives item-wise details for various years."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Budgetary Transactions"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Economic",
+      "finance",
+      "Gross",
+      "Receipt",
+      "Survey",
+      "budgetary",
+      "Transaction"
+    ],
+    "nid": [
+      87957
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Performance of the Department of Posts"
+    ],
+    "uuid": [
+      "cf19f82e-6f2c-43df-a33f-76127b0c6599"
+    ],
+    "vid": [
+      7847637
+    ],
+    "view_count": [
+      624
+    ],
+    "search_api_id": [
+      "entity:node/87957:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-performance-shipping-sector-during-eleventh-five-year-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      608
+    ],
+    "published_date": [
+      1370432352
+    ],
+    "body:value": [
+      "The data refers to an overview of Financial Performance of the Shipping Sector during Eleventh Five Year Plan."
+    ],
+    "changed": [
+      1436419230
+    ],
+    "created": [
+      1370318700
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Shipping Sector"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Water ways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Corporation",
+      "IWT",
+      "SCI",
+      "Shipping",
+      "Directorate",
+      "DGLL",
+      "Lighthouse",
+      "Lightship",
+      "Treaty"
+    ],
+    "nid": [
+      87959
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Performance of the Shipping Sector During Eleventh Five Year Plan"
+    ],
+    "uuid": [
+      "84104a94-7af8-4c9b-b8d9-b48ea6151315"
+    ],
+    "vid": [
+      7847640
+    ],
+    "view_count": [
+      536
+    ],
+    "search_api_id": [
+      "entity:node/87959:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-position-indian-railways"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2375
+    ],
+    "published_date": [
+      1369723415
+    ],
+    "body:value": [
+      "The data refers to details on financial results of Indian railways which includes gross traffic receipts, Working expenses, depreciation reserve fund, pension fund, net revenue etc from 2006-07 to 2012-2013."
+    ],
+    "changed": [
+      1436419242
+    ],
+    "created": [
+      1369661880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Railways"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Railways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Financial",
+      "Fund",
+      "Gross",
+      "Railway",
+      "Receipt",
+      "Revenue",
+      "Traffic",
+      "transport",
+      "Working",
+      "Result",
+      "Pension",
+      "Expense"
+    ],
+    "nid": [
+      87961
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Position Of Indian Railways"
+    ],
+    "uuid": [
+      "28520494-3d12-431e-82a5-408690a61c52"
+    ],
+    "vid": [
+      7847644
+    ],
+    "view_count": [
+      2298
+    ],
+    "search_api_id": [
+      "entity:node/87961:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-progress-various-plan-periods-science-and-technology-agencies"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1064
+    ],
+    "published_date": [
+      1365014498
+    ],
+    "body:value": [
+      "The data refers to plan-wise financial progress in Science And Technology for five-year plans. The data are taken from the Planning Commission, Government of India."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1364203020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Financial Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agency",
+      "expenditure",
+      "Outlay"
+    ],
+    "nid": [
+      87963
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Progress in Various Plan Periods For Science And Technology Agencies"
+    ],
+    "uuid": [
+      "edf83eff-600c-4e24-9c14-8af431d27ca4"
+    ],
+    "vid": [
+      7847651
+    ],
+    "view_count": [
+      979
+    ],
+    "search_api_id": [
+      "entity:node/87963:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-progress-pmgsy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      646
+    ],
+    "published_date": [
+      1370434679
+    ],
+    "body:value": [
+      "The data refers to an overview of the Physical Progress of PMGSY (as on 31 March, 2012)"
+    ],
+    "changed": [
+      1436419230
+    ],
+    "created": [
+      1370317500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Data_PMGSY"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "Fund",
+      "Proposal"
+    ],
+    "nid": [
+      87965
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Progress of PMGSY"
+    ],
+    "uuid": [
+      "100f3d9a-6cee-41fe-aab2-693a068608ef"
+    ],
+    "vid": [
+      7847654
+    ],
+    "view_count": [
+      582
+    ],
+    "search_api_id": [
+      "entity:node/87965:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-progress-total-sanitation-campaign-eleventh-plan-during-financial-years"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1106
+    ],
+    "published_date": [
+      1369904861
+    ],
+    "body:value": [
+      "The data refers to the financial progress of the total sanitation campaign in eleventh plan during financial years from 2007-08 to 2011-12 in terms of total outlay and total expenditure."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1369830180
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Sanitation"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "Outlay"
+    ],
+    "nid": [
+      87967
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Progress Of The Total Sanitation Campaign In Eleventh Plan During Financial Years"
+    ],
+    "uuid": [
+      "46b8ad6f-11bd-4910-9cfa-30f47b20aa4a"
+    ],
+    "vid": [
+      7847660
+    ],
+    "view_count": [
+      1055
+    ],
+    "search_api_id": [
+      "entity:node/87967:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-results-government-railways"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2050
+    ],
+    "published_date": [
+      1367316793
+    ],
+    "body:value": [
+      "The data describes details on financial results of government railways which includes capital-at-charge at the end of year, railway capital fund, gross traffic receipts, operating expenses, depreciation reserve fund, pension fund, net traffic receipts, net revenue, surplus or deficit, etc."
+    ],
+    "changed": [
+      1441695484
+    ],
+    "created": [
+      1366950900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Railways"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Statistics",
+      "Transport",
+      "Railways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Financial",
+      "Fund",
+      "Gross",
+      "Railway",
+      "Receipt",
+      "Revenue",
+      "Traffic",
+      "Result",
+      "Pension",
+      "Expense",
+      "Operating"
+    ],
+    "nid": [
+      87969
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Results Of Government Railways"
+    ],
+    "uuid": [
+      "34ed1734-2948-4dbb-bc67-5abb80f34a96"
+    ],
+    "vid": [
+      7847681
+    ],
+    "view_count": [
+      1861
+    ],
+    "search_api_id": [
+      "entity:node/87969:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financing-central-and-state-annual-plans"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      889
+    ],
+    "published_date": [
+      1372314298
+    ],
+    "body:value": [
+      "The data refers to the Financing for Central and State Annual Plans for various years (Revised Estimates and Budget Estimates). It gives item-wise details of financial resources of the Centre and States."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Budgetary Transactions"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Debt",
+      "domestic",
+      "Economic",
+      "finance",
+      "Survey",
+      "budgetary",
+      "resource",
+      "Transactions"
+    ],
+    "nid": [
+      87971
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financing for Central and State Annual Plans "
+    ],
+    "uuid": [
+      "484c0067-47ca-414f-9af2-fc862e33c737"
+    ],
+    "vid": [
+      7847685
+    ],
+    "view_count": [
+      698
+    ],
+    "search_api_id": [
+      "entity:node/87971:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

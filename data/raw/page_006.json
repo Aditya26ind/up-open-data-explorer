@@ -1,0 +1,4815 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/list-krishi-vigyan-kendra-kvk-north-east-region"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5227
+    ],
+    "published_date": [
+      1411130099
+    ],
+    "body:value": [
+      "List of Krishi Vigyan Kendra (KVK) in North East Region (NER) namely Assam, Meghalaya, Manipur, Mizoram, Arunachal Pradesh, Nagaland, Sikkim, Tripura"
+    ],
+    "changed": [
+      1411131043
+    ],
+    "created": [
+      1408610438
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Agricultural Research & Extension"
+    ],
+    "field_state_department:name": [
+      "Meghalaya",
+      "Agriculture Department, Meghalaya"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "KVK",
+      "NE",
+      "North",
+      "Krishi",
+      "Vigyan",
+      "Kendra",
+      "East"
+    ],
+    "nid": [
+      120558
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "List of Krishi Vigyan Kendra (KVK) in North East Region"
+    ],
+    "uuid": [
+      "87dca0e1-82fe-4678-a6b6-181950a73028"
+    ],
+    "vid": [
+      7890541
+    ],
+    "view_count": [
+      4765
+    ],
+    "search_api_id": [
+      "entity:node/120558:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/revised-scheme-wise-budgetary-support-xii-plan-2012-17"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1299
+    ],
+    "published_date": [
+      1411736283
+    ],
+    "body:value": [
+      "Data refers to revised scheme-wise budgetary support  for  XII Plan (2012-17) "
+    ],
+    "changed": [
+      1411736283
+    ],
+    "created": [
+      1409722248
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Information and Broadcasting"
+    ],
+    "field_sector:name": [
+      "Information and Broadcasting"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "Scheme",
+      "budgetary"
+    ],
+    "nid": [
+      124036
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Revised Scheme-wise  Budgetary Support for XII Plan (2012-17) "
+    ],
+    "uuid": [
+      "ee1cf361-4b0c-4d90-9d5e-ff5679ea3636"
+    ],
+    "vid": [
+      7890567
+    ],
+    "view_count": [
+      1232
+    ],
+    "search_api_id": [
+      "entity:node/124036:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/operational-community-radio-stations-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1796
+    ],
+    "published_date": [
+      1411389233
+    ],
+    "body:value": [
+      "List of Community Radio Stations operated by NGOs, Educational Institutions, Krishi Vigyan Kendras etc."
+    ],
+    "changed": [
+      1629201956
+    ],
+    "created": [
+      1411122845
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Radio Stations"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Information and Broadcasting"
+    ],
+    "field_sector:name": [
+      "Information and Broadcasting",
+      "Broadcasting"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Radio",
+      "Operation"
+    ],
+    "nid": [
+      126393
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Operational Community Radio Stations"
+    ],
+    "uuid": [
+      "53f35fb9-99cb-42fa-ae8c-7973f7bd4cf5"
+    ],
+    "vid": [
+      7890587
+    ],
+    "view_count": [
+      1556
+    ],
+    "search_api_id": [
+      "entity:node/126393:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/details-operational-channel-list"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3052
+    ],
+    "published_date": [
+      1411389158
+    ],
+    "body:value": [
+      "Details of Operational Channel list of Private F.M Radio stations."
+    ],
+    "changed": [
+      1629201953
+    ],
+    "created": [
+      1411126413
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Pvt. FM Radio"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Information and Broadcasting"
+    ],
+    "field_sector:name": [
+      "Information and Broadcasting",
+      "Broadcasting"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Radio",
+      "Private",
+      "station",
+      "FM",
+      "Operationalisation"
+    ],
+    "nid": [
+      126408
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Details of Operational Channel list"
+    ],
+    "uuid": [
+      "22bd39dd-fb34-4c1c-9af3-0fecb22aabc6"
+    ],
+    "vid": [
+      7890591
+    ],
+    "view_count": [
+      2858
+    ],
+    "search_api_id": [
+      "entity:node/126408:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capita-state-domestic-product-current-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3612
+    ],
+    "published_date": [
+      1406809327
+    ],
+    "body:value": [
+      "The State Domestic Product is defined as the aggregate of the economic value of all goods and services produced within the geographical boundaries of the State/UT, counted without duplication during a specified period of time, usually a year. The State Domestic Product (SDP) commonly known as State Income is one of the important indicators to measure the economic development of the State/UT. The Data contains Actual, Pre-actual and Budgeted Expenditure for GSDP, Population and per capita state domestic product (current prices) of states & Uts."
+    ],
+    "changed": [
+      1436418395
+    ],
+    "created": [
+      1406791984
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capita",
+      "domestic",
+      "Gross",
+      "GSDP",
+      "Population",
+      "product"
+    ],
+    "nid": [
+      113883
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Per capita state domestic product (current prices)"
+    ],
+    "uuid": [
+      "303cb009-8604-4830-aa2e-0f452ee6b202"
+    ],
+    "vid": [
+      7890344
+    ],
+    "view_count": [
+      3236
+    ],
+    "search_api_id": [
+      "entity:node/113883:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capita-total-expenditure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4563
+    ],
+    "published_date": [
+      1406810124
+    ],
+    "body:value": [
+      "Per capita total expenditure means the total expenditure which is made for one person out of total population. The Data contains Actual, Pre-actual and Budgeted Expenditure for Total expenditure, Population and Per capita total expenditure of states & Uts."
+    ],
+    "changed": [
+      1436418392
+    ],
+    "created": [
+      1406792144
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capita",
+      "expenditure",
+      "Population",
+      "Expense"
+    ],
+    "nid": [
+      113886
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Per capita total expenditure"
+    ],
+    "uuid": [
+      "3e23d690-3233-4fd7-9416-6e5645706f7d"
+    ],
+    "vid": [
+      7890348
+    ],
+    "view_count": [
+      4380
+    ],
+    "search_api_id": [
+      "entity:node/113886:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/plan-expenditure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2004
+    ],
+    "published_date": [
+      1406810320
+    ],
+    "body:value": [
+      "Plan expenditure are the expenses that form a part of the governments five year plan and comprise salaries, subsidies and pension. Plan expenditures are estimated after discussions between each of the ministries concerned and the Planning Commission. The Data contains Actual, Pre-actual and Budgeted Expenditure for Plan expenditure, GSDP and Plan expenditure as percentage of GSDP of states & Uts."
+    ],
+    "changed": [
+      1436418392
+    ],
+    "created": [
+      1406792445
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "domestic",
+      "expenditure",
+      "Gross",
+      "GSDP",
+      "product"
+    ],
+    "nid": [
+      113890
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Plan expenditure"
+    ],
+    "uuid": [
+      "522539fc-6861-44cf-8854-08414eb58f57"
+    ],
+    "vid": [
+      7890352
+    ],
+    "view_count": [
+      1901
+    ],
+    "search_api_id": [
+      "entity:node/113890:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/public-debt-total-liabilities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4156
+    ],
+    "published_date": [
+      1406809228
+    ],
+    "body:value": [
+      "Debt owned by central government is known as Public debt (total liabilities). The Data contains State wise Public debt (total liabilities) as percentage of revenue receipt."
+    ],
+    "changed": [
+      1436418392
+    ],
+    "created": [
+      1406792563
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Liability",
+      "Public"
+    ],
+    "nid": [
+      113892
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Public debt (total liabilities)"
+    ],
+    "uuid": [
+      "c3a9576d-df45-49c1-bf61-0ddd582756f2"
+    ],
+    "vid": [
+      7890356
+    ],
+    "view_count": [
+      3930
+    ],
+    "search_api_id": [
+      "entity:node/113892:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/public-expenditure-ratio"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3299
+    ],
+    "published_date": [
+      1406811603
+    ],
+    "body:value": [
+      "Public expenditure means the expenses or expenditure made by the Government for the betterment of the public. Public expenditure can promote growth by financing essential public services, such as security, infrastructure and education. The Data contains Actual, Pre-actual and Budgeted Expenditure for Total expenditure, GSDP and Public expenditure ratio (total expenditure/ GSDP) of states & Uts."
+    ],
+    "changed": [
+      1436418392
+    ],
+    "created": [
+      1406792702
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "domestic",
+      "expenditure",
+      "Gross",
+      "GSDP"
+    ],
+    "nid": [
+      113895
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Public expenditure ratio"
+    ],
+    "uuid": [
+      "f3b990c5-64e2-4b85-bb8c-d8238f223fb6"
+    ],
+    "vid": [
+      7890363
+    ],
+    "view_count": [
+      3050
+    ],
+    "search_api_id": [
+      "entity:node/113895:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/revenue-deficitsurplus"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7259
+    ],
+    "published_date": [
+      1406809999
+    ],
+    "body:value": [
+      "Revenue deficit occurs when the actual amount of revenue received and/or the actual amount of expenditures do not correspond with predicted revenue and expenditure figures. Revenue surplus, which occurs when the actual amount exceeds the projected amount. The Data contains Actual, Pre-actual and Budgeted Expenditure for Revenue deficit/surplus,GSDP and Revenue deficit/surplus as percentage of GSDP of states & Uts."
+    ],
+    "changed": [
+      1538976878
+    ],
+    "created": [
+      1406792847
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Deficit",
+      "domestic",
+      "Gross",
+      "GSDP",
+      "product"
+    ],
+    "nid": [
+      113968
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Revenue deficit/surplus"
+    ],
+    "uuid": [
+      "03a334d8-a8b3-410e-8605-9e36a53c42b1"
+    ],
+    "vid": [
+      7890374
+    ],
+    "view_count": [
+      7045
+    ],
+    "search_api_id": [
+      "entity:node/113968:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/salary-expenditure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      17010
+    ],
+    "published_date": [
+      1406809869
+    ],
+    "body:value": [
+      "An expense or expenditure made to the employees for their work in terms of salary is know as Salary expenditure. It is an outflow of money from the Government for different services. The Data contains Actual, Pre-actual and Budgeted Expenditure for Salary expenditure, total expenditure, Revenue Expenditure, Salary expenditure as percentage of revenue expenditure (net of IP & Pension) and Salary expenditure as percentage of total expenditure of states & Uts."
+    ],
+    "changed": [
+      1436418387
+    ],
+    "created": [
+      1406793135
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "Revenue",
+      "Plan"
+    ],
+    "nid": [
+      114176
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Salary expenditure"
+    ],
+    "uuid": [
+      "c226a306-8e18-456b-9429-c8509f779c17"
+    ],
+    "vid": [
+      7890377
+    ],
+    "view_count": [
+      16251
+    ],
+    "search_api_id": [
+      "entity:node/114176:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/social-allocation-ratio"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2847
+    ],
+    "published_date": [
+      1406809705
+    ],
+    "body:value": [
+      "Social allocation ratio is calculated as per the formula (Social allocation ratio = social sector expenditure/ total expenditure). It contains Actual, Pre-actual and Budgeted Expenditure for Total expenditure and Social expenditure. The Data contains Actual, Pre-actual and Budgeted Expenditure for Total expenditure, Social expenditure and Social allocation ratio (social sector expenditure/ total expenditure) of states & Uts."
+    ],
+    "changed": [
+      1436418387
+    ],
+    "created": [
+      1406793369
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Allocation",
+      "expenditure",
+      "Ratio"
+    ],
+    "nid": [
+      114364
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Social allocation ratio"
+    ],
+    "uuid": [
+      "c2b73ea3-43ca-4427-a006-71f8857df13a"
+    ],
+    "vid": [
+      7890381
+    ],
+    "view_count": [
+      2682
+    ],
+    "search_api_id": [
+      "entity:node/114364:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/total-revenue-receipt"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4361
+    ],
+    "published_date": [
+      1406798664
+    ],
+    "body:value": [
+      "Revenue receipts includes proceeds of taxes and other duties levied by the Centre, interest and dividend on investments made by the government, fees and other receipts for services rendered by the government. These implies the governments cash inflow. The Data contains State wise Total revenue receipt as percentage of GSDP."
+    ],
+    "changed": [
+      1436418387
+    ],
+    "created": [
+      1406793613
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "domestic",
+      "Gross",
+      "GSDP",
+      "Receipt",
+      "Revenue",
+      "Plan",
+      "Tax",
+      "product"
+    ],
+    "nid": [
+      114398
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Total revenue receipt"
+    ],
+    "uuid": [
+      "56c1b46c-3f23-4129-89fc-10395b4146b3"
+    ],
+    "vid": [
+      7890389
+    ],
+    "view_count": [
+      4143
+    ],
+    "search_api_id": [
+      "entity:node/114398:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/indicator-wise-reproductive-child-health-rch-report-maternal-health"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      11188
+    ],
+    "published_date": [
+      1475838954
+    ],
+    "body:value": [
+      "Get data on Indicator wise Reproductive Child Health (RCH) Report: Maternal Health. It contains Performance Related to Maternal Health parameters i.e. Ante Natal Care (ANC), Home Deliveries, Institutional Deliveries, pregnant Women given 100 IFA (Prophylaxis Against Nutritional Anaemia) & Tetanus Immunisation etc."
+    ],
+    "changed": [
+      1608614237
+    ],
+    "created": [
+      1475814492
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Reproductive Child Health"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "ANC",
+      "Delivery",
+      "Immunisation",
+      "RCH",
+      "Prophylaxis",
+      "Tetanus",
+      "Women",
+      "Institutional",
+      "Home",
+      "Natal",
+      "Ante",
+      "Pregnant",
+      "Nutritional"
+    ],
+    "nid": [
+      1154321
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Indicator wise Reproductive Child Health (RCH) Report: Maternal Health"
+    ],
+    "uuid": [
+      "36f08c9f-3131-4a89-8121-401a01c7f5cb"
+    ],
+    "vid": [
+      7896321
+    ],
+    "view_count": [
+      9432
+    ],
+    "search_api_id": [
+      "entity:node/1154321:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/indicator-wise-reproductive-child-health-rch-report-immunization"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5973
+    ],
+    "published_date": [
+      1475838951
+    ],
+    "body:value": [
+      "Get data on Indicator wise Reproductive Child Health (RCH) Report: Immunization. It contains Performance Related to Immunization Parameters i.e. Bacillus Calmette Guerin (BCG), Tetanus Toxoid , Diphtheria, Pertussis and Tetanus (DPT3), DT or DPT5, Measles, Polio (OPV3), Vitamin A etc."
+    ],
+    "changed": [
+      1608273115
+    ],
+    "created": [
+      1475814566
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Reproductive Child Health"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "BCG",
+      "Measles",
+      "RCH",
+      "Polio",
+      "Tetanus",
+      "Guerin",
+      "diphtheria",
+      "pertussis",
+      "DPT3",
+      "Vaccination",
+      "DT",
+      "OPV3",
+      "Vitamin",
+      "Calmette",
+      "Toxoid",
+      "Bacillus"
+    ],
+    "nid": [
+      1154341
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Indicator wise Reproductive Child Health (RCH) Report: Immunization"
+    ],
+    "uuid": [
+      "329b3835-d19e-4198-ae0f-7f2abb8aad94"
+    ],
+    "vid": [
+      7896325
+    ],
+    "view_count": [
+      5554
+    ],
+    "search_api_id": [
+      "entity:node/1154341:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/indicator-wise-reproductive-child-health-rch-report-family-planning"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      14761
+    ],
+    "published_date": [
+      1475838948
+    ],
+    "body:value": [
+      "Get data on Indicator wise Reproductive Child Health (RCH) Report: Family Planning. It contains Performance Related to Family Planning parameters i.e. Intra Uterine Contraceptive Device (IUCD Insertions), Oral Pill Users, Vasectomy & Tubectomy, Sterilisation etc."
+    ],
+    "changed": [
+      1608273114
+    ],
+    "created": [
+      1475814765
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Reproductive Child Health"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Contraceptive",
+      "RCH",
+      "Sterilisation",
+      "Tubectomy",
+      "Vasectomy",
+      "Planning",
+      "IUCD",
+      "Intra",
+      "Uterine",
+      "Device",
+      "Insertions",
+      "Oral",
+      "Pill"
+    ],
+    "nid": [
+      1154361
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Indicator wise Reproductive Child Health (RCH) Report: Family Planning"
+    ],
+    "uuid": [
+      "a34f4cd8-4e48-42c9-8904-7747db2d99db"
+    ],
+    "vid": [
+      7896329
+    ],
+    "view_count": [
+      14098
+    ],
+    "search_api_id": [
+      "entity:node/1154361:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1974"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1169
+    ],
+    "published_date": [
+      1477281809
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1974. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1477282430
+    ],
+    "created": [
+      1475840828
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "girls",
+      "Kidnapping",
+      "Robbery",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Victim",
+      "Forces"
+    ],
+    "nid": [
+      1168941
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1974"
+    ],
+    "uuid": [
+      "9bca9d0f-6506-489f-913f-c43a0d1d032c"
+    ],
+    "vid": [
+      7896333
+    ],
+    "view_count": [
+      1074
+    ],
+    "search_api_id": [
+      "entity:node/1168941:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/operational-holdings-operated-area-and-average-size-holdings-agriculture-census-2010-11"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9170
+    ],
+    "published_date": [
+      1482840394
+    ],
+    "body:value": [
+      "The catalog contains data regarding operational holdings, operated area and average size of holdings of Agriculture Census under various Social Groups like All Social groups, Scheduled Caste and Scheduled Tribe. It has a bifurcation data on the basis of Gender like Male, Female and Total; and also on Size class like Marginal, Small, Semi-Medium, Medium, Large etc."
+    ],
+    "changed": [
+      1482840776
+    ],
+    "created": [
+      1476440692
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture Census"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agriculture and Farmers Welfare",
+      "Agricultural Census, New Delhi"
+    ],
+    "field_sector:name": [
+      "Agriculture"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Caste",
+      "Marginal",
+      "Scheduled",
+      "Tribe",
+      "Operated"
+    ],
+    "nid": [
+      1172361
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Operational Holdings, operated area and average size of holdings - Agriculture Census, 2010-11"
+    ],
+    "uuid": [
+      "60156d33-4def-4351-9ebf-a8f9721fa780"
+    ],
+    "vid": [
+      7896337
+    ],
+    "view_count": [
+      7835
+    ],
+    "search_api_id": [
+      "entity:node/1172361:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1973"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1635
+    ],
+    "published_date": [
+      1477368419
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1973. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1477369728
+    ],
+    "created": [
+      1476792217
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "girls",
+      "Kidnapping",
+      "Robbery",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Victim",
+      "Forces"
+    ],
+    "nid": [
+      1174481
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1973"
+    ],
+    "uuid": [
+      "0f3ad03e-1402-4a33-94b4-94caf94c27ea"
+    ],
+    "vid": [
+      7896341
+    ],
+    "view_count": [
+      1348
+    ],
+    "search_api_id": [
+      "entity:node/1174481:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/e-governance-societies-madhya-pradesh"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      16635
+    ],
+    "published_date": [
+      1411129307
+    ],
+    "body:value": [
+      "It contains a list of e-Governance Societies  in Madhya Pradesh. It also includes details on District, e-Governance Managers Name, e-Governance Manager Mobile Number, Secretary, District e-Governance Society, District Office Address, NIC EMAIL ID, Contact office Number."
+    ],
+    "changed": [
+      1411129849
+    ],
+    "created": [
+      1407935597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "field_state_department:name": [
+      "Madhya Pradesh",
+      "Information Technology Department, Madhya Pradesh"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "E-Governance",
+      "Initiative"
+    ],
+    "nid": [
+      117846
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "130"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "e-Governance Societies  in Madhya Pradesh"
+    ],
+    "uuid": [
+      "942ab8cc-f270-484b-b1b8-a1834867d97d"
+    ],
+    "vid": [
+      7890455
+    ],
+    "view_count": [
+      16292
+    ],
+    "search_api_id": [
+      "entity:node/117846:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/main-workers-marginal-workers-non-workers-and-those-marginal-workers-non-workers-seeking-2"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      599
+    ],
+    "published_date": [
+      1478519525
+    ],
+    "body:value": [
+      "The catalog contains data related to Main Workers, Marginal Workers, Non-Workers and those Marginal Workers, Non-Workers Seeking/ Available for Work Classified by Age, Sex, Census 2001 - India and States. It includes data on Main Worker, Marginal Worker, Non-worker, Seeking / Available for Work."
+    ],
+    "changed": [
+      1480049602
+    ],
+    "created": [
+      1477639802
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Non-worker",
+      "Work",
+      "Main",
+      "Seeking",
+      "Available"
+    ],
+    "nid": [
+      1196761
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Main Workers, Marginal Workers, Non-Workers and those Marginal Workers, Non-Workers Seeking/ Available for Work Classified by Age, Sex, Census 2001 - India and States"
+    ],
+    "uuid": [
+      "f8d5b9ff-0da2-45fb-87bf-f441d7fcf693"
+    ],
+    "vid": [
+      7896361
+    ],
+    "view_count": [
+      459
+    ],
+    "search_api_id": [
+      "entity:node/1196761:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capital-formation-type-assets-and-type-institution-current-price"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3614
+    ],
+    "published_date": [
+      1398851933
+    ],
+    "body:value": [
+      "The data refers to details on gross capital formation, gross fixed capital formation, change in stocks, Valuables, less consumption of fixed capital, net capital formation, errors and omissions, net capital formation adjusted for errors and omissions and gross capital formation adjusted for errors and omissions at current price."
+    ],
+    "changed": [
+      1599033658
+    ],
+    "created": [
+      1398431555
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Product and Related Aggregates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Consumption",
+      "Formation",
+      "Gross",
+      "Stock",
+      "Fixed",
+      "Change",
+      "Omission",
+      "Valuable"
+    ],
+    "nid": [
+      100002
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Capital Formation By Type Of Assets And BY Type Of Institution At current Price"
+    ],
+    "uuid": [
+      "7405fc64-5bf7-4d13-8972-79073c464f0b"
+    ],
+    "vid": [
+      7888585
+    ],
+    "view_count": [
+      3450
+    ],
+    "search_api_id": [
+      "entity:node/100002:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capital-formation-type-assets-and-type-institution-constant-price"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2587
+    ],
+    "published_date": [
+      1398851818
+    ],
+    "body:value": [
+      "The data refers to details on gross capital formation, gross fixed capital formation, change in stocks, Valuables, less consumption of fixed capital, net capital formation, errors and omissions, net capital formation adjusted for errors and omissions and gross capital formation adjusted for errors and omissions at constant price."
+    ],
+    "changed": [
+      1602758709
+    ],
+    "created": [
+      1398431555
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Product and Related Aggregates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Consumption",
+      "Formation",
+      "Gross",
+      "Stock",
+      "Fixed",
+      "Change",
+      "Omission",
+      "Valuable"
+    ],
+    "nid": [
+      100003
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Capital Formation By Type Of Assets And BY Type Of Institution At Constant Price"
+    ],
+    "uuid": [
+      "5acb3e51-4940-41e0-a081-170fab214f36"
+    ],
+    "vid": [
+      7888591
+    ],
+    "view_count": [
+      2434
+    ],
+    "search_api_id": [
+      "entity:node/100003:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/overall-balance-payments"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3086
+    ],
+    "published_date": [
+      1398852035
+    ],
+    "body:value": [
+      "Get the data regarding details on Current Account, Capital Account, Errors and Omissions and Monetary Movements."
+    ],
+    "changed": [
+      1602755790
+    ],
+    "created": [
+      1398431555
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Balance of payments"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Movement",
+      "Current",
+      "Account",
+      "Omission",
+      "Monetary"
+    ],
+    "nid": [
+      100004
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Overall Balance of Payments"
+    ],
+    "uuid": [
+      "4ccc6fea-2884-4853-a10b-0b034216203a"
+    ],
+    "vid": [
+      7888601
+    ],
+    "view_count": [
+      2421
+    ],
+    "search_api_id": [
+      "entity:node/100004:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/educational-institutions-scholars-and-expenditure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2703
+    ],
+    "published_date": [
+      1398851813
+    ],
+    "body:value": [
+      "The data refers to details on Number of institutions - University/Colleges, Number of institutions - Schools, Number of scholars (in millions) - University/Colleges, Number of scholars (in millions) - Schools, GDP at Current Prices (at factor cost)-(in Crore), Total Public Expenditure by all Sectors-(in Crore) and Expenditure on Education by Education & Other Deptts."
+    ],
+    "changed": [
+      1507022300
+    ],
+    "created": [
+      1398431555
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "College",
+      "Education",
+      "GDP",
+      "Institution",
+      "prices",
+      "Public",
+      "School",
+      "University",
+      "Current",
+      "Factor",
+      "Scholar"
+    ],
+    "nid": [
+      100005
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Educational Institutions, Scholars And Expenditure"
+    ],
+    "uuid": [
+      "be88ea2c-cb93-42c1-af99-e98ae71ec0f4"
+    ],
+    "vid": [
+      7888607
+    ],
+    "view_count": [
+      2433
+    ],
+    "search_api_id": [
+      "entity:node/100005:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-and-beneficiaries-under-nsap"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2509
+    ],
+    "published_date": [
+      1398852025
+    ],
+    "body:value": [
+      "The data describes details on Expenditure, Number of beneficiaries reported - NOAPS/IGNOAPS, Number of beneficiaries reported - IGNWPS, Number of beneficiaries reported - IGNDPS, Number of beneficiaries reported - NFBS and Number of beneficiaries reported - Annapurna."
+    ],
+    "changed": [
+      1602755732
+    ],
+    "created": [
+      1398431555
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural and Urban Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Rural",
+      "Development",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Annapurna",
+      "IGNDPS",
+      "IGNOAPS",
+      "IGNWPS",
+      "NFBS",
+      "NOAPS",
+      "Pension",
+      "suicide",
+      "Reported",
+      "Old",
+      "Preventon"
+    ],
+    "nid": [
+      100006
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure and beneficiaries under NSAP"
+    ],
+    "uuid": [
+      "ae6840b0-dff4-4d47-9f05-77afaf5045b0"
+    ],
+    "vid": [
+      7888617
+    ],
+    "view_count": [
+      2155
+    ],
+    "search_api_id": [
+      "entity:node/100006:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/notes-and-coins-issued"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      15626
+    ],
+    "published_date": [
+      1398851944
+    ],
+    "body:value": [
+      "Get the data details regarding on Small Coins, Rs. 1 Notes, Rs. 1 Coins, Rs. 2 Coins, Rs. 5 Coins, Rs. 10 Coins, Rs. 2 Notes, Rs. 5 Notes, Rs. 10 Notes, Rs. 20 Notes, Rs. 50 Notes, Rs. 100 Notes, Rs. 500 Notes, Rs. 1000 Notes."
+    ],
+    "changed": [
+      1602755791
+    ],
+    "created": [
+      1398431555
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Exchange, Coinage And Currency"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Note",
+      "Coin",
+      "Issued"
+    ],
+    "nid": [
+      100007
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Notes and Coins Issued"
+    ],
+    "uuid": [
+      "10473643-9e0a-4f09-af6c-967cf70a55a7"
+    ],
+    "vid": [
+      7888627
+    ],
+    "view_count": [
+      13642
+    ],
+    "search_api_id": [
+      "entity:node/100007:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/statistics-notes-circulation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      11053
+    ],
+    "published_date": [
+      1398851967
+    ],
+    "body:value": [
+      "The data refers to details on Notes issued, Notes held in the banking department, Notes in circulation, Reserve against note issue - Gold coin and bullion-1, Reserve against note issue - Rupee coin, Reserve against note issue - Government of India Rupee securities, Reserve against note issue - Foreign Securities."
+    ],
+    "changed": [
+      1599033764
+    ],
+    "created": [
+      1398431555
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Exchange, Coinage And Currency"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "All",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Banking",
+      "Department",
+      "Foreign",
+      "Gold",
+      "Government",
+      "Reserve",
+      "Against",
+      "Issue",
+      "Bullion",
+      "Rupee",
+      "Securitiy"
+    ],
+    "nid": [
+      100008
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Statistics of notes in circulation"
+    ],
+    "uuid": [
+      "94176ba4-5e36-48d2-b501-a6ef797f66e9"
+    ],
+    "vid": [
+      7888637
+    ],
+    "view_count": [
+      10392
+    ],
+    "search_api_id": [
+      "entity:node/100008:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/compositionallocation-seats-rajya-sabha"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4741
+    ],
+    "published_date": [
+      1398851938
+    ],
+    "body:value": [
+      "The data refers to details on Number of All members , Number of  Women members and Percentage women member in Rajya Sabha in Composition/Allocation of Seats In the Rajya Sabha."
+    ],
+    "changed": [
+      1602755787
+    ],
+    "created": [
+      1398431555
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Electoral Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Rajya Sabha",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Women",
+      "Member",
+      "Rajyasabha"
+    ],
+    "nid": [
+      100009
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Composition/Allocation Of Seats In The Rajya Sabha"
+    ],
+    "uuid": [
+      "f7d3a733-0084-43a0-b0ea-842b44b84767"
+    ],
+    "vid": [
+      7888643
+    ],
+    "view_count": [
+      4539
+    ],
+    "search_api_id": [
+      "entity:node/100009:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/election-vidhan-sabhas-state-legislative-assemblies"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8839
+    ],
+    "published_date": [
+      1398851411
+    ],
+    "body:value": [
+      "The data refers to details on Number of seats, Number of electors, Number of votes polled, Number of valid votes polled and Percentage of votes polled of Election To The Vidhan Sabhas (State Legislative Assemblies)."
+    ],
+    "changed": [
+      1602758706
+    ],
+    "created": [
+      1398431555
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Electoral Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "All",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Elector",
+      "Seat",
+      "Vote",
+      "Valid",
+      "Polled"
+    ],
+    "nid": [
+      100010
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Election To The Vidhan Sabhas (State Legislative Assemblies)"
+    ],
+    "uuid": [
+      "79f4521b-0683-44d1-9557-52e9630b6620"
+    ],
+    "vid": [
+      7888649
+    ],
+    "view_count": [
+      8493
+    ],
+    "search_api_id": [
+      "entity:node/100010:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/seats-and-constituencies-vidhan-parishads-state-legislative-councils"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5532
+    ],
+    "published_date": [
+      1398851353
+    ],
+    "body:value": [
+      "The data refers to details on Direct Elections - Local Authorities - Constituencies, Direct Elections - Constituencies - Seats, Direct Elections - Graduates - Constituencies, Direct Elections - Constituencies - Seats, Direct Elections - Teachers - Constituencies, Direct Elections - Constituencies - Seats, Direct Elections - Total - Constituencies, Direct Elections - Constituencies - Seats, Indirect Elections by MLAs, Nominations by Governor and total in the Vidhan Parishads (State Legislative Councils)."
+    ],
+    "changed": [
+      1441690713
+    ],
+    "created": [
+      1398431555
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Electoral Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "All",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Election",
+      "Teacher",
+      "Graduate",
+      "MLA",
+      "Authority",
+      "Local",
+      "Council",
+      "Direct",
+      "Parishad",
+      "Nomination"
+    ],
+    "nid": [
+      100011
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Seats And Constituencies In The Vidhan Parishads (State Legislative Councils)"
+    ],
+    "uuid": [
+      "158c1f60-d0a0-443b-a61f-a30288cc8456"
+    ],
+    "vid": [
+      7888659
+    ],
+    "view_count": [
+      5350
+    ],
+    "search_api_id": [
+      "entity:node/100011:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-incurred-election-lok-sabha"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4567
+    ],
+    "published_date": [
+      1398850682
+    ],
+    "body:value": [
+      "The data describes regarding to details on Electoral offices, Expenditure Incurred on - Preparation and printing of Electoral Rolls, Expenditure Incurred on - Charges for conduct of election to Lok Sabha, Expenditure Incurred on - Issue of Photo Identity Cards to voters and Total Expenditure Incurred."
+    ],
+    "changed": [
+      1602755789
+    ],
+    "created": [
+      1398431555
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Electoral Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "All",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Election",
+      "CARD",
+      "Loksabha",
+      "Photo",
+      "Issue",
+      "Electoral",
+      "Preparation",
+      "Roll",
+      "Conduct",
+      "Identity",
+      "Voter"
+    ],
+    "nid": [
+      100012
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure Incurred in Election to the Lok Sabha"
+    ],
+    "uuid": [
+      "9a2d30eb-78cb-40f2-9292-858f70fcc7ee"
+    ],
+    "vid": [
+      7888670
+    ],
+    "view_count": [
+      4213
+    ],
+    "search_api_id": [
+      "entity:node/100012:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/employment-railways"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2843
+    ],
+    "published_date": [
+      1398850757
+    ],
+    "body:value": [
+      "The data indicates about Employment in Railway Zones/Units/Board and Other Offices of Central, Eastern, East  Central, East Cost, Metro Railway Kolkata, Northern, North Central, North Eastern, Northeast Frontier, North Western, Southern, South Central, South Eastern, Southeast Central, South Western, Western, West Central, Production  Units, Railway Board&  Other Railway  Offices of railways."
+    ],
+    "changed": [
+      1506517383
+    ],
+    "created": [
+      1398494377
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cost",
+      "Railway",
+      "Production",
+      "Metro",
+      "Eastern",
+      "Northern",
+      "Southern",
+      "Western",
+      "Board",
+      "North",
+      "East",
+      "Kolkata",
+      "Northeast",
+      "Frontier",
+      "South",
+      "Southeast",
+      "West"
+    ],
+    "nid": [
+      100188
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Employment in railways"
+    ],
+    "uuid": [
+      "326691b1-66cc-4fdd-81e7-c11635622c3d"
+    ],
+    "vid": [
+      7888680
+    ],
+    "view_count": [
+      2280
+    ],
+    "search_api_id": [
+      "entity:node/100188:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/factory-employment-industry-groups-3-digit-level-nic-1998-nic-2008"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2393
+    ],
+    "published_date": [
+      1398850433
+    ],
+    "body:value": [
+      "The data refers to number of working factories, average daily employment under industry like agriculture , hunting and related service activities, forestry, logging and related service activities etc."
+    ],
+    "changed": [
+      1602755833
+    ],
+    "created": [
+      1398494377
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employment",
+      "Factory",
+      "Working"
+    ],
+    "nid": [
+      100189
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Factory Employment By Industry Groups At 3-Digit Level Of Nic-1998 & Nic-2008"
+    ],
+    "uuid": [
+      "205e809f-db12-4b85-86ba-d1467fc84af6"
+    ],
+    "vid": [
+      7888690
+    ],
+    "view_count": [
+      2151
+    ],
+    "search_api_id": [
+      "entity:node/100189:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-average-factory-employment-working-factories-states-2-digit-level-nic-2004-and"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1390
+    ],
+    "published_date": [
+      1398851062
+    ],
+    "body:value": [
+      "The data describes regarding to number of working factories, average daily employment under industry like agriculture , hunting and related service activities, forestry, logging and related service activities etc."
+    ],
+    "changed": [
+      1506517416
+    ],
+    "created": [
+      1398494377
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employment",
+      "Industry",
+      "Workg"
+    ],
+    "nid": [
+      100190
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated Average Factory Employment in Working Factories by States At 2-Digit Level of Nic-2004 and Nic-2008"
+    ],
+    "uuid": [
+      "bd920374-d5b0-4fff-8c78-19583f2cb450"
+    ],
+    "vid": [
+      7888700
+    ],
+    "view_count": [
+      1299
+    ],
+    "search_api_id": [
+      "entity:node/100190:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/employment-mines"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1807
+    ],
+    "published_date": [
+      1398851201
+    ],
+    "body:value": [
+      "The data refers to Employment in Coal, Copper, Chromite, Diamond, Gold, Gypsum, Iron ore, Limestone, Magnesite, Manganese, Mica, Stone, Other Minerals sectors."
+    ],
+    "changed": [
+      1602755759
+    ],
+    "created": [
+      1398494377
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Coal",
+      "Chromite",
+      "Diamond",
+      "Gold",
+      "Gypsum",
+      "Iron",
+      "Copper",
+      "Limestone",
+      "Magnesite",
+      "Manganese",
+      "Mica",
+      "Stone",
+      "Ore",
+      "Minreral"
+    ],
+    "nid": [
+      100191
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Employment in Mines"
+    ],
+    "uuid": [
+      "957cd565-b6b2-49ac-867d-b37ab05b7982"
+    ],
+    "vid": [
+      7888711
+    ],
+    "view_count": [
+      1548
+    ],
+    "search_api_id": [
+      "entity:node/100191:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/earnings-factory-worker"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1284
+    ],
+    "published_date": [
+      1398850832
+    ],
+    "body:value": [
+      "The data refers to earnings of Factory Worker during the year."
+    ],
+    "changed": [
+      1441690692
+    ],
+    "created": [
+      1398494377
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Factory",
+      "Worker",
+      "Earning"
+    ],
+    "nid": [
+      100192
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Earnings Of Factory Worker"
+    ],
+    "uuid": [
+      "f73c6964-9198-42fe-b45b-f4c1cce7f507"
+    ],
+    "vid": [
+      7888717
+    ],
+    "view_count": [
+      1133
+    ],
+    "search_api_id": [
+      "entity:node/100192:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-and-membership-all-types-co-operative-societies"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6917
+    ],
+    "published_date": [
+      1398851385
+    ],
+    "body:value": [
+      "The data refers to all India and state-wise details on the number and membership - all types of co-operative societies as on 31st March."
+    ],
+    "changed": [
+      1466406105
+    ],
+    "created": [
+      1398502152
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Co-operative Societies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Banking",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Credit",
+      "Co-operative"
+    ],
+    "nid": [
+      100255
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number And Membership - All Types of Co-operative Societies"
+    ],
+    "uuid": [
+      "fae2ca67-f309-41e7-8dba-c5f327ddcc42"
+    ],
+    "vid": [
+      7888722
+    ],
+    "view_count": [
+      6448
+    ],
+    "search_api_id": [
+      "entity:node/100255:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/installed-power-generation-capacity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2372
+    ],
+    "published_date": [
+      1398690656
+    ],
+    "body:value": [
+      "The data refers to details on Installed power generation capacity of Hydro, Thermal, Nuclear, Renewables by State/Electricity Departments (EDs)/Central Sector during the year."
+    ],
+    "changed": [
+      1398690656
+    ],
+    "created": [
+      1398665636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "State power utilities and Electricity Departments"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Department",
+      "electricity",
+      "Hydro",
+      "Nuclear",
+      "Thermal",
+      "Renewable",
+      "ED"
+    ],
+    "nid": [
+      100499
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Installed power generation capacity"
+    ],
+    "uuid": [
+      "aef5af64-9627-4f01-88e2-e6457b8f9237"
+    ],
+    "vid": [
+      7888726
+    ],
+    "view_count": [
+      2048
+    ],
+    "search_api_id": [
+      "entity:node/100499:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/year-wise-capacity-addition-11th-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      717
+    ],
+    "published_date": [
+      1398748786
+    ],
+    "body:value": [
+      "The data refers to details on year-wise and States/UT's/Sector-wise capacity addition in xith plan during different years."
+    ],
+    "changed": [
+      1398748786
+    ],
+    "created": [
+      1398665636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "capacity",
+      "Plan",
+      "Addition"
+    ],
+    "nid": [
+      100500
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Year-wise capacity addition in 11th plan"
+    ],
+    "uuid": [
+      "2583ae27-5d36-431a-8878-165350d39d91"
+    ],
+    "vid": [
+      7888730
+    ],
+    "view_count": [
+      629
+    ],
+    "search_api_id": [
+      "entity:node/100500:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/operating-plant-availability"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      811
+    ],
+    "published_date": [
+      1398691818
+    ],
+    "body:value": [
+      "The data refers to details on operating plant availability by Central Sector, Northern Region, Western Region, Southern Region, Eastern Region, North Eastern Region, State Sector and Private Utilities during different years."
+    ],
+    "changed": [
+      1398691818
+    ],
+    "created": [
+      1398665636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "State power utilities and Electricity Departments"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Private",
+      "Utility",
+      "Eastern",
+      "Northern",
+      "Southern",
+      "Western"
+    ],
+    "nid": [
+      100501
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Operating plant availability"
+    ],
+    "uuid": [
+      "633a353c-1b92-46f2-b29b-d8e22f1cf3b6"
+    ],
+    "vid": [
+      7888734
+    ],
+    "view_count": [
+      743
+    ],
+    "search_api_id": [
+      "entity:node/100501:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/forced-outages-thermal-stations"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      770
+    ],
+    "published_date": [
+      1398748813
+    ],
+    "body:value": [
+      "The data refers to details on forced outages of thermal stations by State power utilities (SPUs), Central Sector, Private Sector, IPPs during different years."
+    ],
+    "changed": [
+      1398748813
+    ],
+    "created": [
+      1398665636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "State power utilities and Electricity Departments"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "Power",
+      "Private",
+      "Utility",
+      "SPU",
+      "IPP"
+    ],
+    "nid": [
+      100502
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Forced outages of thermal stations"
+    ],
+    "uuid": [
+      "c5c1a605-8ccf-4bce-bc5c-778ec14993e7"
+    ],
+    "vid": [
+      7888738
+    ],
+    "view_count": [
+      673
+    ],
+    "search_api_id": [
+      "entity:node/100502:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/plant-load-factor-thermal-stations"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3891
+    ],
+    "published_date": [
+      1398748835
+    ],
+    "body:value": [
+      "The data refers to details on plant load factor of thermal stations by State power utilities (SPUs), Central Sector, Private Sector, IPPs during different years."
+    ],
+    "changed": [
+      1398748835
+    ],
+    "created": [
+      1398665636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "State power utilities and Electricity Departments"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "Power",
+      "Private",
+      "Utility",
+      "SPU",
+      "IPP"
+    ],
+    "nid": [
+      100503
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Plant load factor of thermal stations"
+    ],
+    "uuid": [
+      "f519a1b4-c01d-4665-bb40-7400b98aff6f"
+    ],
+    "vid": [
+      7888742
+    ],
+    "view_count": [
+      3565
+    ],
+    "search_api_id": [
+      "entity:node/100503:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-power-generation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1957
+    ],
+    "published_date": [
+      1398748807
+    ],
+    "body:value": [
+      "The data refers to details on gross power generation by States, Electricity Departments (EDs), Central sector and Imports from Bhutan during the year."
+    ],
+    "changed": [
+      1398748807
+    ],
+    "created": [
+      1398665636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "State power utilities and Electricity Departments"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Department",
+      "electricity",
+      "Import",
+      "ED"
+    ],
+    "nid": [
+      100504
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross power generation"
+    ],
+    "uuid": [
+      "a555bf6e-6e2b-4717-b6bc-9dc02e43a89e"
+    ],
+    "vid": [
+      7888746
+    ],
+    "view_count": [
+      1819
+    ],
+    "search_api_id": [
+      "entity:node/100504:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-power-generation-owned-units"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      759
+    ],
+    "published_date": [
+      1398748829
+    ],
+    "body:value": [
+      "The data refers to details on gross power generation (owned units) by State power utilities (SPUs) and Electricity Departments during different years."
+    ],
+    "changed": [
+      1398748829
+    ],
+    "created": [
+      1398665636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "State power utilities and Electricity Departments"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "Department",
+      "electricity",
+      "Import",
+      "ED"
+    ],
+    "nid": [
+      100505
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross power generation (owned units)"
+    ],
+    "uuid": [
+      "e3ed89ce-46cc-40ea-a684-097af9351f34"
+    ],
+    "vid": [
+      7888750
+    ],
+    "view_count": [
+      694
+    ],
+    "search_api_id": [
+      "entity:node/100505:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/auxiliary-power-consumption-owned-units"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      799
+    ],
+    "published_date": [
+      1398748801
+    ],
+    "body:value": [
+      "The data refers to details on auxiliary consumption (owned units) by State power utilities (SPUs) and Electricity Departments during different years."
+    ],
+    "changed": [
+      1398748801
+    ],
+    "created": [
+      1398665636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "State power utilities and Electricity Departments"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Department",
+      "electricity",
+      "Utility",
+      "ED",
+      "SPU"
+    ],
+    "nid": [
+      100506
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Auxiliary power consumption (owned units)"
+    ],
+    "uuid": [
+      "89367d41-2482-4d21-8c62-ba85ca71e13c"
+    ],
+    "vid": [
+      7888754
+    ],
+    "view_count": [
+      621
+    ],
+    "search_api_id": [
+      "entity:node/100506:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/net-generation-electricity-owned-units"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      904
+    ],
+    "published_date": [
+      1398750134
+    ],
+    "body:value": [
+      "The data refers to details on net generation of electricity (owned units) by State power utilities (SPUs) and Electricity Departments (EDs) during different years."
+    ],
+    "changed": [
+      1398750134
+    ],
+    "created": [
+      1398665636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "State power utilities and Electricity Departments"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Department",
+      "electricity",
+      "Power",
+      "Utility",
+      "ED",
+      "SPU"
+    ],
+    "nid": [
+      100507
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Net generation of electricity (owned units)"
+    ],
+    "uuid": [
+      "98a91ed3-f7f9-48b9-8041-03531109e3d2"
+    ],
+    "vid": [
+      7888758
+    ],
+    "view_count": [
+      781
+    ],
+    "search_api_id": [
+      "entity:node/100507:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-purchase-power-including-its-owned-units"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      463
+    ],
+    "published_date": [
+      1398750104
+    ],
+    "body:value": [
+      "The data refers to details on gross purchase of power (including from its owned units) by State power utilities (SPUs) and Electricity Departments (EDs) during different years."
+    ],
+    "changed": [
+      1398750104
+    ],
+    "created": [
+      1398665636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "State power utilities and Electricity Departments"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Department",
+      "electricity",
+      "Power",
+      "Utility",
+      "ED",
+      "SPU"
+    ],
+    "nid": [
+      100508
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross purchase of power (including from its owned units)"
+    ],
+    "uuid": [
+      "e3e048d2-6801-4fc7-8131-2e4ae9db69bc"
+    ],
+    "vid": [
+      7888762
+    ],
+    "view_count": [
+      410
+    ],
+    "search_api_id": [
+      "entity:node/100508:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/net-purchase-power-excluding-sale-outside-state"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      624
+    ],
+    "published_date": [
+      1398750126
+    ],
+    "body:value": [
+      "The data refers to details on net purchase of power (excluding sale outside state) by State power utilities (SPUs) and Electricity Departments (EDs) during different years."
+    ],
+    "changed": [
+      1398750126
+    ],
+    "created": [
+      1398665636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "State power utilities and Electricity Departments"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Department",
+      "electricity",
+      "Power",
+      "Utility",
+      "ED",
+      "SPU"
+    ],
+    "nid": [
+      100509
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Net purchase of power (excluding sale outside state)"
+    ],
+    "uuid": [
+      "edd93cd3-782c-4cba-8283-7b21a29800ca"
+    ],
+    "vid": [
+      7888766
+    ],
+    "view_count": [
+      596
+    ],
+    "search_api_id": [
+      "entity:node/100509:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/purchase-power-major-sources"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      641
+    ],
+    "published_date": [
+      1398750096
+    ],
+    "body:value": [
+      "The data refers to details on purchase of power by major sources by State power utilities (SPUs) and Electricity Departments (EDs) during different years. The details also includes by central sector and other sector."
+    ],
+    "changed": [
+      1398750096
+    ],
+    "created": [
+      1398665636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "State power utilities and Electricity Departments"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Department",
+      "electricity",
+      "Power",
+      "Utility",
+      "ED",
+      "SPU"
+    ],
+    "nid": [
+      100510
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Purchase of power by major sources"
+    ],
+    "uuid": [
+      "bffc75c1-409f-467f-895e-3ab276b9daf9"
+    ],
+    "vid": [
+      7888770
+    ],
+    "view_count": [
+      548
+    ],
+    "search_api_id": [
+      "entity:node/100510:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

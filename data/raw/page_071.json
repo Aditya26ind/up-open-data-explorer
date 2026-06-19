@@ -1,0 +1,4847 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/households-number-married-couples-household-and-number-dwelling-rooms"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1090
+    ],
+    "published_date": [
+      1395392213
+    ],
+    "body:value": [
+      "The data refers to details of Area Name, Table Name, State Code, District Code, Tehsil Code, Town Code, Area Name, Total/Rural/Urban, Ownership status, Household size, Total number of households, No exclusive room, One room, One room, Households having number of dwelling rooms Two room, Three room, Four room, Five room, Six rooms and above at States/UTs and District level."
+    ],
+    "changed": [
+      1441628552
+    ],
+    "created": [
+      1395298547
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Houselisting and Housing Census Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "House listing and Housing Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Dwelling",
+      "Household",
+      "SC",
+      "ST",
+      "Caste",
+      "Married",
+      "Scheduled",
+      "Tribe",
+      "Couple"
+    ],
+    "nid": [
+      96965
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Households by number of married couples per household and number of dwelling rooms"
+    ],
+    "uuid": [
+      "2688ad81-73cb-44d3-bb8d-6ffa2cbf7361"
+    ],
+    "vid": [
+      7888249
+    ],
+    "view_count": [
+      956
+    ],
+    "search_api_id": [
+      "entity:node/96965:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/households-main-source-drinking-water-and-its-location"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2175
+    ],
+    "published_date": [
+      1395384951
+    ],
+    "body:value": [
+      "The data refers to details of Area Name, Table Name, State Code, District Code, Area Name, Main Source of Drinking WaterTotal/Rural/Urban, Location of source of drinking water, Total Number of Households, Tapwater from treated source, Tapwater from un-treated source, Covered well, Un-covered well, Handpump, Tubewell/Borehole, Spring, River/Canal, Tank/Pond/Lake, Other sources at States/UTs and District level."
+    ],
+    "changed": [
+      1441628553
+    ],
+    "created": [
+      1395298547
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Houselisting and Housing Census Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "House listing and Housing Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Household",
+      "SC",
+      "ST",
+      "Water",
+      "Caste",
+      "Scheduled",
+      "Tribe",
+      "Drinking"
+    ],
+    "nid": [
+      96969
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Households by main source of drinking water and its location"
+    ],
+    "uuid": [
+      "9fb3783c-8ba7-4469-94e2-430ce04c295c"
+    ],
+    "vid": [
+      7888259
+    ],
+    "view_count": [
+      1927
+    ],
+    "search_api_id": [
+      "entity:node/96969:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/households-main-source-lighting"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1336
+    ],
+    "published_date": [
+      1395385049
+    ],
+    "body:value": [
+      "The data refers to details of Area Name, Total/Rural/Urban, Total Number of Households, Electricity, Kerosene, Solar energy, Other oil, Any other, No lighting at States/UTs and District level."
+    ],
+    "changed": [
+      1441628555
+    ],
+    "created": [
+      1395298547
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Houselisting and Housing Census Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "House listing and Housing Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Household",
+      "SC",
+      "ST",
+      "Caste",
+      "Scheduled",
+      "Tribe",
+      "Light"
+    ],
+    "nid": [
+      96973
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Households by main source of lighting"
+    ],
+    "uuid": [
+      "018afcd8-5671-42d8-b1fd-9403ae2e5f4f"
+    ],
+    "vid": [
+      7888269
+    ],
+    "view_count": [
+      1205
+    ],
+    "search_api_id": [
+      "entity:node/96973:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/households-availability-type-latrine-facility"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1627
+    ],
+    "published_date": [
+      1395385161
+    ],
+    "body:value": [
+      "The data refers to details of Area Name, Table Name, State Code, District Code, Area Name, Type of latrine facility within the premises Total/Rural/Urban, Total Number of Households, Number of households having latrine facility within the premises, Flush/pour flush latrine connected to Piped sewer system, Flush/pour flush latrine connected to Septic tank, Flush/pour flush latrine connected to Other system, Pit latrine With slab/ventilated improved pit, Pit latrine Without slab/open pit, Night soil disposed into open drain, Service Latrine Night soil removed by human, Service Latrine Night soil Service by anima, Number of households not having latrine facility within the premises, No latrine within premises Alternative source Public latrine, No latrine within premises Alternative source Open at States/UTs and District level."
+    ],
+    "changed": [
+      1441628558
+    ],
+    "created": [
+      1395298547
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Houselisting and Housing Census Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "House listing and Housing Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Household",
+      "SC",
+      "ST",
+      "Caste",
+      "Latrine",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      96977
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Households by availability of type of latrine facility"
+    ],
+    "uuid": [
+      "e3181464-150f-4b07-a11a-1ebce1428a9c"
+    ],
+    "vid": [
+      7888279
+    ],
+    "view_count": [
+      1509
+    ],
+    "search_api_id": [
+      "entity:node/96977:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/households-availability-bathing-facility-and-type-drainage-connectivity-waste-water-outlet"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1139
+    ],
+    "published_date": [
+      1395385304
+    ],
+    "body:value": [
+      "The data refers to details of Area Name, Total/Rural/Urban, Total number of households, Number of households having bathing facility within the premises Yes Bathroom, within the premises Yes Enclosure without roof, premises No, Waste water outlet connected to Close drainage, Open drainage, No drainage  at States/UTs and District level."
+    ],
+    "changed": [
+      1441628754
+    ],
+    "created": [
+      1395298547
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Houselisting and Housing Census Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "House listing and Housing Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Household",
+      "SC",
+      "ST",
+      "Water",
+      "Caste",
+      "Scheduled",
+      "Tribe",
+      "Bath",
+      "Drain",
+      "Waste"
+    ],
+    "nid": [
+      96981
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Households by availability of bathing facility and type of drainage connectivity for waste water outlet"
+    ],
+    "uuid": [
+      "456d316c-aa26-45e4-bacb-49c257d3b619"
+    ],
+    "vid": [
+      7888289
+    ],
+    "view_count": [
+      1017
+    ],
+    "search_api_id": [
+      "entity:node/96981:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/households-availability-separate-kitchen-and-type-fuel-used-cooking"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2830
+    ],
+    "published_date": [
+      1395385585
+    ],
+    "body:value": [
+      "The data refers to details of Area Name, for Cooking Availability of separate kitchen, Cooking Total number of household, Cooking Fire wood, Cooking Crop residue, CookingCowdung cake, Type of Fuel used for Cooking Coal, Lignite, Charcoa, Cooking Kerosene, Cooking LPG/PNG, Cooking Electricity, Cooking Biogas, Cooking, Any other, No cooking at States/UTs and District level."
+    ],
+    "changed": [
+      1441628756
+    ],
+    "created": [
+      1395298547
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Houselisting and Housing Census Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "House listing and Housing Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Cooking",
+      "Fuel",
+      "Household",
+      "Caste",
+      "Kitchen",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      96985
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Households by availability of separate kitchen and type of fuel used for cooking"
+    ],
+    "uuid": [
+      "893f5979-116c-48bf-ace4-6e58198a6dee"
+    ],
+    "vid": [
+      7888299
+    ],
+    "view_count": [
+      2687
+    ],
+    "search_api_id": [
+      "entity:node/96985:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/households-classified-source-and-location-drinking-water-and-availability-electricity-and"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      998
+    ],
+    "published_date": [
+      1395382480
+    ],
+    "body:value": [
+      "The data refers to details of Area Name, Total/Rural/Urban, Main source of drinking water, Availability of Drinking Water Source, Type of Fuel used for Cooking Fire wood, Electricity Available Latrine available, Latrine not available, Electricity available, Electricity Not Available Latrine not available at States/UTs and District level."
+    ],
+    "changed": [
+      1441628757
+    ],
+    "created": [
+      1395298547
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Houselisting and Housing Census Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "House listing and Housing Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Facility",
+      "Latrine"
+    ],
+    "nid": [
+      96989
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Households classified by source and location of drinking water and availability of electricity and latrine facilities"
+    ],
+    "uuid": [
+      "f6fa9459-1f2e-45e4-84e6-a13366f576e7"
+    ],
+    "vid": [
+      7888309
+    ],
+    "view_count": [
+      932
+    ],
+    "search_api_id": [
+      "entity:node/96989:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/households-availing-banking-services-and-number-households-having-each-specified-assets"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3919
+    ],
+    "published_date": [
+      1395385741
+    ],
+    "body:value": [
+      "The data refers to details of Area Name, Total/Rural/Urban, Total number of households, availing banking services, Availability of assets Radio/Transistor, Television, Computer/Laptop With Internet, Without Internet, Telephone/Mobile Phone Land line only, Telephone/Mobile Phone Mobile only, Telephone/Mobile Phone Both, Bicycle, Motorcycle/Moped, Car/Jeep/Van, Households with TV Computer/Laptop, Telephone/mobile phone and Scooter/Car, None of the assets specified as mentioned at States/UTs and District level."
+    ],
+    "changed": [
+      1441628759
+    ],
+    "created": [
+      1395298547
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Houselisting and Housing Census Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "House listing and Housing Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Asset",
+      "Banking",
+      "Household",
+      "SC",
+      "Services",
+      "ST",
+      "Caste",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      96993
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Households availing banking services and number of Households having each of the specified assets"
+    ],
+    "uuid": [
+      "f8145830-cb08-4aca-a896-43dcbf22e1cc"
+    ],
+    "vid": [
+      7888319
+    ],
+    "view_count": [
+      3771
+    ],
+    "search_api_id": [
+      "entity:node/96993:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/households-type-structure-census-houses-occupied"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1060
+    ],
+    "published_date": [
+      1395383238
+    ],
+    "body:value": [
+      "The data refers to details of Area Name, Total/Rural/Urban, Total number of households, Type of Census Houses Permanent, Semi Permanent, Temporary Total, Temporary Serviceable, Temporary Non-Serviceable Unclassifiable at States/UTs and District level."
+    ],
+    "changed": [
+      1441628761
+    ],
+    "created": [
+      1395298547
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Houselisting and Housing Census Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "House listing and Housing Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "House",
+      "Household",
+      "SC",
+      "ST",
+      "Caste",
+      "Scheduled",
+      "Tribe",
+      "Structure"
+    ],
+    "nid": [
+      96997
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Households by type of structure of the Census houses occupied"
+    ],
+    "uuid": [
+      "6e415484-e4f0-41ed-8161-80d0738404bf"
+    ],
+    "vid": [
+      7888329
+    ],
+    "view_count": [
+      1013
+    ],
+    "search_api_id": [
+      "entity:node/96997:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/census-houses-and-uses"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1402
+    ],
+    "published_date": [
+      1395385919
+    ],
+    "body:value": [
+      "The data refers to details of Area Name, Total/Rural/Urban, Total number of census houses, vacant census houses, occupied census houses, Occupied Census Houses used as Residence, Residence-cum-other use, used as Shop/Office, School/College etc, Hotel/Lodge/Guest house etc, Hospital/Dispensary etc, Factory/Workshop/Work shed etc, Place of worship, Other non-residential use, No. of occupied locked census houses at States/UTs and District level."
+    ],
+    "changed": [
+      1441628763
+    ],
+    "created": [
+      1395231600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Houselisting and Housing Census Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "House listing and Housing Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "House"
+    ],
+    "nid": [
+      97001
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Census houses and the uses"
+    ],
+    "uuid": [
+      "ea225d0d-f4cd-43eb-8d19-76a2af3bf68d"
+    ],
+    "vid": [
+      7888335
+    ],
+    "view_count": [
+      1294
+    ],
+    "search_api_id": [
+      "entity:node/97001:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/sector-wise-distribution-cold-storages-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4034
+    ],
+    "published_date": [
+      1410868712
+    ],
+    "body:value": [
+      "The data refers to sector-wise distribution of cold storages in India. It also includes data regarding Cold Storages of Private sector, Private sector Capacity, Cooperative sector, Cooperative sector Capacity, Public sector and Public sector Capacity."
+    ],
+    "changed": [
+      1410873326
+    ],
+    "created": [
+      1386758400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Seeds"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "capacity",
+      "Private",
+      "Public",
+      "Storage",
+      "Cooperative",
+      "Cold"
+    ],
+    "nid": [
+      95722
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Sector-wise distribution of Cold Storages in India"
+    ],
+    "uuid": [
+      "ac2a52e3-7258-414c-8a22-b256ddfa4959"
+    ],
+    "vid": [
+      7886911
+    ],
+    "view_count": [
+      3660
+    ],
+    "search_api_id": [
+      "entity:node/95722:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/shortfall-health-infrastructure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1402
+    ],
+    "published_date": [
+      1410929713
+    ],
+    "body:value": [
+      "The requirement of infrastructure is calculated using the prescribed norms on the basis of provisional rural population from Census, 2011 and estimated rural tribal population in 2011 using percentage of tribal population out of rural population in 2001. All India shortfall is derived by adding state-wise figures of shortfall ignoring the existing surplus in some of the states."
+    ],
+    "changed": [
+      1566286997
+    ],
+    "created": [
+      1357300200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Health Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Population"
+    ],
+    "nid": [
+      95726
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Shortfall in Health Infrastructure"
+    ],
+    "uuid": [
+      "80b6ec9d-93ab-4b9a-825f-e0c97de0fc80"
+    ],
+    "vid": [
+      7886919
+    ],
+    "view_count": [
+      1295
+    ],
+    "search_api_id": [
+      "entity:node/95726:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-grid-decentralized-renewable-energy-system-devices-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1601
+    ],
+    "published_date": [
+      1410774550
+    ],
+    "body:value": [
+      "Get data on state-wise off-grid decentralized renewable energy system devices in India. These energy systems devices include biogas plants, biomass gasifier, industrial waste to energy, biogas waste to energy, water pumping wind mills and hybrid systems."
+    ],
+    "changed": [
+      1410774550
+    ],
+    "created": [
+      1386758400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biomass",
+      "Energy",
+      "hybrid",
+      "industrial",
+      "Water",
+      "pumping",
+      "Biogas",
+      "Renewable",
+      "Waste",
+      "Mill",
+      "Plant",
+      "Gasifier"
+    ],
+    "nid": [
+      95737
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise off-grid decentralized renewable energy system devices in India"
+    ],
+    "uuid": [
+      "5ec574b4-120f-4679-95f3-3a933e409e82"
+    ],
+    "vid": [
+      7886929
+    ],
+    "view_count": [
+      1477
+    ],
+    "search_api_id": [
+      "entity:node/95737:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-production-lac-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6083
+    ],
+    "published_date": [
+      1410871500
+    ],
+    "body:value": [
+      "The data refers to state-wise production of Lac in India. It also includes year on year wise State level data regarding Production of Lac."
+    ],
+    "changed": [
+      1410871500
+    ],
+    "created": [
+      1386758400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Seeds"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Production",
+      "LAC"
+    ],
+    "nid": [
+      95741
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise production of Lac in India"
+    ],
+    "uuid": [
+      "0d2d3579-e53f-4b3b-b931-892dc9ac4bf0"
+    ],
+    "vid": [
+      7886937
+    ],
+    "view_count": [
+      5717
+    ],
+    "search_api_id": [
+      "entity:node/95741:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-farm-machinery-industries-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4737
+    ],
+    "published_date": [
+      1410872358
+    ],
+    "body:value": [
+      "The data refers to status of Farm Machinery Industries in India. It also includes the number of machines like Agricultural tractors, Power tillers, Earth movers, Pumps, Micro-irrigation system, Plant protection equipment, Combines harvesters, Reapers, Threshers, Seed drills, Ploughs, cultivators and harrows, Tractors parts and accessories, Earth moving machinery and parts, Diesel oil engines, Rice processing machinery, Sugarcane crusher, Chaff cutter, Dairy and food industries are used in India for farming."
+    ],
+    "changed": [
+      1410872358
+    ],
+    "created": [
+      1386758400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Seeds"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Cultivator",
+      "Diesel",
+      "earth",
+      "Farm",
+      "Food",
+      "Industry",
+      "irrigation",
+      "Machinery",
+      "Micro",
+      "OIL",
+      "Power",
+      "rice",
+      "Seed",
+      "Sugarcane",
+      "pump",
+      "Processing",
+      "Equipment",
+      "Dairy",
+      "Threshers",
+      "Tractor",
+      "Protection",
+      "Plant",
+      "Cutter",
+      "Accessories",
+      "Tillers",
+      "Movers",
+      "Combes",
+      "Harvester",
+      "Reaper",
+      "Drill",
+      "Plough",
+      "Harrow",
+      "Part",
+      "Engines",
+      "Crusher",
+      "Chaff"
+    ],
+    "nid": [
+      95743
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status of Farm Machinery Industries in India"
+    ],
+    "uuid": [
+      "f96ce872-8378-45ee-85f6-1849f858cd22"
+    ],
+    "vid": [
+      7886941
+    ],
+    "view_count": [
+      4167
+    ],
+    "search_api_id": [
+      "entity:node/95743:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/sub-divisional-hospitals-district-hospitals-and-mobile-medical-units-functioning"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2261
+    ],
+    "published_date": [
+      1410929642
+    ],
+    "body:value": [
+      "The Sub Divisional and District Hospitals are government hospitals with more than 30 beds. Mobile Medical Units have been envisaged under National Rural Health Mission (NRHM) to provide preventive, promotive and curative health care in inaccessible areas and difficult terrains, which are underserved or unserved areas under usual circumstances. Functional Mobile Medical Units not only look after the curative aspects but also render Behaviour Change Communication (BCC) activities to promote healthy under the NRHM."
+    ],
+    "changed": [
+      1566286997
+    ],
+    "created": [
+      1357299720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Health Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "Health",
+      "Hospital",
+      "Mission",
+      "Rural",
+      "Change",
+      "Behaviour"
+    ],
+    "nid": [
+      95745
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Sub Divisional Hospitals, District Hospitals and Mobile Medical Units Functioning"
+    ],
+    "uuid": [
+      "1a0a4369-5c25-4d13-bbeb-bf8148866e7f"
+    ],
+    "vid": [
+      7886946
+    ],
+    "view_count": [
+      2052
+    ],
+    "search_api_id": [
+      "entity:node/95745:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/summary-be-2009-10-vis-vis-releases-non-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      798
+    ],
+    "published_date": [
+      1410775785
+    ],
+    "body:value": [
+      "The data refers to summary of Budget Estimates of 2009-10 for ICAR subject Matter Divisions, ICAR Hqtrs, Pensions and Personal loans and advances for NON PLAN head vis-a-vis releases."
+    ],
+    "changed": [
+      1410775785
+    ],
+    "created": [
+      1386758400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "BE",
+      "Budget",
+      "ICAR",
+      "Loan",
+      "Plan",
+      "Estimate",
+      "Pension",
+      "Personal"
+    ],
+    "nid": [
+      95747
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Summary of B.E. 2009-10 vis-a-vis releases (NON PLAN)"
+    ],
+    "uuid": [
+      "4cbee71a-d621-477a-8817-954375ea3bf6"
+    ],
+    "vid": [
+      7886950
+    ],
+    "view_count": [
+      713
+    ],
+    "search_api_id": [
+      "entity:node/95747:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/summary-be-2009-10-vis-vis-releases-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      658
+    ],
+    "published_date": [
+      1410775403
+    ],
+    "body:value": [
+      "The data refers to summary of Budget Estimate for the year 2009-10 vis-a-vis releases up to December, 2009 under PLAN head for ICAR subject Matter Divisions, NAIP, Management Information System, Externally Funded Projects etc. This data set also gives the Summary of the Budget Estimate for the year 2009-10 vis-a-vis releases under NON-PLAN head for ICAR Subject Matter Divisions, ICAR Hqts, Pensions, Personal Loans and Advances etc."
+    ],
+    "changed": [
+      1410775403
+    ],
+    "created": [
+      1386758400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Seeds"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "ICAR",
+      "Loan",
+      "research",
+      "Plan",
+      "Estimate",
+      "Pension",
+      "Personal",
+      "Council",
+      "Head",
+      "Agricultual"
+    ],
+    "nid": [
+      95749
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Summary of B.E. 2009-10 vis-a-vis releases (PLAN)"
+    ],
+    "uuid": [
+      "6dc64841-5296-4a49-ad10-8355211e20c7"
+    ],
+    "vid": [
+      7886954
+    ],
+    "view_count": [
+      550
+    ],
+    "search_api_id": [
+      "entity:node/95749:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/total-budget-and-expenditure-state-agricultural-universities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2748
+    ],
+    "published_date": [
+      1410774729
+    ],
+    "body:value": [
+      "Get details on total budget and expenditure of State Agricultural Universities (SAUs) in India. The data set includes the fund allocation and expenditure of the SAUs from their respective states, ICAR and other sources. Total fund allocation and expenditure is also given in the data set. The state-wise details of the fund allocation and expenditure is given from year 2004-05 till 2012-13 for the state (data for all the years is not available for all the states)."
+    ],
+    "changed": [
+      1410774729
+    ],
+    "created": [
+      1386758400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "expenditure",
+      "University",
+      "SAU"
+    ],
+    "nid": [
+      95756
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Total budget and expenditure of State Agricultural Universities"
+    ],
+    "uuid": [
+      "f08c7abc-9fa4-4731-a118-e439844a25bf"
+    ],
+    "vid": [
+      7886963
+    ],
+    "view_count": [
+      1853
+    ],
+    "search_api_id": [
+      "entity:node/95756:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/trend-growth-number-pump-sets-energized-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1225
+    ],
+    "published_date": [
+      1410871254
+    ],
+    "body:value": [
+      "The data refers to trend in growth of number of pump sets energized in India. It also includes year on year wise Pump Sets energized and Cumulative pump sets energized in India."
+    ],
+    "changed": [
+      1410871254
+    ],
+    "created": [
+      1386758400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Seeds"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Cumulative",
+      "pump",
+      "Energized"
+    ],
+    "nid": [
+      95760
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Trend in growth of number of pump sets energized in India"
+    ],
+    "uuid": [
+      "22217b6e-341c-446f-b89b-7da66109b700"
+    ],
+    "vid": [
+      7886968
+    ],
+    "view_count": [
+      977
+    ],
+    "search_api_id": [
+      "entity:node/95760:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/zero-based-budgeting-exercise-2001-centrally-sponsored-schemes-and-central-sector-schemes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      578
+    ],
+    "published_date": [
+      1414665791
+    ],
+    "body:value": [
+      "The data refers to Zero Based Budgeting Exercise 2001 for centrally sponsored schemes and central sector schemes in health sector."
+    ],
+    "changed": [
+      1484202692
+    ],
+    "created": [
+      1376728860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Scheme",
+      "Sponsored",
+      "Budgeting"
+    ],
+    "nid": [
+      95772
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Zero Based Budgeting Exercise 2001 for Centrally Sponsored Schemes and Central Sector Schemes"
+    ],
+    "uuid": [
+      "7526435b-4b6e-4a1d-9b01-342f7b6194a5"
+    ],
+    "vid": [
+      7886982
+    ],
+    "view_count": [
+      540
+    ],
+    "search_api_id": [
+      "entity:node/95772:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/bacille-calmette-gurin-bcg-vaccine-children"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      618
+    ],
+    "published_date": [
+      1398783312
+    ],
+    "body:value": [
+      "The data refers to state-wise achievement of bacille Calmette-Gurin (BCG) vaccine for children vis a vis need assessed."
+    ],
+    "changed": [
+      1566286964
+    ],
+    "created": [
+      1393484417
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "BCG",
+      "Children",
+      "Guerin",
+      "Bacille",
+      "Calmette"
+    ],
+    "nid": [
+      95791
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Bacille Calmette-Gurin (BCG) vaccine for children"
+    ],
+    "uuid": [
+      "2e3f3510-56eb-4e23-b318-8288ed71a0a6"
+    ],
+    "vid": [
+      10380938
+    ],
+    "view_count": [
+      535
+    ],
+    "search_api_id": [
+      "entity:node/95791:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dt-5dpt-5dpt-immunisation-children"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      963
+    ],
+    "published_date": [
+      1398764527
+    ],
+    "body:value": [
+      "The data refers to state-wise achievement of diphtheria- tetanus(DT 5)/diphtheria- tetanus-pertussis(DPT 5) /DPT Immunization for Children vis a vis need assessed."
+    ],
+    "changed": [
+      1566286964
+    ],
+    "created": [
+      1393485589
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Achievement",
+      "DPT",
+      "Tetanus",
+      "diphtheria",
+      "pertussis"
+    ],
+    "nid": [
+      95795
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "DT 5/DPT 5/DPT Immunisation for Children"
+    ],
+    "uuid": [
+      "fe641fcd-23de-4ff4-b18f-de961db75852"
+    ],
+    "vid": [
+      7886993
+    ],
+    "view_count": [
+      839
+    ],
+    "search_api_id": [
+      "entity:node/95795:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/measles-children"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      631
+    ],
+    "published_date": [
+      1398763059
+    ],
+    "body:value": [
+      "The data refers to state-wise achievement of MEASLES for children vis a vis need assessed."
+    ],
+    "changed": [
+      1566286964
+    ],
+    "created": [
+      1393486246
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Achievement",
+      "Children",
+      "Measles",
+      "Assessed"
+    ],
+    "nid": [
+      95798
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "MEASLES for children"
+    ],
+    "uuid": [
+      "bfd9fbc8-a512-4929-87c2-984bf271fb4f"
+    ],
+    "vid": [
+      7886997
+    ],
+    "view_count": [
+      542
+    ],
+    "search_api_id": [
+      "entity:node/95798:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/prophylaxis-against-blindness-due-vitamin-deficiency"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1036
+    ],
+    "published_date": [
+      1398686293
+    ],
+    "body:value": [
+      "The data refers to details of State-wise achievement of prophylaxis against blindness due to Vitamin A deficiency vis a vis need assesesed."
+    ],
+    "changed": [
+      1566286964
+    ],
+    "created": [
+      1393489294
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Deficiency",
+      "Vitamin"
+    ],
+    "nid": [
+      95801
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Prophylaxis against blindness due to Vitamin A deficiency"
+    ],
+    "uuid": [
+      "a0c8484b-d2a1-426f-9fb0-bc6a8673955d"
+    ],
+    "vid": [
+      7887003
+    ],
+    "view_count": [
+      920
+    ],
+    "search_api_id": [
+      "entity:node/95801:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/tetanus-toxoid-tt-children"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      730
+    ],
+    "published_date": [
+      1398763890
+    ],
+    "body:value": [
+      "The data refers to State-wise achievement of Tetanus Toxoid (TT) for children vis a vis need assessed."
+    ],
+    "changed": [
+      1566286964
+    ],
+    "created": [
+      1393490085
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Achievement",
+      "Children",
+      "Assessed"
+    ],
+    "nid": [
+      95805
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Tetanus Toxoid (TT) for children"
+    ],
+    "uuid": [
+      "ac606135-2994-4e6b-84ea-c11b77a372e9"
+    ],
+    "vid": [
+      7887007
+    ],
+    "view_count": [
+      645
+    ],
+    "search_api_id": [
+      "entity:node/95805:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/prophylaxis-against-nutritional-anaemia-among-women"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      763
+    ],
+    "published_date": [
+      1398764105
+    ],
+    "body:value": [
+      "The data refers to state-wise achievements of Prophylaxis against nutritional anaemia among women(IFA full course completed) vis a vis need assessed."
+    ],
+    "changed": [
+      1566286964
+    ],
+    "created": [
+      1393490877
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Achievement",
+      "Need",
+      "Assessed"
+    ],
+    "nid": [
+      95808
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Prophylaxis against nutritional anaemia among women"
+    ],
+    "uuid": [
+      "ebad5b86-468e-4f93-8352-4c006d74bea1"
+    ],
+    "vid": [
+      7887011
+    ],
+    "view_count": [
+      671
+    ],
+    "search_api_id": [
+      "entity:node/95808:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/age-marriage-state-and-residence-nfhs-and-dlhs"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1463
+    ],
+    "published_date": [
+      1398684069
+    ],
+    "body:value": [
+      "The data refers to Age at marriage by state and residence -National Family Health Survey (NFHS) and District Level Household and Facility Survey."
+    ],
+    "changed": [
+      1566286957
+    ],
+    "created": [
+      1393491467
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "Health",
+      "Household",
+      "NFHS",
+      "Survey",
+      "Facility",
+      "DLHS",
+      "Marriage",
+      "Family"
+    ],
+    "nid": [
+      95810
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Age at marriage by state and residence -NFHS  and DLHS"
+    ],
+    "uuid": [
+      "5fc8850d-a5bf-40ba-a855-3ff1ce01aff2"
+    ],
+    "vid": [
+      7887015
+    ],
+    "view_count": [
+      1266
+    ],
+    "search_api_id": [
+      "entity:node/95810:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/age-specific-fertility-rates-asfr-and-age-specific-marital-fertility-rates-asmfr"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4541
+    ],
+    "published_date": [
+      1398756283
+    ],
+    "body:value": [
+      "The data refers to Age Specific Fertility Rates (ASFR) and Age Specific Marital Fertility Rates (ASMFR)."
+    ],
+    "changed": [
+      1566286957
+    ],
+    "created": [
+      1393491962
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "Fertility",
+      "Marital",
+      "Rate",
+      "ASMFR",
+      "ASFR",
+      "Specific"
+    ],
+    "nid": [
+      95812
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Age Specific Fertility Rates (ASFR) and Age Specific Marital Fertility Rates (ASMFR)"
+    ],
+    "uuid": [
+      "d3463bc2-ed7e-4e6e-b0b4-7592f5714096"
+    ],
+    "vid": [
+      7887019
+    ],
+    "view_count": [
+      3580
+    ],
+    "search_api_id": [
+      "entity:node/95812:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/allopathic-doctors-primary-health-centres"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1971
+    ],
+    "published_date": [
+      1398684083
+    ],
+    "body:value": [
+      "The data refers to details of Allopathic doctors at Primary Health Centres."
+    ],
+    "changed": [
+      1566286957
+    ],
+    "created": [
+      1393492329
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics",
+      "trfff"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Doctor",
+      "Health",
+      "PHC"
+    ],
+    "nid": [
+      95814
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Allopathic doctors at Primary Health Centres"
+    ],
+    "uuid": [
+      "11307c12-3670-4dc5-8106-4a43d7fad374"
+    ],
+    "vid": [
+      7887023
+    ],
+    "view_count": [
+      1900
+    ],
+    "search_api_id": [
+      "entity:node/95814:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/anaemia-among-children6-59-months-haemoglobin-level"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      616
+    ],
+    "published_date": [
+      1398684091
+    ],
+    "body:value": [
+      "The data refers to Anaemia among children(6-59 months) by haemoglobin level (%).\r\n"
+    ],
+    "changed": [
+      1566286957
+    ],
+    "created": [
+      1393492932
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Health",
+      "national",
+      "NFHS",
+      "Survey",
+      "Family",
+      "Haemoglobin"
+    ],
+    "nid": [
+      95820
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Anaemia among children(6-59 months) by haemoglobin level"
+    ],
+    "uuid": [
+      "d1830501-91e3-4d63-a707-84aacba8ae82"
+    ],
+    "vid": [
+      7887027
+    ],
+    "view_count": [
+      487
+    ],
+    "search_api_id": [
+      "entity:node/95820:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/ante-natal-check"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      823
+    ],
+    "published_date": [
+      1398683190
+    ],
+    "body:value": [
+      "The data refers to Ante-natal check-up - National Family Health Survey (NFHS), District Level Household and Facility Survey(DLHS) and Coverage Evaluation Survey- UNICEF (CES)."
+    ],
+    "changed": [
+      1566286957
+    ],
+    "created": [
+      1393494437
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Evaluation",
+      "Health",
+      "Household",
+      "NFHS",
+      "Survey",
+      "Facility",
+      "CES",
+      "DLHS",
+      "Coverage",
+      "Natal",
+      "Family",
+      "Ante"
+    ],
+    "nid": [
+      95823
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Ante-natal check-up"
+    ],
+    "uuid": [
+      "2202e024-8e62-49fc-b21b-1d76b2f9175d"
+    ],
+    "vid": [
+      7887031
+    ],
+    "view_count": [
+      732
+    ],
+    "search_api_id": [
+      "entity:node/95823:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/birth-order-3-and-above"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      518
+    ],
+    "published_date": [
+      1398684074
+    ],
+    "body:value": [
+      "The data refers to Birth Order 3 and above - National Family Health Survey (NFHS) and District Level Household and Facility Survey(DLHS)."
+    ],
+    "changed": [
+      1566286957
+    ],
+    "created": [
+      1393496227
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Health",
+      "Household",
+      "NFHS",
+      "Survey",
+      "Facility",
+      "DLHS",
+      "Family"
+    ],
+    "nid": [
+      95830
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Birth Order 3 and above"
+    ],
+    "uuid": [
+      "34cc09c9-6599-426d-9eb1-d7868f1deba9"
+    ],
+    "vid": [
+      7887037
+    ],
+    "view_count": [
+      499
+    ],
+    "search_api_id": [
+      "entity:node/95830:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/causes-maternal-deaths"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      806
+    ],
+    "published_date": [
+      1398683199
+    ],
+    "body:value": [
+      "The data refers to Causes of Maternal Deaths (%)."
+    ],
+    "changed": [
+      1566286957
+    ],
+    "created": [
+      1393496840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Causes",
+      "Death",
+      "maternal",
+      "Survey",
+      "Special"
+    ],
+    "nid": [
+      95832
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Causes of Maternal Deaths"
+    ],
+    "uuid": [
+      "10b257d1-a3d4-4d18-8bfe-f4ee740ce90d"
+    ],
+    "vid": [
+      7887041
+    ],
+    "view_count": [
+      681
+    ],
+    "search_api_id": [
+      "entity:node/95832:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/child-mortality-rate-residence"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1168
+    ],
+    "published_date": [
+      1398754035
+    ],
+    "body:value": [
+      "The data refers to Child Mortality Rate by residence."
+    ],
+    "changed": [
+      1566286957
+    ],
+    "created": [
+      1393497284
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Mortality",
+      "Residence",
+      "Rate"
+    ],
+    "nid": [
+      95835
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Child Mortality Rate by residence"
+    ],
+    "uuid": [
+      "dbfec12c-c50b-4ab2-ac4f-ba09d891faa2"
+    ],
+    "vid": [
+      7887045
+    ],
+    "view_count": [
+      1080
+    ],
+    "search_api_id": [
+      "entity:node/95835:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crude-birth-ratecbr-and-total-fertility-ratetfr"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3779
+    ],
+    "published_date": [
+      1398755829
+    ],
+    "body:value": [
+      "The data refers to Time series data on Crude Birth Rate(CBR) and Total Fertility Rate(TFR)."
+    ],
+    "changed": [
+      1566286957
+    ],
+    "created": [
+      1393498010
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "birth",
+      "crude",
+      "Fertility",
+      "TFR",
+      "Rate",
+      "CBR"
+    ],
+    "nid": [
+      95839
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crude Birth Rate(CBR) and Total Fertility Rate(TFR)"
+    ],
+    "uuid": [
+      "33e8fe33-0c5b-4152-8a81-2d17e8c47ab8"
+    ],
+    "vid": [
+      7887059
+    ],
+    "view_count": [
+      3481
+    ],
+    "search_api_id": [
+      "entity:node/95839:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crude-death-rate-cdr-and-infant-mortality-rate-imr"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3083
+    ],
+    "published_date": [
+      1398755926
+    ],
+    "body:value": [
+      "The data refers to Time series data on Crude Death Rate (CDR) and Infant Mortality Rate (IMR)."
+    ],
+    "changed": [
+      1566286957
+    ],
+    "created": [
+      1393498435
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "crude",
+      "Death",
+      "IMR",
+      "Infant",
+      "Mortality",
+      "CDR",
+      "Rate"
+    ],
+    "nid": [
+      95841
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crude Death Rate (CDR) and Infant Mortality Rate (IMR)"
+    ],
+    "uuid": [
+      "8de57eab-a66a-403e-9fa3-2184c080b508"
+    ],
+    "vid": [
+      7887063
+    ],
+    "view_count": [
+      2823
+    ],
+    "search_api_id": [
+      "entity:node/95841:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/current-use-contraceptives-methods-currently-married-women"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      826
+    ],
+    "published_date": [
+      1398684077
+    ],
+    "body:value": [
+      "The data refers to Current Use of Contraceptives Methods by currently married women."
+    ],
+    "changed": [
+      1566286951
+    ],
+    "created": [
+      1393498694
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Health",
+      "Household",
+      "NFHS",
+      "Survey",
+      "Facility",
+      "DLHS",
+      "Family"
+    ],
+    "nid": [
+      95843
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Current Use of Contraceptives Methods by currently married women"
+    ],
+    "uuid": [
+      "4d6cffee-0f6d-409e-ad3c-eb8c53cefbfe"
+    ],
+    "vid": [
+      7887067
+    ],
+    "view_count": [
+      699
+    ],
+    "search_api_id": [
+      "entity:node/95843:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/demographic-estimates-selected-countries"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3794
+    ],
+    "published_date": [
+      1398683203
+    ],
+    "body:value": [
+      "The data refers to Demographic estimates relating to Population- Infant Mortality Rate- Neonatal Mortality Rate- Underweight children- Life Expectancy at Birth and Maternal Mortality Ratio (MMR) for selected countries."
+    ],
+    "changed": [
+      1566286951
+    ],
+    "created": [
+      1393499599
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "birth",
+      "Children",
+      "Infant",
+      "maternal",
+      "MMR",
+      "Mortality",
+      "Population",
+      "Underweight",
+      "Neonatal",
+      "Rate",
+      "Ratio",
+      "Expectancy"
+    ],
+    "nid": [
+      95846
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Demographic estimates for selected countries"
+    ],
+    "uuid": [
+      "c915655e-4577-4ff3-a3e7-0282b2f4b0a3"
+    ],
+    "vid": [
+      7887071
+    ],
+    "view_count": [
+      3611
+    ],
+    "search_api_id": [
+      "entity:node/95846:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/early-neo-natal-mortality-rates"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      731
+    ],
+    "published_date": [
+      1398755490
+    ],
+    "body:value": [
+      "The data refers to Early Neo natal Mortality Rates (Infant death less than 7 days)."
+    ],
+    "changed": [
+      1566286951
+    ],
+    "created": [
+      1393499956
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Mortality",
+      "NNMR",
+      "Natal",
+      "Rate",
+      "Early"
+    ],
+    "nid": [
+      95848
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Early Neo natal Mortality Rates"
+    ],
+    "uuid": [
+      "5bd4578a-9c06-412b-ab17-cc84473bfee4"
+    ],
+    "vid": [
+      7887075
+    ],
+    "view_count": [
+      573
+    ],
+    "search_api_id": [
+      "entity:node/95848:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/year-wise-distribution-ashoka-chakra-series-gallantry-awards-civilians"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3476
+    ],
+    "published_date": [
+      1383897264
+    ],
+    "body:value": [
+      "The data refers to year-wise distribution of Ashoka Chakra Series of Gallantry Awards (Ashoka Chakra, Kirti Chakra, Shaurya Chakra for Civilians."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1383133500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Awards"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Award",
+      "Ashoka",
+      "Chakra"
+    ],
+    "nid": [
+      94756
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Year-wise distribution of Ashoka Chakra Series of Gallantry Awards for Civilians"
+    ],
+    "uuid": [
+      "d9501f89-5343-4f37-a389-4219b540611f"
+    ],
+    "vid": [
+      7886368
+    ],
+    "view_count": [
+      3357
+    ],
+    "search_api_id": [
+      "entity:node/94756:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/year-wise-industrial-investment-proposals-received-industrial-undertakings"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3867
+    ],
+    "published_date": [
+      1373965582
+    ],
+    "body:value": [
+      "The data refers to year-wise details of Industrial Entrepreneurs Memorandum (IEM) filed, Letters of Intent (LoI)/ Direct Industrial Licenses (DILs) issued by DIPP along with comparison of data of current month with previous month and cumulative figures of current period with corresponding period of previous year."
+    ],
+    "changed": [
+      1505365878
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Industrial Investment Intentions"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department for Promotion of industry and Internal Trade"
+    ],
+    "field_sector:name": [
+      "Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commerce",
+      "DIL",
+      "DIPP",
+      "IEM",
+      "Industry",
+      "LoI",
+      "Entrepreneur",
+      "License",
+      "Letter",
+      "Memorandum"
+    ],
+    "nid": [
+      94758
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Year-wise Industrial Investment Proposals Received From Industrial Undertakings"
+    ],
+    "uuid": [
+      "4d7ea3e0-c432-458b-978c-22859af9309e"
+    ],
+    "vid": [
+      7886393
+    ],
+    "view_count": [
+      3648
+    ],
+    "search_api_id": [
+      "entity:node/94758:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/yield-hectare-major-crops"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      80967
+    ],
+    "published_date": [
+      1372224739
+    ],
+    "body:value": [
+      "The data refers to the Yield per Hectare of Major Crops in India (in kilograms per hectare) in India. It gives crop-wise details regarding yield food grains and non-food-grains for various years."
+    ],
+    "changed": [
+      1392373094
+    ],
+    "created": [
+      1371192660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Coffee",
+      "Economic",
+      "finance",
+      "rice",
+      "rubber",
+      "Survey",
+      "wheat",
+      "Plantation",
+      "Foodgrain",
+      "Cereal",
+      "Pulse"
+    ],
+    "nid": [
+      94766
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Yield per Hectare of Major Crops"
+    ],
+    "uuid": [
+      "1b238d17-a69a-4041-a854-a1691ec7f5c5"
+    ],
+    "vid": [
+      7886412
+    ],
+    "view_count": [
+      80092
+    ],
+    "search_api_id": [
+      "entity:node/94766:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/zero-based-budgeting-exercise-2001-health-sector-centrally-sponsored-schemes-and-central"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      819
+    ],
+    "published_date": [
+      1376939251
+    ],
+    "body:value": [
+      "The data refers to data related to Zero Based Budgeting Exercise 2001 for Centrally Sponsored Schemes and Central Sector Schemes in health sector during Tenth Plan."
+    ],
+    "changed": [
+      1436419138
+    ],
+    "created": [
+      1376728860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Plan",
+      "Scheme",
+      "Sponsored",
+      "Budgeting"
+    ],
+    "nid": [
+      94768
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Zero Based Budgeting Exercise 2001 in the Health Sector for Centrally Sponsored Schemes and Central Sector Schemes during Tenth Plan"
+    ],
+    "uuid": [
+      "f49043b6-e661-458f-a89e-3069d67cb484"
+    ],
+    "vid": [
+      7886423
+    ],
+    "view_count": [
+      787
+    ],
+    "search_api_id": [
+      "entity:node/94768:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/districts-trivial-or-no-deviations-between-proposed-and-actual-expenditure-key-sectors"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      623
+    ],
+    "published_date": [
+      1392017319
+    ],
+    "body:value": [
+      "The data refers to sector-wise funds proposed in District Perspective Plans (DPPs) and funds actually utilized in the five districts, namely, Warrangal (Andhra Pradesh), Pallakad (Kerala), Mayurbhanj (Orrissa), Mon (Nagaland) and Dangs (Gujarat). There were very trivial or no deviations in the amount proposed in the DPPs for various interventions and the amount actually spent on them."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1391753880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Infrastructure",
+      "Labour and Employment",
+      "Employment"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "RSVY",
+      "Yojna",
+      "Rashtriya",
+      "Sam",
+      "Vikas"
+    ],
+    "nid": [
+      94770
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Districts with Trivial or No Deviations between Proposed and Actual Expenditure by Key Sectors - Based on Sample Survey"
+    ],
+    "uuid": [
+      "4de4ea0f-4191-469d-a447-44fcf58ac404"
+    ],
+    "vid": [
+      7886433
+    ],
+    "view_count": [
+      561
+    ],
+    "search_api_id": [
+      "entity:node/94770:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/districts-wise-proposed-and-actual-expenditure-key-sectors-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1441
+    ],
+    "published_date": [
+      1392018063
+    ],
+    "body:value": [
+      "The data refers to sector-wise funds proposed in District Perspective Plans (DPPs) and funds actually utilized in the sample districts. "
+    ],
+    "changed": [
+      1392373094
+    ],
+    "created": [
+      1391764680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Infrastructure",
+      "Labour and Employment",
+      "Employment"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "RSVY",
+      "Yojna",
+      "Rashtriya",
+      "Sam",
+      "Vikas"
+    ],
+    "nid": [
+      94772
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Districts-wise Proposed and Actual Expenditure by Key Sectors - Based on Sample Survey"
+    ],
+    "uuid": [
+      "623982ab-dbe0-4042-910b-6faea3462b5b"
+    ],
+    "vid": [
+      7886440
+    ],
+    "view_count": [
+      1377
+    ],
+    "search_api_id": [
+      "entity:node/94772:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-details-annual-return-investment-roi-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1427
+    ],
+    "published_date": [
+      1392018076
+    ],
+    "body:value": [
+      "The data refers to district-wise details of the annual Return on Investment (RoI)."
+    ],
+    "changed": [
+      1392373094
+    ],
+    "created": [
+      1391754840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Infrastructure",
+      "Labour and Employment",
+      "Employment"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "RSVY",
+      "Yojna",
+      "Rashtriya",
+      "Sam",
+      "Vikas"
+    ],
+    "nid": [
+      94774
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District-wise details of the annual Return on Investment (RoI) - Based on Sample Survey"
+    ],
+    "uuid": [
+      "34826789-fd34-47ac-87c8-997595b2887c"
+    ],
+    "vid": [
+      7886449
+    ],
+    "view_count": [
+      1313
+    ],
+    "search_api_id": [
+      "entity:node/94774:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-progress-sample-districts-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      738
+    ],
+    "published_date": [
+      1392018222
+    ],
+    "body:value": [
+      "The data refers to the overall achievement of districts in terms of the utilization of total RSVY funds allotted to them."
+    ],
+    "changed": [
+      1392373094
+    ],
+    "created": [
+      1391754840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Infrastructure",
+      "Labour and Employment",
+      "Employment"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "RSVY",
+      "Yojna",
+      "Rashtriya",
+      "Sam",
+      "Vikas"
+    ],
+    "nid": [
+      94776
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Progress of Sample Districts - Based on Sample Survey"
+    ],
+    "uuid": [
+      "50158854-d63a-4a17-8ff8-29813cfeaff0"
+    ],
+    "vid": [
+      7886458
+    ],
+    "view_count": [
+      618
+    ],
+    "search_api_id": [
+      "entity:node/94776:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/general-statistics-post-offices-year-wise"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1695
+    ],
+    "published_date": [
+      1391771781
+    ],
+    "body:value": [
+      "The data refers to year-wise general statistics related to post offices, inclusive of audit and accounts establishments. Data relate to ordinary and telegraphic inland money orders issued and foreign money orders issued and paid."
+    ],
+    "changed": [
+      1528980288
+    ],
+    "created": [
+      1391662080
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Post"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Establishment",
+      "Foreign",
+      "Inland",
+      "Account",
+      "Money",
+      "Audit",
+      "Telegraphic"
+    ],
+    "nid": [
+      94778
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "General Statistics of Post Offices - Year-wise"
+    ],
+    "uuid": [
+      "053b5a0a-61f9-42ad-adad-6bd881b51848"
+    ],
+    "vid": [
+      7886466
+    ],
+    "view_count": [
+      1574
+    ],
+    "search_api_id": [
+      "entity:node/94778:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/implementation-agency-wise-utilization-funds-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      903
+    ],
+    "published_date": [
+      1392018303
+    ],
+    "body:value": [
+      "The data refers to Implementation agency-wise utilization of the RSVY funds."
+    ],
+    "changed": [
+      1392373094
+    ],
+    "created": [
+      1391754840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Infrastructure",
+      "Labour and Employment",
+      "Employment"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "RSVY",
+      "Yojna",
+      "Rashtriya",
+      "Sam",
+      "Vikas"
+    ],
+    "nid": [
+      94780
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Implementation Agency-wise Utilization of Funds  - Based on Sample Survey"
+    ],
+    "uuid": [
+      "c5b94279-8c68-4bf3-83d9-a66f204e590a"
+    ],
+    "vid": [
+      7886474
+    ],
+    "view_count": [
+      846
+    ],
+    "search_api_id": [
+      "entity:node/94780:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

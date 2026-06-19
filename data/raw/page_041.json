@@ -1,0 +1,4863 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/fish-catch-and-landings-group-species"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1283
+    ],
+    "published_date": [
+      1365752213
+    ],
+    "body:value": [
+      "The data refers to details from year 2000 to 2010 on Fish Catch and Landings By Group Of Species like Inland Fish, Flat Fish, Indian Shad Sardines, Anchovies, Tunas, Marine Teleousteans, Elasmobranchs, Decapods, etc."
+    ],
+    "changed": [
+      1506517564
+    ],
+    "created": [
+      1365677220
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Live Stock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anchovies",
+      "Inland",
+      "Marine",
+      "Tunas",
+      "Specie",
+      "Decapod",
+      "Elasmobranch",
+      "Flat",
+      "Shad",
+      "Sardines",
+      "Landing",
+      "Teleoustean"
+    ],
+    "nid": [
+      87973
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Fish Catch and Landings By Group of Species"
+    ],
+    "uuid": [
+      "455d5656-648f-409e-bb40-590d6307252d"
+    ],
+    "vid": [
+      7847693
+    ],
+    "view_count": [
+      1166
+    ],
+    "search_api_id": [
+      "entity:node/87973:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/foreign-exchange-reserves"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4420
+    ],
+    "published_date": [
+      1371808250
+    ],
+    "body:value": [
+      "The data refers to the end of fiscal figures of Foreign Exchange Reserves. It gives the quantity and value of Reserves including Gold, Reserve Tranche Position (RTP), Special Drawing Rights (SDRs), foreign currency assets. The table also gives details of the transactions with IMF i.e. Drawals and Repurchases."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Balance of Payments"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Asset",
+      "Currency",
+      "Economic",
+      "finance",
+      "Gold",
+      "IMF",
+      "payment",
+      "RTP",
+      "SDR",
+      "Survey",
+      "Balance",
+      "Drawal",
+      "Repurchase"
+    ],
+    "nid": [
+      87977
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Foreign Exchange Reserves"
+    ],
+    "uuid": [
+      "d10abf0a-e8b4-4460-8501-dce7a658bce5"
+    ],
+    "vid": [
+      7847705
+    ],
+    "view_count": [
+      4168
+    ],
+    "search_api_id": [
+      "entity:node/87977:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      5
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/foreign-exchange-reserves-year-wise"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      26678
+    ],
+    "published_date": [
+      1366895581
+    ],
+    "body:value": [
+      "The data indicates about overall details on foreign exchange reserves in Indian currency and foreign exchange reserves in US dollar."
+    ],
+    "changed": [
+      1602756586
+    ],
+    "created": [
+      1366888920
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Exchange, Coinage And Currency"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Asset",
+      "Coinage",
+      "Currency",
+      "Dollar",
+      "Gold",
+      "research",
+      "Reserve",
+      "RTP",
+      "SDR",
+      "Survey",
+      "Design"
+    ],
+    "nid": [
+      87980
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Foreign Exchange Reserves - Year-wise"
+    ],
+    "uuid": [
+      "b629991d-d11f-4dca-b4fa-3803e0b530a8"
+    ],
+    "vid": [
+      7847726
+    ],
+    "view_count": [
+      23333
+    ],
+    "search_api_id": [
+      "entity:node/87980:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/foreign-tourist-arrivals-india-top-15-source-countries"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      13903
+    ],
+    "published_date": [
+      1366043946
+    ],
+    "body:value": [
+      "The data refers to listing of foreign tourist arrivals in India from top 15 source countries from 2001 to 2010."
+    ],
+    "changed": [
+      1602756583
+    ],
+    "created": [
+      1366026720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Tourism"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Statistics",
+      "Travel and Tourism"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Foreign",
+      "Tourist",
+      "Tourism"
+    ],
+    "nid": [
+      87982
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Foreign Tourist Arrivals In India From Top 15 Source Countries"
+    ],
+    "uuid": [
+      "0575250f-674a-4b07-85b8-2b5831e0780b"
+    ],
+    "vid": [
+      7847733
+    ],
+    "view_count": [
+      13308
+    ],
+    "search_api_id": [
+      "entity:node/87982:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/foreign-trade-overall-trade-merchandise-and-treasure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2100
+    ],
+    "published_date": [
+      1367693237
+    ],
+    "body:value": [
+      "The data refers to overall foreign trade figures in Merchandise and Treasure from 2001-02 to 2011-12."
+    ],
+    "changed": [
+      1441693957
+    ],
+    "created": [
+      1367492460
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Trade"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Export",
+      "Import",
+      "trade",
+      "Balance"
+    ],
+    "nid": [
+      87984
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Foreign Trade - Overall Trade In Merchandise And Treasure"
+    ],
+    "uuid": [
+      "aa9cc3fa-5cd7-439b-9979-fc4991f3d189"
+    ],
+    "vid": [
+      7847740
+    ],
+    "view_count": [
+      1907
+    ],
+    "search_api_id": [
+      "entity:node/87984:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/forest-cover-andaman-and-nicobar-islands"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2405
+    ],
+    "published_date": [
+      1379673377
+    ],
+    "body:value": [
+      "The data refers to forest cover Andaman & Nicobar islands (area in sq. km). These figures have been generated by Govt. of India through a project sanctioned to Forest Survey of India, Dehradun in the year 2003 titled Assessment, Mapping and Monitoring of Coral Reefs along the Coastal Regions of India using Remote Sensing and GIS. "
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1379069820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cover",
+      "Forest",
+      "ISFR"
+    ],
+    "nid": [
+      88026
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Forest Cover Andaman and Nicobar Islands"
+    ],
+    "uuid": [
+      "3be874b2-701c-4149-8e57-87c0edc04ee9"
+    ],
+    "vid": [
+      7847976
+    ],
+    "view_count": [
+      2281
+    ],
+    "search_api_id": [
+      "entity:node/88026:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/forest-cover-estimates"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1593
+    ],
+    "published_date": [
+      1365011776
+    ],
+    "body:value": [
+      "The data refers to All India (1987 onwards) and State-wise (2009 and 2010) data in Sq.Kms. on forest cover estimates (first to twelveth cycle)."
+    ],
+    "changed": [
+      1506517294
+    ],
+    "created": [
+      1364881380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cover",
+      "cycle",
+      "environment",
+      "satellite",
+      "sensor",
+      "Estimate"
+    ],
+    "nid": [
+      88065
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Forest Cover Estimates"
+    ],
+    "uuid": [
+      "da156258-f474-4955-9565-6bfddba1174c"
+    ],
+    "vid": [
+      7848199
+    ],
+    "view_count": [
+      1481
+    ],
+    "search_api_id": [
+      "entity:node/88065:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/forest-cover-gulf-mannar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      502
+    ],
+    "published_date": [
+      1379673230
+    ],
+    "body:value": [
+      "The data refers to forest cover Gulf of Mannar. "
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1379069820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "report"
+    ],
+    "nid": [
+      88067
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Forest Cover Gulf of Mannar"
+    ],
+    "uuid": [
+      "71ddf3cd-6e7a-47d2-8458-4e6cff07e907"
+    ],
+    "vid": [
+      7848204
+    ],
+    "view_count": [
+      484
+    ],
+    "search_api_id": [
+      "entity:node/88067:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/headcount-ratio-and-number-poor-persons-below-poverty-line-india-combined-rural-and-urban"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2199
+    ],
+    "published_date": [
+      1375099019
+    ],
+    "body:value": [
+      "The data refers to head count ratio and number of poor persons (in lakh) for 1973-74, 1983, 1993-94 and 2004-05 for Rural India, Urban India and on country level."
+    ],
+    "changed": [
+      1436419150
+    ],
+    "created": [
+      1374845580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Rural",
+      "Urban",
+      "Head",
+      "Count"
+    ],
+    "nid": [
+      88473
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Headcount Ratio and Number of Poor Persons Below Poverty Line in India (Combined, Rural and Urban Both)"
+    ],
+    "uuid": [
+      "589b7da1-184d-4175-8864-a9b4c348af13"
+    ],
+    "vid": [
+      7850037
+    ],
+    "view_count": [
+      2103
+    ],
+    "search_api_id": [
+      "entity:node/88473:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/headcount-ratio-and-number-poor-persons-below-poverty-line-rural-and-urban-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9212
+    ],
+    "published_date": [
+      1375099942
+    ],
+    "body:value": [
+      "The data refers to Headcount Ratio and Number of Poor Persons Below Poverty Line in Rural and Urban India."
+    ],
+    "changed": [
+      1436418941
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "Poor",
+      "Person",
+      "Head"
+    ],
+    "nid": [
+      88475
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Headcount Ratio and Number of Poor Persons Below Poverty Line in Rural and Urban India"
+    ],
+    "uuid": [
+      "1d81a929-4ccb-42f1-abd8-cc1668d86fdc"
+    ],
+    "vid": [
+      7850042
+    ],
+    "view_count": [
+      8919
+    ],
+    "search_api_id": [
+      "entity:node/88475:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/health-and-nutrition-indicators-social-groups"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3434
+    ],
+    "published_date": [
+      1375101111
+    ],
+    "body:value": [
+      "The data refers to infant mortality rate and mortality under age of five for Rural India, Urban India separately and Combined (Rural+Urban) fertility, infant mortality rate and mortality under age of five for SC, ST, OBC and Other categories. It also informs about nutritional status in terms of BMI for men and women separately."
+    ],
+    "changed": [
+      1436418941
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Country",
+      "Fertility",
+      "Infant",
+      "mass",
+      "men",
+      "Mortality",
+      "Rural",
+      "Urban",
+      "Women",
+      "BMI",
+      "Body",
+      "Mean"
+    ],
+    "nid": [
+      88478
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Health and Nutrition Indicators by Social Groups"
+    ],
+    "uuid": [
+      "08a9fd06-8fbb-42af-9ae0-9ea45c0ca55d"
+    ],
+    "vid": [
+      7850048
+    ],
+    "view_count": [
+      3117
+    ],
+    "search_api_id": [
+      "entity:node/88478:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/health-indicators-among-selected-countries-projected"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4377
+    ],
+    "published_date": [
+      1376912752
+    ],
+    "body:value": [
+      "The data refers to the health indicators among selected countries such as Infant Mortality Rate (IMR), Life Expectancy Male / Female, Maternal Mortality Rate (MMR) and Total Fertility Rate (TFR) projected (2001-06)."
+    ],
+    "changed": [
+      1436419135
+    ],
+    "created": [
+      1376732040
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Fertility",
+      "IMR",
+      "Infant",
+      "maternal",
+      "MMR",
+      "Mortality",
+      "Plan",
+      "TFR",
+      "Indicator",
+      "Rate",
+      "Life",
+      "Expectancy"
+    ],
+    "nid": [
+      88481
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Health Indicators among Selected Countries - Projected"
+    ],
+    "uuid": [
+      "b9050de3-dfaa-42b7-b105-20ae424a5d06"
+    ],
+    "vid": [
+      7850053
+    ],
+    "view_count": [
+      4151
+    ],
+    "search_api_id": [
+      "entity:node/88481:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/health-indices-various-social-groups-national-health-policy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2978
+    ],
+    "published_date": [
+      1376940026
+    ],
+    "body:value": [
+      "The data refers to health indices of various social groups like Infant Mortality Rate (IMR), Under-Five Mortality Rate (U5MR) and % Under Nutrition from National Health Policy (NHP), 2002."
+    ],
+    "changed": [
+      1436419141
+    ],
+    "created": [
+      1376724720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Health",
+      "IMR",
+      "Infant",
+      "Mortality",
+      "NHP",
+      "Nutrition",
+      "Plan",
+      "Rate",
+      "Indices"
+    ],
+    "nid": [
+      88483
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Health Indices of Various Social Groups from National Health Policy"
+    ],
+    "uuid": [
+      "6e3b6f6e-aaf6-4756-8d96-296c27f8e216"
+    ],
+    "vid": [
+      7850057
+    ],
+    "view_count": [
+      2718
+    ],
+    "search_api_id": [
+      "entity:node/88483:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/high-precision-aircraft-bearings-light-combat-aircraft-tejas"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1503
+    ],
+    "published_date": [
+      1368078933
+    ],
+    "body:value": [
+      "Aircraft projects division of CVRDE is engaged in developing Aircraft Bearings for LCA Tejas programme. These bearings are of high class with the capabilities of operating at high speed and load carrying capacity. CVRDE has established the design , manufacturing technologies and world class testing facilities for carrying out stringent qualification testing for airworthiness."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1367997480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DRDO Product"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Degree",
+      "Reliability",
+      "treatment",
+      "Defence",
+      "Speed",
+      "Accuracy",
+      "Temprature",
+      "Micrometer",
+      "Cryogenic",
+      "Celsius",
+      "Vccume",
+      "Hardening"
+    ],
+    "nid": [
+      88485
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "High Precision Aircraft Bearings for LIGHT COMBAT AIRCRAFT- TEJAS"
+    ],
+    "uuid": [
+      "9874f8f3-e4d5-483a-b035-519244c2321e"
+    ],
+    "vid": [
+      7850064
+    ],
+    "view_count": [
+      1385
+    ],
+    "search_api_id": [
+      "entity:node/88485:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/higher-education-enrolment-targets-leveltype-12th-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1498
+    ],
+    "published_date": [
+      1369309115
+    ],
+    "body:value": [
+      "The data refers to the targeted higher education enrolment for the twelfth plan by level and type, for the years 2011-12 and 2016-17."
+    ],
+    "changed": [
+      1436419245
+    ],
+    "created": [
+      1369233900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Higher Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "GER",
+      "ODL",
+      "Plan",
+      "target"
+    ],
+    "nid": [
+      88487
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Higher Education Enrolment Targets by Level/Type for the 12th Plan"
+    ],
+    "uuid": [
+      "d2bb3b61-92fe-49c3-8fbf-6c71a30daf7f"
+    ],
+    "vid": [
+      7850067
+    ],
+    "view_count": [
+      1342
+    ],
+    "search_api_id": [
+      "entity:node/88487:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/horticultural-crops-varieties-central-release"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2774
+    ],
+    "published_date": [
+      1369217526
+    ],
+    "body:value": [
+      "The data refers to the list of horticultural crops varieties that have been released and notified (central release) during the year. The horticultural crops include fruit crops, vegetable crops, tuber crops, floricultural crops, spices, medicinal and aromatic plant, plantation crops and potato."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1368522840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Horticulture"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Agricultural Produces"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "crop",
+      "notified",
+      "Release",
+      "variety",
+      "Vegetable",
+      "Tuber",
+      "Horticultural",
+      "Fruit"
+    ],
+    "nid": [
+      88489
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Horticultural Crops Varieties (Central Release)"
+    ],
+    "uuid": [
+      "42b853ac-d3ce-418c-8b1b-2d2648b1f8a3"
+    ],
+    "vid": [
+      7850074
+    ],
+    "view_count": [
+      2409
+    ],
+    "search_api_id": [
+      "entity:node/88489:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/horticulture-crops-varieties"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3207
+    ],
+    "published_date": [
+      1369312288
+    ],
+    "body:value": [
+      "The data refers to the list of certified varieties of horticulture crops released during the year. The crops include vegetable crops, fruits, floriculture crops, tuber crops, medicinal crops, aromatic crops, seed spices, spices and plantation crops."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1367927820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Horticulture"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Agricultural Produces"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "crop",
+      "Floriculture",
+      "Medicinal",
+      "Seed",
+      "Spices",
+      "Vegetable"
+    ],
+    "nid": [
+      88491
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Horticulture Crops Varieties"
+    ],
+    "uuid": [
+      "592924d1-abaa-448e-9a4a-296492ecf537"
+    ],
+    "vid": [
+      7850083
+    ],
+    "view_count": [
+      2730
+    ],
+    "search_api_id": [
+      "entity:node/88491:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hospitals-and-bed-strength-under-ayush-systems"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4146
+    ],
+    "published_date": [
+      1364465490
+    ],
+    "body:value": [
+      "The data refers to All India (from 2001 to 2011) and State-wise (2010-11) number of hospitals and bed strength under AYUSH Systems (Ayurveda, Unani, Siddha, Naturopathy, Homoeopathy, Yoga, Amchi) as on 1st April."
+    ],
+    "changed": [
+      1441693301
+    ],
+    "created": [
+      1364457360
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare",
+      "trfff"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Amchi",
+      "Ayurveda",
+      "Homoeopathy",
+      "Naturopathy",
+      "Siddha",
+      "Unani",
+      "Yoga"
+    ],
+    "nid": [
+      88493
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Hospitals And Bed Strength Under Ayush Systems"
+    ],
+    "uuid": [
+      "075926f9-3af1-40df-a1e4-b655dbc26ea2"
+    ],
+    "vid": [
+      7850091
+    ],
+    "view_count": [
+      3997
+    ],
+    "search_api_id": [
+      "entity:node/88493:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/household-access-energy-data"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5500
+    ],
+    "published_date": [
+      1370936595
+    ],
+    "body:value": [
+      "The data refers to details on household access to energy data for Census 2011. It shows primary energy sources for lighting in 2011 as 55.3 percent rural, 92.7 percent urban and 67.2 percent overall, as against 43.5 percent rural, 87.6 percent urban and 55.8 percent overall in 2001. The difference in NSSO and Census data is possibly due to differences in questionnaire."
+    ],
+    "changed": [
+      1436419221
+    ],
+    "created": [
+      1370675820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "electricity",
+      "Gas",
+      "Lighting",
+      "LPG",
+      "NSSO",
+      "Petroleum",
+      "Rural",
+      "Source",
+      "Urban",
+      "Liquefied"
+    ],
+    "nid": [
+      88495
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Household Access To Energy Data"
+    ],
+    "uuid": [
+      "262e3fb9-d874-4c95-ade1-480ee8fa70f6"
+    ],
+    "vid": [
+      7850093
+    ],
+    "view_count": [
+      5091
+    ],
+    "search_api_id": [
+      "entity:node/88495:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/household-consumer-expenditure-national-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      52274
+    ],
+    "published_date": [
+      1353692026
+    ],
+    "body:value": [
+      "National Sample Survey Organization (NSSO) conducts surveys on HOUSEHOLD CONSUMER EXPENDITURES ON a thin sample of households and a quinquennial survey on a large sample of households. Household consumer expenditure is the sum total of monetary values of all the items (i.e. goods and services) consumed by the household on domestic account during the reference period.\r\nThe programme of quinquennial surveys on consumer expenditure and employment & unemployment has been adopted by the National Sample Survey Office (NSSO) since 1972-73."
+    ],
+    "changed": [
+      1616757836
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Sample Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Others",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bedding",
+      "Clothing",
+      "expenditure",
+      "Food",
+      "footwear",
+      "Fuel",
+      "Medical",
+      "Educational",
+      "Expense",
+      "Durable"
+    ],
+    "nid": [
+      88497
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Household Consumer Expenditure: National Sample Survey"
+    ],
+    "uuid": [
+      "2a04acb5-9337-49d0-bd02-95567cb6c363"
+    ],
+    "vid": [
+      7850167
+    ],
+    "view_count": [
+      47373
+    ],
+    "search_api_id": [
+      "entity:node/88497:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/households-access-safe-drinking-water"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8297
+    ],
+    "published_date": [
+      1372065348
+    ],
+    "body:value": [
+      "The data refers to details regarding the access to Safe Drinking Water to Households in India. It gives the figures relating to the access to safe drinking water in Rural and Urban households (through Tap, Handpump or Tubewell) for various years."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Human Development Indicators"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "Economic",
+      "finance",
+      "Handpump",
+      "Household",
+      "Rural",
+      "Tap",
+      "Tubewell",
+      "Urban",
+      "Indicator",
+      "Human",
+      "Safe"
+    ],
+    "nid": [
+      88512
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Households access to safe drinking water"
+    ],
+    "uuid": [
+      "6bd7415f-b6af-4aeb-bd79-ca4a55208299"
+    ],
+    "vid": [
+      7850171
+    ],
+    "view_count": [
+      7727
+    ],
+    "search_api_id": [
+      "entity:node/88512:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/housing-condition-survey-nss"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6786
+    ],
+    "published_date": [
+      1354254530
+    ],
+    "body:value": [
+      "The National Sample Survey Organisation (NSSO) conducted an integrated survey covering various aspects of housing conditions during July to December 2002. The link provides all information relating to the survey."
+    ],
+    "changed": [
+      1616757861
+    ],
+    "created": [
+      1352711880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Sample Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Housing",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Building",
+      "Construction",
+      "Dwelling",
+      "Flood",
+      "Road",
+      "Facility",
+      "living",
+      "Condition",
+      "Approach",
+      "Risk"
+    ],
+    "nid": [
+      88514
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Housing Condition Survey: NSS"
+    ],
+    "uuid": [
+      "2365cd1f-6f2f-442f-8cae-3729a4492297"
+    ],
+    "vid": [
+      7850179
+    ],
+    "view_count": [
+      6172
+    ],
+    "search_api_id": [
+      "entity:node/88514:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/human-development-index-and-its-components-g-20-countries"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5690
+    ],
+    "published_date": [
+      1367556024
+    ],
+    "body:value": [
+      "Get the data about for G-20 countries details on Human development index (HDI), HDI Rank, Life expectancy at birth, Maternal mortality ratio, Fertility rate, Adolescent Fertility Rate, Mean years of schooling, Population with atleast secondary education, and Labour force participation rate."
+    ],
+    "changed": [
+      1455194137
+    ],
+    "created": [
+      1367408580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India and The World"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "All",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "birth",
+      "Development",
+      "Education",
+      "Fertility",
+      "Labour",
+      "maternal",
+      "Mortality",
+      "Participation",
+      "Population",
+      "School",
+      "secondary",
+      "Adolescent",
+      "Rate",
+      "Force",
+      "Ratio",
+      "Life",
+      "Expectancy",
+      "Mean",
+      "With"
+    ],
+    "nid": [
+      88516
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Human Development Index and its Components for G-20 Countries"
+    ],
+    "uuid": [
+      "644581e6-539c-4c4e-8f85-0c054c066b5c"
+    ],
+    "vid": [
+      7850213
+    ],
+    "view_count": [
+      5485
+    ],
+    "search_api_id": [
+      "entity:node/88516:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/human-development-index-india-and-world"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5397
+    ],
+    "published_date": [
+      1367556125
+    ],
+    "body:value": [
+      "The data describes about the details of Human development index of India and the World."
+    ],
+    "changed": [
+      1602755804
+    ],
+    "created": [
+      1367407800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India and The World"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "All",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Component",
+      "Development"
+    ],
+    "nid": [
+      88518
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Human Development Index of India and the World"
+    ],
+    "uuid": [
+      "89110608-b131-4da1-a5ec-ad4c216364a6"
+    ],
+    "vid": [
+      7850224
+    ],
+    "view_count": [
+      4528
+    ],
+    "search_api_id": [
+      "entity:node/88518:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hydraulic-and-lubrication-filters-combat-vehicles-drdo"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1542
+    ],
+    "published_date": [
+      1362734137
+    ],
+    "body:value": [
+      "Combat Vehicles Research and Development Establishment (CVRDE) Filter development centre has pioneered in the Design and Development of Hydraulic and Lubrication filters for Aircraft systems, MBT-Arjun and Naval systems. Design, develop and lead to production tracked armament vehicles and specialist vehicles to meet the needs of the service. Build technological capabilities in critical areas including test and evaluation of Combat system."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1362543840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DRDO Product"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AERO",
+      "aircraft",
+      "Development",
+      "Establishment",
+      "LCA",
+      "MBT",
+      "research",
+      "Tank",
+      "Defence",
+      "Light",
+      "Vehical",
+      "Battle"
+    ],
+    "nid": [
+      88520
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Hydraulic and Lubrication Filters for Combat Vehicles from DRDO"
+    ],
+    "uuid": [
+      "51afc9ce-cac1-43ea-97cd-a8a7fab4a0f1"
+    ],
+    "vid": [
+      7850231
+    ],
+    "view_count": [
+      1425
+    ],
+    "search_api_id": [
+      "entity:node/88520:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/icar-institutes-list"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8578
+    ],
+    "published_date": [
+      1369218029
+    ],
+    "body:value": [
+      "The data refers to the list of organizations working under the umbrella of Indian Council of Agricultural Research, New Delhi. The list includes the institutes and their Regional Stations, National Bureaus, National Research Centres and their Regional Stations, Directorates and their Regional Stations , Project Directorates, Zonal Directorates, Central Institutes and their Regional Stations, ICAR Research Centres and Deemed Universities."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1368525300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "ICAR"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Agricultural Research & Extension"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Central",
+      "Institute",
+      "national",
+      "research",
+      "station",
+      "Bureau",
+      "Regional"
+    ],
+    "nid": [
+      88522
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "ICAR Institutes List"
+    ],
+    "uuid": [
+      "712d6dca-e7aa-45a8-9ad1-d464a6489505"
+    ],
+    "vid": [
+      7850237
+    ],
+    "view_count": [
+      8313
+    ],
+    "search_api_id": [
+      "entity:node/88522:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/image-intensification-based-devices-drdo"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2230
+    ],
+    "published_date": [
+      1362561549
+    ],
+    "body:value": [
+      "Instruments Research and Development Establishment (IRDE), Dehra Dun, under DRDO, is devoted to research, design, development and technology transfer in optical and electro-optical instrumentation primarily for the Defence Services. To achieve excellence in the fields of Optics & Electro-optical Instrumentation with a commitment to provide high quality Instruments."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1362550860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DRDO Product"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Integrated",
+      "research",
+      "Equipment",
+      "Defence",
+      "Observation",
+      "Night",
+      "Mk",
+      "Passive",
+      "Vision",
+      "Binocular",
+      "Goggle"
+    ],
+    "nid": [
+      88524
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Image Intensification Based Devices from DRDO"
+    ],
+    "uuid": [
+      "da6b1123-7391-40bb-a3d9-1e187bc6f71c"
+    ],
+    "vid": [
+      7850243
+    ],
+    "view_count": [
+      1980
+    ],
+    "search_api_id": [
+      "entity:node/88524:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/immunization-status-children-12-23-months"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3043
+    ],
+    "published_date": [
+      1375449523
+    ],
+    "body:value": [
+      "The data refers to Immunization Status of Children (12-23 months). It gives state-wise details regarding immunization status against BCG and measles and all other vaccinations. The states which have been good performers are Andhra Pradesh, Kerala, Himachal Pradesh and Maharashtra."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Scheme",
+      "Vaccination",
+      "Measel"
+    ],
+    "nid": [
+      88526
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Immunization Status of Children (12-23 months)"
+    ],
+    "uuid": [
+      "1655f519-d63c-4e18-977d-6fea7646821d"
+    ],
+    "vid": [
+      7850249
+    ],
+    "view_count": [
+      2809
+    ],
+    "search_api_id": [
+      "entity:node/88526:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/impact-cmdm-enrolment-rates-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      556
+    ],
+    "published_date": [
+      1385706759
+    ],
+    "body:value": [
+      "The data refers to the impact of CMDM on enrolment rates. It provides details of sample states on Increase in Enrolment (%age of Sample School), Increase in Enrolment Attributed to CMDM and Other Contributing Factors for Increase in Enrolment. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385641020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "Factor",
+      "Increase",
+      "Ctributing"
+    ],
+    "nid": [
+      88528
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Impact of CMDM on enrolment rates - Based on Sample Survey"
+    ],
+    "uuid": [
+      "bb8d342c-674e-4a7f-9f7e-7b76bccf68d4"
+    ],
+    "vid": [
+      7850255
+    ],
+    "view_count": [
+      534
+    ],
+    "search_api_id": [
+      "entity:node/88528:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/impact-cmdm-fresh-enrolments-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      526
+    ],
+    "published_date": [
+      1385706629
+    ],
+    "body:value": [
+      "The data refers to the impact of CMDM on fresh enrolments. Fresh enrolments are number of new enrolments in primary school. To calculate the fresh enrolments only those sample schools were selected which had maintained enrolment figures for all the years in the reference period (2000 to 2006). CMDM was introduced in different years in different states during the reference period. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385641020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "enrolments",
+      "primary",
+      "Scheme",
+      "School"
+    ],
+    "nid": [
+      88530
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Impact of CMDM on Fresh Enrolments - Based on Sample Survey"
+    ],
+    "uuid": [
+      "c310f82b-9dee-4916-8a5d-90851a78f518"
+    ],
+    "vid": [
+      7850261
+    ],
+    "view_count": [
+      438
+    ],
+    "search_api_id": [
+      "entity:node/88530:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/impact-icds-colostrums-feeding"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      908
+    ],
+    "published_date": [
+      1375252302
+    ],
+    "body:value": [
+      "The data refers to Impact of ICDS on Colostrums Feeding. Initiation of breast feeding within one hour of a child's birth is considered to contribute to the long term immunity of the child. The table records the impact of ICDS in popularising the practice and it is observed that ICDS has had a considerable impact."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "child",
+      "Development",
+      "immunity",
+      "Integrated",
+      "Anganwadi",
+      "AWC",
+      "Breast",
+      "Feeding"
+    ],
+    "nid": [
+      88532
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Impact of ICDS on Colostrums Feeding"
+    ],
+    "uuid": [
+      "eb029567-1419-43d6-ad04-9f47ee1f6b75"
+    ],
+    "vid": [
+      7850267
+    ],
+    "view_count": [
+      813
+    ],
+    "search_api_id": [
+      "entity:node/88532:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/impact-icds-enrolment-and-discontinuation-children-aged-7-14-years-primary-and-post-primary"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      783
+    ],
+    "published_date": [
+      1375252014
+    ],
+    "body:value": [
+      "The data refers to the Impact of ICDS on enrolment of and discontinuation by children aged 7-14 years in primary and post-primary education. At the national level the impact on enrolment is positive, while that on discontinuation is negative."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Children",
+      "Development",
+      "discontinuation",
+      "Education",
+      "Enrolment",
+      "Integrated",
+      "Anganwadi",
+      "AWC"
+    ],
+    "nid": [
+      88534
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Impact of ICDS on enrolment of and discontinuation by children aged 7-14 years in primary and post-primary education"
+    ],
+    "uuid": [
+      "9f41c32b-fb3e-4b36-aaaa-79061874c88f"
+    ],
+    "vid": [
+      7850273
+    ],
+    "view_count": [
+      734
+    ],
+    "search_api_id": [
+      "entity:node/88534:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/impact-icds-immunisation-status-children-12-23-months"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1037
+    ],
+    "published_date": [
+      1375252543
+    ],
+    "body:value": [
+      "The data refers to the Impact of ICDS on immunisation Status of Children (12-23 months). It captures the impact of ICDS on immunization at the national level. It is found that the ICDS programme on immunisation has more in case of measles."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "child",
+      "Development",
+      "Immunisation",
+      "Integrated",
+      "Measles",
+      "Anganwadi",
+      "AWC"
+    ],
+    "nid": [
+      88536
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Impact of ICDS on immunisation Status of Children (12-23 months)"
+    ],
+    "uuid": [
+      "ffab0353-fde9-4d0d-9056-dcc8ba6ad645"
+    ],
+    "vid": [
+      7850279
+    ],
+    "view_count": [
+      967
+    ],
+    "search_api_id": [
+      "entity:node/88536:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/impact-icds-nutritional-status-children-aged-7-months-60-months"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2508
+    ],
+    "published_date": [
+      1375252691
+    ],
+    "body:value": [
+      "The data refers to the Impact of ICDS on nutritional status of children aged 7 months-60 months. Parameter estimates with a positive signs indicate a positive impact, while those with negative signs imply a negative impact of ICDS in influencing the nutritional status of the children surveyed. At a national level, it is found that there has been some positive impact of ICDS on normal children and those suffering from Grade I malnutrition. However, ICDS could not improve the nutritional status of children suffering from malnutrition of higher degrees (Grades II to IV)."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Development",
+      "Integrated",
+      "malnutrition",
+      "Anganwadi",
+      "AWC",
+      "Nutritial"
+    ],
+    "nid": [
+      88538
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Impact of ICDS on nutritional status of children aged 7 months-60 months"
+    ],
+    "uuid": [
+      "2b68d1c8-5abc-4223-9d45-d234c8771310"
+    ],
+    "vid": [
+      7850285
+    ],
+    "view_count": [
+      2459
+    ],
+    "search_api_id": [
+      "entity:node/88538:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/impact-icds-practice-child-getting-weighed-birth"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      707
+    ],
+    "published_date": [
+      1375252453
+    ],
+    "body:value": [
+      "The data refers to the Impact of Integrated Child Development Services (ICDS) on the practice of a child getting weighed at birth. Weighing of the child at birth is considered an important component of ICDS and The data refers to the estimated impact of ICDS on this practice."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "child",
+      "Development",
+      "Integrated",
+      "Anganwadi",
+      "AWC"
+    ],
+    "nid": [
+      88540
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Impact of ICDS on the practice of a child getting weighed at birth"
+    ],
+    "uuid": [
+      "a79683c0-f8e2-4b73-a095-5703d0ae83db"
+    ],
+    "vid": [
+      7850291
+    ],
+    "view_count": [
+      677
+    ],
+    "search_api_id": [
+      "entity:node/88540:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/impact-rural-roads-habitation-after-rural-roads-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      731
+    ],
+    "published_date": [
+      1387428114
+    ],
+    "body:value": [
+      "The data refers to information on general impact of rural roads on the habitation after rural roads. It provides details of responses of beneficiaries regarding parameters such as economic well being, number of vehicles (bicycle, rickshaw, motorized vehicle), enrolment of children, employment opportunities, patients seeking treatment, immunization facilities and others for selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1386654780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Accessibility",
+      "Beneficiary",
+      "Economic",
+      "Improvement",
+      "Social",
+      "Nirman"
+    ],
+    "nid": [
+      88542
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Impact of Rural Roads on the Habitation After Rural Roads - Based on Sample Survey"
+    ],
+    "uuid": [
+      "b6625e66-7278-4b71-9ec4-a9e216e26124"
+    ],
+    "vid": [
+      7850296
+    ],
+    "view_count": [
+      631
+    ],
+    "search_api_id": [
+      "entity:node/88542:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/impact-rural-roads-households-rural-roads-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      763
+    ],
+    "published_date": [
+      1387428274
+    ],
+    "body:value": [
+      "The data refers to information on General Impact of Rural Roads on the Households before Rural Roads. It provides details of responses of beneficiaries regarding parameters such as economic well being, number of vehicles (bicycle, rickshaw, motorized vehicle), enrolment of children, employment opportunities, patients seeking treatment, immunization facilities and others for selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1386654780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Accessibility",
+      "Beneficiary",
+      "Economic",
+      "Improvement",
+      "Road",
+      "Social",
+      "Nirman"
+    ],
+    "nid": [
+      88544
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Impact of Rural Roads on the Households Before Rural Roads - Based on Sample Survey"
+    ],
+    "uuid": [
+      "1df900c6-1968-4561-9eb3-cfc9cb95bc9b"
+    ],
+    "vid": [
+      7850301
+    ],
+    "view_count": [
+      600
+    ],
+    "search_api_id": [
+      "entity:node/88544:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/implementation-report-under-mahatma-gandhi-national-rural-employment-guarantee-act-mnrega"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      11636
+    ],
+    "published_date": [
+      1365010761
+    ],
+    "body:value": [
+      "In order to design wage employment program to fight poverty more effectively, center government formulated National Rural Employment Guarantee Act (NREGA)in 2005. The data describes to data on implementation report under NREGA."
+    ],
+    "changed": [
+      1602755733
+    ],
+    "created": [
+      1364977440
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Statistics",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employment",
+      "Household",
+      "Jobcard",
+      "NREGA",
+      "Persondays",
+      "Women",
+      "Guarantee"
+    ],
+    "nid": [
+      88546
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Implementation Report Under Mahatma Gandhi National Rural Employment Guarantee Act (MNREGA)"
+    ],
+    "uuid": [
+      "1e0617b6-c518-4521-9ffa-fb45c8be73cf"
+    ],
+    "vid": [
+      7850333
+    ],
+    "view_count": [
+      10484
+    ],
+    "search_api_id": [
+      "entity:node/88546:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/import-export-classification-itc-hs-code-and-import-policy-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      188347
+    ],
+    "published_date": [
+      1370325624
+    ],
+    "body:value": [
+      "The data refers to details on Import Export Classification, ITC (HS) Code and Import Policy. ITC (HS) codes are better known as Indian Trade Clarification (ITC) and are based on Harmonized System (HS) of Coding. It was adopted in India for import-export operations. Indian custom uses an eight digit ITC (HS) code to suit the national trade requirements."
+    ],
+    "changed": [
+      1478153188
+    ],
+    "created": [
+      1370325480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Import Export"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department of Commerce"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Export",
+      "Import"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Classification",
+      "Commerce",
+      "Export",
+      "Import",
+      "Industry",
+      "International",
+      "trade",
+      "Harmonized",
+      "Clarification",
+      "HS"
+    ],
+    "nid": [
+      88548
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Import Export Classification, ITC (HS) Code And Import Policy"
+    ],
+    "uuid": [
+      "a5b6b81f-e5ee-40e8-94a9-4b026b2a20d1"
+    ],
+    "vid": [
+      7850335
+    ],
+    "view_count": [
+      185276
+    ],
+    "search_api_id": [
+      "entity:node/88548:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/import-fertilizers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2754
+    ],
+    "published_date": [
+      1381477148
+    ],
+    "body:value": [
+      "The data refers to country-wise details on import of fertilizers by different types. The fertilizer types covered are Urea, DAP - Diammonium Phosphate, MAP - Monoammonium Phosphate, MOP - Muriate of Potash, NP - Nitrogen Phosphorous and NPK - Nitrogen Phosphorous Potassium fertilizers."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375167000
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Chemicals and Fertilizers",
+      "Department of Fertilizers"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Fertilizers"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "DAP",
+      "Fertilizer",
+      "MAP",
+      "MOP",
+      "NPK",
+      "NP",
+      "Phosphate",
+      "Chemical",
+      "Monoammonium",
+      "Muriate",
+      "Potash",
+      "Diammonium",
+      "Nitrogen",
+      "Phosphorous",
+      "Potassium"
+    ],
+    "nid": [
+      88550
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Import of Fertilizers"
+    ],
+    "uuid": [
+      "5918942e-231f-44d5-8415-964fa68ead2b"
+    ],
+    "vid": [
+      7850339
+    ],
+    "view_count": [
+      1988
+    ],
+    "search_api_id": [
+      "entity:node/88550:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/importexport-crude-oil-and-petroleum-products"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      41025
+    ],
+    "published_date": [
+      1363240634
+    ],
+    "body:value": [
+      "The data refers to year-wise Import/Export of Crude Oil and Petroleum Products in India."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "PNG Economic and Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "Export",
+      "Gas",
+      "Import",
+      "LNG",
+      "LPG",
+      "Refinery",
+      "Reserve",
+      "Production",
+      "Performance",
+      "Natural"
+    ],
+    "nid": [
+      88562
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Import/Export of Crude Oil and Petroleum Products"
+    ],
+    "uuid": [
+      "182e77b5-0d1d-43c4-bce1-6ca40b17768d"
+    ],
+    "vid": [
+      7850405
+    ],
+    "view_count": [
+      40088
+    ],
+    "search_api_id": [
+      "entity:node/88562:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/imports-metals-and-alloys"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1778
+    ],
+    "published_date": [
+      1367693647
+    ],
+    "body:value": [
+      "Analloyis amaterialcomposed of two or moremetalsor a metal and anonmetal and metal is a material  that is typically hard, opaque, shiny, and has good electrical and thermal conductivity. The data refers to quantity and value of imports of Metals and Alloys."
+    ],
+    "changed": [
+      1582278832
+    ],
+    "created": [
+      1367400600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mines"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Indian Bureau of Mines"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Import",
+      "Metal",
+      "Alloy"
+    ],
+    "nid": [
+      88565
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Imports of Metals and Alloys"
+    ],
+    "uuid": [
+      "667725e0-6a13-464f-aca2-b7cd45a002ce"
+    ],
+    "vid": [
+      7850415
+    ],
+    "view_count": [
+      1586
+    ],
+    "search_api_id": [
+      "entity:node/88565:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/imports-ores-and-minerals"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3521
+    ],
+    "published_date": [
+      1367556225
+    ],
+    "body:value": [
+      "Minerals are the naturally occurring substances of metals present in the earths crust are called Mineral and the minerals which can be used to obtain the metal profitably are called ores. The data refers to quantity and value of imports of Ores and Minerals."
+    ],
+    "changed": [
+      1582279005
+    ],
+    "created": [
+      1367400120
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mines"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Indian Bureau of Mines"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Import",
+      "mineral",
+      "Ore"
+    ],
+    "nid": [
+      88567
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Imports of Ores and Minerals"
+    ],
+    "uuid": [
+      "fbb24d09-205f-43f9-a33f-27ffff914823"
+    ],
+    "vid": [
+      7850424
+    ],
+    "view_count": [
+      2595
+    ],
+    "search_api_id": [
+      "entity:node/88567:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/improvements-literacy-levels"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1691
+    ],
+    "published_date": [
+      1369291862
+    ],
+    "body:value": [
+      "Between 2001 and 2011, the overall literacy levels rose from 64.8 per cent to 74 per cent. Female literacy rates increased at a faster rate (11.79 per cent) than that for males (6.88 per cent), thus reducing gender gap in literacy from 21.59 to 16.68 percentage points."
+    ],
+    "changed": [
+      1436419248
+    ],
+    "created": [
+      1369196700
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Elementary",
+      "Female",
+      "Literacy",
+      "School",
+      "Rate"
+    ],
+    "nid": [
+      88569
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Improvements in Literacy Levels"
+    ],
+    "uuid": [
+      "e41c3b28-9551-40f0-9acc-a4c0f0c7466b"
+    ],
+    "vid": [
+      7850429
+    ],
+    "view_count": [
+      1506
+    ],
+    "search_api_id": [
+      "entity:node/88569:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/incentives-cwsn-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1224
+    ],
+    "published_date": [
+      1383198181
+    ],
+    "body:value": [
+      "The data refers to Incentives for CWSN in urban areas for the surveyed states. It provides details of Percentage of Schools with Disabled Children, Schools in which IEP has been Prepared, Schools in which Incentives are Provided and percentage of Expenditure of Allocation on IED.The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission in eleven states and two union territories for 'Evaluation Report On Sarva Shiksha Abhiyan, 2010'. The reference period for the study was 2003 to 2007."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1383111540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Special",
+      "Incentive"
+    ],
+    "nid": [
+      88571
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Incentives for CWSN - Based on Sample Survey"
+    ],
+    "uuid": [
+      "f56cb461-fa44-4c46-abf1-0287ec0a0c42"
+    ],
+    "vid": [
+      7850436
+    ],
+    "view_count": [
+      1090
+    ],
+    "search_api_id": [
+      "entity:node/88571:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/incidence-indebtedness-social-group-during-eleventh-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1108
+    ],
+    "published_date": [
+      1375101606
+    ],
+    "body:value": [
+      "The data refers to average debt per household (in Rs), debt asset ratio and incidence of indebtedness for Rural and Urban India separately category-wise (ST, SC, OBC, Others)"
+    ],
+    "changed": [
+      1436419150
+    ],
+    "created": [
+      1374846900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Household"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Asset",
+      "average",
+      "Debt",
+      "Household",
+      "Indebtedness",
+      "Ratio"
+    ],
+    "nid": [
+      88573
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Incidence of Indebtedness by Social Group during Eleventh Plan"
+    ],
+    "uuid": [
+      "a11ae2f2-0fc6-4d89-a087-03e231318634"
+    ],
+    "vid": [
+      7850439
+    ],
+    "view_count": [
+      1055
+    ],
+    "search_api_id": [
+      "entity:node/88573:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/incidence-livestock-diseases-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2818
+    ],
+    "published_date": [
+      1365755909
+    ],
+    "body:value": [
+      "The data refers to details on the number of outbreaks, attacks and deaths from incidence of livestock diseases in India from 2005 to 2011 on diseases like Antharx, Swine Fewer, Glanders, Marex, Mange, etc."
+    ],
+    "changed": [
+      1506517526
+    ],
+    "created": [
+      1365677940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Live Stock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Attack",
+      "Death",
+      "Disease",
+      "incidence",
+      "Outbreak"
+    ],
+    "nid": [
+      88575
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Incidence of Livestock Diseases In India"
+    ],
+    "uuid": [
+      "56b2362c-2b48-4cfe-a063-82ed30f96f79"
+    ],
+    "vid": [
+      7850448
+    ],
+    "view_count": [
+      2543
+    ],
+    "search_api_id": [
+      "entity:node/88575:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/incidence-poverty-across-social-groups"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1856
+    ],
+    "published_date": [
+      1374049054
+    ],
+    "body:value": [
+      "The data refers to incidence of poverty across social groups, the incidence of poverty among the SCs and STs. Even though the incidence of poverty among these groups has declined over the years, the headcount ratio (HCR) for SCs and STs remains higher than the national average. The table contains data of headcount ratio."
+    ],
+    "changed": [
+      1436419161
+    ],
+    "created": [
+      1373632980
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Social Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development",
+      "Tribal"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Group",
+      "poverty",
+      "Ratio",
+      "Headcount"
+    ],
+    "nid": [
+      88577
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Incidence of Poverty across Social Groups"
+    ],
+    "uuid": [
+      "20533119-bcff-4d8c-8892-bcc8a5d4bf0e"
+    ],
+    "vid": [
+      7850450
+    ],
+    "view_count": [
+      1772
+    ],
+    "search_api_id": [
+      "entity:node/88577:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/incidence-recidivism"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2400
+    ],
+    "published_date": [
+      1382597992
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise incidents of total number of convicts admitted and number of habitual offenders."
+    ],
+    "changed": [
+      1462178485
+    ],
+    "created": [
+      1382519940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Prison Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "incidence",
+      "Recidivism",
+      "Prison"
+    ],
+    "nid": [
+      88579
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Incidence of recidivism"
+    ],
+    "uuid": [
+      "745766de-6d4d-4f2c-bb92-c11a7e4caf9d"
+    ],
+    "vid": [
+      7850462
+    ],
+    "view_count": [
+      2185
+    ],
+    "search_api_id": [
+      "entity:node/88579:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/incidence-unemployment-level-education-percentage"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5071
+    ],
+    "published_date": [
+      1372660812
+    ],
+    "body:value": [
+      "The data refers to Incidence of Unemployment for 15 years and above age group, by level of education for the years 2004-05 and 2009-10 on Usual Principal Subsidiary Status basis (UPSS) in percentage terms."
+    ],
+    "changed": [
+      1436419161
+    ],
+    "created": [
+      1372430880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Employment"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "Education",
+      "Group",
+      "Rate"
+    ],
+    "nid": [
+      88581
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Incidence of Unemployment by level of education (in percentage)"
+    ],
+    "uuid": [
+      "08e1c970-b862-4732-895a-ba1aca28d96c"
+    ],
+    "vid": [
+      7850464
+    ],
+    "view_count": [
+      4940
+    ],
+    "search_api_id": [
+      "entity:node/88581:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

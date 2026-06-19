@@ -1,0 +1,6578 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/schooling-facilities-rural-area-8th-all-india-school-education-survey-8th-aises"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      14191
+    ],
+    "published_date": [
+      1452513705
+    ],
+    "body:value": [
+      "The catalog contains availability of schooling facility for primary, upper-primary, secondary and higher secondary stages within the habitations (including SC/ST) in different population slabs and available at different distances from the Habitations."
+    ],
+    "changed": [
+      1538719109
+    ],
+    "created": [
+      1452082809
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Eighth All India School Education Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of School Education and Literacy",
+      "National Council of Educational Research and Training (NCERT)"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Habitation",
+      "primary",
+      "School",
+      "secondary",
+      "Survey",
+      "AISES",
+      "Higher"
+    ],
+    "nid": [
+      478861
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Schooling Facilities in Rural Area - 8th All India School Education Survey (8th AISES)"
+    ],
+    "uuid": [
+      "eeccfcc4-719c-48e8-b1cf-bd3d4cd469cc"
+    ],
+    "vid": [
+      7895435
+    ],
+    "view_count": [
+      13466
+    ],
+    "search_api_id": [
+      "entity:node/478861:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/pre-primary-education-and-alternative-schooling-8th-all-india-school-education-survey-8th"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7680
+    ],
+    "published_date": [
+      1453956533
+    ],
+    "body:value": [
+      "Get data on Alternative Schools (AS) and  Alternative and Innovative (AIE) Centers at Pre- Primary stage according to 8th All India School Education Survey (8th AISES).\r\nIt contains various statistics like state and management wise numbers,  enrolment and teachers in position of Unrecognised schools , AIE centres (Both Primary & Upper Primary) under EGS & AIE scheme, Sanskrit Pathshalas , Maktabs, Madrasas and Pre - primary institutions etc."
+    ],
+    "changed": [
+      1453959708
+    ],
+    "created": [
+      1452239420
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Eighth All India School Education Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of School Education and Literacy",
+      "National Council of Educational Research and Training (NCERT)"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "Institution",
+      "primary",
+      "School",
+      "Teacher",
+      "AISES",
+      "Innovative",
+      "Unrecognised",
+      "AIE",
+      "Sanskrit",
+      "Pathshala",
+      "Maktab",
+      "Madrasa"
+    ],
+    "nid": [
+      479341
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      " Pre-primary Education and Alternative Schooling - 8th All India School Education Survey (8th AISES)"
+    ],
+    "uuid": [
+      "db0e21ce-6bff-4eb9-8ae6-fb0b1b826d62"
+    ],
+    "vid": [
+      7895439
+    ],
+    "view_count": [
+      7016
+    ],
+    "search_api_id": [
+      "entity:node/479341:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      13
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/myspeed-crowdsourced-mobile-data-speeds"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9612
+    ],
+    "published_date": [
+      1524478988
+    ],
+    "body:value": [
+      "This catalog provides Crowdsourced Mobile Data Speeds and other network information measured using TRAI MySpeed App."
+    ],
+    "changed": [
+      1754034145
+    ],
+    "created": [
+      1524227890
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "MySpeed Crowdsource"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Communications",
+      "Department of Telecommunications (DOT)",
+      "Telecom Regulatory Authority of India (TRAI)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Telecom"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Telecom",
+      "quality",
+      "Service",
+      "Authority",
+      "TRAI",
+      "Regulatory",
+      "MYSPEED",
+      "Crowdsource"
+    ],
+    "nid": [
+      4898181
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "MySpeed (Crowdsourced Mobile Data Speeds)"
+    ],
+    "uuid": [
+      "44d3ef59-7b33-4df8-819e-8f380e7b181b"
+    ],
+    "vid": [
+      11746346
+    ],
+    "view_count": [
+      5493
+    ],
+    "search_api_id": [
+      "entity:node/4898181:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/data-pertaining-scheduled-tribes-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4882
+    ],
+    "published_date": [
+      1526472615
+    ],
+    "body:value": [
+      "The catalog contains status of Literacy Rates, Gross Enrollment Ratio, Gender Parity Index, Drop-Out Rates, Health Infrastructure   of Scheduled Tribes of India."
+    ],
+    "changed": [
+      1598166756
+    ],
+    "created": [
+      1526464340
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Scheduled Tribes"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Tribal Affairs"
+    ],
+    "field_sector:name": [
+      "Social Development",
+      "Tribal"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Scheduled-Tribes"
+    ],
+    "nid": [
+      5069021
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Data pertaining to Scheduled Tribes of India"
+    ],
+    "uuid": [
+      "0057ad51-1436-42ff-af2a-2b530bb0486f"
+    ],
+    "vid": [
+      7898012
+    ],
+    "view_count": [
+      3796
+    ],
+    "search_api_id": [
+      "entity:node/5069021:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-243"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7628
+    ],
+    "published_date": [
+      1529987459
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 243 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1739781308
+    ],
+    "created": [
+      1529670330
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Air",
+      "Ayush",
+      "Coal",
+      "Budget",
+      "child",
+      "Children",
+      "City",
+      "Crime",
+      "crude",
+      "Dengue",
+      "Education",
+      "electricity",
+      "Employment",
+      "environment",
+      "Export",
+      "Faculty",
+      "FDI",
+      "Fertiliser",
+      "Food",
+      "Forest",
+      "ganga",
+      "Gas",
+      "Health",
+      "Housing",
+      "Import",
+      "industrial",
+      "irrigation",
+      "Labour",
+      "land",
+      "Literacy",
+      "livestock",
+      "LPG",
+      "MGNREGA",
+      "mineral",
+      "Mining",
+      "Mission",
+      "Mortality",
+      "Nuclear",
+      "OIL",
+      "quality",
+      "Radio",
+      "Railway",
+      "rainfall",
+      "Production",
+      "PMGSY",
+      "pollution",
+      "Post",
+      "poverty",
+      "RGGVY",
+      "Road",
+      "Sanitation",
+      "Sex",
+      "Slum",
+      "Soil",
+      "Solar",
+      "Student",
+      "Toilet",
+      "Water",
+      "Diabetes",
+      "Sales",
+      "Inflation",
+      "Police",
+      "Tax",
+      "Storages",
+      "Anganwadi",
+      "CARD",
+      "Sugar",
+      "subscriber",
+      "PMJDY",
+      "Cancer",
+      "ATM",
+      "Highway",
+      "Monuments",
+      "Influenza",
+      "Tiger",
+      "Farmer",
+      "Annexure",
+      "Chikungunya",
+      "Hysterectomy",
+      "Leprosy",
+      "PKVY",
+      "PMJAK",
+      "Spectrum",
+      "Thalassemia",
+      "Consumer",
+      "Ratio",
+      "Bharat",
+      "Human",
+      "Trafficking",
+      "Meal",
+      "Drug",
+      "Abhiyan",
+      "Midday",
+      "Sarva",
+      "Shiksha",
+      "Fice",
+      "Panchayatiraj",
+      "Cyclon",
+      "Aushadhi",
+      "Smart",
+      "Swachh"
+    ],
+    "nid": [
+      5093641
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 243"
+    ],
+    "uuid": [
+      "adc3750b-85d9-4e34-a2ef-cd76fba6f35a"
+    ],
+    "vid": [
+      13031754
+    ],
+    "view_count": [
+      7050
+    ],
+    "search_api_id": [
+      "entity:node/5093641:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/area-and-population-haryana-statistical-abstract"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      14968
+    ],
+    "published_date": [
+      1453973474
+    ],
+    "body:value": [
+      "The catalog provides data on area and population of Haryana State according to Census 1961, 1971, 1981, 1991, 2001 and 2011. It also includes growth of population in Haryana from 1901 to 2011."
+    ],
+    "changed": [
+      1528461806
+    ],
+    "created": [
+      1453899439
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Haryana"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_group_name:name": [
+      "Haryana Statistical Abstract"
+    ],
+    "field_sector:name": [
+      "Statistics"
+    ],
+    "field_state_department:name": [
+      "Haryana",
+      "Economic and Statistical Analysis Department, Haryana"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "census",
+      "Population"
+    ],
+    "nid": [
+      516421
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "128"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Area and population - Haryana Statistical Abstract"
+    ],
+    "uuid": [
+      "84b0f136-2212-4bc1-8998-2c318574e89b"
+    ],
+    "vid": [
+      7895509
+    ],
+    "view_count": [
+      13249
+    ],
+    "search_api_id": [
+      "entity:node/516421:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2000"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      11403
+    ],
+    "published_date": [
+      1454904405
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -2000. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Violent crimes, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Unidentified dead bodies recovered and inquest conducted, Victims of kidnapping & abduction, Disposal of crime cases, Charge sheet of crimes, Complaint received and case registered under IPC and SLL, Conviction rate , Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Offenders relation and nearness to rape victims, Crimes committed against children, Crime committed against scheduled castes and schedule tribes, Property stolen & recovered and percentage recovery, Vehicles stolen, Recovered and co-ordinated, Dacoity cases, Robbery cases, Burglary cases, Theft cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Deaths in police custody /lockup, Escapes from police custody, Reported custodial rape cases and their disposal, Persons arrested under custodial ,Rape and their disposal by police and courts, Event wise persons killed or injured under police firing, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Incidence of human right violation by police, Sanctioned and strength of civil police including district armed police, Information on police housing, Sanctioned and actual strength of home guards and auxiliary force, Equipments and transport support, Police stations by volume of crime, Police stations by strength of personnel, Organization setup, Representation of SCs/STs and muslims in police etc."
+    ],
+    "changed": [
+      1494841171
+    ],
+    "created": [
+      1454330856
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Death",
+      "Infrastructure",
+      "Kidnapping",
+      "Theft",
+      "Facility",
+      "Girl",
+      "Police",
+      "Murder",
+      "Incest",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "Auto",
+      "Trial",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Offender",
+      "Suicidal"
+    ],
+    "nid": [
+      518121
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2000"
+    ],
+    "uuid": [
+      "5457958f-64df-48e8-bcf9-e945b21b8e1c"
+    ],
+    "vid": [
+      7895561
+    ],
+    "view_count": [
+      10427
+    ],
+    "search_api_id": [
+      "entity:node/518121:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2011"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5157
+    ],
+    "published_date": [
+      1534738574
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India for 2011. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and SLL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1532674526
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Burglary",
+      "child",
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Stolen",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "SLL",
+      "Trial",
+      "Penal",
+      "Case",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Property"
+    ],
+    "nid": [
+      5201381
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2011"
+    ],
+    "uuid": [
+      "d14bb519-a6ed-43ed-bc51-290874c1d1e8"
+    ],
+    "vid": [
+      13013360
+    ],
+    "view_count": [
+      4449
+    ],
+    "search_api_id": [
+      "entity:node/5201381:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2010"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4295
+    ],
+    "published_date": [
+      1535083621
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India for 2010. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and SLL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1532674848
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Burglary",
+      "child",
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Stolen",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "SLL",
+      "Trial",
+      "Penal",
+      "Case",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Property"
+    ],
+    "nid": [
+      5201401
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2010"
+    ],
+    "uuid": [
+      "5a124988-40f0-4c18-a90e-36051b0142fd"
+    ],
+    "vid": [
+      13013361
+    ],
+    "view_count": [
+      3815
+    ],
+    "search_api_id": [
+      "entity:node/5201401:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2009"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5528
+    ],
+    "published_date": [
+      1535085321
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India for 2009. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and SLL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1532675049
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Burglary",
+      "child",
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Stolen",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "SLL",
+      "Trial",
+      "Penal",
+      "Case",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Property"
+    ],
+    "nid": [
+      5201421
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2009"
+    ],
+    "uuid": [
+      "69ee190c-623e-4955-8f97-9a1f7fabb532"
+    ],
+    "vid": [
+      13013362
+    ],
+    "view_count": [
+      5020
+    ],
+    "search_api_id": [
+      "entity:node/5201421:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2008"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2470
+    ],
+    "published_date": [
+      1535429846
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India for 2008. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and SLL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1532675160
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Burglary",
+      "child",
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Stolen",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "SLL",
+      "Trial",
+      "Penal",
+      "Case",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Property"
+    ],
+    "nid": [
+      5201441
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2008"
+    ],
+    "uuid": [
+      "e701c965-c873-489e-ab9a-e4bcdaa14b51"
+    ],
+    "vid": [
+      13013363
+    ],
+    "view_count": [
+      2103
+    ],
+    "search_api_id": [
+      "entity:node/5201441:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/exploration-and-production-crude-oil-natural-gas-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10110
+    ],
+    "published_date": [
+      1456138154
+    ],
+    "body:value": [
+      "This catalog contains data on exploration and production activities of crude oil and natural gas in India. It contains data on Area-wise Development of Deep Drilling Rigs, Wells and Metreage Drilled; Production of Crude Oil and Natural Gas; State-wise Gross and Net Production of Natural Gas in India; State-wise Utilisation of Domestic Natural Gas in India;Sector-wise Consumption of Natural Gas; Exploratory and Development Drilling by Oil Companies; Status of Wells;State-wise Geological Surveys Achievements; State-wise Achievements of Geophysical Field Parties in India since Inception; Basin-wise / State-wise Achievements of Drilling since Inception; State-wise/ Basin -wise Oil Fields in India;State-wise/ Area-wise Balance Recoverable reserves of Crude Oil and Natural Gas; Company-wise Balance Recoverable Reserves of Crude Oil and Natural Gas."
+    ],
+    "changed": [
+      1555043075
+    ],
+    "created": [
+      1454914675
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Petroleum and Natural Gas"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Company",
+      "domestic",
+      "geophysical",
+      "Metreage",
+      "Rigs",
+      "utilisation",
+      "Well",
+      "Party",
+      "Field",
+      "Geological",
+      "Drillg",
+      "Bas"
+    ],
+    "nid": [
+      522681
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Exploration and Production of Crude Oil &  Natural Gas in India"
+    ],
+    "uuid": [
+      "94d72618-edf2-4d1a-8613-cf4b143ac009"
+    ],
+    "vid": [
+      7895573
+    ],
+    "view_count": [
+      9486
+    ],
+    "search_api_id": [
+      "entity:node/522681:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/refining-transportation-and-marketing-petroleum-products-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1261
+    ],
+    "published_date": [
+      1554895250
+    ],
+    "body:value": [
+      "This catalog contains data sets on important parameters related to refining, transportation and marketing of petroleum products in India. "
+    ],
+    "changed": [
+      1554895281
+    ],
+    "created": [
+      1454915251
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crude Throughput",
+      "LPG",
+      "LPG Distributors",
+      "Refinery",
+      "Retail Outlets",
+      "Petroleum Products",
+      "Traffic",
+      "CNG",
+      "Tonnage",
+      "LPG consumers",
+      "Green Fuels",
+      "refining capacity",
+      "pipeline",
+      "rail freight",
+      "SKO/LDO dealership"
+    ],
+    "nid": [
+      522701
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Refining, Transportation and Marketing of Petroleum Products in India"
+    ],
+    "uuid": [
+      "be102698-c71d-4857-acfb-21cb9b6ba4b5"
+    ],
+    "vid": [
+      7895579
+    ],
+    "view_count": [
+      820
+    ],
+    "search_api_id": [
+      "entity:node/522701:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2007"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2207
+    ],
+    "published_date": [
+      1535519800
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India for 2007. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and SLL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested,Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1533719307
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Burglary",
+      "Crime",
+      "Kidnapping",
+      "Robbery",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "Murder",
+      "Incest",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "SLL",
+      "Trial",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Counterfeiting"
+    ],
+    "nid": [
+      5310221
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2007"
+    ],
+    "uuid": [
+      "bb08d1b7-7eba-4405-b4c9-c9fcc425f74d"
+    ],
+    "vid": [
+      13013365
+    ],
+    "view_count": [
+      1759
+    ],
+    "search_api_id": [
+      "entity:node/5310221:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2006"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2550
+    ],
+    "published_date": [
+      1535609088
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India for 2006. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and SLL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested,Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1533719651
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Burglary",
+      "Crime",
+      "Kidnapping",
+      "Robbery",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "Murder",
+      "Incest",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "SLL",
+      "Trial",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Counterfeiting"
+    ],
+    "nid": [
+      5310281
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2006"
+    ],
+    "uuid": [
+      "4f527f51-6148-4e6a-886f-c3403e0bf9a4"
+    ],
+    "vid": [
+      13013367
+    ],
+    "view_count": [
+      2058
+    ],
+    "search_api_id": [
+      "entity:node/5310281:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-dugwell-tabulation-report-under-ground-water-schemes-5th-minor-irrigation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1437
+    ],
+    "published_date": [
+      1534999780
+    ],
+    "body:value": [
+      "The data refers to village wise number of Dugwells by type, distribution of Dugwells according to ownership, distribution of Dugwells accoding to social status of owner, distribution of Dugwells according to the individual owner's holding size, distribution of Dugwells by cast of maintenance and distribution of Dugwells by status of utilization etc."
+    ],
+    "changed": [
+      1535000238
+    ],
+    "created": [
+      1534853636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Diesel",
+      "Discharge",
+      "Dried",
+      "Dugwell",
+      "irrigation",
+      "Salinity",
+      "Solar",
+      "Wind",
+      "pump",
+      "Kharif",
+      "Rabi",
+      "Temporary",
+      "MI",
+      "Shallow",
+      "Electric",
+      "Mechanical",
+      "Parmanent",
+      "Adequate",
+      "Intrusion",
+      "Effluent",
+      "Turbine",
+      "Submersible"
+    ],
+    "nid": [
+      5683741
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village-wise Dugwell Tabulation Report under Ground Water Schemes - 5th Minor Irrigation Census"
+    ],
+    "uuid": [
+      "08ad9f92-3064-4a2d-8db9-1a3ae5558842"
+    ],
+    "vid": [
+      7898100
+    ],
+    "view_count": [
+      1033
+    ],
+    "search_api_id": [
+      "entity:node/5683741:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-shallow-tubewell-tabulation-reports-under-ground-water-schemes-5th-minor"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      805
+    ],
+    "published_date": [
+      1534997774
+    ],
+    "body:value": [
+      "The data refers to village wise distribution of Shallow Tubewells according to ownership, distribution of Shallow Tubewells accoding to social status of owner, distribution of Shallow Tubewells according to the individual owner's holding size, distribution of Shallow Tubewell  by cast of maintenance, distribution of Shallow Tubewells by status of utilization, distribution of Shallow Tubewells temporary not in use by reasons and distribution of Shallow Tubewells permanently not in use by reasons etc.\r\n"
+    ],
+    "changed": [
+      1534999029
+    ],
+    "created": [
+      1534853998
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Diesel",
+      "Discharge",
+      "Dried",
+      "irrigation",
+      "Maintenance",
+      "Salinity",
+      "Solar",
+      "Wind",
+      "Tubewell",
+      "pump",
+      "Kharif",
+      "Rabi",
+      "Temporary",
+      "MI",
+      "Shallow",
+      "Electric",
+      "Mechanical",
+      "Parmanent",
+      "Adequate",
+      "Intrusion",
+      "Effluent",
+      "Turbine",
+      "Submersible"
+    ],
+    "nid": [
+      5683761
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village-wise Shallow Tubewell Tabulation Reports under Ground Water Schemes - 5th Minor Irrigation Census"
+    ],
+    "uuid": [
+      "4303c12e-ad7c-4bbb-9ec5-619f3e154444"
+    ],
+    "vid": [
+      7898104
+    ],
+    "view_count": [
+      564
+    ],
+    "search_api_id": [
+      "entity:node/5683761:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-medium-tubewell-tabulation-reports-under-ground-water-schemes-5th-minor"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1181
+    ],
+    "published_date": [
+      1534997761
+    ],
+    "body:value": [
+      "The data refers to village wise distribution of Medium Tubewells according to ownership, distribution of Medium Tubewells accoding to social status of owner, distribution of Medium Tubewells according to the individual owner's holding size, distribution of Medium Tubewells  by cast of maintenance, distribution of Medium Tubewells by status of utilisation, distribution of Medium Tubewells temporary not in use by reasons and distribution of Medium Tubewells permanently not in use by reasons etc.\r\n"
+    ],
+    "changed": [
+      1534997761
+    ],
+    "created": [
+      1534854172
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Discharge",
+      "Dried",
+      "irrigation",
+      "Maintenance",
+      "Salinity",
+      "Tubewell",
+      "pump",
+      "Medium",
+      "Kharif",
+      "Rabi",
+      "Temporary",
+      "MI",
+      "Mechanical",
+      "Parmanent",
+      "Adequate",
+      "Intrusion",
+      "Effluent",
+      "Turbine",
+      "Submersible"
+    ],
+    "nid": [
+      5683781
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village-wise Medium Tubewell Tabulation Reports under Ground Water Schemes - 5th Minor Irrigation Census"
+    ],
+    "uuid": [
+      "31dca696-8823-45b9-ae23-ec1dd896210d"
+    ],
+    "vid": [
+      7898108
+    ],
+    "view_count": [
+      692
+    ],
+    "search_api_id": [
+      "entity:node/5683781:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-deep-tubewell-tabulation-reports-under-ground-water-schemes-5th-minor"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1378
+    ],
+    "published_date": [
+      1534997689
+    ],
+    "body:value": [
+      "The data refers to village wise distribution of Deep Tubewells according to ownership, distribution of Deep Tubewells accoding to social status of owner, distribution of Deep Tubewells according to the individual owner's holding size, distribution of Deep Tubewells by cast of maintenance, distribution of Deep Tubewells by status of utilization, distribution of Deep Tubewells temporary not in use by reasons and distribution of Deep Tubewells permanently not in use by reasons etc."
+    ],
+    "changed": [
+      1534998695
+    ],
+    "created": [
+      1534854372
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Discharge",
+      "Dried",
+      "irrigation",
+      "Maintenance",
+      "Salinity",
+      "Tubewell",
+      "pump",
+      "Medium",
+      "Kharif",
+      "Rabi",
+      "Temporary",
+      "MI",
+      "Mechanical",
+      "Parmanent",
+      "Adequate",
+      "Intrusion",
+      "Effluent",
+      "Turbine",
+      "Submersible"
+    ],
+    "nid": [
+      5683801
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village-wise Deep Tubewell Tabulation Reports under Ground Water Schemes - 5th Minor Irrigation Census"
+    ],
+    "uuid": [
+      "59e5a49b-0542-4f42-8a69-050309d1eabc"
+    ],
+    "vid": [
+      7898112
+    ],
+    "view_count": [
+      1034
+    ],
+    "search_api_id": [
+      "entity:node/5683801:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-surface-flow-schemes-report-under-surface-water-schemes-5th-minor-irrigation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1030
+    ],
+    "published_date": [
+      1534997770
+    ],
+    "body:value": [
+      "The data refers to village wise number of Surface Flow Schemes by type, distribution of Surface Flow Schemes according to ownership, distribution of Surface Flow Schemes according to Social Status of owner, distribution  of Surface Flow Schemes according to the owner's holding size, distribution of Surface Flow Schemes by annual cost of maintenance, distribution of Surface Flow Schemes by Status of Utilization, Season wise Potential Utilized through Surface Flow Schemes and Distribution of Tank/ Ponds/ Reservoir of Surface Flow Schemes by Storage size etc."
+    ],
+    "changed": [
+      1534999277
+    ],
+    "created": [
+      1534854622
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Discharge",
+      "Dried",
+      "irrigation",
+      "Maintenance",
+      "Salinity",
+      "Surface",
+      "Tank",
+      "pump",
+      "Storages",
+      "Kharif",
+      "Rabi",
+      "Temporary",
+      "MI",
+      "Mechanical",
+      "Parmanent",
+      "Adequate",
+      "Intrusion",
+      "Effluent",
+      "Turbine",
+      "Submersible",
+      "Flow",
+      "Reservoir"
+    ],
+    "nid": [
+      5683821
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village-wise Surface Flow Schemes Report under Surface Water Schemes - 5th Minor Irrigation Census"
+    ],
+    "uuid": [
+      "382deb51-6eba-4a24-8934-af8401c39374"
+    ],
+    "vid": [
+      7898116
+    ],
+    "view_count": [
+      716
+    ],
+    "search_api_id": [
+      "entity:node/5683821:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-surface-lift-schemes-report-under-surface-water-schemes-5th-minor-irrigation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1561
+    ],
+    "published_date": [
+      1534997765
+    ],
+    "body:value": [
+      "The data refers to village wise number of Surface Lift Schemes by type, distribution of Surface Lift Schemes according to ownership, distribution of Surface Lift Schemes according to Social Status of owner, distribution  of Surface Lift Schemes according to the owner's holding size, distribution of Surface Lift Schemes by annual cost of maintenance, distribution of Surface Lift Schemes by Status of Utilization, Season wise Potential Utilized through Surface Lift Schemes and Distribution of Tank/ Ponds/ Reservoir of Surface Lift Schemes by Storage size etc."
+    ],
+    "changed": [
+      1534999654
+    ],
+    "created": [
+      1534854831
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Discharge",
+      "Dried",
+      "irrigation",
+      "Maintenance",
+      "Salinity",
+      "Storage",
+      "Surface",
+      "Tank",
+      "pump",
+      "Kharif",
+      "Rabi",
+      "Temporary",
+      "MI",
+      "Lift",
+      "Mechanical",
+      "Parmanent",
+      "Adequate",
+      "Intrusion",
+      "Effluent",
+      "Turbine",
+      "Submersible",
+      "Reservoir"
+    ],
+    "nid": [
+      5683841
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village-wise Surface Lift Schemes Report under Surface Water Schemes - 5th Minor Irrigation Census"
+    ],
+    "uuid": [
+      "36845da7-f643-45fb-a5a0-fb07efa6cc2d"
+    ],
+    "vid": [
+      7898120
+    ],
+    "view_count": [
+      1315
+    ],
+    "search_api_id": [
+      "entity:node/5683841:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2005"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3353
+    ],
+    "published_date": [
+      1538026546
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India for 2005. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and SLL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested,Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service,  Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1535365394
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Burglary",
+      "child",
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Stolen",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "SLL",
+      "Trial",
+      "Penal",
+      "Case",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Property"
+    ],
+    "nid": [
+      5691401
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2005"
+    ],
+    "uuid": [
+      "aa3aa697-32b6-4739-939d-9dc3d6b62f8f"
+    ],
+    "vid": [
+      13013368
+    ],
+    "view_count": [
+      2274
+    ],
+    "search_api_id": [
+      "entity:node/5691401:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2004"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2662
+    ],
+    "published_date": [
+      1538026546
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India for 2004. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and SLL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1535365557
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Burglary",
+      "child",
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Stolen",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "SLL",
+      "Trial",
+      "Penal",
+      "Case",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Property"
+    ],
+    "nid": [
+      5691421
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2004"
+    ],
+    "uuid": [
+      "383818ea-60b7-4681-8ca7-954f6bc365c2"
+    ],
+    "vid": [
+      13013370
+    ],
+    "view_count": [
+      2129
+    ],
+    "search_api_id": [
+      "entity:node/5691421:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/union-budget-2018-19-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7701
+    ],
+    "published_date": [
+      1535697077
+    ],
+    "body:value": [
+      "The Union Budget of India, also referred to as the Annual Financial Statement in the Article 112 of the Constitution of India, is the annual budget of the Republic of India. It contains data of Union Budget: 2018-19.\r\n"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1535695996
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "Capital",
+      "Deficit",
+      "estimates",
+      "Receipt",
+      "Revenue",
+      "primary",
+      "Revised",
+      "expenditure",
+      "Tax",
+      "Fiscal"
+    ],
+    "nid": [
+      5716861
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Union Budget: 2018-19"
+    ],
+    "uuid": [
+      "ff746d2a-977e-47d3-ab88-c17b6a4f38f7"
+    ],
+    "vid": [
+      12996106
+    ],
+    "view_count": [
+      7227
+    ],
+    "search_api_id": [
+      "entity:node/5716861:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2002"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2975
+    ],
+    "published_date": [
+      1538026546
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India for 2002. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and SLL, Detail of courts and period of trials, Crimes committed against women, \r\nVictims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, \r\nJuveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested,\r\nRape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, \r\nSanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1739515789
+    ],
+    "created": [
+      1536729898
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Burglary",
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim"
+    ],
+    "nid": [
+      5841561
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2002"
+    ],
+    "uuid": [
+      "1cbf84a7-c2c2-4d99-8fd5-fab7ef2d5cec"
+    ],
+    "vid": [
+      13014355
+    ],
+    "view_count": [
+      2299
+    ],
+    "search_api_id": [
+      "entity:node/5841561:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2003"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3795
+    ],
+    "published_date": [
+      1538026546
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India for 2003. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and SLL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1536730177
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Burglary",
+      "child",
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Stolen",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "SLL",
+      "Trial",
+      "Penal",
+      "Case",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Property"
+    ],
+    "nid": [
+      5841601
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2003"
+    ],
+    "uuid": [
+      "dba349da-3313-49ad-9a61-b65b748b6560"
+    ],
+    "vid": [
+      13013372
+    ],
+    "view_count": [
+      3238
+    ],
+    "search_api_id": [
+      "entity:node/5841601:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2001"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      11040
+    ],
+    "published_date": [
+      1538026546
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India for 2001. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and SLL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested,Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1536813345
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Burglary",
+      "Crime",
+      "Kidnapping",
+      "Robbery",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "Murder",
+      "Incest",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "SLL",
+      "Trial",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Counterfeiting"
+    ],
+    "nid": [
+      5849101
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2001"
+    ],
+    "uuid": [
+      "fe2896ea-4cfc-479f-872c-d40028f24fc6"
+    ],
+    "vid": [
+      13013373
+    ],
+    "view_count": [
+      10080
+    ],
+    "search_api_id": [
+      "entity:node/5849101:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-arunachal-pradesh"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1920
+    ],
+    "published_date": [
+      1427796016
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Arunachal Pradesh. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603429899
+    ],
+    "created": [
+      1427350061
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Arunachal Pradesh"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222163
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "124"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of Arunachal Pradesh"
+    ],
+    "uuid": [
+      "e9a5f9ee-3938-432e-bd3c-d12e3d9dcd45"
+    ],
+    "vid": [
+      7891818
+    ],
+    "view_count": [
+      1887
+    ],
+    "search_api_id": [
+      "entity:node/222163:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-assam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2632
+    ],
+    "published_date": [
+      1427795545
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Assam. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430132
+    ],
+    "created": [
+      1427350161
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Assam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222183
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "783"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of Assam"
+    ],
+    "uuid": [
+      "06e1c7c2-9243-4c28-850a-437a4b0f3c50"
+    ],
+    "vid": [
+      7891822
+    ],
+    "view_count": [
+      2571
+    ],
+    "search_api_id": [
+      "entity:node/222183:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-chandigarh"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      531
+    ],
+    "published_date": [
+      1429852325
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Chandigarh. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603429517
+    ],
+    "created": [
+      1427353584
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Chandigarh (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222223
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS Indicators across sub districts of Chandigarh"
+    ],
+    "uuid": [
+      "2f7760ab-4cd3-472c-aecf-fa070726501e"
+    ],
+    "vid": [
+      7891828
+    ],
+    "view_count": [
+      452
+    ],
+    "search_api_id": [
+      "entity:node/222223:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-chhattisgarh"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3035
+    ],
+    "published_date": [
+      1427796383
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Chhattisgarh. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430137
+    ],
+    "created": [
+      1427353895
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Chhattisgarh"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222243
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "125"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of Chhattisgarh"
+    ],
+    "uuid": [
+      "2e4fec2d-cf28-4a61-b956-d89ed09a950b"
+    ],
+    "vid": [
+      7891832
+    ],
+    "view_count": [
+      2912
+    ],
+    "search_api_id": [
+      "entity:node/222243:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-dadra-nagar-haveli"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      475
+    ],
+    "published_date": [
+      1429852330
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Dadra & Nagar Haveli. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603429785
+    ],
+    "created": [
+      1427353968
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Dadra and Nagar Haveli (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222263
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS Indicators across sub districts of Dadra & Nagar Haveli"
+    ],
+    "uuid": [
+      "966e22ed-9b54-4825-b3d7-ed5199d03fea"
+    ],
+    "vid": [
+      7891836
+    ],
+    "view_count": [
+      405
+    ],
+    "search_api_id": [
+      "entity:node/222263:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-daman-diu"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      427
+    ],
+    "published_date": [
+      1429792183
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Daman & Diu. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603429496
+    ],
+    "created": [
+      1427354120
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Daman and Diu (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222283
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of Daman & Diu"
+    ],
+    "uuid": [
+      "593304a5-0547-4fc0-a172-8cf42f2353d4"
+    ],
+    "vid": [
+      7891841
+    ],
+    "view_count": [
+      408
+    ],
+    "search_api_id": [
+      "entity:node/222283:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-delhi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1656
+    ],
+    "published_date": [
+      1427780250
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Delhi. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603429812
+    ],
+    "created": [
+      1427354219
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Delhi (NCT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222303
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "127"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of Delhi"
+    ],
+    "uuid": [
+      "e4304496-ea38-492d-b316-e7d67decdd23"
+    ],
+    "vid": [
+      7891845
+    ],
+    "view_count": [
+      1285
+    ],
+    "search_api_id": [
+      "entity:node/222303:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-goa"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      506
+    ],
+    "published_date": [
+      1429792186
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Goa. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430113
+    ],
+    "created": [
+      1427354331
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Goa"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222323
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "791",
+      "797"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of Goa"
+    ],
+    "uuid": [
+      "97c01f54-e4d2-462f-a5f8-95a047feaec3"
+    ],
+    "vid": [
+      7891849
+    ],
+    "view_count": [
+      484
+    ],
+    "search_api_id": [
+      "entity:node/222323:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-jammu-kashmir"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1464
+    ],
+    "published_date": [
+      1428648954
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Jammu & Kashmir. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430131
+    ],
+    "created": [
+      1427354402
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Jammu and Kashmir (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222343
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "800"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS Indicators across sub districts of Jammu & Kashmir"
+    ],
+    "uuid": [
+      "53362df4-aa7e-4bfd-a580-ab490582b4a4"
+    ],
+    "vid": [
+      7891853
+    ],
+    "view_count": [
+      1368
+    ],
+    "search_api_id": [
+      "entity:node/222343:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-jharkhand"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1627
+    ],
+    "published_date": [
+      1427786972
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Jharkhand. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430116
+    ],
+    "created": [
+      1427354508
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Jharkhand"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222363
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "784"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of Jharkhand"
+    ],
+    "uuid": [
+      "930130ff-7aef-4386-852d-78948c6c4181"
+    ],
+    "vid": [
+      7891857
+    ],
+    "view_count": [
+      1581
+    ],
+    "search_api_id": [
+      "entity:node/222363:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-karnataka"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2273
+    ],
+    "published_date": [
+      1427781865
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Karnataka. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430113
+    ],
+    "created": [
+      1427354625
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Karnataka"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222383
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of Karnataka"
+    ],
+    "uuid": [
+      "ff6d028b-2186-4e20-b933-58eaac237193"
+    ],
+    "vid": [
+      7891861
+    ],
+    "view_count": [
+      2157
+    ],
+    "search_api_id": [
+      "entity:node/222383:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-lakshadweep"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      477
+    ],
+    "published_date": [
+      1429852333
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Lakshadweep. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603429786
+    ],
+    "created": [
+      1427354713
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Lakshadweep (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222403
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS Indicators across sub districts of Lakshadweep"
+    ],
+    "uuid": [
+      "b878ef42-6f7c-46e1-8956-09802b29f7e5"
+    ],
+    "vid": [
+      7891865
+    ],
+    "view_count": [
+      373
+    ],
+    "search_api_id": [
+      "entity:node/222403:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-manipur"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1226
+    ],
+    "published_date": [
+      1428477616
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Manipur. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430104
+    ],
+    "created": [
+      1427354791
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Manipur"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222423
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "781"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS Indicators across sub districts of Manipur"
+    ],
+    "uuid": [
+      "22afeabe-538e-4398-8d7e-079cb39bf64b"
+    ],
+    "vid": [
+      7891869
+    ],
+    "view_count": [
+      1138
+    ],
+    "search_api_id": [
+      "entity:node/222423:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-meghalaya"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1000
+    ],
+    "published_date": [
+      1428301581
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Meghalaya. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430077
+    ],
+    "created": [
+      1427354879
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Meghalaya"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222443
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "129"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS Indicators across sub districts of Meghalaya"
+    ],
+    "uuid": [
+      "336ac40a-f839-4362-94a9-299eab62442d"
+    ],
+    "vid": [
+      7891873
+    ],
+    "view_count": [
+      851
+    ],
+    "search_api_id": [
+      "entity:node/222443:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-mizoram"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      808
+    ],
+    "published_date": [
+      1428582595
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Mizoram. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603429783
+    ],
+    "created": [
+      1427354949
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Mizoram"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222463
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "785",
+      "796"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of Mizoram"
+    ],
+    "uuid": [
+      "5fffbd1d-2451-46c0-be28-32cbf71f6d37"
+    ],
+    "vid": [
+      7891877
+    ],
+    "view_count": [
+      782
+    ],
+    "search_api_id": [
+      "entity:node/222463:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-nagaland"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1087
+    ],
+    "published_date": [
+      1429101905
+    ],
+    "body:value": [
+      "Get data of Performance of Key HMIS Indicators for the Sub Districts of Nagaland. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430126
+    ],
+    "created": [
+      1427355066
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Nagaland"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222483
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "788"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS Indicators across sub districts of Nagaland"
+    ],
+    "uuid": [
+      "65b1e262-0f0a-4ebb-84ab-9b6a91eb49d7"
+    ],
+    "vid": [
+      7891881
+    ],
+    "view_count": [
+      1035
+    ],
+    "search_api_id": [
+      "entity:node/222483:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-odisha-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1843
+    ],
+    "published_date": [
+      1429792178
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Odisha. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430137
+    ],
+    "created": [
+      1427355170
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Odisha"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222503
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "81"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of Odisha"
+    ],
+    "uuid": [
+      "1d2900c8-9433-4f4b-b3e8-860f74cc77a9"
+    ],
+    "vid": [
+      7891887
+    ],
+    "view_count": [
+      1785
+    ],
+    "search_api_id": [
+      "entity:node/222503:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-punjab"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1159
+    ],
+    "published_date": [
+      1429790919
+    ],
+    "body:value": [
+      "Get data of Performance of Key HMIS Indicators for the Sub Districts of Punjab. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430132
+    ],
+    "created": [
+      1427355254
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Punjab"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222523
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of Punjab"
+    ],
+    "uuid": [
+      "bd6947ad-4f02-4665-87f7-1045b2d88d73"
+    ],
+    "vid": [
+      7891891
+    ],
+    "view_count": [
+      1068
+    ],
+    "search_api_id": [
+      "entity:node/222523:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-tripura"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      864
+    ],
+    "published_date": [
+      1428301804
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Tripura. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430104
+    ],
+    "created": [
+      1427355358
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Tripura"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222563
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "789"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS Indicators across sub districts of Tripura"
+    ],
+    "uuid": [
+      "4d4fe82d-8a16-458b-9536-d1cefc5b469b"
+    ],
+    "vid": [
+      7891899
+    ],
+    "view_count": [
+      823
+    ],
+    "search_api_id": [
+      "entity:node/222563:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-uttarakhand"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2386
+    ],
+    "published_date": [
+      1427796387
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Uttarakhand. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430121
+    ],
+    "created": [
+      1427355396
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Uttarakhand"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222583
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "790"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of Uttarakhand"
+    ],
+    "uuid": [
+      "33ec2d10-eae6-40a9-908f-4fb1054b3680"
+    ],
+    "vid": [
+      7891903
+    ],
+    "view_count": [
+      2156
+    ],
+    "search_api_id": [
+      "entity:node/222583:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-west-bengal"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3086
+    ],
+    "published_date": [
+      1427794341
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of West Bengal. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430261
+    ],
+    "created": [
+      1427355731
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "West Bengal"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222603
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "795"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of West Bengal"
+    ],
+    "uuid": [
+      "27d06551-51de-45b5-bbab-72e4516842f4"
+    ],
+    "vid": [
+      7891907
+    ],
+    "view_count": [
+      2939
+    ],
+    "search_api_id": [
+      "entity:node/222603:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-all-india-level-item-wise-and-month-wise-comparison-various-indicators"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3088
+    ],
+    "published_date": [
+      1427719607
+    ],
+    "body:value": [
+      "Get all India level data of Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1566286879
+    ],
+    "created": [
+      1427355836
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222623
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS All India level item wise and month wise comparison of Various Indicators"
+    ],
+    "uuid": [
+      "14090722-826d-4e80-b32f-ecbccb5f6e61"
+    ],
+    "vid": [
+      7891915
+    ],
+    "view_count": [
+      2959
+    ],
+    "search_api_id": [
+      "entity:node/222623:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-n-islands"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1043
+    ],
+    "published_date": [
+      1429791130
+    ],
+    "body:value": [
+      "Get data of Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State A & N Islands. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605518596
+    ],
+    "created": [
+      1427356051
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Andaman and Nicobar Island (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222643
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of A & N Islands"
+    ],
+    "uuid": [
+      "c25d8598-60b5-4ed9-b787-3b5bcf052980"
+    ],
+    "vid": [
+      7891926
+    ],
+    "view_count": [
+      974
+    ],
+    "search_api_id": [
+      "entity:node/222643:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

@@ -1,0 +1,4786 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/revenue-realized-road-transport-centre"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3603
+    ],
+    "published_date": [
+      1389249205
+    ],
+    "body:value": [
+      "The data refers to Revenue Realized from Road Transport (Centre). Data contains Revenue from import and excise duty on Motor Vehicles & Accessories, Tyres & Tubes, High Speed Diesel Oil and Motor Spirit"
+    ],
+    "changed": [
+      1398669493
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Diesel",
+      "high",
+      "OIL",
+      "vehicle",
+      "Speed",
+      "Motor",
+      "Tube",
+      "Spirit",
+      "Accessory",
+      "Tyre"
+    ],
+    "nid": [
+      90794
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Revenue Realized from Road Transport (Centre)"
+    ],
+    "uuid": [
+      "a548d92e-d2a5-45ec-a24b-e87d9a295ecc"
+    ],
+    "vid": [
+      7859295
+    ],
+    "view_count": [
+      3473
+    ],
+    "search_api_id": [
+      "entity:node/90794:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/revenue-receipts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3427
+    ],
+    "published_date": [
+      1371726025
+    ],
+    "body:value": [
+      "This data pertains to revenue receipts (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371709200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Finance Accounts"
+    ],
+    "field_ministry_department:name": [
+      "Comptroller And Auditor General of India(CAG)"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CAG",
+      "expenditure",
+      "Grant",
+      "major",
+      "Tax",
+      "Head",
+      "Comptroller",
+      "Auditor",
+      "Aid"
+    ],
+    "nid": [
+      90797
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Revenue Receipts"
+    ],
+    "uuid": [
+      "a0a21343-30e6-4050-85f4-7b6f97fc1cf3"
+    ],
+    "vid": [
+      7859302
+    ],
+    "view_count": [
+      3265
+    ],
+    "search_api_id": [
+      "entity:node/90797:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/revised-estimates-expenditure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      743
+    ],
+    "published_date": [
+      1371538988
+    ],
+    "body:value": [
+      "It provides revised estimates (plan as well non-plan) and shows variation over budget estimates."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1370589960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Union Budget 2013-14 - Expenditure Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "finance",
+      "Provision"
+    ],
+    "nid": [
+      90799
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Revised Estimates of Expenditure"
+    ],
+    "uuid": [
+      "98ccc369-63bb-4bb7-bb4c-c5bc96697207"
+    ],
+    "vid": [
+      7859307
+    ],
+    "view_count": [
+      632
+    ],
+    "search_api_id": [
+      "entity:node/90799:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/road-accidents-profile-selected-cities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      12050
+    ],
+    "published_date": [
+      1389165211
+    ],
+    "body:value": [
+      "Data refers to Road Accidents Profile of Selected Cities. It also contains number of fatal accidents, persons killed and injured due to road accidents in these selected cities. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1484714556
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Person",
+      "Accident"
+    ],
+    "nid": [
+      90801
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Road Accidents Profile of Selected Cities"
+    ],
+    "uuid": [
+      "1cd56113-eb28-4569-9430-67cedae61fbc"
+    ],
+    "vid": [
+      7859322
+    ],
+    "view_count": [
+      11339
+    ],
+    "search_api_id": [
+      "entity:node/90801:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/road-length-categories-and-type-surface-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      11916
+    ],
+    "published_date": [
+      1388467656
+    ],
+    "body:value": [
+      "The data refers to road length by categories and by type of surface in India. Roads have been categorized as National Highways, State Highways, PWD Roads, Rural Roads, Urban Roads and Project Roads. Surface types have been classified as Water-bound macadam, Black Top and Cement Concrete."
+    ],
+    "changed": [
+      1398846382
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Roads"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cement",
+      "Motorable",
+      "Project",
+      "Road",
+      "Rural",
+      "Water",
+      "Urban",
+      "PWD",
+      "Concrete",
+      "Macadam"
+    ],
+    "nid": [
+      90806
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Road length by categories and by type of surface in India"
+    ],
+    "uuid": [
+      "c315d293-060d-45f5-b9ad-04f61975a16c"
+    ],
+    "vid": [
+      7859340
+    ],
+    "view_count": [
+      11775
+    ],
+    "search_api_id": [
+      "entity:node/90806:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/rolling-stock-performance-indian-railways-during-eleventh-five-year-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      909
+    ],
+    "published_date": [
+      1370065818
+    ],
+    "body:value": [
+      "The data refers to an over view of the rolling stock performance of Indian Railways during eleventh five year plan."
+    ],
+    "changed": [
+      1436419236
+    ],
+    "created": [
+      1370063760
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Railways"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Railways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Rail",
+      "Performance",
+      "Plan"
+    ],
+    "nid": [
+      90811
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rolling Stock Performance of Indian Railways During Eleventh Five Year Plan"
+    ],
+    "uuid": [
+      "f808f7bb-e1ca-4e58-9912-df0c81ad042c"
+    ],
+    "vid": [
+      7859349
+    ],
+    "view_count": [
+      900
+    ],
+    "search_api_id": [
+      "entity:node/90811:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      18
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/proportion-urban-population-and-total-population"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8050
+    ],
+    "published_date": [
+      1374750026
+    ],
+    "body:value": [
+      "The Provisional Census Data of the 2001 Census reveals several significant facets of urbanization over the last decade. Of the 1.02 billion population, 285 million or 27.8 per cent live in the urban areas which comprise 5,161 towns, an increase of 2.1 per cent over the proportion of urban population in the 1991 Census. The data refers to the proportion of urban population to total population between 1961 and 2001."
+    ],
+    "changed": [
+      1436419157
+    ],
+    "created": [
+      1374721020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing and Urban Affairs"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Housing",
+      "Rural Housing"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Population",
+      "Urban",
+      "Data"
+    ],
+    "nid": [
+      90518
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Proportion Of Urban Population And Total Population"
+    ],
+    "uuid": [
+      "ce83d8bb-1bd1-4e2b-a9e0-b1f5dfb7e426"
+    ],
+    "vid": [
+      7858411
+    ],
+    "view_count": [
+      7237
+    ],
+    "search_api_id": [
+      "entity:node/90518:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/proportion-unemployed-1000-persons-age-15-59-years"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3937
+    ],
+    "published_date": [
+      1373976542
+    ],
+    "body:value": [
+      "The data refers to Proportion Unemployed (per 1000) for persons of age 15-59 years for each State/UT. Proportion Unemployed is defined as the number of person/person-days unemployed per 1000 persons/person-days in the relevant population group. "
+    ],
+    "changed": [
+      1441690939
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NSS",
+      "Rural",
+      "Seasonal",
+      "Unemployment",
+      "Urban",
+      "Chronic"
+    ],
+    "nid": [
+      90520
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Proportion Unemployed (per 1000) for persons of age 15-59 years"
+    ],
+    "uuid": [
+      "6fd0a0b1-4d25-4c82-aed2-07ecc42b50c2"
+    ],
+    "vid": [
+      7858427
+    ],
+    "view_count": [
+      3689
+    ],
+    "search_api_id": [
+      "entity:node/90520:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/proportionate-share-sectors-employment-percentage"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7903
+    ],
+    "published_date": [
+      1372673482
+    ],
+    "body:value": [
+      "The data refers to the proportionate share of Sectors in Employment as per NSS 61st and 66th Rounds (in percentage) for the years 1999-2000, 2004-05 and 2009-10. It gives sector-wise details, where share of Agriculture sector is high as compared to other sectors."
+    ],
+    "changed": [
+      1436419164
+    ],
+    "created": [
+      1372429620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Employment"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "NSS",
+      "Plan"
+    ],
+    "nid": [
+      90523
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Proportionate Share of Sectors in Employment (in percentage)"
+    ],
+    "uuid": [
+      "a46a2d8c-dc79-4050-b07d-28176399dd9f"
+    ],
+    "vid": [
+      7858429
+    ],
+    "view_count": [
+      7698
+    ],
+    "search_api_id": [
+      "entity:node/90523:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/proposed-flow-funds-urban-water-supply-sewerage-solid-waste-management"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1724
+    ],
+    "published_date": [
+      1374755069
+    ],
+    "body:value": [
+      "For bridging the gap, the following possible sources are identified. Table gives the proposed flow of funds. The actual allocation provided for JNNURM is Rs 50000 crore during 200512 out of which the amount available for Urban Water Supply, Sewerage, Solid Waste Management is expected to be in the range of Rs 15000 crore. The shortfall will need to be met by other sources of finance if the objective of covering 100% population with Water Supply and Sanitation facilities is to be met during the Eleventh Plan."
+    ],
+    "changed": [
+      1436419154
+    ],
+    "created": [
+      1374723180
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing and Urban Affairs"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "JNNURM",
+      "Management",
+      "Sanitation",
+      "Supply",
+      "Water"
+    ],
+    "nid": [
+      90525
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Proposed Flow of Funds For Urban Water Supply, Sewerage, Solid Waste Management"
+    ],
+    "uuid": [
+      "08eb7cf8-76e1-4fe7-8ba3-df553cfe007f"
+    ],
+    "vid": [
+      7858433
+    ],
+    "view_count": [
+      1586
+    ],
+    "search_api_id": [
+      "entity:node/90525:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/proposed-phasing-national-rural-livelihoods-mission-twelfth-five-year-plan-document"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      841
+    ],
+    "published_date": [
+      1369676040
+    ],
+    "body:value": [
+      "Table depicts proposed phase-wise implementation strategy of National Rural Livelihoods Mission (NRLM-AAJEEVIKA), keeping the experience in mind to ensure quality of outcomes and to avoid spreading resources too thin, too quickly. This would avoid universalization without quality syndrome that has plagued many rural development initiatives in the recent past. The NRLM is proposed to cover 600 districts and 4200 blocks by the terminal year of the 12th Plan. The remaining blocks in the country are proposed to be covered during 13th Five Year Plan."
+    ],
+    "changed": [
+      1436419239
+    ],
+    "created": [
+      1369669860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AAJEEVIKA",
+      "livelihood",
+      "Mission",
+      "NRLM",
+      "Rural"
+    ],
+    "nid": [
+      90527
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Proposed Phasing of The National Rural Livelihoods Mission - Twelfth Five Year Plan Document"
+    ],
+    "uuid": [
+      "418d2fa5-40da-4723-80c7-5306f5dfa798"
+    ],
+    "vid": [
+      7858439
+    ],
+    "view_count": [
+      805
+    ],
+    "search_api_id": [
+      "entity:node/90527:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/proposed-sectoral-allocations-states-and-union-territories-eleventh-plan-rs-crore-2006-07"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      559
+    ],
+    "published_date": [
+      1375682835
+    ],
+    "body:value": [
+      "The data refers to data related to Proposed Sectoral Allocations for States and Union Territories in the Eleventh Plan (Rs crore) (at 2006-07 prices)."
+    ],
+    "changed": [
+      1436419141
+    ],
+    "created": [
+      1375456680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy",
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "GBS",
+      "Gross",
+      "Resources",
+      "budgetary"
+    ],
+    "nid": [
+      90529
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Proposed Sectoral Allocations for States and Union Territories in the Eleventh Plan (Rs crore) (at 2006-07 prices)"
+    ],
+    "uuid": [
+      "d4fb392e-e19e-462f-b743-45fd55ba292a"
+    ],
+    "vid": [
+      7858443
+    ],
+    "view_count": [
+      490
+    ],
+    "search_api_id": [
+      "entity:node/90529:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/protected-area-network-across-country-2011-12"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1799
+    ],
+    "published_date": [
+      1365010589
+    ],
+    "body:value": [
+      "A protected area is a defined geographical space, recognized, dedicated and managed, through legal or other effective means, to achieve the long-term conservation of nature with associated ecosystem services and cultural values. The data refers to state-wise details of protected area network of the country, detailing number of national park, wild life sanctuary and conservation reserves."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1364895240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Conservation",
+      "Park",
+      "Reserve",
+      "wild",
+      "Life",
+      "Protection",
+      "Sanctuary"
+    ],
+    "nid": [
+      90531
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Protected Area Network Across The Country (2011-12)"
+    ],
+    "uuid": [
+      "edf3d6c8-2a89-4850-a8ff-888166b8c182"
+    ],
+    "vid": [
+      7858451
+    ],
+    "view_count": [
+      1727
+    ],
+    "search_api_id": [
+      "entity:node/90531:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/provisional-calendar-lok-sabha-sittings-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1574
+    ],
+    "published_date": [
+      1379939093
+    ],
+    "body:value": [
+      "(English) This provides information on provisional calendar of Lok Sabha sittings."
+    ],
+    "changed": [
+      1487337179
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Provisional",
+      "Loksabha",
+      "Calendar"
+    ],
+    "nid": [
+      90533
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Provisional Calendar of Lok Sabha Sittings (English)"
+    ],
+    "uuid": [
+      "e3ec8b53-1902-4204-bc02-b415e13c0a23"
+    ],
+    "vid": [
+      7858456
+    ],
+    "view_count": [
+      1456
+    ],
+    "search_api_id": [
+      "entity:node/90533:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1991-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1424
+    ],
+    "published_date": [
+      1471494385
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1991. Get information on Cognizable crimes registered, IPC crimes, LSL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and LSL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1471498318
+    ],
+    "created": [
+      1470397039
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Girl",
+      "Police",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Culpable",
+      "Homicide",
+      "Victim",
+      "Forces"
+    ],
+    "nid": [
+      905341
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1991"
+    ],
+    "uuid": [
+      "2e11f60b-e015-4c67-8364-609cbc1c11a0"
+    ],
+    "vid": [
+      7896095
+    ],
+    "view_count": [
+      1386
+    ],
+    "search_api_id": [
+      "entity:node/905341:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/provisional-calendar-lok-sabha-sittings-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      836
+    ],
+    "published_date": [
+      1381485936
+    ],
+    "body:value": [
+      "(Hindi) This provides information on provisional calendar of Lok Sabha Sittings."
+    ],
+    "changed": [
+      1487337246
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Provisional",
+      "Loksabha",
+      "Calendar"
+    ],
+    "nid": [
+      90535
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Provisional Calendar of Lok Sabha Sittings (Hindi)"
+    ],
+    "uuid": [
+      "22370f32-067e-4ced-a6ad-dbf5983a3749"
+    ],
+    "vid": [
+      7858461
+    ],
+    "view_count": [
+      772
+    ],
+    "search_api_id": [
+      "entity:node/90535:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/provisional-calendar-rajya-sabha-sittings-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      424
+    ],
+    "published_date": [
+      1378198992
+    ],
+    "body:value": [
+      "(English) This provides information on provisional calendar of Rajya Sabha sittings."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378099500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Provisional",
+      "Rajyasabha",
+      "Calendar"
+    ],
+    "nid": [
+      90537
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Provisional Calendar of Rajya Sabha Sittings (English)"
+    ],
+    "uuid": [
+      "b8b4693a-45af-413d-9a47-fa738a79c51f"
+    ],
+    "vid": [
+      7858466
+    ],
+    "view_count": [
+      387
+    ],
+    "search_api_id": [
+      "entity:node/90537:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/provisional-calendar-rajya-sabha-sittings-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      538
+    ],
+    "published_date": [
+      1378449766
+    ],
+    "body:value": [
+      "(Hindi) This provides information on provisional calendar of Rajya Sabha Sittings."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Provisional",
+      "Rajyasabha",
+      "Calendar"
+    ],
+    "nid": [
+      90539
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Provisional Calendar of Rajya Sabha Sittings (Hindi)"
+    ],
+    "uuid": [
+      "1296da40-c6c6-4e20-a289-bbb42900b9fd"
+    ],
+    "vid": [
+      7858471
+    ],
+    "view_count": [
+      519
+    ],
+    "search_api_id": [
+      "entity:node/90539:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/public-account-disbursements"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1501
+    ],
+    "published_date": [
+      1371726376
+    ],
+    "body:value": [
+      "This data pertains to public account disbursements (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371708420
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Finance Accounts"
+    ],
+    "field_ministry_department:name": [
+      "Comptroller And Auditor General of India(CAG)"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CAG",
+      "Comptroller",
+      "Auditor"
+    ],
+    "nid": [
+      90541
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Public Account Disbursements"
+    ],
+    "uuid": [
+      "8ed4528e-d37b-4a87-a3ba-7b96f8437179"
+    ],
+    "vid": [
+      7858475
+    ],
+    "view_count": [
+      1424
+    ],
+    "search_api_id": [
+      "entity:node/90541:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/public-account-receipts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1449
+    ],
+    "published_date": [
+      1371726297
+    ],
+    "body:value": [
+      "This data pertains to public account receipts (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371708600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Finance Accounts"
+    ],
+    "field_ministry_department:name": [
+      "Comptroller And Auditor General of India(CAG)"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CAG",
+      "Receipt",
+      "Comptroller",
+      "Auditor"
+    ],
+    "nid": [
+      90543
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Public Account Receipts"
+    ],
+    "uuid": [
+      "b3bf435e-e12a-4336-a137-d08d8ddd22d8"
+    ],
+    "vid": [
+      7858479
+    ],
+    "view_count": [
+      1341
+    ],
+    "search_api_id": [
+      "entity:node/90543:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/public-debt-disbursements"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      916
+    ],
+    "published_date": [
+      1371726225
+    ],
+    "body:value": [
+      "This data pertains to public debt disbursements (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371708720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Finance Accounts"
+    ],
+    "field_ministry_department:name": [
+      "Comptroller And Auditor General of India(CAG)"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CAG",
+      "Comptroller",
+      "Auditor"
+    ],
+    "nid": [
+      90545
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Public Debt Disbursements"
+    ],
+    "uuid": [
+      "57cb7b0f-e445-4008-a65a-37eecc47df21"
+    ],
+    "vid": [
+      7858483
+    ],
+    "view_count": [
+      810
+    ],
+    "search_api_id": [
+      "entity:node/90545:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/public-debt-receipts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1138
+    ],
+    "published_date": [
+      1371726162
+    ],
+    "body:value": [
+      "This data pertains to public debt receipts (major head-wise) of all states including UTs and Union Governments from year 2000 to 2011."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371708900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Finance Accounts"
+    ],
+    "field_ministry_department:name": [
+      "Comptroller And Auditor General of India(CAG)"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CAG",
+      "Receipt",
+      "Comptroller",
+      "Auditor"
+    ],
+    "nid": [
+      90547
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Public Debt Receipts"
+    ],
+    "uuid": [
+      "1d6cfc9c-1a16-4e07-88ab-fff227bd74d1"
+    ],
+    "vid": [
+      7858487
+    ],
+    "view_count": [
+      982
+    ],
+    "search_api_id": [
+      "entity:node/90547:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/public-sector-allocation-eleventh-plan-2006-07-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      582
+    ],
+    "published_date": [
+      1375858275
+    ],
+    "body:value": [
+      "The data refers to data related to Public Sector Allocation for Eleventh Plan (in Rs. Crore) at 2006-07 prices."
+    ],
+    "changed": [
+      1436419144
+    ],
+    "created": [
+      1375455720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy",
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "resource"
+    ],
+    "nid": [
+      90549
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Public Sector Allocation for Eleventh Plan at 2006-07 Prices"
+    ],
+    "uuid": [
+      "df2b34fb-5fad-4848-b887-9c13e37d8397"
+    ],
+    "vid": [
+      7858490
+    ],
+    "view_count": [
+      492
+    ],
+    "search_api_id": [
+      "entity:node/90549:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/public-sector-capital-formation-and-subsidies-agriculture-centre-and-states-during-tenth"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2060
+    ],
+    "published_date": [
+      1377500260
+    ],
+    "body:value": [
+      "The data refers to information on gross capital formation by pubic sector in agriculture & allied sector and subsidy expenditure during Tenth and Eleventh five year plan period."
+    ],
+    "changed": [
+      1436419087
+    ],
+    "created": [
+      1377090060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Crops"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Capital",
+      "Formation",
+      "Subsidy"
+    ],
+    "nid": [
+      90551
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Public Sector Capital Formation and Subsidies to Agriculture (Centre and States) during Tenth and Eleventh five year plan period"
+    ],
+    "uuid": [
+      "37360441-2d01-44c4-9413-b9ce6251914f"
+    ],
+    "vid": [
+      7858497
+    ],
+    "view_count": [
+      2031
+    ],
+    "search_api_id": [
+      "entity:node/90551:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/public-sector-outlaysexpenditure-during-eleventh-five-year-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1110
+    ],
+    "published_date": [
+      1380106236
+    ],
+    "body:value": [
+      "The data refers to public sector outlays and expenditures during Eleventh Five Year Plan (2007-12) under various Heads of Development (Rs. Crore)."
+    ],
+    "changed": [
+      1436419084
+    ],
+    "created": [
+      1379507760
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "expenditure",
+      "Outlay"
+    ],
+    "nid": [
+      90553
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Public Sector Outlays/Expenditure during Eleventh Five Year Plan"
+    ],
+    "uuid": [
+      "486e024f-a954-471f-95b8-8644a64f9d58"
+    ],
+    "vid": [
+      7858501
+    ],
+    "view_count": [
+      1047
+    ],
+    "search_api_id": [
+      "entity:node/90553:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/public-sector-outlaysexpenditure-under-agriculture-and-allied-programme-during-eleventh-and"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1564
+    ],
+    "published_date": [
+      1380105606
+    ],
+    "body:value": [
+      "The data refers to data related to disaggregated Public Sector Outlays and expenditure thereof under Agriculture and Allied Activities during Eleventh Plan (2007-12) & Twelfth Plan (2012-17) (Rs. Crore). For all Annual Plans Budget Estimates and Revised Estimates are given for Centre only as subhead wise figures for States and UT are not available."
+    ],
+    "changed": [
+      1436419084
+    ],
+    "created": [
+      1379508060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Outlay"
+    ],
+    "nid": [
+      90555
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Public Sector Outlays/Expenditure under Agriculture and Allied Programme during Eleventh and Twelfth Five Year Plan"
+    ],
+    "uuid": [
+      "91b4934c-e750-481b-9ff3-c7a691b87ab2"
+    ],
+    "vid": [
+      7858505
+    ],
+    "view_count": [
+      1494
+    ],
+    "search_api_id": [
+      "entity:node/90555:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/published-quadrangle-geological-map-degree-sheet-41a-41b-41e-41f-41g-41i-41j-41k-41l-41m"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3102
+    ],
+    "published_date": [
+      1383543556
+    ],
+    "body:value": [
+      "The dataset describes the metadata of published quadrangle sheets 41A, 41B, 41E, 41F, 41G, 41I, 41J, 41K, 41L, 41M, 41N, 41O and 41P. The details encompasses Map type, Degree sheet number, Name of the map, Year of publication, Scale, State, District, Longitude, Latitude, Stratigraphy, Lithology, Mineral commodity, Projection system used in the map, Availability and Price."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1380866820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Maps"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Geological Survey of India"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Formation",
+      "MAP",
+      "mineral",
+      "Geological"
+    ],
+    "nid": [
+      90557
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Published Quadrangle Geological map of Degree Sheet 41A, 41B, 41E, 41F, 41G, 41I, 41J, 41K, 41L, 41M, 41N, 41O and 41P"
+    ],
+    "uuid": [
+      "b150a818-e87a-454d-8ef0-dd90a7cc26b7"
+    ],
+    "vid": [
+      7858510
+    ],
+    "view_count": [
+      2665
+    ],
+    "search_api_id": [
+      "entity:node/90557:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/published-quadrangle-geological-map-degree-sheet-43jklnop-and-44dfghjklmnop"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2768
+    ],
+    "published_date": [
+      1384838369
+    ],
+    "body:value": [
+      "This spread sheet describes the metadata of published quadrangle sheets 43J,K,L,N,O,P and 44D,F,G,H,J,K,L,M,N,O,P. The metadata encompasses Map type, Degree sheet number, Name of the map, Year of publication, Scale, State, District, Longitude, Latitude, Stratigraphy, Lithology, Mineral commodity, Projection system used in the map, Availability and Price."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1383651540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Maps"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Geological Survey of India"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Formation",
+      "Group",
+      "MAP"
+    ],
+    "nid": [
+      90559
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Published Quadrangle Geological map of Degree Sheet 43J,K,L,N,O,P and 44D,F,G,H,J,K,L,M,N,O,P"
+    ],
+    "uuid": [
+      "aa1f52fc-ad4a-4b99-abde-5ecf6abb3d00"
+    ],
+    "vid": [
+      7858514
+    ],
+    "view_count": [
+      2363
+    ],
+    "search_api_id": [
+      "entity:node/90559:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/published-quadrangle-geological-map-degree-sheet-45b-45c-45d-45e-45f-45g-45h-45i-45j-45k"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6382
+    ],
+    "published_date": [
+      1384840871
+    ],
+    "body:value": [
+      "This spread sheet describes the metadata of published quadrangle sheets 45B, 45C, 45D, 45E, 45F, 45G, 45H, 45I, 45J, 45K, 45L, 45M, 45N, 45O, 45P. The metadata encompasses Map type, Degree sheet number, Name of the map, Year of publication, Scale, State, District, Longitude, Latitude, Stratigraphy, Lithology, Mineral commodity, Projection system used in the map, Availability and Price."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1384241460
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Maps"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Geological Survey of India"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Formation",
+      "Group",
+      "MAP"
+    ],
+    "nid": [
+      90561
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Published Quadrangle Geological map of Degree Sheet 45B, 45C, 45D, 45E, 45F, 45G, 45H, 45I, 45J, 45K, 45L, 45M, 45N, 45O, 45P"
+    ],
+    "uuid": [
+      "539da8a5-b434-4325-9c26-153e6c95f82e"
+    ],
+    "vid": [
+      7858518
+    ],
+    "view_count": [
+      5493
+    ],
+    "search_api_id": [
+      "entity:node/90561:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/pulsed-coupled-cavity-traveling-wave-tube-twt-drdo"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1835
+    ],
+    "published_date": [
+      1362734037
+    ],
+    "body:value": [
+      "Microwave Tube Research and Development Centre (MTRDC) is focusing on design and development of various microwave tubes, electronic power conditioners, microwave power modules and transmitters for communication, Radar and Electronic Warfare (EW) systems and other applications. To strive for indigenous development and facilitate production of state-of-art microwave tubes, microwave power modules, high microwave sources, cathodes and electronic power conditioners in synergy with research, academic institutions and industry."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1362550620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DRDO Product"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "Development",
+      "research",
+      "Defence",
+      "Tube",
+      "Microwave",
+      "Traveling"
+    ],
+    "nid": [
+      90563
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Pulsed Coupled Cavity Traveling-Wave Tube (TWT) from DRDO"
+    ],
+    "uuid": [
+      "49e8114c-a512-404a-9f40-9969fdc852db"
+    ],
+    "vid": [
+      7858526
+    ],
+    "view_count": [
+      1749
+    ],
+    "search_api_id": [
+      "entity:node/90563:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/purpose-wise-details-kidnapping-and-abduction"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1915
+    ],
+    "published_date": [
+      1381731832
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise details of victims of Kidnapping and Abduction by purpose. The various purposes covered for kidnapping and abduction are For Adoption, For Begging, For Camel Racing, For illicit intercourse, For Marriage, For Prostitution, For Ransom, For Revenge, For Sale, For Selling Body Parts, For Slavery, For Unlawful Activity and Other Purposes."
+    ],
+    "changed": [
+      1462769324
+    ],
+    "created": [
+      1379419260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Kidnapping",
+      "Abduction",
+      "Purpose"
+    ],
+    "nid": [
+      90565
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Purpose-wise details of Kidnapping and Abduction"
+    ],
+    "uuid": [
+      "898a792b-49b9-4174-8660-ce6c99e76e0c"
+    ],
+    "vid": [
+      7858537
+    ],
+    "view_count": [
+      1736
+    ],
+    "search_api_id": [
+      "entity:node/90565:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/quality-and-expenditure-maintenance-all-weather-roads-based-sample-survey-2010"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      938
+    ],
+    "published_date": [
+      1387429845
+    ],
+    "body:value": [
+      "The data refers to information on Quality and Expenditure on Maintenance of All Weather Roads constructed under the programme for the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "constructed",
+      "quality",
+      "Scheme",
+      "Road",
+      "Rural",
+      "weather",
+      "Bharat",
+      "Nirman",
+      "Repaired"
+    ],
+    "nid": [
+      90569
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Quality and Expenditure on Maintenance of All Weather Roads - Based on Sample Survey 2010"
+    ],
+    "uuid": [
+      "a0b80a2a-fb6a-414b-90a3-e6a529b9d10d"
+    ],
+    "vid": [
+      7858545
+    ],
+    "view_count": [
+      861
+    ],
+    "search_api_id": [
+      "entity:node/90569:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/quality-and-quantity-materials-utilized-road-construction-based-sample-survey-2010"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2277
+    ],
+    "published_date": [
+      1387429777
+    ],
+    "body:value": [
+      "The data refers to information on Quality and Quantity of Materials Utilized by the Contractor in Road Construction under the Bharat Nirman Programme as reported by Local users. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "quality",
+      "Scheme",
+      "Road",
+      "Rural",
+      "Bharat",
+      "Nirman",
+      "Repaired"
+    ],
+    "nid": [
+      90571
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Quality and Quantity of Materials Utilized in Road Construction - Based on Sample Survey 2010"
+    ],
+    "uuid": [
+      "4bf55335-b7d7-424c-bbeb-4f6982e38c07"
+    ],
+    "vid": [
+      7858550
+    ],
+    "view_count": [
+      2011
+    ],
+    "search_api_id": [
+      "entity:node/90571:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/quantity-fish-catch-disposition"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1769
+    ],
+    "published_date": [
+      1365756168
+    ],
+    "body:value": [
+      "The data refers to figures on the quantity of fish catch by disposition from 2000 to 2010 for Marketing/Fresh, Freezing, Curring, Canning, Reduction, Misc. Purposes and Offal for Reduction."
+    ],
+    "changed": [
+      1506517573
+    ],
+    "created": [
+      1365681660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Live Stock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Canning",
+      "Curring",
+      "Freezing",
+      "Fresh",
+      "Marketing",
+      "Reduction"
+    ],
+    "nid": [
+      90573
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Quantity of Fish Catch By Disposition"
+    ],
+    "uuid": [
+      "2c294866-9b92-4ae5-a40a-ab94e8bd7283"
+    ],
+    "vid": [
+      7858558
+    ],
+    "view_count": [
+      1580
+    ],
+    "search_api_id": [
+      "entity:node/90573:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/quantity-wood-used-house-construction-furniture-and-agriculture-implements"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1988
+    ],
+    "published_date": [
+      1379917967
+    ],
+    "body:value": [
+      "The data refers to details of quantity of wood used in house construction, furniture and agriculture implements. This data set has been sourced from the \"India State of Forest Report 2011\"."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1379069820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "report"
+    ],
+    "nid": [
+      90575
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Quantity of Wood used in House Construction, Furniture and Agriculture Implements"
+    ],
+    "uuid": [
+      "37d35a22-8b14-4857-8421-3d0cfc3cd128"
+    ],
+    "vid": [
+      7858563
+    ],
+    "view_count": [
+      1944
+    ],
+    "search_api_id": [
+      "entity:node/90575:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/quarterly-estimates-gdp-constant-prices-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8787
+    ],
+    "published_date": [
+      1353692183
+    ],
+    "body:value": [
+      "The data refers to latest quarterly estimates of Gross Domestic Product, Final Consumption Expenditure and other macro economic aggregates at constant prices."
+    ],
+    "changed": [
+      1627462207
+    ],
+    "created": [
+      1353669000
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Quarterly Estimates of GDP"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy",
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Capita",
+      "Capital",
+      "CIS",
+      "Construction",
+      "expenditure",
+      "Export",
+      "Fishing",
+      "Forestry",
+      "GFCE",
+      "GFCF",
+      "GNI",
+      "Import",
+      "Income",
+      "manufacturing",
+      "NDP",
+      "NNI",
+      "Restaurant",
+      "PFCE",
+      "Population",
+      "Subsidy",
+      "trade",
+      "Fixed",
+      "Tax",
+      "Indirect"
+    ],
+    "nid": [
+      90577
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Quarterly Estimates of GDP at Constant Prices"
+    ],
+    "uuid": [
+      "14dcd412-4428-43fa-9e4d-27a6eead5679"
+    ],
+    "vid": [
+      7858575
+    ],
+    "view_count": [
+      8325
+    ],
+    "search_api_id": [
+      "entity:node/90577:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/quarterly-estimates-gdp-constant-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9220
+    ],
+    "published_date": [
+      1353692183
+    ],
+    "body:value": [
+      "Gross domestic product (GDP) is the broadest quantitative measure of a nation's total economic activity. More specifically, GDP represents the monetary value of all goods and services produced within a nation's geographic borders over a specified period of time.Gross domestic product (GDP) at constant prices refers to the volume level of GDP. Constant price estimates of GDP are obtained by expressing values in terms of a base period .Get data regarding quarterly estimates of Gross Domestic Product at constant prices."
+    ],
+    "changed": [
+      1675942043
+    ],
+    "created": [
+      1378276860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Income"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Activity",
+      "domestic",
+      "Economic",
+      "Economy",
+      "Gross",
+      "prices",
+      "Constant",
+      "Macro"
+    ],
+    "nid": [
+      90579
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Quarterly Estimates of GDP at Constant Prices"
+    ],
+    "uuid": [
+      "20eccd6b-bd14-44b3-9d5d-44569e492129"
+    ],
+    "vid": [
+      7858591
+    ],
+    "view_count": [
+      6241
+    ],
+    "search_api_id": [
+      "entity:node/90579:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/quarterly-estimates-gdp-current-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9156
+    ],
+    "published_date": [
+      1374670794
+    ],
+    "body:value": [
+      "Get data on Quarterly Estimates of GDP at Current Prices. Besides GDP data contains various Macro economic key parameters like Capital Formation, Net income, Savings, Government Final Consumption Expenditure etc . Growth rates and sectoral breakups are also provided."
+    ],
+    "changed": [
+      1675942014
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Economy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy",
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Capita",
+      "Capital",
+      "CIS",
+      "Construction",
+      "Consumption",
+      "domestic",
+      "expenditure",
+      "Export",
+      "Fishing",
+      "Forestry",
+      "GFCE",
+      "GNI",
+      "Gross",
+      "Hotel",
+      "Import",
+      "Income",
+      "manufacturing",
+      "NDP",
+      "NNI",
+      "Restaurant",
+      "PFCE",
+      "Subsidy",
+      "trade",
+      "Price",
+      "Tax",
+      "Saving",
+      "Formion",
+      "Indirect",
+      "Populion"
+    ],
+    "nid": [
+      90581
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Quarterly Estimates of GDP at Current Prices"
+    ],
+    "uuid": [
+      "26acff81-ab2d-49ab-8f35-a0cc5803deed"
+    ],
+    "vid": [
+      7858615
+    ],
+    "view_count": [
+      7381
+    ],
+    "search_api_id": [
+      "entity:node/90581:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/question-chart-rajya-sabha-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      708
+    ],
+    "published_date": [
+      1378198864
+    ],
+    "body:value": [
+      "(English) Chart shows the sitting dates of sessions of Rajya Sabha. It provides dates of answering questions and the last date of receiving notices of questions pertaining to various Ministries/ Departments."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378099560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Question",
+      "Rajyasabha",
+      "Chart"
+    ],
+    "nid": [
+      90584
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Question Chart of Rajya Sabha (English)"
+    ],
+    "uuid": [
+      "508b4da4-6517-4646-ba45-cea279013587"
+    ],
+    "vid": [
+      7858619
+    ],
+    "view_count": [
+      602
+    ],
+    "search_api_id": [
+      "entity:node/90584:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/question-chart-rajya-sabha-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1365
+    ],
+    "published_date": [
+      1378449650
+    ],
+    "body:value": [
+      "(Hindi) Chart shows the sitting dates of sessions of Rajya Sabha. It provides dates of answering questions and the last date of receiving notices of questions pertaining to various ministries/ departments."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378273200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Question",
+      "Rajyasabha",
+      "Chart"
+    ],
+    "nid": [
+      90586
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Question Chart of Rajya Sabha (Hindi)"
+    ],
+    "uuid": [
+      "3d64fa53-f959-459d-8b45-41371f35a706"
+    ],
+    "vid": [
+      7858624
+    ],
+    "view_count": [
+      1328
+    ],
+    "search_api_id": [
+      "entity:node/90586:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/rajya-sabha-daily-list-business-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      633
+    ],
+    "published_date": [
+      1378199059
+    ],
+    "body:value": [
+      "(English) The List of Business contains the main items of the agenda to be taken up by the Rajya Sabha on a day, and is generally issued daily during session period, two days in advance of the sitting date, twice, the same day. The List of Business is prepared in the Table Office."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378099440
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "business",
+      "Rajyasabha"
+    ],
+    "nid": [
+      90588
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rajya Sabha Daily List of Business (English)"
+    ],
+    "uuid": [
+      "2219e818-21eb-4209-8cc7-9e08ceec3dbc"
+    ],
+    "vid": [
+      7858629
+    ],
+    "view_count": [
+      619
+    ],
+    "search_api_id": [
+      "entity:node/90588:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/rajya-sabha-daily-list-business-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      802
+    ],
+    "published_date": [
+      1378449832
+    ],
+    "body:value": [
+      "(Hindi) The List of Business contains the main items of the agenda to be taken up by the Rajya Sabha on a day, and is generally issued daily during session period, two days in advance of the sitting date, twice, the same day. The List of Business is prepared in the Table Office."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "business",
+      "Rajyasabha"
+    ],
+    "nid": [
+      90590
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rajya Sabha Daily List of Business (Hindi)"
+    ],
+    "uuid": [
+      "6d7c9ecc-4a42-4133-8aca-c4c112e8c79c"
+    ],
+    "vid": [
+      7858634
+    ],
+    "view_count": [
+      772
+    ],
+    "search_api_id": [
+      "entity:node/90590:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/rajya-sabha-government-assurances-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      609
+    ],
+    "published_date": [
+      1379671817
+    ],
+    "body:value": [
+      "Rajya Sabha government assurances have been furnished in the data. This data contains details such as session number, subject, publication date, ministry name, department name and current status of assurance."
+    ],
+    "changed": [
+      1516168152
+    ],
+    "created": [
+      1375087380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "House",
+      "Parliament",
+      "Upper",
+      "Council"
+    ],
+    "nid": [
+      90592
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rajya Sabha Government Assurances"
+    ],
+    "uuid": [
+      "5cc55d89-1bfb-4aec-a927-9a515c4ca384"
+    ],
+    "vid": [
+      7858641
+    ],
+    "view_count": [
+      511
+    ],
+    "search_api_id": [
+      "entity:node/90592:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/rajya-sabha-government-bills"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2187
+    ],
+    "published_date": [
+      1379672193
+    ],
+    "body:value": [
+      "Get data of Rajya Sabha Government Bills. It gives bill number, year, short title of bill, ministry, category, status, date of introduction, etc.\nThe basic function of Parliament is to make laws. All legislative proposals have to be brought in the form of Bills before Parliament. A Bill is a statute in draft and cannot become law unless it has received the approval of both the Houses of Parliament and the assent of the President of India.\nThe process of law making begins with the introduction of a Bill in either House of Parliament. A Bill can be introduced either by a Minister or a member other than a Minister. In the former case, it is called a Government Bill and in the latter case, it is known as a Private Members Bill."
+    ],
+    "changed": [
+      1516168333
+    ],
+    "created": [
+      1374750240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Parliamentary Bills"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bill",
+      "House",
+      "Private",
+      "Parliament",
+      "Member",
+      "Parliamentary",
+      "Council"
+    ],
+    "nid": [
+      90594
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rajya Sabha Government Bills"
+    ],
+    "uuid": [
+      "bd79d777-09e4-4f6f-ac57-b5e22e4a577d"
+    ],
+    "vid": [
+      7858646
+    ],
+    "view_count": [
+      2002
+    ],
+    "search_api_id": [
+      "entity:node/90594:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/rajya-sabha-members-profile-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2321
+    ],
+    "published_date": [
+      1378199007
+    ],
+    "body:value": [
+      "(English) This provides brief biodata of Rajya Sabha members."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378099500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "List",
+      "Member",
+      "Aphabetical",
+      "Biography"
+    ],
+    "nid": [
+      90596
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rajya Sabha Members Profile (English)"
+    ],
+    "uuid": [
+      "65013c2c-e805-47d9-955d-0ad027606980"
+    ],
+    "vid": [
+      7858650
+    ],
+    "view_count": [
+      2130
+    ],
+    "search_api_id": [
+      "entity:node/90596:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/rajya-sabha-members-profile-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1599
+    ],
+    "published_date": [
+      1378449780
+    ],
+    "body:value": [
+      "(Hindi) This provides brief biodata of Rajya Sabha members."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "List",
+      "Member",
+      "Aphabetical",
+      "Biography"
+    ],
+    "nid": [
+      90598
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rajya Sabha Members Profile (Hindi)"
+    ],
+    "uuid": [
+      "6bd2491f-71d1-4e4e-b48c-961bd7e5a95d"
+    ],
+    "vid": [
+      7858655
+    ],
+    "view_count": [
+      1506
+    ],
+    "search_api_id": [
+      "entity:node/90598:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/rajya-sabha-members-strength-party-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      772
+    ],
+    "published_date": [
+      1378199021
+    ],
+    "body:value": [
+      "(English) This provides information on party position in Rajya Sabha."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378099500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Rajyasabha",
+      "Party",
+      "MemberStrength"
+    ],
+    "nid": [
+      90600
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rajya Sabha Members Strength by Party (English)"
+    ],
+    "uuid": [
+      "0a7303a5-b511-4181-96d4-08549992a2fc"
+    ],
+    "vid": [
+      7858660
+    ],
+    "view_count": [
+      739
+    ],
+    "search_api_id": [
+      "entity:node/90600:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/rajya-sabha-members-strength-party-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      758
+    ],
+    "published_date": [
+      1378449795
+    ],
+    "body:value": [
+      "(Hindi) This provides information on party position in the Rajya Sabha."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Rajyasabha",
+      "Party",
+      "MemberStrength"
+    ],
+    "nid": [
+      90602
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rajya Sabha Members Strength by Party (Hindi)"
+    ],
+    "uuid": [
+      "22d092f4-e5f9-4cab-a4da-22160a1a3800"
+    ],
+    "vid": [
+      7858665
+    ],
+    "view_count": [
+      727
+    ],
+    "search_api_id": [
+      "entity:node/90602:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/rajya-sabha-member-wise-assurance-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      534
+    ],
+    "published_date": [
+      1378198869
+    ],
+    "body:value": [
+      "(English) It shows the member-wise assurance by passing the member Id available in the list of business feeds."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378099560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "committee",
+      "Member",
+      "Rajyasabha",
+      "Assurance"
+    ],
+    "nid": [
+      90604
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rajya Sabha Member-wise Assurance (English)"
+    ],
+    "uuid": [
+      "5d799b06-c07d-4858-8059-9806691c78d6"
+    ],
+    "vid": [
+      7858670
+    ],
+    "view_count": [
+      482
+    ],
+    "search_api_id": [
+      "entity:node/90604:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/rajya-sabha-member-wise-assurance-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      515
+    ],
+    "published_date": [
+      1378449655
+    ],
+    "body:value": [
+      "(Hindi) It shows the member-wise assurance by passing the member Id available in the List of Business feeds."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378273200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "business",
+      "committee",
+      "Government",
+      "Member"
+    ],
+    "nid": [
+      90606
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rajya Sabha Member-wise Assurance (Hindi)"
+    ],
+    "uuid": [
+      "62cc4e8e-5f49-417b-8649-534985746ac7"
+    ],
+    "vid": [
+      7858675
+    ],
+    "view_count": [
+      493
+    ],
+    "search_api_id": [
+      "entity:node/90606:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

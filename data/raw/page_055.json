@@ -1,0 +1,4829 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/seasonality-mgnrega-employment-provided"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1249
+    ],
+    "published_date": [
+      1369675947
+    ],
+    "body:value": [
+      "The data refers to information on month-wise employment about seasonality of work under MGNREGA during FY 201011 (Twelfth Five Year Plan document). It indicates that during lean agricultural season (January June), around 70 per cent of person-days of work were generated."
+    ],
+    "changed": [
+      1436419242
+    ],
+    "created": [
+      1369669860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employment",
+      "MGNREGA",
+      "Plan",
+      "Guarantee",
+      "Document"
+    ],
+    "nid": [
+      90882
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Seasonality of MGNREGA Employment Provided"
+    ],
+    "uuid": [
+      "86692748-0516-4ade-9fc2-493d8ff7edf8"
+    ],
+    "vid": [
+      7859582
+    ],
+    "view_count": [
+      1098
+    ],
+    "search_api_id": [
+      "entity:node/90882:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/sections-rajya-sabha-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1038
+    ],
+    "published_date": [
+      1378198814
+    ],
+    "body:value": [
+      "(English) The data refers to details regarding various sections in Rajya Sabha along with the name of Executive/Committee/Legislative/Protocol/Research Officer/Section in-charge."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378099560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Secretariat",
+      "Sections",
+      "Rajyasabha"
+    ],
+    "nid": [
+      90884
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Sections of Rajya Sabha (English)"
+    ],
+    "uuid": [
+      "c342ab1e-c63a-4d7a-a38c-1989091d8a14"
+    ],
+    "vid": [
+      7859588
+    ],
+    "view_count": [
+      978
+    ],
+    "search_api_id": [
+      "entity:node/90884:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/sections-rajya-sabha-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1170
+    ],
+    "published_date": [
+      1378449596
+    ],
+    "body:value": [
+      "(Hindi) The data refers to details regarding various sections in Rajya Sabha along with the name of Executive/Committee/Legislative/Protocol/Research Officer/Section in-charge."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378273200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Secretariat",
+      "Sections",
+      "Rajyasabha"
+    ],
+    "nid": [
+      90886
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Sections of Rajya Sabha (Hindi)"
+    ],
+    "uuid": [
+      "5d364a79-1d51-46a4-ad72-9e31999eeebb"
+    ],
+    "vid": [
+      7859593
+    ],
+    "view_count": [
+      1115
+    ],
+    "search_api_id": [
+      "entity:node/90886:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/sectoral-allocation-tenth-plan-and-eleventh-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1329
+    ],
+    "published_date": [
+      1375858194
+    ],
+    "body:value": [
+      "The data refers to data related to Sectoral Allocation - Tenth Plan and Eleventh Plan (in Rs Crore) at 2006-07 prices. The Tenth Five Year Plan budget estimates represents the actual allocation during the five years."
+    ],
+    "changed": [
+      1436419144
+    ],
+    "created": [
+      1375456020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Central Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy",
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "resource"
+    ],
+    "nid": [
+      90888
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Sectoral Allocation - Tenth Plan and Eleventh Plan"
+    ],
+    "uuid": [
+      "537ca60c-3b2b-41d1-ba21-5794785aa252"
+    ],
+    "vid": [
+      7859596
+    ],
+    "view_count": [
+      1208
+    ],
+    "search_api_id": [
+      "entity:node/90888:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/sectoral-allocation-public-sectors-resources-tenth-plan-realization-and-eleventh-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      495
+    ],
+    "published_date": [
+      1375856748
+    ],
+    "body:value": [
+      "The data refers to data related to Sectoral Allocation for Public Sector's Resources - Tenth Plan (2002-07) realization and Eleventh Plan (2007-12) projections (in Rs. Crore) at 2006-07 prices."
+    ],
+    "changed": [
+      1436419141
+    ],
+    "created": [
+      1375456380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy",
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Plan",
+      "resource",
+      "Projection"
+    ],
+    "nid": [
+      90890
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Sectoral Allocation for Public Sectors Resources - Tenth Plan Realization and Eleventh Plan Projections at 2006-07 Prices"
+    ],
+    "uuid": [
+      "722f1c8b-c920-4123-a538-0f3af2e9ac28"
+    ],
+    "vid": [
+      7859600
+    ],
+    "view_count": [
+      460
+    ],
+    "search_api_id": [
+      "entity:node/90890:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/sectoral-coal-demandoff-take-annual-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1021
+    ],
+    "published_date": [
+      1370935463
+    ],
+    "body:value": [
+      "This table (Annexure 14.2 to the base Table) provides Sectoral Coal Demand/Off-take for Annual Plan (201213). It gives category-wise and sector-wise details for the years 2006 to 2013 and projections for the year 2016-17."
+    ],
+    "changed": [
+      1436419215
+    ],
+    "created": [
+      1370682720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Coal",
+      "Power",
+      "Demand"
+    ],
+    "nid": [
+      90892
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Sectoral Coal Demand/Off-take for Annual Plan"
+    ],
+    "uuid": [
+      "0b940642-02a8-47de-b653-151190c9d42d"
+    ],
+    "vid": [
+      7859604
+    ],
+    "view_count": [
+      919
+    ],
+    "search_api_id": [
+      "entity:node/90892:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/sector-wise-and-mode-wise-capacity-addition-mw-twelfth-five-year-plan-provisional"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1283
+    ],
+    "published_date": [
+      1370945045
+    ],
+    "body:value": [
+      "The data refers to Sector-wise and Mode-wise Capacity Addition (Provisional) during the Twelfth Plan in Megawatts (MW), indicating that addition of gas capacity is provisional and will depend upon the availability of gas. This will be reviewed during the Mid-Term Appraisal (MTA)."
+    ],
+    "changed": [
+      1436419218
+    ],
+    "created": [
+      1370680020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Coal",
+      "Gas",
+      "Hydro",
+      "Lignite",
+      "Nuclear",
+      "Power",
+      "Sector",
+      "Thermal",
+      "Breakup"
+    ],
+    "nid": [
+      90894
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Sector-wise and Mode-wise Capacity Addition (MW) - Twelfth Five Year Plan (Provisional)"
+    ],
+    "uuid": [
+      "ff77f8e2-2f91-4ae7-97c8-3a0e851aec26"
+    ],
+    "vid": [
+      7859608
+    ],
+    "view_count": [
+      1244
+    ],
+    "search_api_id": [
+      "entity:node/90894:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/sector-wise-expenditure-education-central-and-state-governments-revenue-account"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8115
+    ],
+    "published_date": [
+      1364835247
+    ],
+    "body:value": [
+      "The table presents sector-wise expenditure on education by Central and State governments. The data are taken from the publication - Analysis of Budgeted Expenditure on Education, Department of Education, MHRD."
+    ],
+    "changed": [
+      1426852032
+    ],
+    "created": [
+      1364203020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Human Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "Education",
+      "expenditure",
+      "research",
+      "Revenue",
+      "Account"
+    ],
+    "nid": [
+      90896
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Sector-Wise Expenditure on Education By Central And State Governments (Revenue Account)"
+    ],
+    "uuid": [
+      "14560da8-b914-4999-a533-dc68a908c1c3"
+    ],
+    "vid": [
+      7859620
+    ],
+    "view_count": [
+      7890
+    ],
+    "search_api_id": [
+      "entity:node/90896:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/sector-wise-plan-and-non-plan-budget-estimates-revenue-account-education-central-and-state"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1748
+    ],
+    "published_date": [
+      1364835288
+    ],
+    "body:value": [
+      "The table presents sector-wise plan and non-plan budget estimates for education by Central and State governments. The data are taken from the publication - Analysis of Budgeted Expenditure on Education, Department of Education, MHRD."
+    ],
+    "changed": [
+      1426852097
+    ],
+    "created": [
+      1364203020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Human Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "research"
+    ],
+    "nid": [
+      90898
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Sector-Wise Plan And Non-Plan Budget Estimates (Revenue Account) For Education By Central And State Governments"
+    ],
+    "uuid": [
+      "47ee2d3b-d80f-44c0-b920-b70100bc13ed"
+    ],
+    "vid": [
+      7859630
+    ],
+    "view_count": [
+      1682
+    ],
+    "search_api_id": [
+      "entity:node/90898:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/selected-financial-parameters-srtus-plying-metropolitan-cities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1457
+    ],
+    "published_date": [
+      1391171750
+    ],
+    "body:value": [
+      "The data refers to Selected Financial Parameters of SRTUs plying in Metropolitan Cities. Selected Financial Parameters are Total Revenue, Total Cost, Net Profit and Loss, Profit before Tax, Staff Cost, Fuel & Lubricant Cost, Tyres & Tubes Cost, Spares Cost, Interest Cost, Depreciation Cost, Tax Cost and Other Costs."
+    ],
+    "changed": [
+      1398846363
+    ],
+    "created": [
+      1391152500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cost",
+      "DEPRECIATION",
+      "Fuel",
+      "Interest",
+      "Loss",
+      "Revenue",
+      "Spares",
+      "Staff",
+      "Tax",
+      "Tube",
+      "Before",
+      "Tyre",
+      "Lubricant",
+      "Profit"
+    ],
+    "nid": [
+      90900
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Selected Financial Parameters of SRTUs plying in Metropolitan Cities"
+    ],
+    "uuid": [
+      "8f3a1be7-db7c-436b-a207-e3d8beb9550a"
+    ],
+    "vid": [
+      7859634
+    ],
+    "view_count": [
+      1362
+    ],
+    "search_api_id": [
+      "entity:node/90900:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/selected-indicators-human-development-major-states-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      11863
+    ],
+    "published_date": [
+      1372058898
+    ],
+    "body:value": [
+      "The data refers to Selected Indicators of Human Development viz. Life expectancy at birth, Infant Mortality Rate, Birth Rate and Death Rate for Major States in India. It provides details with respect to 15 Major states of India."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371192900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Human Development Indicators"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "birth",
+      "Death",
+      "Economic",
+      "finance",
+      "Infant",
+      "Mortality",
+      "Survey",
+      "Rate",
+      "Life",
+      "Expectancy"
+    ],
+    "nid": [
+      90902
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Selected Indicators of Human Development for Major States in India"
+    ],
+    "uuid": [
+      "bf7993d7-9cbe-44a4-9ef4-ce0b2d960611"
+    ],
+    "vid": [
+      7859642
+    ],
+    "view_count": [
+      11413
+    ],
+    "search_api_id": [
+      "entity:node/90902:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/selected-physical-parameters-srtus-plying-metropolitan-cities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1312
+    ],
+    "published_date": [
+      1391171893
+    ],
+    "body:value": [
+      "The data refers to Selected Physical Parameters of SRTUs plying in Metropolitan Cities. Selected physical parameters are Avg. Fleet Held,Avg Age of Fleet, over aged vehicles, Revenue Earning Kilometres, Staff/Bus Ratio, Staff Productivity, Vehicle Productivity, Fuel Efficiency, Occupancy Ratio, Passenger Carried and Passengers carried per Bus/Day."
+    ],
+    "changed": [
+      1398846363
+    ],
+    "created": [
+      1391152500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "Fuel",
+      "passenger",
+      "Revenue",
+      "Productivity",
+      "Staff",
+      "vehicle",
+      "Fleet",
+      "Bus",
+      "Ratio",
+      "Held",
+      "Kilometre",
+      "Carried",
+      "Occupancy",
+      "Efficiency",
+      "Earn"
+    ],
+    "nid": [
+      90904
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Selected Physical Parameters of SRTUs plying in Metropolitan Cities"
+    ],
+    "uuid": [
+      "fdd93782-4ee6-4a5e-bbb0-ca189f26c0a9"
+    ],
+    "vid": [
+      7859647
+    ],
+    "view_count": [
+      1232
+    ],
+    "search_api_id": [
+      "entity:node/90904:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/selected-statistical-indicators-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2728
+    ],
+    "published_date": [
+      1365013571
+    ],
+    "body:value": [
+      "The table presents selected statistical indicators for India in terms of population and health, agriculture production, basic economic data, foreign trade, education and research & development. The data are taken from the DST, New Delhi and Economic Survey, Ministry of Finance, Government of India."
+    ],
+    "changed": [
+      1426852044
+    ],
+    "created": [
+      1364203020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Other Related Indicators"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Development",
+      "Education",
+      "Foreign",
+      "GNP",
+      "Health",
+      "research",
+      "Population",
+      "trade"
+    ],
+    "nid": [
+      90906
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Selected Statistical Indicators For India"
+    ],
+    "uuid": [
+      "fd9869f6-2043-47ab-990c-cbb6930d3a83"
+    ],
+    "vid": [
+      7859661
+    ],
+    "view_count": [
+      2498
+    ],
+    "search_api_id": [
+      "entity:node/90906:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/seminars-held-national-institute-biomedical-genomics-2011"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      905
+    ],
+    "published_date": [
+      1376307310
+    ],
+    "body:value": [
+      "This data contains details of various seminars held at National Institute of Biomedical Genomics (NIBMG) 2011."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1375947300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Institute of Biomedical Genomics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India",
+      "National Institute of Biomedical Genomics (NIBMG), Kalyani"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Institute",
+      "NIBMG",
+      "seminar",
+      "Biomedical",
+      "Genomics"
+    ],
+    "nid": [
+      90910
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Seminars Held at National Institute of Biomedical Genomics 2011"
+    ],
+    "uuid": [
+      "660a7bac-0ef6-4bb7-8f5d-4161ecdb6e97"
+    ],
+    "vid": [
+      7859668
+    ],
+    "view_count": [
+      793
+    ],
+    "search_api_id": [
+      "entity:node/90910:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/registered-medical-practitioners-under-ayush"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      43124
+    ],
+    "published_date": [
+      1376939080
+    ],
+    "body:value": [
+      "The data refers to data related to the number of registered medical practitioners under AYUSH as on 1st January 2007 (Eleventh Five Year Plan)."
+    ],
+    "changed": [
+      1436419090
+    ],
+    "created": [
+      1376733420
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare",
+      "trfff"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Ayurveda",
+      "Ayush",
+      "Homeopathy",
+      "Naturopathy",
+      "Plan",
+      "Siddha",
+      "Unani",
+      "Year"
+    ],
+    "nid": [
+      90719
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Registered Medical Practitioners under AYUSH"
+    ],
+    "uuid": [
+      "10ad1a1c-8638-4ec9-864d-7fcdacacb06b"
+    ],
+    "vid": [
+      7858986
+    ],
+    "view_count": [
+      42331
+    ],
+    "search_api_id": [
+      "entity:node/90719:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/registered-micro-small-and-medium-enterprises-msmes-manufacturing"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      72489
+    ],
+    "published_date": [
+      1380521923
+    ],
+    "body:value": [
+      "The data refers to break-up of working enterprises and employment in Micro, Small and Medium Enterprises (MSMEs) for Manufacturing sector (in percentage terms). The Fourth All India Census of Micro, Small & Medium Enterprises 2006-2007 is the primary source of data on MSMEs. Ministry of Micro, Small and Medium Enterprises provides periodically revised information of MSMEs."
+    ],
+    "changed": [
+      1436419084
+    ],
+    "created": [
+      1380436560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Industries"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employment",
+      "Industry",
+      "MSME",
+      "Plan",
+      "Sector",
+      "Enterprise",
+      "Work"
+    ],
+    "nid": [
+      90721
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Registered Micro, Small and Medium Enterprises (MSMEs) - Manufacturing"
+    ],
+    "uuid": [
+      "0976826d-f542-4b1b-8642-00f05296924f"
+    ],
+    "vid": [
+      7858990
+    ],
+    "view_count": [
+      70883
+    ],
+    "search_api_id": [
+      "entity:node/90721:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/registered-motor-vehicles-million-plus-cities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      18758
+    ],
+    "published_date": [
+      1389248197
+    ],
+    "body:value": [
+      "The data refers to Registered Motor Vehicles In Million Plus Cities."
+    ],
+    "changed": [
+      1509789643
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "transport",
+      "vehicle",
+      "Motor"
+    ],
+    "nid": [
+      90723
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Registered Motor Vehicles In Million Plus Cities"
+    ],
+    "uuid": [
+      "7f84dee4-8bd4-4595-ba7d-5a0530b948da"
+    ],
+    "vid": [
+      7859024
+    ],
+    "view_count": [
+      18239
+    ],
+    "search_api_id": [
+      "entity:node/90723:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/registered-practitioners-under-ayush-systems"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2065
+    ],
+    "published_date": [
+      1364465062
+    ],
+    "body:value": [
+      "The data refers to All India and State-wise number of Registered Ayurveda, Unani, Siddha, Naturopathy, Homoeopathy Practitioners"
+    ],
+    "changed": [
+      1441693315
+    ],
+    "created": [
+      1364453940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare",
+      "trfff"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Ayurveda",
+      "Homoeopathy",
+      "Naturopathy",
+      "Siddha",
+      "Unani"
+    ],
+    "nid": [
+      90727
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Registered Practitioners Under Ayush Systems"
+    ],
+    "uuid": [
+      "14600a0c-bc6e-4902-9311-e252432a5838"
+    ],
+    "vid": [
+      7859031
+    ],
+    "view_count": [
+      1959
+    ],
+    "search_api_id": [
+      "entity:node/90727:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/registration-new-companies-limited-shares-region-state-wise-distribution"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3527
+    ],
+    "published_date": [
+      1368098999
+    ],
+    "body:value": [
+      "The data refers to details on registration of new companies limited by shares (region / state-wise distribution). Report has been published by The Ministry of Corporate Affairs, Government of India."
+    ],
+    "changed": [
+      1633955840
+    ],
+    "created": [
+      1367839380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Classification",
+      "Construction",
+      "industrial",
+      "Private",
+      "Provisional",
+      "Public",
+      "Paid",
+      "Limited"
+    ],
+    "nid": [
+      90729
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Registration of New Companies Limited By Shares - Region / State-wise Distribution"
+    ],
+    "uuid": [
+      "60d1c7b9-6533-469e-8887-205b3516e56e"
+    ],
+    "vid": [
+      7859039
+    ],
+    "view_count": [
+      3324
+    ],
+    "search_api_id": [
+      "entity:node/90729:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/registration-new-government-companies-limited-shares-region-state-wise-distribution"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1610
+    ],
+    "published_date": [
+      1368098948
+    ],
+    "body:value": [
+      "The data refers to details on registration of new government companies limited by shares (region / state-wise distribution). Report has been published by The Ministry of Corporate Affairs, Government of India."
+    ],
+    "changed": [
+      1633955892
+    ],
+    "created": [
+      1367839860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Capital",
+      "Classification",
+      "Construction",
+      "industrial",
+      "manufacturing",
+      "Private",
+      "Provisional",
+      "Public",
+      "transport",
+      "Paid",
+      "Limited"
+    ],
+    "nid": [
+      90731
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Registration of New Government Companies Limited By Shares - Region / State-wise Distribution"
+    ],
+    "uuid": [
+      "33c08764-03e5-4926-8038-760ec6922b55"
+    ],
+    "vid": [
+      7859048
+    ],
+    "view_count": [
+      1456
+    ],
+    "search_api_id": [
+      "entity:node/90731:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/registration-new-non-government-companies-limited-shares-region-state-wise-distribution"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1691
+    ],
+    "published_date": [
+      1368098817
+    ],
+    "body:value": [
+      "The data refers to details on registration of new non government companies limited by shares (region / state-wise distribution). Report has been published by The Ministry of Corporate Affairs, Government of India."
+    ],
+    "changed": [
+      1633955844
+    ],
+    "created": [
+      1367840100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Capital",
+      "Classification",
+      "Construction",
+      "industrial",
+      "manufacturing",
+      "Private",
+      "Provisional",
+      "Public",
+      "transport",
+      "Paid",
+      "Limited"
+    ],
+    "nid": [
+      90733
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Registration of New Non-Government Companies Limited By Shares - Region / State-wise Distribution"
+    ],
+    "uuid": [
+      "368bd01e-cab2-4c90-a453-40bff85baa26"
+    ],
+    "vid": [
+      7859056
+    ],
+    "view_count": [
+      1512
+    ],
+    "search_api_id": [
+      "entity:node/90733:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/rehabilitation-prisoners"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2284
+    ],
+    "published_date": [
+      1382597845
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise total number of convicted prisoners rehabilitated, number of prisoners to whom financial assistance and number prisoners to whom the legal aids were provided."
+    ],
+    "changed": [
+      1441626761
+    ],
+    "created": [
+      1382519940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Prison Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Rehabilitation",
+      "Prisoner"
+    ],
+    "nid": [
+      90735
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rehabilitation of prisoners"
+    ],
+    "uuid": [
+      "327eeea1-4b31-42b3-8101-be2c2ebbfa19"
+    ],
+    "vid": [
+      7859066
+    ],
+    "view_count": [
+      2185
+    ],
+    "search_api_id": [
+      "entity:node/90735:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/release-funds-states-under-e-panchayat-mmp"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5769
+    ],
+    "published_date": [
+      1365401070
+    ],
+    "body:value": [
+      "The data refers to an insight into the funds released to States and Union Territories of India under the e-Panchayat Mission Mode Project (MMP) for the setting up of Programme Management Units (PMUs) at State and District levels. The PMUs are intended to provide management, technical and handholding support at the State and District levels to ensure effective and timely rollout of e-Panchayat MMP."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1365242100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Local Government"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Panchayati Raj"
+    ],
+    "field_sector:name": [
+      "Rural",
+      "Panchayati Raj"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Fund",
+      "Panchayat",
+      "Local"
+    ],
+    "nid": [
+      90737
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Release of Funds to States under e-Panchayat MMP"
+    ],
+    "uuid": [
+      "3fbce756-95a9-44d8-836a-7ea804f022f8"
+    ],
+    "vid": [
+      7859073
+    ],
+    "view_count": [
+      5390
+    ],
+    "search_api_id": [
+      "entity:node/90737:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/religion-inmates"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5072
+    ],
+    "published_date": [
+      1382599935
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise and Religion-wise details of prison inmates at the end of the reference year. The prison inmates are categorised into male and female population. The age of inmates are grouped into 16-18 yrs, 18-30 yrs, 30-50 yrs and 50 & above yrs. Religion of jail inmates is further categorised into Hindu, Muslim, Sikh, Christian & others."
+    ],
+    "changed": [
+      1441627470
+    ],
+    "created": [
+      1382519880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Prison Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Religion",
+      "Inmate",
+      "Prison"
+    ],
+    "nid": [
+      90739
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Religion of inmates"
+    ],
+    "uuid": [
+      "29b5b722-d405-4a02-bb67-cfb0597f14f1"
+    ],
+    "vid": [
+      7859084
+    ],
+    "view_count": [
+      4855
+    ],
+    "search_api_id": [
+      "entity:node/90739:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/requirement-and-availability-major-fertilizers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6596
+    ],
+    "published_date": [
+      1374232492
+    ],
+    "body:value": [
+      "The data refers to the requirement and availability of major fertilizer products like DAP, MAP, MOP, TSP, NPK, and UREA State-wise and month-wise."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1374132600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Fertilizers"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Chemicals and Fertilizers",
+      "Department of Fertilizers"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Fertilizers"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "DAP",
+      "Fertilizer",
+      "MAP",
+      "MOP",
+      "NPK",
+      "UREA",
+      "TSP",
+      "Chemical"
+    ],
+    "nid": [
+      90741
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Requirement And Availability Of Major Fertilizers"
+    ],
+    "uuid": [
+      "dae9eabe-8839-4eaa-8898-2d23ec5342a9"
+    ],
+    "vid": [
+      7859088
+    ],
+    "view_count": [
+      6036
+    ],
+    "search_api_id": [
+      "entity:node/90741:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/requirement-capital-expenditure-working-group-financing-urban-infrastructure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1022
+    ],
+    "published_date": [
+      1369298715
+    ],
+    "body:value": [
+      "These estimates have been worked out at 2009-10 prices by Working Group on financing of urban infrastructure which was constituted by Planning Commission for 12th Five Year Plan."
+    ],
+    "changed": [
+      1436419245
+    ],
+    "created": [
+      1369229580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Urban Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Estimate",
+      "Price",
+      "Planning",
+      "Commision"
+    ],
+    "nid": [
+      90743
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Requirement Of Capital Expenditure By Working Group On Financing Of Urban Infrastructure"
+    ],
+    "uuid": [
+      "f30b7af5-88bd-41da-8af6-50d3a004968d"
+    ],
+    "vid": [
+      7859091
+    ],
+    "view_count": [
+      923
+    ],
+    "search_api_id": [
+      "entity:node/90743:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/requirement-capital-expenditure-urban-sector-under-12th-plan-working-group"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      976
+    ],
+    "published_date": [
+      1369306351
+    ],
+    "body:value": [
+      "The requirement of capex from all sources for the urban sector under 12th Plan as estimated by Working Group on Financing Urbanisation constituted by the Planning Commission for formulation of the 12th Five Year Plan."
+    ],
+    "changed": [
+      1436419245
+    ],
+    "created": [
+      1369230600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Urban Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Infrastructure",
+      "Plan",
+      "Urbanisation",
+      "Commission"
+    ],
+    "nid": [
+      90745
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Requirement Of Capital Expenditure For The Urban Sector Under 12th Plan As Per Working Group"
+    ],
+    "uuid": [
+      "02a9534a-9d78-467e-990f-b7e9ac2608a8"
+    ],
+    "vid": [
+      7859095
+    ],
+    "view_count": [
+      929
+    ],
+    "search_api_id": [
+      "entity:node/90745:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/requirement-financial-provisions-and-actual-expenditure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      716
+    ],
+    "published_date": [
+      1375250883
+    ],
+    "body:value": [
+      "The data refers to the requirement of financial provisions and actual expenditure on supplementary nutrition. It provides details regarding the number of children who received supplementary nutrition, number of pregnant women and lactating mothers who received supplementary nutrition, total budgetary requirement/provision for supplementary nutrition for both children and pregnant women and lactating mothers, actual expenditure on supplementary nutrition including state share and percentage shortfall or excess."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1375165800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Nutrition",
+      "Supplementary",
+      "Service",
+      "Anganwadi",
+      "AWC"
+    ],
+    "nid": [
+      90747
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Requirement of financial provisions and actual expenditure"
+    ],
+    "uuid": [
+      "8ada5d7c-5246-4d07-a57b-e32e0c9203d1"
+    ],
+    "vid": [
+      7859102
+    ],
+    "view_count": [
+      665
+    ],
+    "search_api_id": [
+      "entity:node/90747:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/research-and-development-expenditure-advertising-expenditure-new-plant-and-machinery"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2390
+    ],
+    "published_date": [
+      1365319946
+    ],
+    "body:value": [
+      "The table presents data on R&D expenditure, advertising expenditure, new plant and machinery expenditure. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India."
+    ],
+    "changed": [
+      1426769008
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Financial Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Sales",
+      "Turnover"
+    ],
+    "nid": [
+      90749
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Research And Development Expenditure / Advertising Expenditure / New Plant And Machinery"
+    ],
+    "uuid": [
+      "bd10a38d-9841-42b2-9935-3a9365ad32c0"
+    ],
+    "vid": [
+      7859113
+    ],
+    "view_count": [
+      2255
+    ],
+    "search_api_id": [
+      "entity:node/90749:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/research-and-development-expenditure-major-oil-and-gas-companies"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1062
+    ],
+    "published_date": [
+      1370856350
+    ],
+    "body:value": [
+      "The data refers to Research and Development (R&D) Expenditure by Major Oil and Gas Companies. It gives the actual and percentage of expenditure in 2009 as well as the estimates in Twelfth Five Year Plan (2012-17)."
+    ],
+    "changed": [
+      1436419167
+    ],
+    "created": [
+      1370690460
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power & Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Company",
+      "estimated",
+      "Plan"
+    ],
+    "nid": [
+      90751
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Research and Development Expenditure by Major Oil and Gas Companies"
+    ],
+    "uuid": [
+      "a73ce059-ddca-49a0-baa3-fce16266aa6c"
+    ],
+    "vid": [
+      7859115
+    ],
+    "view_count": [
+      922
+    ],
+    "search_api_id": [
+      "entity:node/90751:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/research-and-development-expenditure-capita-and-percentage-gdp-selected-countries"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3055
+    ],
+    "published_date": [
+      1365014135
+    ],
+    "body:value": [
+      "The table presents Per Capita Research And Development expenditure, Per Capita GDP expenditure and Research And Development expenditure as percentage of GDP figures for select countries. The data are taken from the UNESCO, World Bank and DST, New Delhi."
+    ],
+    "changed": [
+      1426680351
+    ],
+    "created": [
+      1364203020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - International Comparisons"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capita",
+      "expenditure",
+      "GDP"
+    ],
+    "nid": [
+      90753
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Research And Development Expenditure Per Capita And As Percentage of GDP For Selected Countries"
+    ],
+    "uuid": [
+      "39da2157-5715-45f7-9139-70f27b362a9a"
+    ],
+    "vid": [
+      7859128
+    ],
+    "view_count": [
+      2916
+    ],
+    "search_api_id": [
+      "entity:node/90753:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/research-and-development-manpower-qualifications"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4487
+    ],
+    "published_date": [
+      1365317434
+    ],
+    "body:value": [
+      "The table presents data on research and development manpower by qualifications for different sectors. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Human Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Development",
+      "Engineering",
+      "Medical",
+      "research",
+      "Science",
+      "Technology",
+      "Social",
+      "Natural"
+    ],
+    "nid": [
+      90755
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Research And Development Manpower By Qualifications"
+    ],
+    "uuid": [
+      "ce3f0f23-707b-402b-89f8-459e214e37e2"
+    ],
+    "vid": [
+      7859137
+    ],
+    "view_count": [
+      4306
+    ],
+    "search_api_id": [
+      "entity:node/90755:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/research-publications-national-institute-immunology-new-delhi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2576
+    ],
+    "published_date": [
+      1376300196
+    ],
+    "body:value": [
+      "This data consists of details on scientific research publications by researchers at National Institute of Immunology, New Delhi."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1376035260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Institute of Immunology, New Delhi"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India",
+      "National Institute of Immunology (NII)"
+    ],
+    "field_sector:name": [
+      "Biotechnology",
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Diseases",
+      "HIV",
+      "Mycobacterium",
+      "p53",
+      "Plasmodium",
+      "Salmonella",
+      "cell",
+      "Cancer",
+      "Trafficking",
+      "Polymer",
+      "Antigen",
+      "Presenting",
+      "Autoimmune",
+      "Biodegrdable",
+      "Immunotherapy",
+      "Humanized",
+      "Antibodies",
+      "Intracellular",
+      "N",
+      "Kappa",
+      "Ribonuclease",
+      "Lymphocytes",
+      "Zona",
+      "Pellucida"
+    ],
+    "nid": [
+      90758
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "127"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Research Publications from National Institute of Immunology, New Delhi "
+    ],
+    "uuid": [
+      "c5f331c5-30cc-46f5-9ace-f7e6c38ff3ae"
+    ],
+    "vid": [
+      7859142
+    ],
+    "view_count": [
+      2187
+    ],
+    "search_api_id": [
+      "entity:node/90758:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/researchers-million-people-selected-countries"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2056
+    ],
+    "published_date": [
+      1365014639
+    ],
+    "body:value": [
+      "The table presents number of researchers per million people and population figures for select countries. The data are taken from the UNESCO, World Bank and DST, New Delhi."
+    ],
+    "changed": [
+      1427114777
+    ],
+    "created": [
+      1364203020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - International Comparisons"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Population",
+      "Researcher"
+    ],
+    "nid": [
+      90760
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Researchers Per Million People For Selected Countries"
+    ],
+    "uuid": [
+      "cce5b637-b3a8-401d-9c3f-1c82eee0928f"
+    ],
+    "vid": [
+      7859153
+    ],
+    "view_count": [
+      1872
+    ],
+    "search_api_id": [
+      "entity:node/90760:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/reserved-category-human-resource-pool-drdo"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1785
+    ],
+    "published_date": [
+      1361535925
+    ],
+    "body:value": [
+      "The Organisation has achieved what it has due to quality, commitment, perseverance, knowledge and skills of its personnel. The Defence Research and Development Organisation has a dynamic approach for the man power development. Keeping manpower requirements of our futuristic and contemporary programmes and attrition of its manpower in view, the organisation plans recruitment. The DRDO has organised its human resources in three cadres viz. Defence Research & Development Service (DRDS), Defence Research Technical Cadre (DRTC) and Admin & Allied Cadre."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1361337300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DRDO"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "DRDS",
+      "DRTC",
+      "technical",
+      "Cadre",
+      "Defence",
+      "Admin",
+      "Allied"
+    ],
+    "nid": [
+      90762
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Reserved Category Human Resource Pool of DRDO"
+    ],
+    "uuid": [
+      "f201fa08-8db2-4d12-aa8e-407d58b56054"
+    ],
+    "vid": [
+      7859158
+    ],
+    "view_count": [
+      1626
+    ],
+    "search_api_id": [
+      "entity:node/90762:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/reserves-crude-oil-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2995
+    ],
+    "published_date": [
+      1363240700
+    ],
+    "body:value": [
+      "The data refers to State wise and year-wise reserves of crude oil in India."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1363165800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "PNG Economic and Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "Offshore",
+      "Production",
+      "Performance",
+      "Petroleum",
+      "Refery"
+    ],
+    "nid": [
+      90764
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Reserves of Crude Oil in India"
+    ],
+    "uuid": [
+      "5260f7fc-dcff-415e-b9ae-2cfe1488f9e4"
+    ],
+    "vid": [
+      7859164
+    ],
+    "view_count": [
+      2715
+    ],
+    "search_api_id": [
+      "entity:node/90764:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/reserves-natural-gas-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5562
+    ],
+    "published_date": [
+      1363241000
+    ],
+    "body:value": [
+      "The data refers to State wise and year-wise reserves of natural gas in India."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1363167060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "PNG Economic and Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "LNG",
+      "Offshore",
+      "OIL",
+      "Onshore",
+      "Refinery",
+      "Production",
+      "Performance",
+      "Petroleum",
+      "Sector"
+    ],
+    "nid": [
+      90766
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Reserves of Natural Gas in India"
+    ],
+    "uuid": [
+      "a4d38161-f512-49eb-aec0-fa5d5de5e005"
+    ],
+    "vid": [
+      7859170
+    ],
+    "view_count": [
+      5387
+    ],
+    "search_api_id": [
+      "entity:node/90766:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/resource-centres-block-level-sanctioned-under-capacity-building-component-brgf-and-rgsy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1732
+    ],
+    "published_date": [
+      1365012249
+    ],
+    "body:value": [
+      "The data refers to State-wise resource centres at block level sanctioned under capacity building component of Backward Regions Grant Fund (RGSY) and Rashtriya Gram Swaraj Yojana (RGSY)."
+    ],
+    "changed": [
+      1462507861
+    ],
+    "created": [
+      1364468460
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Statistics",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centres",
+      "Development",
+      "Rural"
+    ],
+    "nid": [
+      90768
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Resource Centres at Block Level Sanctioned Under Capacity Building Component of BRGF And RGSY"
+    ],
+    "uuid": [
+      "48bab427-7c2c-4d17-a232-a23a09664d81"
+    ],
+    "vid": [
+      7859189
+    ],
+    "view_count": [
+      1645
+    ],
+    "search_api_id": [
+      "entity:node/90768:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/resource-personnel-regional-centre-biotechnology"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      954
+    ],
+    "published_date": [
+      1372155308
+    ],
+    "body:value": [
+      "This data indicates the number of resource personnel at Regional Centre for Biotechnology (RCB)."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371103320
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Regional Centre For Biotechnology"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India",
+      "Regional Centre for Biotechnology (RCB), Gurgaon"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biotechnology",
+      "DBT",
+      "RCB",
+      "Depratment"
+    ],
+    "nid": [
+      90770
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Resource Personnel At Regional Centre For Biotechnology"
+    ],
+    "uuid": [
+      "25e8540c-804f-4a4f-89da-68712ef1d731"
+    ],
+    "vid": [
+      7859194
+    ],
+    "view_count": [
+      889
+    ],
+    "search_api_id": [
+      "entity:node/90770:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/resources-public-enterprises"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1011
+    ],
+    "published_date": [
+      1371472975
+    ],
+    "body:value": [
+      "It provides details of Internal and Extra Budgetary Resources (IEBR) of public enterprises viz. Internal resources"
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1370589960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Union Budget 2013-14 - Expenditure Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "finance",
+      "Provision",
+      "Union",
+      "resource",
+      "Internal",
+      "Bond",
+      "Debentur"
+    ],
+    "nid": [
+      90772
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Resources of Public Enterprises"
+    ],
+    "uuid": [
+      "857ad6fc-5b2e-4c1e-af5e-028888a2a0f0"
+    ],
+    "vid": [
+      7859199
+    ],
+    "view_count": [
+      903
+    ],
+    "search_api_id": [
+      "entity:node/90772:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/resources-centre-eleventh-and-twelfth-plan-percentage-gdp"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      577
+    ],
+    "published_date": [
+      1375863783
+    ],
+    "body:value": [
+      "The data refers to data related to resources of the centre in Eleventh and Twelfth Plan as percentage of GDP."
+    ],
+    "changed": [
+      1436419144
+    ],
+    "created": [
+      1375454940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "domestic",
+      "GDP",
+      "Gross",
+      "Plan",
+      "product"
+    ],
+    "nid": [
+      90774
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Resources of the Centre in Eleventh and Twelfth Plan as Percentage of GDP"
+    ],
+    "uuid": [
+      "02b00341-e007-4267-b440-6f2f06c82b8b"
+    ],
+    "vid": [
+      7859202
+    ],
+    "view_count": [
+      562
+    ],
+    "search_api_id": [
+      "entity:node/90774:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/responses-parents-ssa-and-pta-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1487
+    ],
+    "published_date": [
+      1383198398
+    ],
+    "body:value": [
+      "The data refers to details of the responses of parents on their awareness about SSA, PTA/MTA and enrolment drives in the urban slums of the surveyed states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission in eleven states and two union territories for 'Evaluation Report On Sarva Shiksha Abhiyan, 2010'. The reference period for the study was 2003 to 2007."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1383111540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Appraisal",
+      "Aware",
+      "Enrolment",
+      "MTA",
+      "Slum"
+    ],
+    "nid": [
+      90776
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Responses of parents on SSA and PTA - Based on Sample Survey"
+    ],
+    "uuid": [
+      "6222abab-1832-4e55-847c-ca45edca3981"
+    ],
+    "vid": [
+      7859209
+    ],
+    "view_count": [
+      1418
+    ],
+    "search_api_id": [
+      "entity:node/90776:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/responses-incentives-and-use-teaching-tools-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1113
+    ],
+    "published_date": [
+      1382681494
+    ],
+    "body:value": [
+      "The data refers to details of the student responses on the existence of incentives and use of teaching tools. It indicates the percentage of students Receiving Books at Start of Session, Reporting use of Blackboard, Reporting Schools with Library, Reporting use of TLMs and percentage of Schools which Reported Providing Scholarships. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission in eleven states and two union territories for 'Evaluation Report On Sarva Shiksha Abhiyan, 2010'. The reference period for the study was 2003 to 2007."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1382600580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "blackboard",
+      "library",
+      "Student",
+      "Scholarship",
+      "Incentive",
+      "Response"
+    ],
+    "nid": [
+      90778
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Responses on Incentives and use of teaching tools - Based on Sample Survey"
+    ],
+    "uuid": [
+      "27bcd457-ddad-4b42-bffa-b9f7a9ac9f7b"
+    ],
+    "vid": [
+      7859214
+    ],
+    "view_count": [
+      1087
+    ],
+    "search_api_id": [
+      "entity:node/90778:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/revenue-account-railways-respect-which-government-financially-responsible"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      983
+    ],
+    "published_date": [
+      1367315760
+    ],
+    "body:value": [
+      "The data indicates details on revenue and expenditure of the Railways in respect of which government is financially responsible."
+    ],
+    "changed": [
+      1506517423
+    ],
+    "created": [
+      1366955400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Railways"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Statistics",
+      "Transport",
+      "Railways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "Gain",
+      "Loss",
+      "Railway"
+    ],
+    "nid": [
+      90780
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Revenue Account Of Railways in Respect Of Which Government Is Financially Responsible"
+    ],
+    "uuid": [
+      "90d1981f-48c6-486d-926c-4b29fd314c16"
+    ],
+    "vid": [
+      7859235
+    ],
+    "view_count": [
+      929
+    ],
+    "search_api_id": [
+      "entity:node/90780:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/revenue-and-expenditure-fromon-forests"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3031
+    ],
+    "published_date": [
+      1365011498
+    ],
+    "body:value": [
+      "The data refers to data on revenue from and expenditure on forests for the period 2007 onwards."
+    ],
+    "changed": [
+      1466406855
+    ],
+    "created": [
+      1364881380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Deficit",
+      "environment",
+      "Forest"
+    ],
+    "nid": [
+      90782
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Revenue And Expenditure From/On Forests"
+    ],
+    "uuid": [
+      "96acfed5-2cd2-4120-9458-afdd749cfd65"
+    ],
+    "vid": [
+      7859245
+    ],
+    "view_count": [
+      2967
+    ],
+    "search_api_id": [
+      "entity:node/90782:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/revenue-earning-goods-traffic-indian-railways-traffic-originating"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1511
+    ],
+    "published_date": [
+      1372242025
+    ],
+    "body:value": [
+      "The data refers to the Revenue Earning Goods Traffic on Indian Railways by Traffic Originating (in million tonnes). It gives commodity-wise details regarding the Revenue Earning Goods Traffic for various years."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371192720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Industry and Infrastructure"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cement",
+      "Fertilizer",
+      "finance",
+      "Industry",
+      "Infrastructure",
+      "Survey",
+      "Ore",
+      "Ecomic"
+    ],
+    "nid": [
+      90784
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Revenue Earning Goods Traffic on Indian Railways - Traffic Originating"
+    ],
+    "uuid": [
+      "bef998b1-da2b-4b66-849b-5264a96345b9"
+    ],
+    "vid": [
+      7859249
+    ],
+    "view_count": [
+      1291
+    ],
+    "search_api_id": [
+      "entity:node/90784:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/revenue-earning-goods-traffic-indian-railways-goods-carried"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2889
+    ],
+    "published_date": [
+      1372242025
+    ],
+    "body:value": [
+      "The data refers to the Revenue Earning Goods Traffic on Indian Railways by Goods Carried (in million tonnes). It gives commodity-wise details regarding the Revenue Earning Goods Traffic for various years."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371192720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Industry and Infrastructure"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cement",
+      "Economic",
+      "Fertilizer",
+      "finance",
+      "good",
+      "Industry",
+      "Infrastructure",
+      "Railway",
+      "Ore",
+      "Carried"
+    ],
+    "nid": [
+      90786
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Revenue Earning Goods Traffic on Indian Railways: Goods Carried"
+    ],
+    "uuid": [
+      "7d88dba5-860c-4518-be6c-028a7ec976f5"
+    ],
+    "vid": [
+      7859254
+    ],
+    "view_count": [
+      2700
+    ],
+    "search_api_id": [
+      "entity:node/90786:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/revenue-expenditure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2934
+    ],
+    "published_date": [
+      1371726089
+    ],
+    "body:value": [
+      "This data pertains to revenue expenditure (sector-wise) of all states including UTs and Union Governments from year 2000 to 2011."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371709020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Finance Accounts"
+    ],
+    "field_ministry_department:name": [
+      "Comptroller And Auditor General of India(CAG)"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CAG",
+      "Economic",
+      "expenditure",
+      "General",
+      "Grant",
+      "Social",
+      "Service",
+      "Comptroller",
+      "Auditor",
+      "Aid"
+    ],
+    "nid": [
+      90788
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Revenue Expenditure"
+    ],
+    "uuid": [
+      "610feb4a-e557-4d57-9372-005ba3bc17b6"
+    ],
+    "vid": [
+      7859258
+    ],
+    "view_count": [
+      2731
+    ],
+    "search_api_id": [
+      "entity:node/90788:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/revenue-customs-duties"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6446
+    ],
+    "published_date": [
+      1367949592
+    ],
+    "body:value": [
+      "Get the data about details on revenue from customs duties (import duties, export duties, export cess duties and other receipts)."
+    ],
+    "changed": [
+      1602755758
+    ],
+    "created": [
+      1367922180
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Finance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Custom",
+      "Export",
+      "finance",
+      "Import",
+      "national",
+      "Receipt",
+      "Cess"
+    ],
+    "nid": [
+      90790
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Revenue from Customs Duties"
+    ],
+    "uuid": [
+      "9cf29568-4ec6-494d-8595-8ef5b6fd785d"
+    ],
+    "vid": [
+      7859281
+    ],
+    "view_count": [
+      6004
+    ],
+    "search_api_id": [
+      "entity:node/90790:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/revenue-union-excise-duties"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1557
+    ],
+    "published_date": [
+      1367949552
+    ],
+    "body:value": [
+      "The data refers to details on revenue from union excise duties from 2000-01 to 2011-12."
+    ],
+    "changed": [
+      1509536224
+    ],
+    "created": [
+      1367922660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Finance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "finance",
+      "national"
+    ],
+    "nid": [
+      90792
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Revenue From Union Excise Duties"
+    ],
+    "uuid": [
+      "d22bf9f1-facf-4d4a-a764-f95bf9c0ffce"
+    ],
+    "vid": [
+      7859288
+    ],
+    "view_count": [
+      1464
+    ],
+    "search_api_id": [
+      "entity:node/90792:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

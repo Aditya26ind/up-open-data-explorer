@@ -1,0 +1,4721 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-number-and-paid-capital-public-companies-and-private-companies-ceased-work"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2589
+    ],
+    "published_date": [
+      1366896166
+    ],
+    "body:value": [
+      "The data refers to State-wise number and paid-up capital of Public Companies and Private Companies ceased to work as on 31st March from 2009 to 2010."
+    ],
+    "changed": [
+      1509360498
+    ],
+    "created": [
+      1366893720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Company",
+      "Work",
+      "Paid"
+    ],
+    "nid": [
+      91808
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Number And Paid-up Capital of Public Companies and Private Companies Ceased To Work"
+    ],
+    "uuid": [
+      "69799845-8d6e-4f7a-be25-68704ca3d130"
+    ],
+    "vid": [
+      7862913
+    ],
+    "view_count": [
+      2459
+    ],
+    "search_api_id": [
+      "entity:node/91808:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-number-estimated-culms-soundness-recorded-forests-millions"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      644
+    ],
+    "published_date": [
+      1379927335
+    ],
+    "body:value": [
+      "The data refers to state-wise summary for the number of estimated green culms, dry culms and decayed culms by soundness in recorded forests (in millions). "
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1379069820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "report"
+    ],
+    "nid": [
+      91810
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Number of Estimated Culms by Soundness in Recorded Forests (in Millions)"
+    ],
+    "uuid": [
+      "70e6494b-0a03-47c5-b9b1-3829cec7e808"
+    ],
+    "vid": [
+      7862918
+    ],
+    "view_count": [
+      622
+    ],
+    "search_api_id": [
+      "entity:node/91810:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-number-institutes-interacting-dbt-research-and-development-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1534
+    ],
+    "published_date": [
+      1363343495
+    ],
+    "body:value": [
+      "The data refers to the number of institutes interacted with DBT. The schemes are implemented institutes/universities through competitive grants system based on scientific merit and techno-economic feasibility with a very transparent computerized system."
+    ],
+    "changed": [
+      1452669521
+    ],
+    "created": [
+      1363336920
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DBT - Research and Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biotechnology",
+      "Grant",
+      "Institute",
+      "University",
+      "System",
+      "Ecomic",
+      "Covered",
+      "Competitive",
+      "Techno"
+    ],
+    "nid": [
+      91812
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Number of Institutes Interacting with DBT on Research and Development Projects"
+    ],
+    "uuid": [
+      "4f5e3dec-fef5-4c3a-85f9-707a2c2c93f3"
+    ],
+    "vid": [
+      7862923
+    ],
+    "view_count": [
+      1464
+    ],
+    "search_api_id": [
+      "entity:node/91812:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-number-projects-not-found-suitable-funding"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1589
+    ],
+    "published_date": [
+      1363343286
+    ],
+    "body:value": [
+      "The data refers to state-wise number of project proposals not found suitable for funding by DBT. These number of projects are not found suitable based on scientific merit and techno-economic feasibility in biotechnology sector by the expert committee."
+    ],
+    "changed": [
+      1452678717
+    ],
+    "created": [
+      1363338240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DBT - Research and Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biotechnology",
+      "DBT",
+      "Development",
+      "Economic",
+      "Grant",
+      "Institute",
+      "research",
+      "University",
+      "Competitive",
+      "Techno"
+    ],
+    "nid": [
+      91816
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Number of Projects Not Found Suitable for Funding"
+    ],
+    "uuid": [
+      "79b392aa-2dba-4b04-90ee-6259a0864461"
+    ],
+    "vid": [
+      7862935
+    ],
+    "view_count": [
+      1485
+    ],
+    "search_api_id": [
+      "entity:node/91816:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-number-projects-received"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3500
+    ],
+    "published_date": [
+      1363343218
+    ],
+    "body:value": [
+      "The data refers to state-wise number of ongoing Research and Development projects received by Department of Biotechnology in each financial year. The schemes are implemented institutes/universities through competitive grants system based on scientific merit and techno-economic feasibility."
+    ],
+    "changed": [
+      1452669476
+    ],
+    "created": [
+      1363338780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DBT - Research and Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biotechnology",
+      "DBT",
+      "Development",
+      "Economic",
+      "Grant",
+      "Institute",
+      "research",
+      "University",
+      "Competitive",
+      "Techno"
+    ],
+    "nid": [
+      91818
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Number of Projects Received"
+    ],
+    "uuid": [
+      "b71b2b0e-c6e7-46d0-8051-f7951c8d72a7"
+    ],
+    "vid": [
+      7862940
+    ],
+    "view_count": [
+      3402
+    ],
+    "search_api_id": [
+      "entity:node/91818:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-number-research-and-development-proposals-not-found-suitable"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1849
+    ],
+    "published_date": [
+      1372762972
+    ],
+    "body:value": [
+      "The data refers to state-wise details on the number of research and development proposals not found suitable."
+    ],
+    "changed": [
+      1452669416
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Biotechnology RnD"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Bioengineering",
+      "Biotechnology",
+      "Medical",
+      "Technology",
+      "Nano",
+      "Plant"
+    ],
+    "nid": [
+      91820
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Number of Research And Development Proposals Not Found Suitable"
+    ],
+    "uuid": [
+      "87cf19fb-6a53-4758-a5cc-b3dc706f7db1"
+    ],
+    "vid": [
+      7862944
+    ],
+    "view_count": [
+      1784
+    ],
+    "search_api_id": [
+      "entity:node/91820:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-number-retail-outlets-ldosko-dealers-and-lpg-distributors"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8907
+    ],
+    "published_date": [
+      1363241642
+    ],
+    "body:value": [
+      "The data refers to State-wise number of Retail outlets, LDO/SKO dealers and LPG distributors in India."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1363169640
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "PNG Economic and Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "crude",
+      "Gas",
+      "LNG",
+      "OIL",
+      "Refinery",
+      "Reserve",
+      "Production",
+      "Performance",
+      "Petroleum",
+      "Natural"
+    ],
+    "nid": [
+      91823
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Number of Retail Outlets, LDO/SKO, Dealers and LPG Distributors "
+    ],
+    "uuid": [
+      "e9744965-6f33-412d-a845-a036629f241c"
+    ],
+    "vid": [
+      7862951
+    ],
+    "view_count": [
+      8717
+    ],
+    "search_api_id": [
+      "entity:node/91823:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-number-societal-development-proposals-not-found-suitable"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1459
+    ],
+    "published_date": [
+      1372762908
+    ],
+    "body:value": [
+      "The data refers to state-wise details on the number of societal development proposals not found suitable."
+    ],
+    "changed": [
+      1452669416
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Biotechnology Societal Programme"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biotechnology",
+      "Population",
+      "Programme",
+      "Rural",
+      "SC",
+      "ST",
+      "Women",
+      "Caste",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      91825
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Number of Societal Development Proposals Not Found Suitable"
+    ],
+    "uuid": [
+      "923f5190-d101-4121-b084-e80e37b91434"
+    ],
+    "vid": [
+      7862955
+    ],
+    "view_count": [
+      1414
+    ],
+    "search_api_id": [
+      "entity:node/91825:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-number-unserved-habitations"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      610
+    ],
+    "published_date": [
+      1383198517
+    ],
+    "body:value": [
+      "The data refers to a state-wise comparative assessment of the Unserved Habitations for the years 2003 and 2007."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1383111540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Habitation",
+      "Unserved"
+    ],
+    "nid": [
+      91828
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Number of Unserved Habitations"
+    ],
+    "uuid": [
+      "ca7652be-9381-4368-b7d7-320d6cf4aa83"
+    ],
+    "vid": [
+      7862962
+    ],
+    "view_count": [
+      580
+    ],
+    "search_api_id": [
+      "entity:node/91828:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-ongoing-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5836
+    ],
+    "published_date": [
+      1363343683
+    ],
+    "body:value": [
+      "The data refers to the number of suitable ongoing Research and Development projects being funded by Department of Biotechnology. The schemes are implemented institutes/universities through competitive grants system based on scientific merit and techno-economic feasibility."
+    ],
+    "changed": [
+      1452746062
+    ],
+    "created": [
+      1363332060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Research and Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biotechnology",
+      "DBT",
+      "Development",
+      "Economic",
+      "Grant",
+      "Institute",
+      "research",
+      "University",
+      "Competitive",
+      "Techno"
+    ],
+    "nid": [
+      91830
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Ongoing Projects"
+    ],
+    "uuid": [
+      "24701258-201f-467d-a7f7-26497ce187ba"
+    ],
+    "vid": [
+      7862969
+    ],
+    "view_count": [
+      5427
+    ],
+    "search_api_id": [
+      "entity:node/91830:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-ongoing-research-and-development-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1288
+    ],
+    "published_date": [
+      1372763071
+    ],
+    "body:value": [
+      "The data refers to state-wise details of ongoing research and development projects."
+    ],
+    "changed": [
+      1452669476
+    ],
+    "created": [
+      1372762020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Biotechnology RnD"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Aquaculture",
+      "Biotechnology",
+      "Medical",
+      "Technology",
+      "Nano",
+      "Plant"
+    ],
+    "nid": [
+      91832
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Ongoing Research And Development Projects"
+    ],
+    "uuid": [
+      "c8e932b3-5837-4246-a835-226c03a6070f"
+    ],
+    "vid": [
+      7862971
+    ],
+    "view_count": [
+      1156
+    ],
+    "search_api_id": [
+      "entity:node/91832:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-ongoing-societal-development-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1195
+    ],
+    "published_date": [
+      1372763153
+    ],
+    "body:value": [
+      "The data refers to state-wise details of ongoing societal development projects."
+    ],
+    "changed": [
+      1452669476
+    ],
+    "created": [
+      1372762200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Biotechnology Societal Programme"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biotechnology",
+      "Population",
+      "Programme",
+      "Rural",
+      "SC",
+      "ST",
+      "Women",
+      "Caste",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      91834
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Ongoing Societal Development Projects"
+    ],
+    "uuid": [
+      "a43579b0-22c3-4a10-a03b-b039085de4d8"
+    ],
+    "vid": [
+      7862974
+    ],
+    "view_count": [
+      1083
+    ],
+    "search_api_id": [
+      "entity:node/91834:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-outlay-and-expenditure-agriculture-and-allied-sector-eleventh-and-twelfth-five"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2459
+    ],
+    "published_date": [
+      1377498693
+    ],
+    "body:value": [
+      "The data refers to information on state-wise outlay and expenditure on Agriculture & Allied Sector for eleventh and twelfth plan period."
+    ],
+    "changed": [
+      1436419087
+    ],
+    "created": [
+      1377092220
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Agricultural Research & Extension"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Outlay"
+    ],
+    "nid": [
+      91836
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Outlay and Expenditure on Agriculture and Allied Sector for Eleventh and Twelfth five year Plan"
+    ],
+    "uuid": [
+      "0d995268-667c-4eaa-b8f6-b43a1d9af5c4"
+    ],
+    "vid": [
+      7862980
+    ],
+    "view_count": [
+      2309
+    ],
+    "search_api_id": [
+      "entity:node/91836:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-capita-sales-petroleum-products"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5055
+    ],
+    "published_date": [
+      1371208099
+    ],
+    "body:value": [
+      "The data refers to state-wise per capita sales of petroleum products in India."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371106020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "PNG Economic and Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capita",
+      "Petroleum"
+    ],
+    "nid": [
+      91838
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Per Capita Sales of Petroleum Products"
+    ],
+    "uuid": [
+      "552a728b-6ce2-4ccd-81b8-dc27af8e13a4"
+    ],
+    "vid": [
+      7862985
+    ],
+    "view_count": [
+      4882
+    ],
+    "search_api_id": [
+      "entity:node/91838:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-distribution-combinedrural-and-urban-households-living-various-types"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7946
+    ],
+    "published_date": [
+      1367426976
+    ],
+    "body:value": [
+      "The data indicates about state-wise percentage distribution of households living in various types of houses such as pucca, semi-pucca and kutcha houses. The details are given in three different worksheets for combined, rural and urban households respectively."
+    ],
+    "changed": [
+      1441694404
+    ],
+    "created": [
+      1367407320
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Housing",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "House",
+      "Rural",
+      "Pucca",
+      "Kutcha",
+      "Semi"
+    ],
+    "nid": [
+      91840
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage Distribution Of Combined/Rural And Urban Households Living In Various Types Of Houses"
+    ],
+    "uuid": [
+      "b03b2c1e-2227-416c-90ee-6237611ef57a"
+    ],
+    "vid": [
+      7862999
+    ],
+    "view_count": [
+      7405
+    ],
+    "search_api_id": [
+      "entity:node/91840:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-distribution-rural-and-urban-households-type-latrine"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2253
+    ],
+    "published_date": [
+      1367427123
+    ],
+    "body:value": [
+      "Get the data regarding state wise percentage distribution of rural and urban households by type of latrine as per NSSO Survey Report (65th Round)."
+    ],
+    "changed": [
+      1441694408
+    ],
+    "created": [
+      1367405220
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Housing",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Household",
+      "Latrine"
+    ],
+    "nid": [
+      91842
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State wise Percentage Distribution of Rural and Urban Households by Type of Latrine"
+    ],
+    "uuid": [
+      "42f98e78-604a-4bff-8104-dfcc4c38c480"
+    ],
+    "vid": [
+      7863011
+    ],
+    "view_count": [
+      2041
+    ],
+    "search_api_id": [
+      "entity:node/91842:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-enrolment-single-teacher-schools-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1442
+    ],
+    "published_date": [
+      1389094947
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage Enrolment in Single-Teacher Schools in primary and all schools categories during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388988900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "primary",
+      "School",
+      "Teacher"
+    ],
+    "nid": [
+      91844
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage Enrolment in Single-Teacher Schools - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "d2b6cb8e-6c84-43ba-996d-546fcf11cf97"
+    ],
+    "vid": [
+      7863015
+    ],
+    "view_count": [
+      1396
+    ],
+    "search_api_id": [
+      "entity:node/91844:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-distribution-rural-and-urban-households-type-dwellings"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1586
+    ],
+    "published_date": [
+      1367427400
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of distribution of rural and urban households by type of dwellings such as independent house, flat and others."
+    ],
+    "changed": [
+      1441694703
+    ],
+    "created": [
+      1367401920
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Housing",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Dwelling",
+      "Urban"
+    ],
+    "nid": [
+      91846
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage Of Distribution Of Rural And Urban Households By Type Of Dwellings"
+    ],
+    "uuid": [
+      "c419c0ee-2c93-4d3b-b41a-f05f0415431f"
+    ],
+    "vid": [
+      7863023
+    ],
+    "view_count": [
+      1333
+    ],
+    "search_api_id": [
+      "entity:node/91846:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-distribution-rural-and-urban-households-having-electricity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6126
+    ],
+    "published_date": [
+      1367427607
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of distribution of rural and urban households having electricity for 2001 and 2011."
+    ],
+    "changed": [
+      1528450933
+    ],
+    "created": [
+      1367397300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Housing",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "electricity",
+      "Household"
+    ],
+    "nid": [
+      91848
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage Of Distribution Of Rural And Urban Households Having Electricity"
+    ],
+    "uuid": [
+      "e5a3fd2a-0646-4db3-afa5-f11af6f9e5e8"
+    ],
+    "vid": [
+      7863030
+    ],
+    "view_count": [
+      5813
+    ],
+    "search_api_id": [
+      "entity:node/91848:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-distribution-rural-and-urban-households-having-safe-drinking-water"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4687
+    ],
+    "published_date": [
+      1367427567
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of distribution of rural and urban households having safe drinking water facilities for 1991 and 2001."
+    ],
+    "changed": [
+      1441694724
+    ],
+    "created": [
+      1367399760
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Housing",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Household",
+      "Water",
+      "Drinking"
+    ],
+    "nid": [
+      91850
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage Of Distribution Of Rural And Urban Households Having Safe Drinking Water Facilities"
+    ],
+    "uuid": [
+      "6648a12f-8ab7-412a-8b8e-330bf8d8473e"
+    ],
+    "vid": [
+      7863037
+    ],
+    "view_count": [
+      4554
+    ],
+    "search_api_id": [
+      "entity:node/91850:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-distribution-rural-and-urban-households-having-toilet-facilities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7371
+    ],
+    "published_date": [
+      1367427562
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of distribution of rural and urban households having toilet facilities for 2001 and 2011."
+    ],
+    "changed": [
+      1441694715
+    ],
+    "created": [
+      1367400540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Housing",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Rural",
+      "Toilet",
+      "Facility"
+    ],
+    "nid": [
+      91852
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage Of Distribution Of Rural And Urban Households Having Toilet Facilities"
+    ],
+    "uuid": [
+      "41b432b9-bc36-4f1e-95ad-0235c4196ed6"
+    ],
+    "vid": [
+      7863044
+    ],
+    "view_count": [
+      7244
+    ],
+    "search_api_id": [
+      "entity:node/91852:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-government-management-schools-received-text-books-dise-flash"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1016
+    ],
+    "published_date": [
+      1389001501
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of government management schools received text books in primary and all schools categories during the year 2012-2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388995440
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "primary",
+      "School",
+      "Book"
+    ],
+    "nid": [
+      91854
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Government Management Schools Received Text Books - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "e454a36a-dcda-48b4-80a7-d1f3eea857bd"
+    ],
+    "vid": [
+      7863048
+    ],
+    "view_count": [
+      984
+    ],
+    "search_api_id": [
+      "entity:node/91854:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-muslim-population-and-enrolment-primary-level-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      48793
+    ],
+    "published_date": [
+      1389161757
+    ],
+    "body:value": [
+      "The data refers to Elementary Education in India by providing state-wise percentage of Muslim population, Muslim Enrolment and percentage of Girls Enrolment at Primary Level during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1389001200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "Muslim",
+      "primary"
+    ],
+    "nid": [
+      91856
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Muslim Population and Enrolment at Primary Level - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "2306b4d2-aeef-47dd-a674-f714b8f6f049"
+    ],
+    "vid": [
+      7863052
+    ],
+    "view_count": [
+      48622
+    ],
+    "search_api_id": [
+      "entity:node/91856:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-muslim-population-and-enrolment-upper-primary-level-dise-flash"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      944
+    ],
+    "published_date": [
+      1389173723
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of Muslim Enrolment and percentage of Girls Enrolment at Upper Primary Level during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1389001440
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "Muslim",
+      "primary"
+    ],
+    "nid": [
+      91858
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Muslim Population and Enrolment at Upper Primary Level - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "46cc129e-11ab-407c-a3de-47ffffabcbd0"
+    ],
+    "vid": [
+      7863056
+    ],
+    "view_count": [
+      880
+    ],
+    "search_api_id": [
+      "entity:node/91858:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-muslim-population-and-girls-enrolment-elementary-level-dise-flash"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1970
+    ],
+    "published_date": [
+      1389160744
+    ],
+    "body:value": [
+      "The data refers to elementary education in India by providing state-wise percentage of muslim population, muslim enrolment and percentage of girls enrolment at elementary level during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1389001740
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "Muslim",
+      "Population",
+      "Girl"
+    ],
+    "nid": [
+      91860
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Muslim Population and Girls Enrolment at Elementary Level - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "998ba460-bcee-401d-ae67-cda63b20de14"
+    ],
+    "vid": [
+      7863060
+    ],
+    "view_count": [
+      1835
+    ],
+    "search_api_id": [
+      "entity:node/91860:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-obc-enrolment-and-girls-enrolment-elementary-level-dise-flash"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      860
+    ],
+    "published_date": [
+      1389174475
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of OBC Enrolment and Girls Enrolment at Elementary Level during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1389000960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Backward",
+      "Elementary",
+      "Enrolment",
+      "OBC"
+    ],
+    "nid": [
+      91862
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of OBC Enrolment and Girls Enrolment at Elementary Level - DISE: Flash Statistics"
+    ],
+    "uuid": [
+      "80647144-eff9-47a6-935f-07e378987bf4"
+    ],
+    "vid": [
+      7863064
+    ],
+    "view_count": [
+      809
+    ],
+    "search_api_id": [
+      "entity:node/91862:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-obc-enrolment-primary-level-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1438
+    ],
+    "published_date": [
+      1389176342
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of OBC enrolment and Girls Enrolment at Primary Level during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1389000180
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Elementary",
+      "primary",
+      "Educion"
+    ],
+    "nid": [
+      91864
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of OBC Enrolment at Primary Level - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "42d14af1-1400-4701-a2b2-165a26ba5a54"
+    ],
+    "vid": [
+      7863068
+    ],
+    "view_count": [
+      1389
+    ],
+    "search_api_id": [
+      "entity:node/91864:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-obc-enrolment-upper-primary-level-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1677
+    ],
+    "published_date": [
+      1389162336
+    ],
+    "body:value": [
+      "The data refers to elementary education in India by providing state-wise percentage of OBC enrolment and percentage of girls enrolment at upper primary level during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1389000600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "OBC",
+      "primary",
+      "Backword"
+    ],
+    "nid": [
+      91866
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of OBC Enrolment at Upper Primary Level - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "71755d73-1f63-4102-af00-a343eefd0114"
+    ],
+    "vid": [
+      7863072
+    ],
+    "view_count": [
+      1621
+    ],
+    "search_api_id": [
+      "entity:node/91866:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-sc-population-and-enrolment-primary-level-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5034
+    ],
+    "published_date": [
+      1389166219
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of SC Population, SC Enrolment and Girls Enrolment at Primary Level during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388998380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Elementary"
+    ],
+    "nid": [
+      91868
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of SC Population and Enrolment at Primary Level - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "81ca320d-c8e6-416a-af04-0cad03de2150"
+    ],
+    "vid": [
+      7863077
+    ],
+    "view_count": [
+      4913
+    ],
+    "search_api_id": [
+      "entity:node/91868:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-sc-population-and-enrolment-classes-i-vii-or-viii-dise-flash"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      805
+    ],
+    "published_date": [
+      1389177294
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of SC Population and Enrolment in Classes I to VII or VIII during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388998140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Population",
+      "SC",
+      "ST",
+      "Caste",
+      "Scheduled",
+      "Tribe",
+      "Enrolmetn"
+    ],
+    "nid": [
+      91870
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of SC Population and Enrolment in Classes I to VII or VIII - DISE: Flash Statistics"
+    ],
+    "uuid": [
+      "2b9fe14c-57a2-42d9-b5d4-49d6b76b713f"
+    ],
+    "vid": [
+      7863081
+    ],
+    "view_count": [
+      783
+    ],
+    "search_api_id": [
+      "entity:node/91870:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-sc-population-and-enrolment-upper-primary-classes-dise-flash"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      776
+    ],
+    "published_date": [
+      1389177224
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of SC Population and Enrolment in Upper Primary Classes during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388998620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Elementary"
+    ],
+    "nid": [
+      91872
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of SC Population and Enrolment in Upper Primary Classes - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "02374665-0049-47a6-ab2e-c99a503b74bb"
+    ],
+    "vid": [
+      7863085
+    ],
+    "view_count": [
+      752
+    ],
+    "search_api_id": [
+      "entity:node/91872:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/value-exports-merchandise-india-principal-countries-destination"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2579
+    ],
+    "published_date": [
+      1367950415
+    ],
+    "body:value": [
+      "The data refers to value of exports of merchandise (Indian produce and manufactures), from India by principal countries of destination from 2000-01 to 2011-12."
+    ],
+    "changed": [
+      1441693473
+    ],
+    "created": [
+      1367826660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Trade"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Export",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Export",
+      "Merchandise"
+    ],
+    "nid": [
+      92235
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Value Of Exports Of Merchandise From India By Principal Countries Of Destination"
+    ],
+    "uuid": [
+      "6b7c9bc3-7a1b-4ec4-9ebe-3eabd6c3f7bc"
+    ],
+    "vid": [
+      7864300
+    ],
+    "view_count": [
+      2236
+    ],
+    "search_api_id": [
+      "entity:node/92235:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/value-imports-merchandise-india-principal-countries-consignment"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1025
+    ],
+    "published_date": [
+      1367950368
+    ],
+    "body:value": [
+      "The data refers to the value of imports of merchandise into India by principal countries of consignment from 2000-01 to 2011-12."
+    ],
+    "changed": [
+      1441693474
+    ],
+    "created": [
+      1367825760
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Trade"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Import",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Country",
+      "Import",
+      "Merchandise",
+      "Consignment"
+    ],
+    "nid": [
+      92237
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Value Of Imports Of Merchandise Into India By Principal Countries Of Consignment"
+    ],
+    "uuid": [
+      "b2969319-2a62-4429-b146-dda3ab6a721d"
+    ],
+    "vid": [
+      7864307
+    ],
+    "view_count": [
+      959
+    ],
+    "search_api_id": [
+      "entity:node/92237:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/value-property-stolen-recovered-nature-property"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3854
+    ],
+    "published_date": [
+      1380172803
+    ],
+    "body:value": [
+      "The data refers to details on cases in which property were stolen & recovered by number and value of such property. The nature of such properties have been classified into Communication & Electricity wire, Cattle, Cycle, Computer, Motor Vehicles, Electronics etc."
+    ],
+    "changed": [
+      1441627400
+    ],
+    "created": [
+      1380109380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Stolen",
+      "Value",
+      "Property",
+      "Recovered",
+      "Nature"
+    ],
+    "nid": [
+      92239
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Value of Property Stolen & Recovered (By Nature Of Property)"
+    ],
+    "uuid": [
+      "100d5d77-34af-4652-85b1-9cab7d269caf"
+    ],
+    "vid": [
+      7864316
+    ],
+    "view_count": [
+      3542
+    ],
+    "search_api_id": [
+      "entity:node/92239:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/varieties-releasednotified-state-release"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2629
+    ],
+    "published_date": [
+      1365683060
+    ],
+    "body:value": [
+      "The data refers to information about the Field Crop Varieties released and notified during the year (State Release) by Indian Council of Agricultural Research, Department of Agricultural Research & Education, Ministry of Agriculture, Government of India."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1365668160
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Field Crops"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Crops"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "crop",
+      "Release",
+      "variety",
+      "Notify"
+    ],
+    "nid": [
+      92241
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Varieties Released/notified (State release)"
+    ],
+    "uuid": [
+      "8dfc6588-d1cc-4864-92ef-c35f41df45a9"
+    ],
+    "vid": [
+      7864321
+    ],
+    "view_count": [
+      1427
+    ],
+    "search_api_id": [
+      "entity:node/92241:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/various-posts-national-institute-animal-biotechnology-hyderabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1207
+    ],
+    "published_date": [
+      1372155047
+    ],
+    "body:value": [
+      "This data indicates the number of sanctioned posts filled and women joined at National Institute of Animal Biotechnology (NIAB), Hyderabad."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1371197820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Institute of Animal Biotechnolgy, Hyderabad"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India",
+      "National Institute of Animal Biotechnology (NIAB), Hyderabad"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "DBT",
+      "Institute",
+      "NIAB",
+      "Post",
+      "Women",
+      "sanction",
+      "Animal",
+      "Biotechnolgy",
+      "Join"
+    ],
+    "nid": [
+      94261
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Various Posts At National Institute of Animal Biotechnology, Hyderabad"
+    ],
+    "uuid": [
+      "c4078205-04ea-4012-b2d9-dcc190c69f49"
+    ],
+    "vid": [
+      7884119
+    ],
+    "view_count": [
+      1092
+    ],
+    "search_api_id": [
+      "entity:node/94261:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/vehicle-fleet-ratios-1000-persons-selected-countries"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4086
+    ],
+    "published_date": [
+      1389252119
+    ],
+    "body:value": [
+      "The data refers to Vehicle Fleet Ratios per 1,000 Persons of selected countries. Dataset contains information like GNI per capita in 2010,Passenger Cars per 1,000 Persons and total Vehicle Population per 1,000 Persons."
+    ],
+    "changed": [
+      1472710339
+    ],
+    "created": [
+      1389002040
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capita",
+      "Car",
+      "GNI",
+      "passenger",
+      "Population"
+    ],
+    "nid": [
+      94263
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Vehicle Fleet Ratios per 1,000 Persons of selected countries"
+    ],
+    "uuid": [
+      "b85b1006-65d2-4ff7-8269-a7164fc8530f"
+    ],
+    "vid": [
+      7884134
+    ],
+    "view_count": [
+      3935
+    ],
+    "search_api_id": [
+      "entity:node/94263:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/vehicular-population-1000-population-and-100-kms-road-length"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2592
+    ],
+    "published_date": [
+      1394441212
+    ],
+    "body:value": [
+      "The data refers to Vehicular Population per 1000 Population and per 100 kms of Road Length. "
+    ],
+    "changed": [
+      1472711882
+    ],
+    "created": [
+      1389002160
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "vehicle",
+      "Motor",
+      "Register"
+    ],
+    "nid": [
+      94267
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Vehicular Population per 1000 Population and per 100 kms of Road Length"
+    ],
+    "uuid": [
+      "8fc01548-15bb-4234-885e-1d71e17bec1c"
+    ],
+    "vid": [
+      7884153
+    ],
+    "view_count": [
+      2502
+    ],
+    "search_api_id": [
+      "entity:node/94267:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/verbatim-debates-lok-sabha-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1915
+    ],
+    "published_date": [
+      1379939326
+    ],
+    "body:value": [
+      "(English) The hourly debates of Lok Sabha session provides the detailed proceedings of Debates, Short Duration Discussions, Discussions on Bills, Motions or Resolutions, etc."
+    ],
+    "changed": [
+      1487337725
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Loksabha",
+      "Debate",
+      "Proceeding"
+    ],
+    "nid": [
+      94269
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Verbatim Debates of Lok Sabha (English)"
+    ],
+    "uuid": [
+      "2c9d73a5-fd22-4b7f-af9e-9a12f3548fd0"
+    ],
+    "vid": [
+      7884161
+    ],
+    "view_count": [
+      1756
+    ],
+    "search_api_id": [
+      "entity:node/94269:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/verbatim-debates-lok-sabha-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1412
+    ],
+    "published_date": [
+      1381486086
+    ],
+    "body:value": [
+      "(Hindi) The Hourly Debates of Lok Sabha Session provides the detailed proceedings of Debates, Short Duration Discussions, Discussions on Bills, Motions or Resolutions, etc."
+    ],
+    "changed": [
+      1487337780
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bill",
+      "Resolution",
+      "Loksabha",
+      "Session",
+      "Debate",
+      "Motion",
+      "Discussion",
+      "LS",
+      "Proceed"
+    ],
+    "nid": [
+      94271
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Verbatim Debates of Lok Sabha (Hindi)"
+    ],
+    "uuid": [
+      "bbce3792-4146-4794-bad3-41db129789f8"
+    ],
+    "vid": [
+      7884170
+    ],
+    "view_count": [
+      1303
+    ],
+    "search_api_id": [
+      "entity:node/94271:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/verbatim-debates-rajya-sabha-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      611
+    ],
+    "published_date": [
+      1378199035
+    ],
+    "body:value": [
+      "(English) The hourly debates of Rajya Sabha session provides the detailed proceedings of debates, short duration discussions, discussions on bills, motions or resolutions, etc."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1378099500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Debate",
+      "Proceeding"
+    ],
+    "nid": [
+      94273
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Verbatim Debates of Rajya Sabha (English)"
+    ],
+    "uuid": [
+      "7b304876-f2b8-4bf5-96a8-491c899a0773"
+    ],
+    "vid": [
+      7884179
+    ],
+    "view_count": [
+      516
+    ],
+    "search_api_id": [
+      "entity:node/94273:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/verbatim-debates-rajya-sabha-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      875
+    ],
+    "published_date": [
+      1378449808
+    ],
+    "body:value": [
+      "(Hindi) The hourly debates of Rajya Sabha session provides detailed proceedings of Debates, Short Duration Discussions, Discussions on Bills, Motions or Resolutions, etc."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bill",
+      "Duration",
+      "Motions",
+      "Resolution",
+      "Debate",
+      "Proceeding",
+      "Discussion",
+      "Short"
+    ],
+    "nid": [
+      94275
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Verbatim Debates of Rajya Sabha (Hindi)"
+    ],
+    "uuid": [
+      "a59ebbaa-5a13-4753-8a70-3b2e22eff1a6"
+    ],
+    "vid": [
+      7884188
+    ],
+    "view_count": [
+      733
+    ],
+    "search_api_id": [
+      "entity:node/94275:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/viability-major-state-utilities-not-improving-excluding-delhi-and-odisha-energy-sector"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      874
+    ],
+    "published_date": [
+      1370950453
+    ],
+    "body:value": [
+      "The data refers to details regarding viability of major state utilities not improving (excluding Delhi and Odisha) for the years 200708 (Actual), 200809 (Actual), 2009-10 (Provisional), 201011 (R.E.)."
+    ],
+    "changed": [
+      1436419218
+    ],
+    "created": [
+      1370679240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "commercial",
+      "electricity",
+      "Loss",
+      "tariff"
+    ],
+    "nid": [
+      94277
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "81",
+      "81"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Viability of Major State Utilities Not Improving (Excluding Delhi and Odisha) - Energy Sector"
+    ],
+    "uuid": [
+      "ca092b79-c3c9-45e2-a516-d70cb4017452"
+    ],
+    "vid": [
+      7884193
+    ],
+    "view_count": [
+      686
+    ],
+    "search_api_id": [
+      "entity:node/94277:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/vigilancemonitoring-committee-constituted-district-level-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      972
+    ],
+    "published_date": [
+      1387429735
+    ],
+    "body:value": [
+      "The data refers to information on Vigilance/ Monitoring Committee Constituted at District Level. It provides details such as District Vigilance/ Monitoring Committee Constituted or not, No. of meetings held, PIU Provided Training to Assistant Engineer & Jr. Engineer, Contractors and Workmen Engaged in Rural Roads for the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392373094
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Road",
+      "Rural",
+      "Training",
+      "Held",
+      "Nirman",
+      "Vigilance",
+      "Mitoring"
+    ],
+    "nid": [
+      94279
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Vigilance/Monitoring Committee Constituted at District Level - Based on Sample Survey"
+    ],
+    "uuid": [
+      "60d20df7-8ce5-4e02-a668-42d0a0b479b8"
+    ],
+    "vid": [
+      7884203
+    ],
+    "view_count": [
+      856
+    ],
+    "search_api_id": [
+      "entity:node/94279:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-persons-injured-road-accidents"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      653
+    ],
+    "published_date": [
+      1389174774
+    ],
+    "body:value": [
+      "The data refers to state/UT wise Number of Persons Injured in Road Accidents during. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1398846428
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Road",
+      "Accident"
+    ],
+    "nid": [
+      91521
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Number of Persons Injured in Road Accidents"
+    ],
+    "uuid": [
+      "238645d1-14ea-49f7-a2f3-2acc5f8d6598"
+    ],
+    "vid": [
+      7861687
+    ],
+    "view_count": [
+      587
+    ],
+    "search_api_id": [
+      "entity:node/91521:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-persons-injured-road-accidents-national-highways"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1154
+    ],
+    "published_date": [
+      1389175886
+    ],
+    "body:value": [
+      "Get data on state/UT wise persons injured in Road Accidents on National Highways. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513252978
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Highway",
+      "Accident"
+    ],
+    "nid": [
+      91523
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Number of Persons Injured in Road Accidents on National Highways"
+    ],
+    "uuid": [
+      "2baa9322-6f29-4008-adb1-d7a3bdae4c8d"
+    ],
+    "vid": [
+      7861701
+    ],
+    "view_count": [
+      1063
+    ],
+    "search_api_id": [
+      "entity:node/91523:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-persons-injured-road-accidents-state-highways"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1047
+    ],
+    "published_date": [
+      1389173919
+    ],
+    "body:value": [
+      "The data refers to state/UT wise number of persons injured in Road Accidents on State Highways. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513252965
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Road",
+      "Person",
+      "Highway",
+      "Accident"
+    ],
+    "nid": [
+      91525
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Number of Persons Injured in Road Accidents on State Highways"
+    ],
+    "uuid": [
+      "614d2331-430d-4674-aa82-fee050247ea4"
+    ],
+    "vid": [
+      7861710
+    ],
+    "view_count": [
+      901
+    ],
+    "search_api_id": [
+      "entity:node/91525:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-persons-killed-road-accidents"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1576
+    ],
+    "published_date": [
+      1389174837
+    ],
+    "body:value": [
+      "The data refers to state/UT wise Number of Persons Killed in Road Accidents. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1398846443
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Killed",
+      "Road",
+      "Accident"
+    ],
+    "nid": [
+      91527
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Number of Persons Killed in Road Accidents"
+    ],
+    "uuid": [
+      "4c7ea35d-362a-4ab5-8205-994f6c4dba59"
+    ],
+    "vid": [
+      7861714
+    ],
+    "view_count": [
+      1450
+    ],
+    "search_api_id": [
+      "entity:node/91527:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-persons-killed-road-accidents-terms-road-user-categories"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1903
+    ],
+    "published_date": [
+      1389174039
+    ],
+    "body:value": [
+      "Data refers to state/UT wise number of persons killed in road accidents in terms of Road User Categories. Various road users have been categorized as Pedestrians,Bicycles,Two-Wheelers,Auto-Rickshaws,Car,Taxis,Vans and Other Light and Medium Motor Vehicles,Trucks,Buses,Other Motor Vehicles and Others. "
+    ],
+    "changed": [
+      1513253087
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Car",
+      "vehicle",
+      "Medium",
+      "Bicycle",
+      "Van",
+      "Taxi",
+      "Bus",
+      "Motor",
+      "Accident",
+      "Pedestrian",
+      "Autorickshaw",
+      "Truck",
+      "Light",
+      "Wheeler"
+    ],
+    "nid": [
+      91529
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Number of Persons Killed in Road Accidents in terms of Road User Categories"
+    ],
+    "uuid": [
+      "13fa5cbc-8ee2-45f0-8927-37528026f02b"
+    ],
+    "vid": [
+      7861727
+    ],
+    "view_count": [
+      1760
+    ],
+    "search_api_id": [
+      "entity:node/91529:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-persons-killed-road-accidents-national-highways"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1162
+    ],
+    "published_date": [
+      1389175974
+    ],
+    "body:value": [
+      "The data refers to state/UT-wise number of persons killed in Road Accidents on National Highways. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253090
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Killed",
+      "Road",
+      "Person",
+      "Highway",
+      "Accident"
+    ],
+    "nid": [
+      91531
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise Number of Persons Killed in Road Accidents on National Highways"
+    ],
+    "uuid": [
+      "cf0e3485-9f54-49e1-b80d-999cc505c18e"
+    ],
+    "vid": [
+      7861736
+    ],
+    "view_count": [
+      995
+    ],
+    "search_api_id": [
+      "entity:node/91531:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

@@ -1,0 +1,4790 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/patents-granted-under-research-and-development-funding-deity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3139
+    ],
+    "published_date": [
+      1351744133
+    ],
+    "body:value": [
+      "Department of Electronics and Information Technology (DeitY), M/o C&IT, GoI provides R&D grants to various Academic and Research organizations for undertaking R&D in emerging ICT areas. Details of the Patents Granted under such DeitY funding can be obtained from this dataset."
+    ],
+    "changed": [
+      1573207890
+    ],
+    "created": [
+      1351743060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "e-Governance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Electronics and Information Technology (MeitY)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "Development",
+      "R&D",
+      "research",
+      "patent"
+    ],
+    "nid": [
+      89751
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Patents Granted Under Research and Development Funding of DeitY"
+    ],
+    "uuid": [
+      "dd2f9e81-5085-4b35-b37f-b7c013a29095"
+    ],
+    "vid": [
+      7855169
+    ],
+    "view_count": [
+      2965
+    ],
+    "search_api_id": [
+      "entity:node/89751:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/pattern-electricity-consumption-utilities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      14976
+    ],
+    "published_date": [
+      1372238920
+    ],
+    "body:value": [
+      "The data refers to the Pattern of Electricity Consumption (Utilities) in India. It gives the percentage share of electricity consumption in each Utility area (Domestic, Commercial, Industry, Traction, Agriculture and others) for various years."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Industry and Infrastructure"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "commercial",
+      "domestic",
+      "Economic",
+      "finance",
+      "Industry",
+      "Infrastructure",
+      "Survey",
+      "traction"
+    ],
+    "nid": [
+      89753
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Pattern of Electricity Consumption (Utilities)"
+    ],
+    "uuid": [
+      "f9539ee3-43c1-4a7b-9f71-b6e0f8f86d76"
+    ],
+    "vid": [
+      7855173
+    ],
+    "view_count": [
+      14271
+    ],
+    "search_api_id": [
+      "entity:node/89753:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/pattern-land-utilisation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8602
+    ],
+    "published_date": [
+      1364465447
+    ],
+    "body:value": [
+      "The data refers to All India (from 2000-01 to 2009-10) and State-wise (2008-09 and 2009-10) pattern of land utilisation under categories such as orest, permanent pastures and another grazing lands, land not available for cultivation etc."
+    ],
+    "changed": [
+      1602758707
+    ],
+    "created": [
+      1364463000
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Crops",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "crop"
+    ],
+    "nid": [
+      89755
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Pattern of Land Utilisation"
+    ],
+    "uuid": [
+      "715d5e6d-d390-4f9d-8ff1-229040885bed"
+    ],
+    "vid": [
+      7855181
+    ],
+    "view_count": [
+      8309
+    ],
+    "search_api_id": [
+      "entity:node/89755:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/monthly-peak-demand-power"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      12384
+    ],
+    "published_date": [
+      1388383418
+    ],
+    "body:value": [
+      "State-wise Peak electricity demand data for the month"
+    ],
+    "changed": [
+      1728282899
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Peak Demand"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Power",
+      "Central Electricity Authority"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "electricity",
+      "Generated",
+      "Power",
+      "Supply",
+      "Electrical"
+    ],
+    "nid": [
+      89757
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Monthly Peak Demand for Power"
+    ],
+    "uuid": [
+      "25691a2c-49c9-4d53-a787-b0e815d758bf"
+    ],
+    "vid": [
+      7855623
+    ],
+    "view_count": [
+      10073
+    ],
+    "search_api_id": [
+      "entity:node/89757:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capita-availability-certain-important-articles-consumption"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2610
+    ],
+    "published_date": [
+      1372235340
+    ],
+    "body:value": [
+      "The data refers to the Per Capita Availability of Certain Important Articles of Consumption in India for various years. It gives details of certain important articles of consumption like Edible oil, Vanaspati, Sugar, Cotton, Man-made cloth, Tea , Coffee and Electricity."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "cloth",
+      "Coffee",
+      "cotton",
+      "Economic",
+      "finance",
+      "OIL",
+      "Survey",
+      "Tea",
+      "vanaspati",
+      "Edible"
+    ],
+    "nid": [
+      89861
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Per Capita Availability of Certain Important Articles of Consumption"
+    ],
+    "uuid": [
+      "b1f0c690-0c29-4c18-a80e-75723f369bb5"
+    ],
+    "vid": [
+      7855627
+    ],
+    "view_count": [
+      2479
+    ],
+    "search_api_id": [
+      "entity:node/89861:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capita-availability-eggs"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7826
+    ],
+    "published_date": [
+      1388380890
+    ],
+    "body:value": [
+      "The data refers to information on State-wise and year wise per capita availability of eggs in India."
+    ],
+    "changed": [
+      1434524517
+    ],
+    "created": [
+      1388054400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Egg Production"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Dairying",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Production",
+      "egg"
+    ],
+    "nid": [
+      89863
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Per Capita Availability of Eggs"
+    ],
+    "uuid": [
+      "98c0159a-f90b-498d-90b8-bc45a96801ff"
+    ],
+    "vid": [
+      7855637
+    ],
+    "view_count": [
+      7343
+    ],
+    "search_api_id": [
+      "entity:node/89863:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capita-emoluments-central-public-sector-enterprises-employees-relation-increase-average-all"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4631
+    ],
+    "published_date": [
+      1372075851
+    ],
+    "body:value": [
+      "The data refers to the Per Capita Emoluments of Central Public Sector Enterprises Employees in relation to increase in Average All-India Consumer Price Index . It shows the year-wise details of the number of employees and emoluments paid to them for various years."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Economic",
+      "Employee",
+      "Employment",
+      "finance",
+      "Survey",
+      "Emolument"
+    ],
+    "nid": [
+      89865
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Per Capita Emoluments of Central Public Sector Enterprises Employees in relation to increase in Average All-India Consumer Price Index (1960=100)"
+    ],
+    "uuid": [
+      "2c5e4b0e-a860-4299-8f5e-63e492c58eb4"
+    ],
+    "vid": [
+      7855641
+    ],
+    "view_count": [
+      4550
+    ],
+    "search_api_id": [
+      "entity:node/89865:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/capita-net-state-domestic-product-current-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9040
+    ],
+    "published_date": [
+      1372144786
+    ],
+    "body:value": [
+      "The data refers to the State-wise Per Capita Net State Domestic Product at Current Prices. It provides details of percentage growth of Per Capita Net State Domestic Product over the previous year."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - National Income and Production"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Economic",
+      "finance",
+      "Income",
+      "national",
+      "Survey"
+    ],
+    "nid": [
+      89867
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Per Capita Net State Domestic Product at Current Prices"
+    ],
+    "uuid": [
+      "833c083e-67dc-4077-abf7-3ce3f52f310f"
+    ],
+    "vid": [
+      7855646
+    ],
+    "view_count": [
+      8614
+    ],
+    "search_api_id": [
+      "entity:node/89867:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-distribution-awh-level-education"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      680
+    ],
+    "published_date": [
+      1375449342
+    ],
+    "body:value": [
+      "The data refers to the percentage distribution of awh by level of education. It gives state-wise details regarding the percentage of Anganwasi helpers who are illiterate, below primary, primary, middle school, matric/high school and high school & above."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Education",
+      "high",
+      "ICDS",
+      "Illiterate",
+      "Integrated",
+      "middle",
+      "primary",
+      "Scheme",
+      "School",
+      "Matric",
+      "Anganwadi",
+      "Helper"
+    ],
+    "nid": [
+      89869
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage Distribution of AWH by Level of Education"
+    ],
+    "uuid": [
+      "e14eb6d8-8a9b-4320-ab5f-3aad3a55240c"
+    ],
+    "vid": [
+      7855652
+    ],
+    "view_count": [
+      593
+    ],
+    "search_api_id": [
+      "entity:node/89869:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-distribution-awh-residence"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      499
+    ],
+    "published_date": [
+      1375449352
+    ],
+    "body:value": [
+      "The data refers to the percentage distribution of (Anganwadi Helpers) AWH by residence. It is observed that on an average 88.6 per cent of AWHs were residing in the village itself while 9.2 per cent and 1.2 per cent were from other villages within 5 Km and more than 5Km respectively. In almost all the states, the majority of the AWWs live in the village, with the figures ranging between 67.2 and 100 per cent."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Scheme",
+      "Anganwadi",
+      "Helper"
+    ],
+    "nid": [
+      89871
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage Distribution of AWH by Residence"
+    ],
+    "uuid": [
+      "d7b61681-42f8-4181-b778-970fb04617ee"
+    ],
+    "vid": [
+      7855658
+    ],
+    "view_count": [
+      449
+    ],
+    "search_api_id": [
+      "entity:node/89871:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-distribution-aww-level-education"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      623
+    ],
+    "published_date": [
+      1375253610
+    ],
+    "body:value": [
+      "The data refers to the Percentage distribution of AWW by level of education. It is observed that on an average 1.8 per cent of AWWs were illiterate, 0.4 per cent, 4.6 per cent and 14.2 per cent had obtained below primary, primary and middle level education respectively."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Education",
+      "Illiterate",
+      "Integrated",
+      "primary",
+      "Service",
+      "Worker",
+      "Anganwadi"
+    ],
+    "nid": [
+      89873
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage distribution of AWW by level of education"
+    ],
+    "uuid": [
+      "379bff84-f9a1-4e31-9d56-d0db9630d701"
+    ],
+    "vid": [
+      7855664
+    ],
+    "view_count": [
+      529
+    ],
+    "search_api_id": [
+      "entity:node/89873:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-distribution-rural-and-urban-households-source-drinking-water"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1251
+    ],
+    "published_date": [
+      1367427387
+    ],
+    "body:value": [
+      "The data refers to details on percentage distribution of rural and urban households by source of drinking water such as tap, well, tubewell/handpump, tank/pond, river, canal and lake, springs and others for 2001 and 2011."
+    ],
+    "changed": [
+      1441694698
+    ],
+    "created": [
+      1367404620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Housing",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Household",
+      "Water",
+      "Drinking"
+    ],
+    "nid": [
+      89875
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage Distribution Of Rural And Urban Households By Source Of Drinking Water"
+    ],
+    "uuid": [
+      "306fd94f-7ed5-4a0e-ae3c-ad80394c6d51"
+    ],
+    "vid": [
+      7855672
+    ],
+    "view_count": [
+      1136
+    ],
+    "search_api_id": [
+      "entity:node/89875:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-distribution-workers-category-based-religion"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      885
+    ],
+    "published_date": [
+      1374052981
+    ],
+    "body:value": [
+      "The data refers to that the importance of educational empowerment assumes special importance in the context of minorities, especially Muslims, who have\nbeen lagging behind the rest. The data refers to Percentage Distribution of Workers by Category based on religion."
+    ],
+    "changed": [
+      1436419157
+    ],
+    "created": [
+      1373637480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Social Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development",
+      "Minority"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Cultivator",
+      "Education",
+      "Labour",
+      "Minority",
+      "Empowerment"
+    ],
+    "nid": [
+      89877
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage Distribution Of Workers By Category Based On Religion"
+    ],
+    "uuid": [
+      "9170e489-76ff-4156-9e80-98ac8e73c4fc"
+    ],
+    "vid": [
+      7855674
+    ],
+    "view_count": [
+      797
+    ],
+    "search_api_id": [
+      "entity:node/89877:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-awc-beneficial-community"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      466
+    ],
+    "published_date": [
+      1375253427
+    ],
+    "body:value": [
+      "The data refers to the percentage of AWC that have been beneficial to the community. It provides the community leaders perception about benefit of AWC in the village. About 70 per cent of community leaders felt that the ICDS programme was very beneficial to the community and 26.5 per cent of them regarded the programme to be beneficial to some extent in the country."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165740
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Anganwadi",
+      "Leader"
+    ],
+    "nid": [
+      89879
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of AWC beneficial to the community"
+    ],
+    "uuid": [
+      "feac24c2-ae14-4674-bc4d-ad275a66f3e0"
+    ],
+    "vid": [
+      7855681
+    ],
+    "view_count": [
+      388
+    ],
+    "search_api_id": [
+      "entity:node/89879:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-awc-have-adequacy-space-different-type-activities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      647
+    ],
+    "published_date": [
+      1375265587
+    ],
+    "body:value": [
+      "The data refers to the percentage of AWC having adequacy of space for different type of activities. It gives state-wise details of AWCs space for carrying out various ICDS activities such as Cooking, Storage and Indoor Activities."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Activity",
+      "child",
+      "Cooking",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Storage",
+      "Indoor"
+    ],
+    "nid": [
+      89881
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of AWC have adequacy of space for different type of activities"
+    ],
+    "uuid": [
+      "1b53390d-4549-4c89-9729-c8703a6a59ee"
+    ],
+    "vid": [
+      7855687
+    ],
+    "view_count": [
+      573
+    ],
+    "search_api_id": [
+      "entity:node/89881:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-awc-having-functional-weighing-scales-and-other-inventories"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      439
+    ],
+    "published_date": [
+      1375264951
+    ],
+    "body:value": [
+      "The data refers to the percentage of AWC having functional weighing scales and other inventories. The data refers to state-wise details regarding availability of Weighing Scales, Utensils, Cooking Vessels, Almirahs, Toys, Posters, etc at AWCs."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Anganwadi",
+      "Leader"
+    ],
+    "nid": [
+      89883
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of AWC having functional weighing scales and other inventories"
+    ],
+    "uuid": [
+      "c1706332-fce5-40ed-8563-3b052f1fca36"
+    ],
+    "vid": [
+      7855693
+    ],
+    "view_count": [
+      395
+    ],
+    "search_api_id": [
+      "entity:node/89883:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-awc-having-source-drinking-water"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      661
+    ],
+    "published_date": [
+      1375265758
+    ],
+    "body:value": [
+      "The data refers to the percentage of AWC having a source of drinking water. The data refers to state-wise details regarding the AWCs equipped with piped water, hand pump water or other."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Water",
+      "Service",
+      "Anganwadi",
+      "Drinking"
+    ],
+    "nid": [
+      89885
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of AWC having source of drinking water"
+    ],
+    "uuid": [
+      "f55ca6ea-4e43-4ada-84cf-70653cd378e6"
+    ],
+    "vid": [
+      7855699
+    ],
+    "view_count": [
+      616
+    ],
+    "search_api_id": [
+      "entity:node/89885:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-awc-having-source-drinking-water-according-distance"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      645
+    ],
+    "published_date": [
+      1375265282
+    ],
+    "body:value": [
+      "The data refers to the percentage of AWC having a source of drinking water according to distance. The data refers to state-wise details regarding the AWCs equipped with drinking water within the premises, up to 50 M, greater than 50 meters distance."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Handpump",
+      "Integrated",
+      "Water",
+      "Service",
+      "Anganwadi",
+      "Drinking",
+      "Piped"
+    ],
+    "nid": [
+      89887
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of AWC having source of drinking water according to distance"
+    ],
+    "uuid": [
+      "206a25cd-b501-48e9-bfb8-c7f7c54a6bac"
+    ],
+    "vid": [
+      7855705
+    ],
+    "view_count": [
+      499
+    ],
+    "search_api_id": [
+      "entity:node/89887:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-awc-having-toilet-facilities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2395
+    ],
+    "published_date": [
+      1375265115
+    ],
+    "body:value": [
+      "The data refers to the percentage of AWC having toilet facilities. The data refers to state-wise details regarding availability of toilet facilities, Bihar, UP and Orissa fared the worst. It has a direct bearing on the surrounding environment of AWC in these states and serves as a critical indicator for assessing their sanitation status."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Toilet",
+      "Facility",
+      "Service",
+      "Anganwadi"
+    ],
+    "nid": [
+      89889
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of AWC having toilet Facilities"
+    ],
+    "uuid": [
+      "efbda975-dfc9-41a1-9a7e-4b8a447875f5"
+    ],
+    "vid": [
+      7855711
+    ],
+    "view_count": [
+      2290
+    ],
+    "search_api_id": [
+      "entity:node/89889:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-awc-having-type-housing-facility"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      618
+    ],
+    "published_date": [
+      1375265903
+    ],
+    "body:value": [
+      "The data refers to the percentage of AWC having type of housing facility. It gives state-wise details of AWCs using Owned, Rented, Primary School or Other facility to conduct their activities."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Rent",
+      "primary",
+      "School",
+      "Anganwadi"
+    ],
+    "nid": [
+      89891
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of AWC having type of housing facility"
+    ],
+    "uuid": [
+      "720bb9ba-b4df-4315-ae86-3a4dd3ff220f"
+    ],
+    "vid": [
+      7855717
+    ],
+    "view_count": [
+      528
+    ],
+    "search_api_id": [
+      "entity:node/89891:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-awc-provided-types-services-reported-aww"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      572
+    ],
+    "published_date": [
+      1375254416
+    ],
+    "body:value": [
+      "The data refers to the percentage of AWC provided types of services reported by AWW. The data refers to state-wise details regarding the services that the AWC is supposed to provide under the KSY scheme which includes Food/Supplementary Nutrition, Health check-up, Immunisation, Referral services, De-worming tablets, Iron & folic acid and Family-life education."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Scheme",
+      "Service",
+      "Anganwadi",
+      "KSY"
+    ],
+    "nid": [
+      89893
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of AWC provided types of services reported by AWW"
+    ],
+    "uuid": [
+      "06497d37-7f92-48b5-81e9-e800ec2e9e4b"
+    ],
+    "vid": [
+      7855723
+    ],
+    "view_count": [
+      517
+    ],
+    "search_api_id": [
+      "entity:node/89893:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-awc-providing-different-types-services-reported-aww"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1011
+    ],
+    "published_date": [
+      1375264760
+    ],
+    "body:value": [
+      "The data refers to the Percentage of AWC providing different types of services which are reported by the AWW. The services provided at the AWC as part of the ICDS include Supplementary Nutrition, Immunisation, Health Check-ups, Referral Services, Pre-School Education, Nutrition & Health Education and Kishori Shakti Yojana."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "child",
+      "Development",
+      "Education",
+      "Health",
+      "Immunisation",
+      "Integrated",
+      "Nutrition",
+      "School",
+      "Supplementary",
+      "Anganwadi",
+      "Yojana",
+      "Checkup",
+      "Kishori",
+      "Shakti",
+      "Referral"
+    ],
+    "nid": [
+      89895
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of AWC providing different types of services - Reported by the AWW"
+    ],
+    "uuid": [
+      "6c7b5025-533e-4649-a26f-a8091977d76e"
+    ],
+    "vid": [
+      7855729
+    ],
+    "view_count": [
+      919
+    ],
+    "search_api_id": [
+      "entity:node/89895:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-awc-received-medical-kit"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      638
+    ],
+    "published_date": [
+      1375264556
+    ],
+    "body:value": [
+      "The data refers to the percentage of AWC which received medical kit. It gives state-wise details on the number of AWCs which have received medical kits or not."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Medicine",
+      "utilisation",
+      "Service",
+      "Anganwadi"
+    ],
+    "nid": [
+      89897
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of AWC received medical kit"
+    ],
+    "uuid": [
+      "cdf75583-93fb-4b8c-9541-1ab7ecae8d96"
+    ],
+    "vid": [
+      7855735
+    ],
+    "view_count": [
+      609
+    ],
+    "search_api_id": [
+      "entity:node/89897:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-awc-reported-availability-and-utilisation-medicine"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      699
+    ],
+    "published_date": [
+      1375267995
+    ],
+    "body:value": [
+      "The data refers to the Percentage of AWC reported the availability and utilisation of Medicine during last one year. It gives state-wise details regarding various types of medicines received and utilized by AWC beneficiaries."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Medical",
+      "Service",
+      "Anganwadi",
+      "Kit"
+    ],
+    "nid": [
+      89899
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of AWC reported Availability and Utilisation of Medicine"
+    ],
+    "uuid": [
+      "7fe3afeb-2cf4-4de1-8d40-542d28182423"
+    ],
+    "vid": [
+      7855741
+    ],
+    "view_count": [
+      571
+    ],
+    "search_api_id": [
+      "entity:node/89899:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-awc-trained-adequately-conduct-pse"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      419
+    ],
+    "published_date": [
+      1375264324
+    ],
+    "body:value": [
+      "The data refers to the Percentage of AWC trained adequately to conduct PSE. The Pre-School Education Component (PSE) of the ICDS focuses on overall development of children in the 3-6 years of age brackets, The data refers to details on whether or not workers in AWC have adequate training to conduct them."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "child",
+      "Component",
+      "Development",
+      "Education",
+      "Integrated",
+      "School",
+      "Training",
+      "Service",
+      "Anganwadi"
+    ],
+    "nid": [
+      89901
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of AWC trained adequately to conduct PSE"
+    ],
+    "uuid": [
+      "4e07565c-41b5-4f4c-8b50-ed6bcc9123e1"
+    ],
+    "vid": [
+      7855747
+    ],
+    "view_count": [
+      392
+    ],
+    "search_api_id": [
+      "entity:node/89901:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-aww-attended-training-and-duration-days"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      495
+    ],
+    "published_date": [
+      1375449331
+    ],
+    "body:value": [
+      "The data refers to the percentage of AWW attended training and duration (in days). It gives details regarding job training, refresher course in growth monitoring, refresher course in pre-school education, joint training with health worker and skill training/special training."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Forest",
+      "ICDS",
+      "Integrated",
+      "Scheme",
+      "Training",
+      "Job"
+    ],
+    "nid": [
+      89903
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of AWW Attended Training and Duration (In Days)"
+    ],
+    "uuid": [
+      "6c9f5365-13f8-4dde-a639-da7e0610db95"
+    ],
+    "vid": [
+      7855753
+    ],
+    "view_count": [
+      480
+    ],
+    "search_api_id": [
+      "entity:node/89903:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-children-aged-below-6-year-suffered-most-common-diseases"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      917
+    ],
+    "published_date": [
+      1375253280
+    ],
+    "body:value": [
+      "The data refers to the percentage of children (aged below 6 year) suffered from the most common diseases during last one year. It gives the Community leaders perception about common diseases of children in the village. Rajasthan has the highest percentage of children (79.2%) free from all diseases, followed by Punjab (75.4%) as reported by the leaders."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165740
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "community",
+      "Development",
+      "Integrated",
+      "Anganwadi",
+      "AWC",
+      "Leader"
+    ],
+    "nid": [
+      89905
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of children (aged below 6 year) suffered from the most common diseases"
+    ],
+    "uuid": [
+      "5fc93c9e-cb26-44f5-ae51-815dcd8dde00"
+    ],
+    "vid": [
+      7855759
+    ],
+    "view_count": [
+      846
+    ],
+    "search_api_id": [
+      "entity:node/89905:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-community-leader-helps-awc-activities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      411
+    ],
+    "published_date": [
+      1375253114
+    ],
+    "body:value": [
+      "The data refers to the percentage of community leader helps in AWC activities. It gives state-wise details of whether the community leaders have reported their help towards AWCs. On the national average, more than 50 per cent community leaders admitted that they did not contribute to the functioning of AWC."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165740
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Anganwadi",
+      "Leader"
+    ],
+    "nid": [
+      89907
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of community leader helps in AWC activities"
+    ],
+    "uuid": [
+      "0534fc83-9fbc-4080-94a8-975af76bdb32"
+    ],
+    "vid": [
+      7855765
+    ],
+    "view_count": [
+      322
+    ],
+    "search_api_id": [
+      "entity:node/89907:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-distribution-rural-and-urban-census-houses-according-uses-which-they-are-put"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1007
+    ],
+    "published_date": [
+      1367427781
+    ],
+    "body:value": [
+      "The data refers to the percentage of distribution of rural and urban census houses according to the uses to which they are put for 2001 and 2011."
+    ],
+    "changed": [
+      1441694749
+    ],
+    "created": [
+      1367392620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Housing",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "distribution",
+      "House",
+      "Rural",
+      "Urban"
+    ],
+    "nid": [
+      89909
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage Of Distribution Of Rural And Urban Census Houses According To The Uses To Which They Are Put"
+    ],
+    "uuid": [
+      "dc80bfe4-858b-4494-8005-82612ab04106"
+    ],
+    "vid": [
+      7855773
+    ],
+    "view_count": [
+      920
+    ],
+    "search_api_id": [
+      "entity:node/89909:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-distribution-rural-and-urban-households-size-dwelling-units-occupied"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1584
+    ],
+    "published_date": [
+      1367427728
+    ],
+    "body:value": [
+      "The data refers to percentage of distribution of rural and urban households by size of dwelling units occupied for 1991, 2001 and 2011."
+    ],
+    "changed": [
+      1441694742
+    ],
+    "created": [
+      1367396580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Housing"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Housing",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "distribution",
+      "Dwelling",
+      "Household",
+      "Rural",
+      "Urban"
+    ],
+    "nid": [
+      89911
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage Of Distribution Of Rural And Urban Households By Size Of Dwelling Units Occupied"
+    ],
+    "uuid": [
+      "67bedbb6-22c1-47ca-8e5d-07ec6525664b"
+    ],
+    "vid": [
+      7855780
+    ],
+    "view_count": [
+      1339
+    ],
+    "search_api_id": [
+      "entity:node/89911:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-elderly-persons-total-population"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1005
+    ],
+    "published_date": [
+      1381125520
+    ],
+    "body:value": [
+      "The data refers to data related to Percentage of Elderly Persons to Total Population from 2001 to 2026."
+    ],
+    "changed": [
+      1436419036
+    ],
+    "created": [
+      1380627240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Social Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Population",
+      "Person",
+      "Elderly"
+    ],
+    "nid": [
+      89913
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of Elderly Persons to Total Population"
+    ],
+    "uuid": [
+      "0ae84ab4-cd68-46c4-9e5a-3b5234d29445"
+    ],
+    "vid": [
+      7855785
+    ],
+    "view_count": [
+      841
+    ],
+    "search_api_id": [
+      "entity:node/89913:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/percentage-households-asset-holding-categories-social-group"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1020
+    ],
+    "published_date": [
+      1375100058
+    ],
+    "body:value": [
+      "The data refers to category wise percentage of households with assets holding less than Rs. 30,000 and above Rs. 3,00,000 category."
+    ],
+    "changed": [
+      1436419150
+    ],
+    "created": [
+      1374848100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Asset",
+      "Social",
+      "Holding"
+    ],
+    "nid": [
+      89915
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Percentage of Households by Asset-holding categories by Social Group"
+    ],
+    "uuid": [
+      "ca55631e-f134-4426-a4c8-6f7eb66c042c"
+    ],
+    "vid": [
+      7855789
+    ],
+    "view_count": [
+      949
+    ],
+    "search_api_id": [
+      "entity:node/89915:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-eighth-lok-sabha-31st-december-1984-27th-november-1989"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      814
+    ],
+    "published_date": [
+      1374052274
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the Eighth Lok Sabha from 31st December 1984 to 27th November 1989. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374047160
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88955
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Eighth Lok Sabha from 31st December 1984 to 27th November 1989"
+    ],
+    "uuid": [
+      "9900bc52-6cd7-4667-a1d9-6c57e7ce84d3"
+    ],
+    "vid": [
+      7851888
+    ],
+    "view_count": [
+      814
+    ],
+    "search_api_id": [
+      "entity:node/88955:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-eleventh-lok-sabha-15th-may-1996-4th-december-1997"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      869
+    ],
+    "published_date": [
+      1374052355
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the Eleventh Lok Sabha from 15th May 1996 to 4th December 1997. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374050280
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88957
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Eleventh Lok Sabha from 15th May 1996 to 4th December 1997"
+    ],
+    "uuid": [
+      "624ea1a2-6079-4220-819c-f5e55c77aeed"
+    ],
+    "vid": [
+      7851892
+    ],
+    "view_count": [
+      805
+    ],
+    "search_api_id": [
+      "entity:node/88957:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-fifth-lok-sabha-15th-march-1971-18th-january-1977"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      782
+    ],
+    "published_date": [
+      1374052177
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the Fifth Lok Sabha from 15th March 1971 to 18th January 1977. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374044400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88959
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Fifth Lok Sabha from 15th March 1971 to 18th January 1977"
+    ],
+    "uuid": [
+      "9c9a4310-09e1-4397-bb56-c363dba8335c"
+    ],
+    "vid": [
+      7851896
+    ],
+    "view_count": [
+      771
+    ],
+    "search_api_id": [
+      "entity:node/88959:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-first-lok-sabha-17th-april-1952-4th-april-1957"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      20707
+    ],
+    "published_date": [
+      1374041171
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the First Lok Sabha from 17th April 1952 to 4th April 1957. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1373976720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88961
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of First Lok Sabha from 17th April 1952 to 4th April 1957"
+    ],
+    "uuid": [
+      "0984eece-8677-48eb-a13a-f3c302ec00df"
+    ],
+    "vid": [
+      7851900
+    ],
+    "view_count": [
+      20635
+    ],
+    "search_api_id": [
+      "entity:node/88961:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-fourteenth-lok-sabha-17th-may-2004-18th-may-2009"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      871
+    ],
+    "published_date": [
+      1374149249
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the Fourteenth Lok Sabha from 17th May 2004 to 18th May 2009. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374147900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88963
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Fourteenth Lok Sabha from 17th May 2004 to 18th May 2009"
+    ],
+    "uuid": [
+      "e9d82600-6345-4049-bc6d-8bc7c7862ffb"
+    ],
+    "vid": [
+      7851904
+    ],
+    "view_count": [
+      800
+    ],
+    "search_api_id": [
+      "entity:node/88963:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-fourth-lok-sabha-4th-march-1967-27th-december-1970"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1291
+    ],
+    "published_date": [
+      1374052120
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the Fourth Lok Sabha from 4th March 1967 to 27th December 1970. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374043980
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88965
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Fourth Lok Sabha from 4th March 1967 to 27th December 1970"
+    ],
+    "uuid": [
+      "ea62bf38-cfc9-4491-bf60-c90a9e6dd4be"
+    ],
+    "vid": [
+      7851908
+    ],
+    "view_count": [
+      1260
+    ],
+    "search_api_id": [
+      "entity:node/88965:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-ninth-lok-sabha-2nd-december-1989-13th-march-1991"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      766
+    ],
+    "published_date": [
+      1374052301
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the Ninth Lok Sabha from 2nd December 1989 to 13th March 1991. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374049440
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88967
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Ninth Lok Sabha from 2nd December 1989 to 13th March 1991"
+    ],
+    "uuid": [
+      "ba3f9fe9-7102-413b-a7fe-b25a537524cf"
+    ],
+    "vid": [
+      7851912
+    ],
+    "view_count": [
+      730
+    ],
+    "search_api_id": [
+      "entity:node/88967:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-ongoing-fifteenth-lok-sabha-18th-may-2009-onwards"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1276
+    ],
+    "published_date": [
+      1374149266
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the ongoing Fifteenth Lok Sabha from 18th May 2009 onwards. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374148740
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88969
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Ongoing Fifteenth Lok Sabha from 18th May 2009 Onwards"
+    ],
+    "uuid": [
+      "06e2b744-3e5f-4640-9dbc-08027b752fa9"
+    ],
+    "vid": [
+      7851916
+    ],
+    "view_count": [
+      1134
+    ],
+    "search_api_id": [
+      "entity:node/88969:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/members-rajya-sabha-council-ministers-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1022
+    ],
+    "published_date": [
+      1378198891
+    ],
+    "body:value": [
+      "(English) The data refers to party-wise details of Members of Rajya Sabha who are in the Council of Ministers."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378099560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Rajyasabha",
+      "Minister"
+    ],
+    "nid": [
+      88971
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Rajya Sabha in Council of Ministers (English)"
+    ],
+    "uuid": [
+      "71ee779b-fc68-43a6-a0e9-5b5211983a39"
+    ],
+    "vid": [
+      7851921
+    ],
+    "view_count": [
+      956
+    ],
+    "search_api_id": [
+      "entity:node/88971:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/members-rajya-sabha-council-ministers-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1249
+    ],
+    "published_date": [
+      1378449674
+    ],
+    "body:value": [
+      "(Hindi) The data refers to the party-wise details of members of Rajya Sabha who are in the Council of Ministers."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378273200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Rajyasabha",
+      "Minister"
+    ],
+    "nid": [
+      88973
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Rajya Sabha in Council of Ministers (Hindi)"
+    ],
+    "uuid": [
+      "665e361d-d3d7-4eff-8531-0b27a0990c48"
+    ],
+    "vid": [
+      7851926
+    ],
+    "view_count": [
+      1154
+    ],
+    "search_api_id": [
+      "entity:node/88973:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-second-lok-sabha-5th-april-1957-31st-march-1962"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1643
+    ],
+    "published_date": [
+      1374052059
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the Second Lok Sabha from 5th April 1957 to 31st March 1962. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374042780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88975
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Second Lok Sabha from 5th April 1957 to 31st March 1962"
+    ],
+    "uuid": [
+      "03570b24-7a24-48aa-8c5f-e0b8f5574fb0"
+    ],
+    "vid": [
+      7851930
+    ],
+    "view_count": [
+      1585
+    ],
+    "search_api_id": [
+      "entity:node/88975:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-seventh-lok-sabha-18th-january-1980-31st-december-1984"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      895
+    ],
+    "published_date": [
+      1374052239
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the Seventh Lok Sabha from 18th January 1980 to 31st December 1984. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374047340
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88977
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Seventh Lok Sabha from 18th January 1980 to 31st December 1984"
+    ],
+    "uuid": [
+      "bed5fcc1-2415-48ac-948a-ca6a23bb1d1c"
+    ],
+    "vid": [
+      7851934
+    ],
+    "view_count": [
+      710
+    ],
+    "search_api_id": [
+      "entity:node/88977:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-sixth-lok-sabha-23rd-march-1977-22nd-august-1979"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      867
+    ],
+    "published_date": [
+      1374052212
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the Sixth Lok Sabha from 23rd March 1977 to 22nd August 1979. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374045660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88979
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Sixth Lok Sabha from 23rd March 1977 to 22nd August 1979"
+    ],
+    "uuid": [
+      "b576cd5f-160d-4118-b8cc-cf438bf4e882"
+    ],
+    "vid": [
+      7851938
+    ],
+    "view_count": [
+      786
+    ],
+    "search_api_id": [
+      "entity:node/88979:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-tenth-lok-sabha-20th-june-1991-10th-may-1996"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1565
+    ],
+    "published_date": [
+      1374052326
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the Tenth Lok Sabha from 20th June 1991 to 10th May 1996. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374049920
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88981
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Tenth Lok Sabha from 20th June 1991 to 10th May 1996"
+    ],
+    "uuid": [
+      "797810d8-f630-44ac-8a82-25251cc17383"
+    ],
+    "vid": [
+      7851942
+    ],
+    "view_count": [
+      1513
+    ],
+    "search_api_id": [
+      "entity:node/88981:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-third-lok-sabha-2nd-april-1962-3rd-march-1967"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1477
+    ],
+    "published_date": [
+      1374052087
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the Third Lok Sabha from 2nd April 1962 to 3rd March 1967. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374043260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88983
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Third Lok Sabha from 2nd April 1962 to 3rd March 1967"
+    ],
+    "uuid": [
+      "791fd50f-9db3-4b1b-9b2f-4551ec52b3ee"
+    ],
+    "vid": [
+      7851946
+    ],
+    "view_count": [
+      1455
+    ],
+    "search_api_id": [
+      "entity:node/88983:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-thirteenth-lok-sabha-10th-october-1999-6th-february-2004"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      841
+    ],
+    "published_date": [
+      1374149169
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the Thirteenth Lok Sabha from 10th October 1999 to 6th February 2004. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374146400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88985
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Thirteenth Lok Sabha from 10th October 1999 to 6th February 2004"
+    ],
+    "uuid": [
+      "5534a051-c655-4c64-8d75-dc8c089ddd31"
+    ],
+    "vid": [
+      7851950
+    ],
+    "view_count": [
+      753
+    ],
+    "search_api_id": [
+      "entity:node/88985:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/members-twelfth-lok-sabha-10th-march-1998-26th-april-1999"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      786
+    ],
+    "published_date": [
+      1374052384
+    ],
+    "body:value": [
+      "The data refers to details of Honble Members of the Twelfth Lok Sabha from 10th March 1998 to 26th April 1999. It consists of name of members, constituency name, state name and party name."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1374051000
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Parliament",
+      "Loksabha",
+      "Member",
+      "Party"
+    ],
+    "nid": [
+      88987
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Members of Twelfth Lok Sabha from 10th March 1998 to 26th April 1999"
+    ],
+    "uuid": [
+      "bd16746e-b7a3-4d01-ad45-7e97c99c3b1e"
+    ],
+    "vid": [
+      7851954
+    ],
+    "view_count": [
+      716
+    ],
+    "search_api_id": [
+      "entity:node/88987:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/member-wise-special-mentions-lok-sabha-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      658
+    ],
+    "published_date": [
+      1379938685
+    ],
+    "body:value": [
+      "(English) The data refers to Special Mentions provided by the members of Lok Sabha. It gives details on the basis of Member ID or Member of Parliament (MP) code and session number."
+    ],
+    "changed": [
+      1487336143
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Loksabha",
+      "Minister"
+    ],
+    "nid": [
+      88989
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Member-wise Special Mentions in Lok Sabha (English)"
+    ],
+    "uuid": [
+      "4d2db96f-7df4-40d6-9563-a34f9faeffc7"
+    ],
+    "vid": [
+      7851959
+    ],
+    "view_count": [
+      601
+    ],
+    "search_api_id": [
+      "entity:node/88989:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

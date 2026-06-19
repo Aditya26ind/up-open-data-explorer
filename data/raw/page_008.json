@@ -1,0 +1,4952 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/higher-secondary-examination-pass-percentage"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4972
+    ],
+    "published_date": [
+      1402552840
+    ],
+    "body:value": [
+      "Number of Students who have passed among the total enrolled students in Higher secondary. Calculation Method: Number of passed students in Higher secondary / Number of total enrolled students in Higher secondary * 100."
+    ],
+    "changed": [
+      1402552840
+    ],
+    "created": [
+      1401876678
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Examinationl Results"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "SC",
+      "School",
+      "ST",
+      "Student",
+      "Caste",
+      "Examination",
+      "Enrolled",
+      "Girl",
+      "Boy",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      104412
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Higher secondary examination pass percentage"
+    ],
+    "uuid": [
+      "3acc7e26-10b1-4d8a-85af-78b1ea9ec122"
+    ],
+    "vid": [
+      7889306
+    ],
+    "view_count": [
+      4805
+    ],
+    "search_api_id": [
+      "entity:node/104412:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/results-high-school-examination-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      34414
+    ],
+    "published_date": [
+      1402656635
+    ],
+    "body:value": [
+      "Examination means the test of a students knowledge in prescribed subjects. Various Examination Boards have been established in the country for holding and conducting an examination at the end of Class X, the Secondary School stage.  These boards also prescribe conditions of examinations including course of studies for such examination.\nNormally every year these Boards conduct Annual Examination in the month of February/March. Some of the Boards also conduct Supplementary Examination in the month of August/September on the basis of course/syllabus as prescribed by the Government. The Examination results have assumed high importance for enabling students to enter job markets as well as for pursuing higher education. It is of vital importance to compile the results of Secondary conducted by various boards. Properly and systematically analyzed data on Examination results not only measure the efficacy of the educational system, it also indicates the flow of students from school level to higher education and job market."
+    ],
+    "changed": [
+      1402656635
+    ],
+    "created": [
+      1401958038
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Examinationl Results"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Student",
+      "Caste",
+      "Passed",
+      "Girl",
+      "Boy",
+      "Appear",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      104427
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Results of high school examination"
+    ],
+    "uuid": [
+      "0ad98476-0d72-4724-84a2-b217fafb8765"
+    ],
+    "vid": [
+      7889310
+    ],
+    "view_count": [
+      34218
+    ],
+    "search_api_id": [
+      "entity:node/104427:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/results-high-school-examination-annual-and-supplementary-examination-results"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1529
+    ],
+    "published_date": [
+      1402654048
+    ],
+    "body:value": [
+      "Examination means the test of a students knowledge in prescribed subjects. Various Examination Boards have been established in the country for holding and conducting an examination at the end of Class X, the Secondary School stage.  These boards also prescribe conditions of examinations including course of studies for such examination.\nNormally every year these Boards conduct Annual Examination in the month of February/March. Some of the Boards also conduct Supplementary Examination in the month of August/September on the basis of course/syllabus as prescribed by the Government. The Examination results have assumed high importance for enabling students to enter job markets as well as for pursuing higher education. It is of vital importance to compile the results of Secondary conducted by various boards. Properly and systematically analyzed data on Examination results not only measure the efficacy of the educational system, it also indicates the flow of students from school level to higher education and job market."
+    ],
+    "changed": [
+      1402654048
+    ],
+    "created": [
+      1401961211
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Examinationl Results"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Private",
+      "SC",
+      "ST",
+      "Student",
+      "Passed",
+      "Supplementary",
+      "Girl",
+      "Boy",
+      "Regular",
+      "Ppeared"
+    ],
+    "nid": [
+      104433
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Results of high school examination of annual and supplementary examination results"
+    ],
+    "uuid": [
+      "77a9322a-6b72-4b84-bed9-a2a7847f254f"
+    ],
+    "vid": [
+      7889314
+    ],
+    "view_count": [
+      1327
+    ],
+    "search_api_id": [
+      "entity:node/104433:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/results-high-school-examination-high-school-open-examination-board-results"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6240
+    ],
+    "published_date": [
+      1402652420
+    ],
+    "body:value": [
+      "Examination means the test of a students knowledge in prescribed subjects. Various Examination Boards have been established in the country for holding and conducting an examination at the end of Class X, the Secondary School stage.  These boards also prescribe conditions of examinations including course of studies for such examination. Normally every year these Boards conduct Annual Examination in the month of February/March. Some of the Boards also conduct Supplementary Examination in the month of August/September on the basis of course/syllabus as prescribed by the Government. The Examination results have assumed high importance for enabling students to enter job markets as well as for pursuing higher education. It is of vital importance to compile the results of Secondary conducted by various boards. Properly and systematically analyzed data on Examination results not only measure the efficacy of the educational system, it also indicates the flow of students from school level to higher education and job market. Open School Examination Boards: Unlike regular Boards, examination is conducted twice in a year during the month of March-May and September-November in Open Boards. In Open Schools, system of examination is different from other State and Central Boards. They provide a flexible scheme of examination by giving an opportunity to appear in one, two or more subjects and credits are accumulated till the certification criteria is fulfilled."
+    ],
+    "changed": [
+      1402652420
+    ],
+    "created": [
+      1401962314
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Examinationl Results"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Student",
+      "Caste",
+      "Examination",
+      "Appeared",
+      "Passed",
+      "Girl",
+      "Boy",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      104436
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Results of high school examination of high school open examination board results"
+    ],
+    "uuid": [
+      "79510f0c-2050-4c28-978d-35ffc55fb5d5"
+    ],
+    "vid": [
+      7889318
+    ],
+    "view_count": [
+      6151
+    ],
+    "search_api_id": [
+      "entity:node/104436:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/villages-electrified"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1296
+    ],
+    "published_date": [
+      1398690696
+    ],
+    "body:value": [
+      "The data refers to details on number of villages electrified by States/UTs during different years."
+    ],
+    "changed": [
+      1398690696
+    ],
+    "created": [
+      1398665636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "State power utilities and Electricity Departments"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Electrified",
+      "village"
+    ],
+    "nid": [
+      100531
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Villages electrified"
+    ],
+    "uuid": [
+      "c91d86be-ef76-40b5-a0e3-61f7be7b710b"
+    ],
+    "vid": [
+      7888854
+    ],
+    "view_count": [
+      1137
+    ],
+    "search_api_id": [
+      "entity:node/100531:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/energisation-pumps"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      945
+    ],
+    "published_date": [
+      1398750205
+    ],
+    "body:value": [
+      "The data refers to details on energisation of pumps by States and Cumulative during different years."
+    ],
+    "changed": [
+      1398750205
+    ],
+    "created": [
+      1398665636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "State power utilities and Electricity Departments"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "pump",
+      "Energisation"
+    ],
+    "nid": [
+      100532
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Energisation of pumps"
+    ],
+    "uuid": [
+      "6cf402b3-a70b-4362-9c43-862176eec9cd"
+    ],
+    "vid": [
+      7888858
+    ],
+    "view_count": [
+      861
+    ],
+    "search_api_id": [
+      "entity:node/100532:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/compound-annual-growth-rates-vehicles-and-road-length"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2442
+    ],
+    "published_date": [
+      1398868909
+    ],
+    "body:value": [
+      "The data refers to Compound Annual Growth Rates in Vehicles and Road Length."
+    ],
+    "changed": [
+      1472643155
+    ],
+    "created": [
+      1398669152
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Growth",
+      "Road",
+      "Vehicles",
+      "Rate",
+      "Compound"
+    ],
+    "nid": [
+      100587
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      " Compound Annual Growth Rates in Vehicles and Road Length"
+    ],
+    "uuid": [
+      "5833314f-2f23-4b34-9871-4c8494b24b8c"
+    ],
+    "vid": [
+      7888862
+    ],
+    "view_count": [
+      2233
+    ],
+    "search_api_id": [
+      "entity:node/100587:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/production-bicycles"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1102
+    ],
+    "published_date": [
+      1398879851
+    ],
+    "body:value": [
+      "The data refers to Production of Bicycles in the Country."
+    ],
+    "changed": [
+      1472711272
+    ],
+    "created": [
+      1398669152
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Production",
+      "Bicycle"
+    ],
+    "nid": [
+      100589
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Production of Bicycles"
+    ],
+    "uuid": [
+      "0809c4b6-2b2b-4898-ac19-b7c278546d9b"
+    ],
+    "vid": [
+      7888866
+    ],
+    "view_count": [
+      968
+    ],
+    "search_api_id": [
+      "entity:node/100589:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-membership-income-expenditure-and-funds-registered-trade-union"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3793
+    ],
+    "published_date": [
+      1398850773
+    ],
+    "body:value": [
+      "The data refers to all India and state-wise number, membership, income, expenditure and funds of registered trade union during the year."
+    ],
+    "changed": [
+      1602759642
+    ],
+    "created": [
+      1398676769
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Trade Unions"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Membership",
+      "trade",
+      "Union"
+    ],
+    "nid": [
+      100831
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number, membership, income, expenditure and funds of registered trade union"
+    ],
+    "uuid": [
+      "848b9852-a4ae-4d24-af2a-a4ec628fbd28"
+    ],
+    "vid": [
+      7888876
+    ],
+    "view_count": [
+      3473
+    ],
+    "search_api_id": [
+      "entity:node/100831:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/income-and-expenditure-municipal-corporations"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7316
+    ],
+    "published_date": [
+      1398851106
+    ],
+    "body:value": [
+      "The data refers to all India Income And Expenditure Of Municipal Corporations."
+    ],
+    "changed": [
+      1441690680
+    ],
+    "created": [
+      1398676769
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Local Government"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Local Government",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "Income",
+      "municipal"
+    ],
+    "nid": [
+      100832
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Income And Expenditure Of Municipal Corporations"
+    ],
+    "uuid": [
+      "3e72d609-893b-4a75-ad0e-0fc241df67e7"
+    ],
+    "vid": [
+      7888881
+    ],
+    "view_count": [
+      7117
+    ],
+    "search_api_id": [
+      "entity:node/100832:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-newly-registered-motor-vehicles-and-number-registered-motor-vehicles-kerala"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      376077
+    ],
+    "published_date": [
+      1399470232
+    ],
+    "body:value": [
+      "The data refers to Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Kerala. Registered Motor Vehicles have been categorized in two broad categories, Transport and Non Transport. Multi-axled/ Articulated Vehicles/ Trucks and Lorries, Light Motor Vehicle (Goods),Buses,Taxis,Light Motor Vehicle (Passengers Auto) are falling under Transport Category and Two Wheelers,Cars,Jeeps,Omni Buses,Tractors,Trailers & Others are falling under Non Transport Category."
+    ],
+    "changed": [
+      1569472109
+    ],
+    "created": [
+      1398934148
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "vehicle",
+      "Registered",
+      "Motor",
+      "Newly"
+    ],
+    "nid": [
+      101143
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Newly Registered Motor Vehicles and Number of Registered Motor Vehicles in Kerala"
+    ],
+    "uuid": [
+      "cd258fe8-6473-4a73-8011-7a9089db08f9"
+    ],
+    "vid": [
+      7888934
+    ],
+    "view_count": [
+      375769
+    ],
+    "search_api_id": [
+      "entity:node/101143:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/general-funds-registered-trade-unions"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6368
+    ],
+    "published_date": [
+      1399631339
+    ],
+    "body:value": [
+      "The data indicates to all India and state-wise details on general funds of registered trade unions (workers' unions, employers' unions, workers' central union and workers' state union)."
+    ],
+    "changed": [
+      1602760737
+    ],
+    "created": [
+      1399628527
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Trade Unions"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employer",
+      "Employment",
+      "expenditure",
+      "Labour",
+      "Union",
+      "Worker",
+      "Bureau"
+    ],
+    "nid": [
+      102048
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "General Funds of Registered Trade Unions"
+    ],
+    "uuid": [
+      "fb968f5a-d69c-4800-a012-1707bf47c3ae"
+    ],
+    "vid": [
+      7889046
+    ],
+    "view_count": [
+      6053
+    ],
+    "search_api_id": [
+      "entity:node/102048:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/results-higher-secondary-examination-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4453
+    ],
+    "published_date": [
+      1402656437
+    ],
+    "body:value": [
+      "Examination means the test of a students knowledge in prescribed subjects. Various Examination Boards have been established in the country for holding and conducting an examination at the end of Class XII, the Senior Secondary School stage.  These boards also prescribe conditions of examinations including course of studies for such examination. Normally every year these Boards conduct Annual Examination in the month of February/March. Some of the Boards also conduct Supplementary Examination in the month of August/September on the basis of course/syllabus as prescribed by the Government. The Examination results have assumed high importance for enabling students to enter job markets as well as for pursuing higher education.  The result at the end of class XII is all the more significant as this leads students to enter tertiary level of education, including academic and professional courses of the university level. It is of vital importance to compile the results of Senior Secondary examinations conducted by various boards. Properly and systematically analyzed data on Examination results not only measure the efficacy of the educational system, it also indicates the flow of students from school level to higher education and job market."
+    ],
+    "changed": [
+      1402656437
+    ],
+    "created": [
+      1401962965
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Examinationl Results"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "SC",
+      "ST",
+      "Student",
+      "Caste",
+      "Passed",
+      "Girl",
+      "Boy",
+      "Appear",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      104440
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Results of higher secondary examination"
+    ],
+    "uuid": [
+      "a023e6a1-2576-4a65-ab80-2f2482dda060"
+    ],
+    "vid": [
+      7889322
+    ],
+    "view_count": [
+      4176
+    ],
+    "search_api_id": [
+      "entity:node/104440:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/results-higher-secondary-examination-annual-and-supplementary-examination-results"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2995
+    ],
+    "published_date": [
+      1402655985
+    ],
+    "body:value": [
+      "Examination means the test of a students knowledge in prescribed subjects. Various Examination Boards have been established in the country for holding and conducting an examination at the end of Class XII, the Senior Secondary School stage.  These boards also prescribe conditions of examinations including course of studies for such examination. Normally every year these Boards conduct Annual Examination in the month of February/March. Some of the Boards also conduct Supplementary Examination in the month of August/September on the basis of course/syllabus as prescribed by the Government. The Examination results have assumed high importance for enabling students to enter job markets as well as for pursuing higher education.  The result at the end of class XII is all the more significant as this leads students to enter tertiary level of education, including academic and professional courses of the university level. It is of vital importance to compile the results of Senior Secondary examinations conducted by various boards. Properly and systematically analyzed data on Examination results not only measure the efficacy of the educational system, it also indicates the flow of students from school level to higher education and job market."
+    ],
+    "changed": [
+      1402655985
+    ],
+    "created": [
+      1401963621
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Examinationl Results"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "Private",
+      "SC",
+      "ST",
+      "Student",
+      "Caste",
+      "Annual",
+      "Appeared",
+      "Passed",
+      "Supplementary",
+      "Girl",
+      "Boy",
+      "Pass",
+      "Scheduled",
+      "Tribe",
+      "Regular",
+      "Mark"
+    ],
+    "nid": [
+      104443
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Results of higher secondary examination of annual and supplementary examination results"
+    ],
+    "uuid": [
+      "4439e877-e06f-43a7-b057-93f86518f36e"
+    ],
+    "vid": [
+      7889326
+    ],
+    "view_count": [
+      2848
+    ],
+    "search_api_id": [
+      "entity:node/104443:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/results-higher-secondary-examination-higher-secondary-open-school-examination-board-results"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4885
+    ],
+    "published_date": [
+      1402575699
+    ],
+    "body:value": [
+      "Examination means the test of a students knowledge in prescribed subjects. Various Examination Boards have been established in the country for holding and conducting an examination at the end of Class XII, the Senior Secondary School stage. These boards also prescribe conditions of examinations including course of studies for such examination. Normally every year these Boards conduct Annual Examination in the month of February/March. Some of the Boards also conduct Supplementary Examination in the month of August/September on the basis of course/ syllabus as prescribed by the Government. The Examination results have assumed high importance for enabling students to enter job markets as well as for pursuing higher education.  The result at the end of class XII is all the more significant as this leads students to enter tertiary level of education, including academic and professional courses of the university level. It is of vital importance to compile the results of Senior Secondary examinations conducted by various boards. Properly and systematically analyzed data on Examination results not only measure the efficacy of the educational system, it also indicates the flow of students from school level to higher education and job market. In Open Schools, system of examination is different from other State and Central Boards. A candidate can avail number of chances as prescribed by the board to appear in public examinations spread over a period of more than one year unlike a time span of one year for other boards. There is no bifurcation of regular and private students and also no system of supplementary examination in Open Boards."
+    ],
+    "changed": [
+      1402575699
+    ],
+    "created": [
+      1401964410
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Examinationl Results"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Student",
+      "Caste",
+      "Appeared",
+      "Passed",
+      "Girl",
+      "Boy",
+      "Scheduled",
+      "Tribe",
+      "Mark"
+    ],
+    "nid": [
+      104447
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Results of higher secondary examination of higher secondary open school examination board results"
+    ],
+    "uuid": [
+      "9caf4d0c-65e0-42e0-887e-8412b57caddf"
+    ],
+    "vid": [
+      7889330
+    ],
+    "view_count": [
+      4645
+    ],
+    "search_api_id": [
+      "entity:node/104447:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/students-movement-class-x-onwards"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1413
+    ],
+    "published_date": [
+      1402575264
+    ],
+    "body:value": [
+      "Students who are passed class X and moved to enroll in class XI, XII and appeared in examination of class XII and passed Class XII."
+    ],
+    "changed": [
+      1402575264
+    ],
+    "created": [
+      1401964958
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Examinationl Results"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "Enrolled",
+      "Appeared",
+      "Passed",
+      "Girl",
+      "Boy",
+      "Class"
+    ],
+    "nid": [
+      104450
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Students movement from class X onwards"
+    ],
+    "uuid": [
+      "e2ade1bd-7d10-4272-b59f-dc787e6f63db"
+    ],
+    "vid": [
+      7889334
+    ],
+    "view_count": [
+      1227
+    ],
+    "search_api_id": [
+      "entity:node/104450:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/back-series-enrollment-class-i"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1370
+    ],
+    "published_date": [
+      1402997645
+    ],
+    "body:value": [
+      "Back series of enrollment in class I, which is used to calculate the drop out rate."
+    ],
+    "changed": [
+      1417151535
+    ],
+    "created": [
+      1402045898
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrollment",
+      "Gender",
+      "SC",
+      "ST",
+      "Caste",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      104527
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Back series of enrollment in class I"
+    ],
+    "uuid": [
+      "470669c1-3a50-491e-8b65-adaf1258e826"
+    ],
+    "vid": [
+      7889347
+    ],
+    "view_count": [
+      1265
+    ],
+    "search_api_id": [
+      "entity:node/104527:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/budgeted-expenditure-revenue-account-education"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1778
+    ],
+    "published_date": [
+      1402575072
+    ],
+    "body:value": [
+      "Budgeted expenditure (revenue account) on education contains Total budget (centre / states)(Revenue account), Expenditure (Revenue account) on education & training by education and other departments, per capita expenditure.\n"
+    ],
+    "changed": [
+      1402575072
+    ],
+    "created": [
+      1402047605
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Higher Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "Capita",
+      "Department",
+      "Education",
+      "expenditure",
+      "Revenue",
+      "Population",
+      "Account"
+    ],
+    "nid": [
+      104530
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Budgeted expenditure (revenue account) on education."
+    ],
+    "uuid": [
+      "79a5b7fd-97e7-4509-92cf-991339585a65"
+    ],
+    "vid": [
+      7889351
+    ],
+    "view_count": [
+      1583
+    ],
+    "search_api_id": [
+      "entity:node/104530:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distribution-schools-management"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4064
+    ],
+    "published_date": [
+      1402554481
+    ],
+    "body:value": [
+      "Schools managed by Government, Local Bodies, Private-aided & Private-unaided. Government: Central and State Governments and Organisations established and/ or wholly funded by them (e.g. Kendriya Vidalaya Sangthan, Navidaya Vidalayas Samiti, Board of Secondary Education, Central/State Public Sector Undertakings). Local Bodies : Panchayats (as defined in Art 243 read with 243 B of the Constitution), Municipalities ( as defined in Article 243 P read with 243 Q of the Constitution), Cantonment Boards, Town Area Committee, and any other bodies of local self government constituted under a law. Private Aided: An institution managed by an individual, trust, society, or other private organisation and receiving regular maintenance grant from  Government or local body. Private Unaided: An institution managed by an individual, trust, society or other private organisation and not receiving regular maintenance grant from Government , or local body . An institution which is in receipt of one-time ad-hoc grant for a specific purpose like building construction, strengthening of library or laboratory facilities, one-time subsidy towards teacher salary etc., but not receiving regular maintenance grant, may be treated as an unaided institution."
+    ],
+    "changed": [
+      1528463031
+    ],
+    "created": [
+      1402049260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "distribution",
+      "Government",
+      "Management",
+      "primary",
+      "Private",
+      "School",
+      "secondary",
+      "Aided",
+      "Intermediate",
+      "Local",
+      "Body",
+      "Unaided"
+    ],
+    "nid": [
+      104535
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distribution of schools by management"
+    ],
+    "uuid": [
+      "61256f70-5ae6-49cb-bcae-aab9ec67daa2"
+    ],
+    "vid": [
+      7889369
+    ],
+    "view_count": [
+      3822
+    ],
+    "search_api_id": [
+      "entity:node/104535:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/enrolment-school-education"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7449
+    ],
+    "published_date": [
+      1402471639
+    ],
+    "body:value": [
+      "Number of pupils or students who are enrolled in a given grade/class or level of education on a specific point of time, regardless of age.\n"
+    ],
+    "changed": [
+      1487238455
+    ],
+    "created": [
+      1402049866
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Adult Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "primary",
+      "School",
+      "secondary",
+      "vocational",
+      "Intermediate",
+      "Girl",
+      "Boy",
+      "Class",
+      "Scheduled",
+      "Tribe",
+      "Cast",
+      "Visually",
+      "Impaired",
+      "Orthopaedically",
+      "Mentally",
+      "Challenged"
+    ],
+    "nid": [
+      104537
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Enrolment in school education"
+    ],
+    "uuid": [
+      "03a56b80-c174-4b8d-a313-b0daaeeadf9d"
+    ],
+    "vid": [
+      7889394
+    ],
+    "view_count": [
+      6755
+    ],
+    "search_api_id": [
+      "entity:node/104537:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dropout-rate"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      15277
+    ],
+    "published_date": [
+      1402471180
+    ],
+    "body:value": [
+      "A dropout is a pupil who leaves school before the completion of a school stage or leaving at some intermediate or non-terminal point of a given level of education (school stage)."
+    ],
+    "changed": [
+      1493898589
+    ],
+    "created": [
+      1402049988
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "SC",
+      "ST",
+      "Caste",
+      "Girl",
+      "Boy",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      104538
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Dropout rate"
+    ],
+    "uuid": [
+      "8072f94c-b5f2-471d-b521-f068d41deeb9"
+    ],
+    "vid": [
+      7889408
+    ],
+    "view_count": [
+      12441
+    ],
+    "search_api_id": [
+      "entity:node/104538:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/egsaie-centres-isced-1"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10756
+    ],
+    "published_date": [
+      1402574910
+    ],
+    "body:value": [
+      "Education Guarantee Scheme (EGS) Centers : Alternative schools in unserved habitations where there is no formal school within the radius of 1 kilometer and at least 15-25 children of 6-14 years age group who are not going to schools are available. Alternative and Innovative Education (AIE) Centers. The centers set up for very specific, difficult groups of out of school children for mainstreaming or otherwise, under the AIE component of the EGS&AIE scheme, are termed as Alternative & Innovative Education Centers. Some of the examples of AIE Centers are seasonal hostels for migrating children, condensed/bridge courses/ back to school camps for mainstreaming out of school children and to achieve competencies appropriate for their age in a short period, residential camps/dropin centers for street and slum children."
+    ],
+    "changed": [
+      1402574910
+    ],
+    "created": [
+      1402051554
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Enrolment",
+      "Scheme",
+      "Guarntee",
+      "Alternative",
+      "Innovative"
+    ],
+    "nid": [
+      104545
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "EGS/AIE centres- (ISCED-1)"
+    ],
+    "uuid": [
+      "ed25d7fa-e226-40ae-889d-08b4f51237a5"
+    ],
+    "vid": [
+      7889412
+    ],
+    "view_count": [
+      10358
+    ],
+    "search_api_id": [
+      "entity:node/104545:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/female-teachers-hundred-male-teachers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2696
+    ],
+    "published_date": [
+      1402573371
+    ],
+    "body:value": [
+      "The ratio of Female Teachers to Male Teachers provides a gender profile of the faculty engaged in Elementary Education and in the States where the proportion of Female Teacher is higher school retention rates tends to be higher and early primary drop outs very less."
+    ],
+    "changed": [
+      1417150895
+    ],
+    "created": [
+      1402054898
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "primary",
+      "School",
+      "secondary",
+      "Intermediate"
+    ],
+    "nid": [
+      104561
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Female teachers per hundred male teachers"
+    ],
+    "uuid": [
+      "7b323cdf-a378-419b-9bf3-517555c89915"
+    ],
+    "vid": [
+      7889424
+    ],
+    "view_count": [
+      2610
+    ],
+    "search_api_id": [
+      "entity:node/104561:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/institutions-school-education-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3436
+    ],
+    "published_date": [
+      1402909625
+    ],
+    "body:value": [
+      "Number of institutions - school education includes details on Board of Intermediate Secondary Education, ISCED-3 - Pre-Degree Junior Colleges/Higher Secondary Schools, ISCED-3 - High/Post Basic Schools, ISCED-2 - Middle/Senor Basic Schools, ISCED-1 - Primary/Junior Basic Schools, ISCED-1 - EGS Centers, ISCED-0 - Pre-Primary/Pre Basic Schools, ISCED-0 - Institutions imparting pre-school education under ICDS."
+    ],
+    "changed": [
+      1402909625
+    ],
+    "created": [
+      1402055408
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Higher Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Basic",
+      "child",
+      "Colleges",
+      "Degree",
+      "Development",
+      "Education",
+      "high",
+      "ICDS",
+      "junior",
+      "middle",
+      "Post",
+      "primary",
+      "School",
+      "secondary",
+      "senior",
+      "Intermediate",
+      "Board",
+      "EGS",
+      "Higher",
+      "Centers"
+    ],
+    "nid": [
+      104571
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Institutions - School education"
+    ],
+    "uuid": [
+      "d5785b90-306e-4b2c-9b2b-e442f22053c0"
+    ],
+    "vid": [
+      7889428
+    ],
+    "view_count": [
+      2996
+    ],
+    "search_api_id": [
+      "entity:node/104571:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/international-comparison-key-educational-parameters"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2081
+    ],
+    "published_date": [
+      1402554232
+    ],
+    "body:value": [
+      "The International Standard Classification of Education (ISCED) is designed to serve as a statistical framework for assembling, compiling and presenting comparable indicators and statistics of education both within individual countries and internationally. It presents standard concepts, definitions and classifications. ISCED covers all organized and sustained learning opportunities for children, youth and adults including those with special needs education, irrespective of the institution or entity providing them or the form in which they are delivered."
+    ],
+    "changed": [
+      1402554232
+    ],
+    "created": [
+      1402056148
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "Duration",
+      "Education",
+      "Enrolment",
+      "Gender",
+      "Gross",
+      "primary",
+      "secondary",
+      "senior",
+      "Price",
+      "Ratio",
+      "Entrance"
+    ],
+    "nid": [
+      104583
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "International comparison of key educational parameters"
+    ],
+    "uuid": [
+      "240f1b50-7f7e-4c0f-9bb2-d63b25d837cd"
+    ],
+    "vid": [
+      7889436
+    ],
+    "view_count": [
+      1920
+    ],
+    "search_api_id": [
+      "entity:node/104583:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gender-parity-index-gpi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4233
+    ],
+    "published_date": [
+      1402486778
+    ],
+    "body:value": [
+      "Gender parity index (GPI) is ratio of the female-to-male values of a given indicator. A GPI of 1 indicates parity between sexes."
+    ],
+    "changed": [
+      1417151569
+    ],
+    "created": [
+      1402056421
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Adult Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "SC",
+      "ST",
+      "GPI",
+      "Caste",
+      "Parity",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      104586
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gender parity index (GPI)"
+    ],
+    "uuid": [
+      "fe3648ed-9aec-494b-ac99-9ce5f7fbc5c9"
+    ],
+    "vid": [
+      7889456
+    ],
+    "view_count": [
+      3710
+    ],
+    "search_api_id": [
+      "entity:node/104586:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/pupil-teacher-ratio-ptr"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7679
+    ],
+    "published_date": [
+      1402401214
+    ],
+    "body:value": [
+      "Pupil-Teacher Ratio (PTR): Average number of pupils (students) per teacher at a specific level of education in a given school-year. Calculation method: Divide the total number of pupils enrolled at the specific level of education by the number of teachers teaching pre-dominantly at that level."
+    ],
+    "changed": [
+      1493961033
+    ],
+    "created": [
+      1402056583
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Adult Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Female",
+      "Male",
+      "primary",
+      "PTR",
+      "School",
+      "secondary",
+      "senior",
+      "Teacher",
+      "Intermediate",
+      "Ratio"
+    ],
+    "nid": [
+      104587
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Pupil teacher ratio (PTR)"
+    ],
+    "uuid": [
+      "bd18fe9f-4437-429b-8cd3-b081519e0a64"
+    ],
+    "vid": [
+      7889470
+    ],
+    "view_count": [
+      5336
+    ],
+    "search_api_id": [
+      "entity:node/104587:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/results-high-school-examination"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1698
+    ],
+    "published_date": [
+      1402553976
+    ],
+    "body:value": [
+      "Examination means the test of a students knowledge in prescribed subjects. Various Examination Boards have been established in the country for holding and conducting an examination at the end of Class X, the Secondary School stage. These boards also prescribe conditions of examinations including course of studies for such examination. Normally every year these Boards conduct Annual Examination in the month of February/March. Some of the Boards also conduct Supplementary Examination in the month of August/September on the basis of course/syllabus as prescribed by the Government. The Examination results have assumed high importance for enabling students to enter job markets as well as for pursuing higher education. It is of vital importance to compile the results of Secondary conducted by various boards. Properly and systematically analyzed data on Examination results not only measure the efficacy of the educational system, it also indicates the flow of students from school level to higher education and job market."
+    ],
+    "changed": [
+      1402553976
+    ],
+    "created": [
+      1402057531
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "high",
+      "SC",
+      "ST",
+      "Student",
+      "Caste",
+      "Appeared",
+      "Girl",
+      "Boy",
+      "Pass",
+      "Appear",
+      "Result",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      104602
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Results of high school examination"
+    ],
+    "uuid": [
+      "b9ff9cd4-b5f7-44c7-9a45-5a4e298dba4a"
+    ],
+    "vid": [
+      7889474
+    ],
+    "view_count": [
+      1500
+    ],
+    "search_api_id": [
+      "entity:node/104602:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/results-high-school-examination-opening-school"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1245
+    ],
+    "published_date": [
+      1402646764
+    ],
+    "body:value": [
+      "Examination means the test of a students knowledge in prescribed subjects. Various Examination Boards have been established in the country for holding and conducting an examination at the end of Class X, the Secondary School stage. These boards also prescribe conditions of examinations including course of studies for such examination. Normally every year these Boards conduct Annual Examination in the month of February/March. Some of the Boards also conduct Supplementary Examination in the month of August/September on the basis of course/syllabus as prescribed by the Government. The Examination results have assumed high importance for enabling students to enter job markets as well as for pursuing higher education. It is of vital importance to compile the results of Secondary conducted by various boards. Properly and systematically analyzed data on Examination results not only measure the efficacy of the educational system, it also indicates the flow of students from school level to higher education and job market."
+    ],
+    "changed": [
+      1402646764
+    ],
+    "created": [
+      1402057781
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "SC",
+      "School",
+      "ST",
+      "Student",
+      "Caste",
+      "Appeared",
+      "Passed",
+      "Girl",
+      "Boy",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      104606
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Results of high school examination of opening school"
+    ],
+    "uuid": [
+      "db5ccc75-dbe3-49d4-aac0-53f7cc90475e"
+    ],
+    "vid": [
+      7889478
+    ],
+    "view_count": [
+      1079
+    ],
+    "search_api_id": [
+      "entity:node/104606:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/results-higher-secondary-examination"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2077
+    ],
+    "published_date": [
+      1402574305
+    ],
+    "body:value": [
+      "Examination means the test of a students knowledge in prescribed subjects. Various Examination Boards have been established in the country for holding and conducting an examination at the end of Class XII, the Senior Secondary School stage. These boards also prescribe conditions of examinations including course of studies for such examination. Normally every year these Boards conduct Annual Examination in the month of February/March. Some of the Boards also conduct Supplementary Examination in the month of August/September on the basis of course/syllabus as prescribed by the Government. The Examination results have assumed high importance for enabling students to enter job markets as well as for pursuing higher education. The result at the end of class XII is all the more significant as this leads students to enter tertiary level of education, including academic and professional courses of the university level. It is of vital importance to compile the results of Senior Secondary examinations conducted by various boards. Properly and systematically analyzed data on Examination results not only measure the efficacy of the educational system, it also indicates the flow of students from school level to higher education and job market."
+    ],
+    "changed": [
+      1402574305
+    ],
+    "created": [
+      1402058045
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Student",
+      "Caste",
+      "Passed",
+      "Girl",
+      "Boy",
+      "Appear",
+      "Scheduled",
+      "Tribe",
+      "Higher"
+    ],
+    "nid": [
+      104608
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Results of higher secondary examination"
+    ],
+    "uuid": [
+      "9f504ca8-90ad-42ce-a6b1-e50a1da25f8d"
+    ],
+    "vid": [
+      7889482
+    ],
+    "view_count": [
+      1864
+    ],
+    "search_api_id": [
+      "entity:node/104608:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/results-highersenior-secondary-examination"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9555
+    ],
+    "published_date": [
+      1402647703
+    ],
+    "body:value": [
+      "Examination means the test of a students knowledge in prescribed subjects. Various Examination Boards have been established in the country for holding and conducting an examination at the end of Class X, the Secondary School stage and Class XII, the Senior Secondary School stage. These boards also prescribe conditions of examinations including course of studies for such examination. Normally every year these Boards conduct Annual Examination in the month of February/March. Some of the Boards also conduct Supplementary Examination in the month of August/September on the basis of course/syllabus as prescribed by the Government. The Examination results have assumed high importance for enabling students to enter job markets as well as for pursuing higher education. The result at the end of class XII is all the more significant as this leads students to enter tertiary level of education, including academic and professional courses of the university level. It is of vital importance to compile the results of Secondary and Senior Secondary examinations conducted by various boards. Properly and systematically analyzed data on Examination results not only measure the efficacy of the educational system, it also indicates the flow of students from school level to higher education and job market."
+    ],
+    "changed": [
+      1402647703
+    ],
+    "created": [
+      1402058249
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "percentage",
+      "SC",
+      "ST",
+      "Student",
+      "Caste",
+      "Appeared",
+      "Passed",
+      "Girl",
+      "Boy",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      104610
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Results of Higher/Senior secondary examination"
+    ],
+    "uuid": [
+      "fbd8ef09-397e-449e-8c5d-4e9faf989f59"
+    ],
+    "vid": [
+      7889486
+    ],
+    "view_count": [
+      9260
+    ],
+    "search_api_id": [
+      "entity:node/104610:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/scstrural-area-enrolment-total-enrolment-schools"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2301
+    ],
+    "published_date": [
+      1402647398
+    ],
+    "body:value": [
+      "Number of pupils or students enrolled in a given grade/class or level of education on a specific point of time, regardless of age."
+    ],
+    "changed": [
+      1402647398
+    ],
+    "created": [
+      1402058515
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "boys",
+      "Enrolment",
+      "Rural",
+      "Girl",
+      "Class",
+      "Scheduled",
+      "Tribe",
+      "Cast"
+    ],
+    "nid": [
+      104612
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "SC/ST/rural area enrolment to total enrolment in schools"
+    ],
+    "uuid": [
+      "f588c196-67d0-4f40-b962-b8a73cc665f1"
+    ],
+    "vid": [
+      7889490
+    ],
+    "view_count": [
+      2057
+    ],
+    "search_api_id": [
+      "entity:node/104612:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/class-wise-girls-hundred-boys"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2270
+    ],
+    "published_date": [
+      1402572786
+    ],
+    "body:value": [
+      "Girls per hundred boys is the number of girls per hundred boys in different classes like Classes I-V, Classes VI-VIII, Classes I-VIII, Classes IX-X, Classes XI-XII, Classes IX-XII of all categories student."
+    ],
+    "changed": [
+      1417151156
+    ],
+    "created": [
+      1402058554
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Category",
+      "SC",
+      "ST",
+      "Caste",
+      "Girl",
+      "Boy",
+      "Class",
+      "Tribe",
+      "Schedule"
+    ],
+    "nid": [
+      104613
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Class-wise Girls per hundred boys"
+    ],
+    "uuid": [
+      "2b85a778-66fe-4906-bf03-fa3851cddecd"
+    ],
+    "vid": [
+      7889506
+    ],
+    "view_count": [
+      1815
+    ],
+    "search_api_id": [
+      "entity:node/104613:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/enrolment-teacher-training-schools"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1633
+    ],
+    "published_date": [
+      1402909187
+    ],
+    "body:value": [
+      "Number of teachers who are enrolled in training schools. A teacher is a person who is directly engaged in instructing a group of students. Head of the institution is counted as teacher. The research guiding staff, demonstrators, tutors and Directors of Physical Education & Physical Training Instructors will also be shown as teachers. Teachers registered as research scholars will be shown as teachers. However, research students doing teaching work will not be treated as teachers. Similarly, laboratory attendants, library clerks, game instructors, etc. who do not participate in teaching will not be treated as teachers."
+    ],
+    "changed": [
+      1402909187
+    ],
+    "created": [
+      1402059431
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Gender",
+      "SC",
+      "School",
+      "ST",
+      "Student",
+      "Training",
+      "Scheduled",
+      "Tribe",
+      "Cast"
+    ],
+    "nid": [
+      104624
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Enrolment of Teacher in training schools"
+    ],
+    "uuid": [
+      "be37c419-8c7a-4a7f-afa7-9e5bc7be029c"
+    ],
+    "vid": [
+      7889510
+    ],
+    "view_count": [
+      1474
+    ],
+    "search_api_id": [
+      "entity:node/104624:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/teachers-type-school"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3398
+    ],
+    "published_date": [
+      1402478192
+    ],
+    "body:value": [
+      "A teacher is a person who is directly engaged in instructing a group of students. Head of the institution is counted as teacher. The research guiding staff, demonstrators, tutors and Directors of Physical Education & Physical Training Instructors will also be shown as teachers. Teachers registered as research scholars will be shown as teachers. However, research students doing teaching work will not be treated as teachers. Similarly, laboratory attendants, library clerks, game instructors, etc. who do not participate in teaching will not be treated as teachers."
+    ],
+    "changed": [
+      1417150819
+    ],
+    "created": [
+      1402059692
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Higher Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "men",
+      "primary",
+      "School",
+      "secondary",
+      "senior",
+      "Women",
+      "Teacher",
+      "Intermediate"
+    ],
+    "nid": [
+      104627
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Teachers by type of school"
+    ],
+    "uuid": [
+      "6b10dd4c-cf3c-4203-b4af-a983e56e21ed"
+    ],
+    "vid": [
+      7889526
+    ],
+    "view_count": [
+      2100
+    ],
+    "search_api_id": [
+      "entity:node/104627:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-enrolment-ratio-ger-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9784
+    ],
+    "published_date": [
+      1402396387
+    ],
+    "body:value": [
+      "Gross enrolment ratio (GER): Total enrolment in a specific level of education, regardless of age, expressed as a percentage of the eligible official school-age population corresponding to the same level of education in a given school-year. School-age Population: Population of the age group which officially corresponds to the relevant level of education."
+    ],
+    "changed": [
+      1493894320
+    ],
+    "created": [
+      1402059829
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "GER",
+      "SC",
+      "ST",
+      "Caste",
+      "Class",
+      "Scheduled",
+      "Tribe",
+      "Ratio"
+    ],
+    "nid": [
+      104630
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross enrolment ratio (GER)"
+    ],
+    "uuid": [
+      "f4daf559-5a84-4a1f-a100-353266a9e499"
+    ],
+    "vid": [
+      7889548
+    ],
+    "view_count": [
+      9283
+    ],
+    "search_api_id": [
+      "entity:node/104630:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/teachers-enrolment-and-pupil-teacher-ratio-type-institutions"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2751
+    ],
+    "published_date": [
+      1402646919
+    ],
+    "body:value": [
+      "A teacher is a person who is directly engaged in instructing a group of students. Head of the institution is counted as teacher. The research guiding staff, demonstrators, tutors and Directors of Physical Education & Physical Training Instructors will also be shown as teachers. Teachers registered as research scholars will be shown as teachers. However, research students doing teaching work will not be treated as teachers. Similarly, laboratory attendants, library clerks, game instructors, etc. who do not participate in teaching will not be treated as teachers. Number of pupils or students enrolled in a given grade/class or level of education on a specific point of time, regardless of age. Pupil-Teacher Ratio (PTR) : Average number of pupils (students) per teacher at a specific level of education in a given school-year. Calculation method: Divide the total number of pupils enrolled at the specific level of education by the number of teachers teaching pre-dominantly at that level."
+    ],
+    "changed": [
+      1444287762
+    ],
+    "created": [
+      1402060239
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary",
+      "Higher Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "Female",
+      "junior",
+      "Male",
+      "men",
+      "middle",
+      "Post",
+      "primary",
+      "PTR",
+      "School",
+      "secondary",
+      "senior",
+      "Women",
+      "Teacher",
+      "Girl",
+      "Boy",
+      "Higher",
+      "Ratio",
+      "Trained",
+      "Pupil"
+    ],
+    "nid": [
+      104642
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Teachers, enrolment and pupil teacher ratio by type of institutions"
+    ],
+    "uuid": [
+      "febcf280-222a-4849-a65d-0302b89b69e9"
+    ],
+    "vid": [
+      7889552
+    ],
+    "view_count": [
+      2511
+    ],
+    "search_api_id": [
+      "entity:node/104642:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/trained-teacher"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2924
+    ],
+    "published_date": [
+      1402477996
+    ],
+    "body:value": [
+      "A trained teacher is one who has successfully undergone a course of training through a recognised teacher training institution. "
+    ],
+    "changed": [
+      1417150771
+    ],
+    "created": [
+      1402060415
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "high",
+      "primary",
+      "School",
+      "secondary",
+      "senior",
+      "Teacher",
+      "Intermediate"
+    ],
+    "nid": [
+      104648
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Trained teacher"
+    ],
+    "uuid": [
+      "03eb2aad-3e4e-43c7-a74f-b0bdfd424817"
+    ],
+    "vid": [
+      7889566
+    ],
+    "view_count": [
+      2752
+    ],
+    "search_api_id": [
+      "entity:node/104648:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/technical-industrial-arts-and-craft-institutes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1986
+    ],
+    "published_date": [
+      1402644317
+    ],
+    "body:value": [
+      "Technical /industrial /arts and craft institutes are ITI/ITCs, Education guarntee Scheme (EGS) and alternative & Innovative Education with capacity of enrolled students."
+    ],
+    "changed": [
+      1402644317
+    ],
+    "created": [
+      1402061030
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "capacity",
+      "Education",
+      "Scheme",
+      "ITI",
+      "Intake",
+      "EGS",
+      "ITC",
+      "Guarntee"
+    ],
+    "nid": [
+      104652
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Technical /industrial /arts and craft institutes"
+    ],
+    "uuid": [
+      "71c16496-4729-4011-b5f1-c0e3c66d2b02"
+    ],
+    "vid": [
+      7889570
+    ],
+    "view_count": [
+      1776
+    ],
+    "search_api_id": [
+      "entity:node/104652:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/school-education-institutions"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10612
+    ],
+    "published_date": [
+      1402912132
+    ],
+    "body:value": [
+      "School Education includes (i) Pre-school Education and (ii) 12 years of School Education and its equivalent. Institutions recognized/approved by a competent authority e.g., Central/State Government or other authorized agencies, e.g., Boards of Secondary Education, UGC, AICTE, MCI, ICAR, Directorates of Education or other duly empowered authority."
+    ],
+    "changed": [
+      1463981312
+    ],
+    "created": [
+      1402062295
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "School Education Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "primary",
+      "School",
+      "secondary",
+      "senior",
+      "Intermediate",
+      "Board"
+    ],
+    "nid": [
+      104654
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "School education institutions"
+    ],
+    "uuid": [
+      "3d8a3cf6-e497-4eff-b106-74ddc13df083"
+    ],
+    "vid": [
+      7889585
+    ],
+    "view_count": [
+      9884
+    ],
+    "search_api_id": [
+      "entity:node/104654:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distribution-population-within-state-social-groups"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2574
+    ],
+    "published_date": [
+      1403528564
+    ],
+    "body:value": [
+      "Population is distributed within a State by Social Groups. The social groups are schedule castes (SCs), schedule tribes\t(STs), Other backwards castes (OBCs) and Others categories.\r\n"
+    ],
+    "changed": [
+      1436418541
+    ],
+    "created": [
+      1403515804
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India Human Development Report"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Backward",
+      "OBC",
+      "SC",
+      "ST",
+      "Social",
+      "Caste",
+      "Class",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      105681
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distribution of Population within a State by Social Groups"
+    ],
+    "uuid": [
+      "a99ae1d9-914b-4aa1-acda-e9c927a03607"
+    ],
+    "vid": [
+      7889616
+    ],
+    "view_count": [
+      2124
+    ],
+    "search_api_id": [
+      "entity:node/105681:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distribution-social-groups-among-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1948
+    ],
+    "published_date": [
+      1403528674
+    ],
+    "body:value": [
+      "Social groups are distributed among states. The social groups are schedule castes (SCs), schedule tribes\t(STs), Other backwards castes (OBCs) and Others categories."
+    ],
+    "changed": [
+      1436418541
+    ],
+    "created": [
+      1403518544
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India Human Development Report"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Backward",
+      "OBC",
+      "SC",
+      "ST",
+      "Social",
+      "Caste",
+      "Class",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      105685
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distribution of social groups among States"
+    ],
+    "uuid": [
+      "499764b2-aebc-4b49-92f4-0eceb3126df4"
+    ],
+    "vid": [
+      7889624
+    ],
+    "view_count": [
+      1802
+    ],
+    "search_api_id": [
+      "entity:node/105685:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distribution-population-within-state-major-religious-communities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      938
+    ],
+    "published_date": [
+      1403528429
+    ],
+    "body:value": [
+      "Population is distributed within a State by major religious communities. The major religious communities are Hindus, Muslims, Christians and Sikhs."
+    ],
+    "changed": [
+      1436418536
+    ],
+    "created": [
+      1403518927
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India Human Development Report"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Muslim",
+      "Hindu",
+      "Sikh",
+      "Christin"
+    ],
+    "nid": [
+      105687
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distribution of population within a State by major religious communities"
+    ],
+    "uuid": [
+      "b6139143-e35f-437c-8159-6f8437a431fb"
+    ],
+    "vid": [
+      7889628
+    ],
+    "view_count": [
+      814
+    ],
+    "search_api_id": [
+      "entity:node/105687:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distribution-major-religious-communities-among-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1104
+    ],
+    "published_date": [
+      1403528302
+    ],
+    "body:value": [
+      "Major religious communities are distributed within a State. The major religious communities are Hindus, Muslims, Christians and Sikhs."
+    ],
+    "changed": [
+      1436418536
+    ],
+    "created": [
+      1403519319
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India Human Development Report"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Christian",
+      "Muslim",
+      "Hindu",
+      "Sikh"
+    ],
+    "nid": [
+      105689
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distribution of major religious communities among States"
+    ],
+    "uuid": [
+      "2c8e3286-7c21-4473-8bad-0d75233d0c03"
+    ],
+    "vid": [
+      7889632
+    ],
+    "view_count": [
+      971
+    ],
+    "search_api_id": [
+      "entity:node/105689:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/human-development-index-and-its-components-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      17371
+    ],
+    "published_date": [
+      1403528212
+    ],
+    "body:value": [
+      "Th e Human Development Index (HDI) is a composite index of outcome indicators in three dimensions: a. A long and healthy life, as reflected in life expectancy at birth. b. The acquisition of education and knowledge, as reflected in the mean years of schooling (adjusted for out of school children) and literacy rate (age 7 years and above). c. Th e standard of living and command over resources, as reflected in the monthly per capita expenditure adjusted for inflation and inequality."
+    ],
+    "changed": [
+      1436418536
+    ],
+    "created": [
+      1403519993
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India Human Development Report"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "birth",
+      "Capita",
+      "Development",
+      "expenditure",
+      "Literacy",
+      "HDI",
+      "Rate",
+      "Expectancy"
+    ],
+    "nid": [
+      105692
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Human Development Index and its Components by States"
+    ],
+    "uuid": [
+      "8ad4e336-0e2d-4125-bfc3-2a40ce64daa7"
+    ],
+    "vid": [
+      7889636
+    ],
+    "view_count": [
+      15339
+    ],
+    "search_api_id": [
+      "entity:node/105692:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/unemployment-rate-current-daily-status"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      23453
+    ],
+    "published_date": [
+      1403590554
+    ],
+    "body:value": [
+      "Unemployment Rate (UR) is the ratio of number of unemployed persons/person-days to the number of persons/person-days in labour force. Three sets of estimates of unemployment rates are obtained based on the estimates of unemployment obtained by the three different approaches used for classification of the activity statuses of persons. The different estimates of unemployment are: i) number of persons usually unemployed based on usual status approach, ii) number of persons unemployed on an average in a week, based on the current weekly status(CWS) approach, and  iii) number of person-days unemployed on an average during the reference period of seven \ndays preceding the date of survey, based on the current daily status(CDS) approach. It is also categorised by Hindu, Muslim, Sikh, Christian, Schedule Caste, Schedule Tribe, Other Backward Class."
+    ],
+    "changed": [
+      1494595516
+    ],
+    "created": [
+      1403588115
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India Human Development Report"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Backward",
+      "Christian",
+      "Muslim",
+      "Hindu",
+      "Sikh",
+      "Caste",
+      "Class",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      105734
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Unemployment Rate by Current Daily Status"
+    ],
+    "uuid": [
+      "7b0d748b-511e-4ed1-bf5b-7099aefa08f7"
+    ],
+    "vid": [
+      7889644
+    ],
+    "view_count": [
+      22919
+    ],
+    "search_api_id": [
+      "entity:node/105734:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/incidence-poverty"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2822
+    ],
+    "published_date": [
+      1403599590
+    ],
+    "body:value": [
+      "Poverty: Condition where peoples basic needs for food, clothing, and shelter are not being met in rural and urban areas during the year.\r\n"
+    ],
+    "changed": [
+      1436418532
+    ],
+    "created": [
+      1403593650
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India Human Development Report"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cloth",
+      "Food",
+      "poverty",
+      "Shelter"
+    ],
+    "nid": [
+      105751
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Incidence of Poverty"
+    ],
+    "uuid": [
+      "2bcf7fe9-3a7a-46df-b957-027014d2637f"
+    ],
+    "vid": [
+      7889647
+    ],
+    "view_count": [
+      2505
+    ],
+    "search_api_id": [
+      "entity:node/105751:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/sex-ratio-birth-social-groups-and-major-religious-communities"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2390
+    ],
+    "published_date": [
+      1403599351
+    ],
+    "body:value": [
+      "Sex ratio at birth, de?ned as the number of girls born for every 1000 boys born, is a more accurate and re?ned indicator of the extent of prenatal sex selection. It is further categorized by Social Groups and Major Religious Communities."
+    ],
+    "changed": [
+      1436418532
+    ],
+    "created": [
+      1403595305
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India Human Development Report"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Backward",
+      "Christian",
+      "Muslim",
+      "Hindu",
+      "Sikh",
+      "Caste",
+      "Class",
+      "SRB",
+      "Scheduled",
+      "Tribe",
+      "Ratio"
+    ],
+    "nid": [
+      105756
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Sex ratio at Birth by Social Groups and Major Religious Communities"
+    ],
+    "uuid": [
+      "7a84c610-83c0-45dd-ad18-6056296c1c69"
+    ],
+    "vid": [
+      7889651
+    ],
+    "view_count": [
+      1385
+    ],
+    "search_api_id": [
+      "entity:node/105756:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/distribution-households-pucca-and-kutcha-house"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10081
+    ],
+    "published_date": [
+      1404116047
+    ],
+    "body:value": [
+      "Houses made with high quality materials throughout, including the floor, roof, and exterior walls, are called pucca houses. Houses made from mud, thatch, or other low-quality materials are called katcha houses. Data is disaggregated by Social Groups and major religion communities."
+    ],
+    "changed": [
+      1436418532
+    ],
+    "created": [
+      1403686850
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India Human Development Report"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Backward",
+      "Christian",
+      "community",
+      "Household",
+      "Muslim",
+      "SC",
+      "ST",
+      "Hindu",
+      "Sikh",
+      "Social",
+      "Caste",
+      "Pucca",
+      "Religious",
+      "Tribe",
+      "Schedule",
+      "Kutcha"
+    ],
+    "nid": [
+      105809
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Distribution of households by pucca and kutcha house"
+    ],
+    "uuid": [
+      "978de4aa-c399-421f-9aa6-ca28a711d449"
+    ],
+    "vid": [
+      7889655
+    ],
+    "view_count": [
+      8954
+    ],
+    "search_api_id": [
+      "entity:node/105809:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1995"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2263
+    ],
+    "published_date": [
+      1471494383
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1995. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and SLL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1471498078
+    ],
+    "created": [
+      1471343548
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Kidnapping",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim"
+    ],
+    "nid": [
+      1022741
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1995"
+    ],
+    "uuid": [
+      "0aea0dd3-aa8f-4c9b-98e0-7ad7c651284e"
+    ],
+    "vid": [
+      7896216
+    ],
+    "view_count": [
+      2051
+    ],
+    "search_api_id": [
+      "entity:node/1022741:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

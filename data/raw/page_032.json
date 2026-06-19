@@ -1,0 +1,4786 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/ambient-air-quality-respect-nitrogen-dioxide-under-national-air-quality-monitoring"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3482
+    ],
+    "published_date": [
+      1381393028
+    ],
+    "body:value": [
+      "Air quality with respect to Nitrogen Dioxide (NO2) in air quality stations under National Air Quality Monitoring Programme (NAMP) has been furnished in the data. It contains a detailed summary of Nitrogen dioxide (NO2) levels in the country has been furnished. The air quality of different cities/towns has been compared with the respective National Ambient Air Quality Standards (NAAQS). The air quality has been categorized into four broad categories based on an Exceedance Factor (the ratio of annual mean concentration of a pollutant with that of a respective standard). The four categories are low, moderate, high and critical levels. In addition to above the spread of the data has been given in terms of standard deviation."
+    ],
+    "changed": [
+      1419246625
+    ],
+    "created": [
+      1381319100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Air Quality"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Environment, Forest and Climate Change",
+      "Central Pollution Control Board"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Industrial Air Pollution",
+      "Residential Air Pollution",
+      "Vehicular Air Pollution"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air",
+      "area",
+      "ES",
+      "industrial",
+      "NAMP",
+      "quality",
+      "residential",
+      "pollution",
+      "RIRUO",
+      "Rural",
+      "Urban",
+      "NO2",
+      "Pollutant",
+      "Sensitive",
+      "Dioxide",
+      "Ecologically",
+      "Exceedence"
+    ],
+    "nid": [
+      85887
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Ambient Air Quality with respect to Nitrogen Dioxide under National Air Quality Monitoring Programme (NAMP)"
+    ],
+    "uuid": [
+      "ed5a7bf1-ef2b-4ff6-a843-6384689959ac"
+    ],
+    "vid": [
+      7840246
+    ],
+    "view_count": [
+      3099
+    ],
+    "search_api_id": [
+      "entity:node/85887:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/ambient-air-quality-respect-particulate-matter-under-national-air-quality-monitoring"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4517
+    ],
+    "published_date": [
+      1381394564
+    ],
+    "body:value": [
+      "Air quality with respect to Particulate Matter under National Air Quality Monitoring Programme (NAMP) has been furnished in the data. It contains a detailed summary of city-wise Particulate Matter levels (having aerodynamic diameter less than or equal to 10 micrometer) in the country. The air quality of different cities/towns has been compared with the respective standard. The air quality has been categorized into four broad categories based on an Exceedance Factor (the ratio of annual mean concentration of a pollutant with that of a respective standard). The four categories are low, moderate, high and critical levels. In addition to above the spread of the data has been given in terms of standard deviation."
+    ],
+    "changed": [
+      1419246837
+    ],
+    "created": [
+      1381319100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Air Quality"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Environment, Forest and Climate Change",
+      "Central Pollution Control Board"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Industrial Air Pollution",
+      "Residential Air Pollution",
+      "Vehicular Air Pollution"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air",
+      "area",
+      "ES",
+      "industrial",
+      "NAMP",
+      "quality",
+      "residential",
+      "pollution",
+      "RIRUO",
+      "Rural",
+      "Urban",
+      "Pollutant",
+      "Annual",
+      "Sensitive",
+      "Ecologically"
+    ],
+    "nid": [
+      85889
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Ambient Air Quality with respect to Particulate Matter under National Air Quality Monitoring Programme (NAMP)"
+    ],
+    "uuid": [
+      "2d618d31-ff7e-4048-b191-67339c7ffe40"
+    ],
+    "vid": [
+      7840257
+    ],
+    "view_count": [
+      4079
+    ],
+    "search_api_id": [
+      "entity:node/85889:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/ambient-air-quality-respect-sulfur-dioxide-under-national-air-quality-monitoring-programme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3801
+    ],
+    "published_date": [
+      1381392359
+    ],
+    "body:value": [
+      "Air quality with respect to Sulfur Dioxide in air quality stations under National Air Quality Monitoring Programme (NAMP) has been furnished in the data. It contains a detailed summary of Sulfur Dioxide levels in the country. The air quality of different cities/towns has been compared with the respective National Ambient Air Quality Standards (NAAQS). The air quality has been categorized into four broad categories based on an Exceedance Factor (the ratio of annual mean concentration of a pollutant with that of a respective standard). The four categories are low, moderate, high and critical levels. In addition, to above the spread of the data has been given in terms of standard deviation."
+    ],
+    "changed": [
+      1462177863
+    ],
+    "created": [
+      1381319100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Air Quality"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Environment, Forest and Climate Change",
+      "Central Pollution Control Board"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Industrial Air Pollution",
+      "Residential Air Pollution",
+      "Vehicular Air Pollution"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air",
+      "area",
+      "ES",
+      "industrial",
+      "NAMP",
+      "quality",
+      "residential",
+      "pollution",
+      "RIRUO",
+      "Rural",
+      "SO2",
+      "Urban",
+      "Pollutant",
+      "Annual",
+      "Sensitive",
+      "Dioxide",
+      "Ecologically",
+      "Exceedence"
+    ],
+    "nid": [
+      85891
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Ambient Air Quality with respect to Sulfur Dioxide under National Air Quality Monitoring Programme (NAMP)"
+    ],
+    "uuid": [
+      "072e2bf4-e475-41bb-9b24-df8b72b2ba6b"
+    ],
+    "vid": [
+      7840268
+    ],
+    "view_count": [
+      3382
+    ],
+    "search_api_id": [
+      "entity:node/85891:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/animals-insured-under-livestock-insurance-scheme-goi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6698
+    ],
+    "published_date": [
+      1362136701
+    ],
+    "body:value": [
+      "The data refers to Centrally Sponsored Plan Scheme with the objective to provide protection mechanism to the farmers & cattle rearers against any eventual loss of their animals due to death and to demonstrate the benefit of the insurance of livestock to the people."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1362135960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock Insurance"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Cattle",
+      "Insurance",
+      "Bovine",
+      "Animal"
+    ],
+    "nid": [
+      85893
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Animals Insured under Livestock Insurance Scheme of GoI"
+    ],
+    "uuid": [
+      "4842fb4c-fa85-42f4-ad27-f1e4266971e0"
+    ],
+    "vid": [
+      7840273
+    ],
+    "view_count": [
+      6411
+    ],
+    "search_api_id": [
+      "entity:node/85893:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-and-seasonal-maximum-temperature-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7922
+    ],
+    "published_date": [
+      1370608196
+    ],
+    "body:value": [
+      "This time series is based on the surface air temperature (1.2 m above sea level) data from more than 350 stations spread over the country. The time series shows a warming over India during the recent years."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1370415240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India Maximum Temperatures"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Earth Sciences",
+      "India Meteorological Department (IMD)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Atmospheric Science"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air",
+      "Surface",
+      "Temperature",
+      "global",
+      "Warming"
+    ],
+    "nid": [
+      85895
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual And Seasonal Maximum Temperature Of India"
+    ],
+    "uuid": [
+      "d62a846f-bbc2-4e85-aec4-f4ea254612ca"
+    ],
+    "vid": [
+      7840278
+    ],
+    "view_count": [
+      6896
+    ],
+    "search_api_id": [
+      "entity:node/85895:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-and-seasonal-mean-temperature-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      12665
+    ],
+    "published_date": [
+      1370607896
+    ],
+    "body:value": [
+      "This time series is based on the surface air temperature (1.2 m above sea level) data from more than 350 stations spread over the country. The time series shows a warming over India during the recent years."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1370415480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India Mean Temperatures"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Earth Sciences",
+      "India Meteorological Department (IMD)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Atmospheric Science"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air",
+      "Surface",
+      "Temperature",
+      "global",
+      "Warming"
+    ],
+    "nid": [
+      85897
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual And Seasonal Mean Temperature Of India"
+    ],
+    "uuid": [
+      "e0754eca-32cf-4fa8-99b3-dda744456519"
+    ],
+    "vid": [
+      7840282
+    ],
+    "view_count": [
+      10416
+    ],
+    "search_api_id": [
+      "entity:node/85897:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-and-seasonal-minimum-temperature-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4802
+    ],
+    "published_date": [
+      1370607967
+    ],
+    "body:value": [
+      "Annual and seasonal minimum (night) temperatures in 0C averaged over the country as a whole for the period 1901-2012. This time series is based on the surface air temperature (1.2 m above sea level) data from more than 350 stations spread over the country. The time series shows a warming over India during the recent years."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1370415060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Earth Sciences",
+      "India Meteorological Department (IMD)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Atmospheric Science"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air",
+      "Surface",
+      "Temperature",
+      "global",
+      "Warming"
+    ],
+    "nid": [
+      85899
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual And Seasonal Minimum Temperature Of India"
+    ],
+    "uuid": [
+      "ea82a15e-6c75-40dd-8af3-a2ba5bc0f2d4"
+    ],
+    "vid": [
+      7840286
+    ],
+    "view_count": [
+      4219
+    ],
+    "search_api_id": [
+      "entity:node/85899:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-budget-different-technology-cluster-drdo"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4823
+    ],
+    "published_date": [
+      1361279594
+    ],
+    "body:value": [
+      "Formulation of overall DRDO budget based on the assessment made from the analysis of demands received from labs/estts.Allocation and Priority based enhancement of allocations (where necessary) of funds to labs/estts/programmes/high value projects. Formulation of Revised Budget Estimates (RE) based on review of expenditure status, additional demands against existing and new schemes and projection to MOD (Fin) alongwith the Forecast Budget Estimates (FBE) for the next Financial Year. Formulation of Modified Appropriations (MA) reports based on the final expenditure trends and unforseen demands received (if any) in the months of February. Compilation of expenditure returns received from labs/estts/programmes and actual compilations from CDA / (R&D)CGDA.Continuous budget monitoring based on commitments and cash outgo status in respect of CCPA programmes, high value projects, high budget labs/estts and re appropriation of allocations whenever required .Initiation of corrective actions based on expenditure trends for adjustment of expenditure bookings. Analysis of expenditure returns in respect of Central Purchase (CP) booking and resolving wrong and unidentifiable bookings. Compilation of various periodical reports/returns for Ministry of Defence and Ministry of Finance and compilation of various MIS reports to facilitate decision making at DRC level .Preparation of Budget Performance Analysis document to enable review of events of the year and initiate corrective action in the system wherever required."
+    ],
+    "changed": [
+      1528447549
+    ],
+    "created": [
+      1361250540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DRDO ANNUAL REPORT"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "DRDO",
+      "research",
+      "report",
+      "Defence",
+      "Organisation"
+    ],
+    "nid": [
+      85901
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Budget for Different Technology Cluster of DRDO"
+    ],
+    "uuid": [
+      "25e82629-c9aa-4eb5-9036-e09592556e0a"
+    ],
+    "vid": [
+      7840295
+    ],
+    "view_count": [
+      4216
+    ],
+    "search_api_id": [
+      "entity:node/85901:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-estimated-production-fuel-wood-forests"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1279
+    ],
+    "published_date": [
+      1379921919
+    ],
+    "body:value": [
+      "The data refers to recorded forest area (sq. km.) and annual estimated production of fuel wood from forests (million tonnes). "
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1379069820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Forest",
+      "Fuel",
+      "ISFR",
+      "report",
+      "Recorded"
+    ],
+    "nid": [
+      85903
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Estimated Production of Fuel wood from Forests"
+    ],
+    "uuid": [
+      "5a9e5329-e05a-45e5-8aa0-419d9bb3ae97"
+    ],
+    "vid": [
+      7840301
+    ],
+    "view_count": [
+      1151
+    ],
+    "search_api_id": [
+      "entity:node/85903:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-estimated-production-wood-forests"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1920
+    ],
+    "published_date": [
+      1379922189
+    ],
+    "body:value": [
+      "The data refers to recorded forest area (sq. km.) and annual estimated production of fuel wood from forests (million tonnes). "
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1379069820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Forest",
+      "Fuel",
+      "ISFR",
+      "report",
+      "Recorded"
+    ],
+    "nid": [
+      85905
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Estimated Production of wood from forests"
+    ],
+    "uuid": [
+      "a70dcaa2-8ba0-4c06-b63c-94a265d0e7ac"
+    ],
+    "vid": [
+      7840307
+    ],
+    "view_count": [
+      1695
+    ],
+    "search_api_id": [
+      "entity:node/85905:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/average-gaseous-composition-dry-air-troposphere"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2394
+    ],
+    "published_date": [
+      1365011585
+    ],
+    "body:value": [
+      "The data refers to average composition of gases (nitrogen, oxygen, argon, carbon dioxide, neon, helium, methane, kryton, hydrogen, ozone, xenon) in dry state."
+    ],
+    "changed": [
+      1441695842
+    ],
+    "created": [
+      1364881380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air",
+      "Gaseous",
+      "Troposphere",
+      "Dry"
+    ],
+    "nid": [
+      86118
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Average Gaseous Composition of Dry Air in the Troposphere"
+    ],
+    "uuid": [
+      "7cb21cf6-a483-4c2b-9199-f94c0a477927"
+    ],
+    "vid": [
+      7841113
+    ],
+    "view_count": [
+      2169
+    ],
+    "search_api_id": [
+      "entity:node/86118:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/average-mpce-mmrp-and-rural-urban-differentials-across-stateuts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      12035
+    ],
+    "published_date": [
+      1373975910
+    ],
+    "body:value": [
+      "The data compares the average modified mixed reference period monthly per capita consumption expenditure for rural and urban along with the differential across the states."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1373918520
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capita",
+      "Consumption",
+      "expenditure",
+      "NSS",
+      "Rural",
+      "Survey",
+      "Urban"
+    ],
+    "nid": [
+      86120
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Average MPCE-MMRP and rural-urban differentials across State/UTs"
+    ],
+    "uuid": [
+      "3b00ebf5-1f0b-494e-a9ed-8d2ddc73b791"
+    ],
+    "vid": [
+      7841119
+    ],
+    "view_count": [
+      11690
+    ],
+    "search_api_id": [
+      "entity:node/86120:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/average-capita-annual-earnings-factory-labour-manufacturing-industries"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      972
+    ],
+    "published_date": [
+      1365009466
+    ],
+    "body:value": [
+      "This data refers to data regarding per capita annual earnings of factory workers by industry code in manufacturing sectors from 2002 onwards."
+    ],
+    "changed": [
+      1599032762
+    ],
+    "created": [
+      1364898840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capita",
+      "Industry",
+      "Labour"
+    ],
+    "nid": [
+      86122
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Average Per Capita Annual Earnings Of Factory Labour In Manufacturing Industries."
+    ],
+    "uuid": [
+      "2c7247b5-02ba-4091-b77d-7722af3a1c5d"
+    ],
+    "vid": [
+      7841130
+    ],
+    "view_count": [
+      927
+    ],
+    "search_api_id": [
+      "entity:node/86122:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/average-capita-annual-earnings-factory-workers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1186
+    ],
+    "published_date": [
+      1365009694
+    ],
+    "body:value": [
+      "Get the data on regarding per capita annual earnings of factory workers by states."
+    ],
+    "changed": [
+      1602755822
+    ],
+    "created": [
+      1364898840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employment",
+      "Labour"
+    ],
+    "nid": [
+      86124
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Average Per Capita Annual Earnings Of Factory Workers"
+    ],
+    "uuid": [
+      "af799f9c-25c3-4901-95bd-92eb28fdef46"
+    ],
+    "vid": [
+      7841144
+    ],
+    "view_count": [
+      1097
+    ],
+    "search_api_id": [
+      "entity:node/86124:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/average-yield-principal-crops"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7032
+    ],
+    "published_date": [
+      1364465190
+    ],
+    "body:value": [
+      "The data refers to All India (from 2000 to 2010) and State-wise (2009-10 and 2010-11) average yield of Principal Crops (food grains, oil seeds, cotton, jute, banana, black pepper, coconut, turmeric etc)."
+    ],
+    "changed": [
+      1509539179
+    ],
+    "created": [
+      1364461440
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Crops",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bajra",
+      "Banana",
+      "barley",
+      "Coconut",
+      "Ginger",
+      "gram",
+      "jawar",
+      "maize",
+      "OIL",
+      "ragi",
+      "Pepper",
+      "Potato",
+      "rice",
+      "rubber",
+      "wheat",
+      "Tobacco",
+      "Turmeric",
+      "Foodgrain",
+      "Cereal",
+      "Natural",
+      "Pulse",
+      "Millet",
+      "Chillie",
+      "Seeds"
+    ],
+    "nid": [
+      86126
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Average Yield of Principal Crops"
+    ],
+    "uuid": [
+      "39672d52-ac83-4eb6-8b0a-9545eaa7b239"
+    ],
+    "vid": [
+      7841151
+    ],
+    "view_count": [
+      6365
+    ],
+    "search_api_id": [
+      "entity:node/86126:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/balance-payments-bpm6-new-format-us-million"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5073
+    ],
+    "published_date": [
+      1371809640
+    ],
+    "body:value": [
+      "The data refers to the Balance of Payments (BOP) (US$ million) as per IMF Balance of Payments Manual 5 - New Format. BOP mainly refers to the difference between a country's external financial assets and external liabilities. The data refers to item-wise details for various years."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Balance of Payments"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Economic",
+      "finance",
+      "Reserve",
+      "Survey",
+      "Current",
+      "Account"
+    ],
+    "nid": [
+      86128
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Balance of Payments - as per BPM6 new format (US$ million)"
+    ],
+    "uuid": [
+      "79d0d5f9-4744-4a04-a830-652cb61f01f4"
+    ],
+    "vid": [
+      7841155
+    ],
+    "view_count": [
+      4926
+    ],
+    "search_api_id": [
+      "entity:node/86128:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/balance-payments-old-format-us-million"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2354
+    ],
+    "published_date": [
+      1371809514
+    ],
+    "body:value": [
+      "The data refers to the Balance of Payments (BOP) (US$ million) as per IMF Balance of Payments Manual 5 - old format. BOP mainly refers to the difference between a country's external financial assets and external liabilities. The data refers to item-wise details for various years."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Balance of Payments"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Economic",
+      "finance",
+      "Reserve",
+      "Survey",
+      "Current",
+      "Account"
+    ],
+    "nid": [
+      86130
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Balance of Payments - as per old format (US$ million)"
+    ],
+    "uuid": [
+      "bff48f72-7efb-41f2-ad02-91b68758247e"
+    ],
+    "vid": [
+      7841160
+    ],
+    "view_count": [
+      2245
+    ],
+    "search_api_id": [
+      "entity:node/86130:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/bank-wise-lending-minorities-under-priority-sector-lending"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9720
+    ],
+    "published_date": [
+      1375774998
+    ],
+    "body:value": [
+      "Get data on Bank-wise Lending to Minorities under Priority Sector Lending. Catalog contains Name of Bank, Total Priority Sector Lending (PSL) Outstanding , Share of Minorities Community Lending (MCL) Outstanding in total PSL, Percentage  of Minorities Community Lending to Priority Sector Lending. \r\nPriority Sector Lending by Public Sector Banks is extended to the individuals. Under Prime Minister New 15 Point Programme, the Public Sector Banks (PSBs) were advised by the Government to Step-up their Minority Community Lending (MCL) to 15% of their Priority Sector Lending (PSL). The Reserve Bank of India has issued Master Circular- Priority Sector Lending-Targets and Classification dated July 01, 2013, as per which the broad categories under priority sector for all scheduled commercial banks are Agriculture,Micro and Small Enterprises, Education, Housing, Export Credit and Others.\r\nLending to minority communities is covered under weaker sections category of Priority Sector Lending. In terms of Reserve Banks extant guidelines on lending to priority sector, a target of 40 per cent of Adjusted Net Bank Credit (ANBC) or Credit Equivalent amount of Off-Balance Sheet Exposure (OBE), whichever is higher, as on March 31 of the previous year, has been mandated for lending to the priority sector by domestic scheduled commercial banks and foreign banks with 20 per cent and above branches. Within this, a sub-target of 10 per cent of ANBC or Credit Equivalent amount of OBE, whichever is higher, as on March 31 of the previous year, has been mandated for lending to weaker sections which includes, among others, persons from minority communities."
+    ],
+    "changed": [
+      1446104676
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Bank-wise Lending to Minorities"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Financial Services"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Banking"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bank",
+      "community",
+      "Credit",
+      "finance",
+      "Loan",
+      "Minority",
+      "PSL",
+      "Public",
+      "MCL",
+      "ANBC",
+      "PSB",
+      "Weaker",
+      "Adjusted"
+    ],
+    "nid": [
+      86132
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Bank-wise Lending to Minorities under Priority Sector Lending"
+    ],
+    "uuid": [
+      "d9b13ee6-f191-44a0-b952-962c9f889869"
+    ],
+    "vid": [
+      7841188
+    ],
+    "view_count": [
+      8811
+    ],
+    "search_api_id": [
+      "entity:node/86132:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/basic-computer-course-training-nielit-formerly-known-doeacc"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5553
+    ],
+    "published_date": [
+      1368095226
+    ],
+    "body:value": [
+      "Basic Computer Course Training by National Institute of Electronics and Information Technology (NIELIT) formerly known as Department of Electronics and Accreditation of Computer Classes (DOEACC). NIELIT was engaged by Ministry of Panchayati Raj to impart basic IT literacy training to Panchayati Raj Institute functionaries and members across the country."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1368013140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Training"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Panchayati Raj"
+    ],
+    "field_sector:name": [
+      "Rural",
+      "Panchayati Raj"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Panchayati",
+      "Raj"
+    ],
+    "nid": [
+      86136
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Basic Computer Course Training NIELIT formerly known as DOEACC"
+    ],
+    "uuid": [
+      "e45f5abf-1a43-46c8-82ce-87631a824a36"
+    ],
+    "vid": [
+      7841193
+    ],
+    "view_count": [
+      5310
+    ],
+    "search_api_id": [
+      "entity:node/86136:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/basic-habitation-information"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      11466
+    ],
+    "published_date": [
+      1366824046
+    ],
+    "body:value": [
+      "The data refers to the list of habitations, its population in different caste category (SC, ST and GENERAL) and status of availability of potable drinking water (Covered or Partially covered) all over India."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Drinking Water"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Drinking Water and Sanitation"
+    ],
+    "field_sector:name": [
+      "Water and Sanitation",
+      "Water Resources",
+      "Drinking Water"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NRDWP",
+      "Population",
+      "Programme",
+      "Rural",
+      "Water",
+      "Caste",
+      "Drinking",
+      "Potable"
+    ],
+    "nid": [
+      86138
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Basic Habitation Information"
+    ],
+    "uuid": [
+      "8dfe696f-42b4-4f2d-a0f8-8759804bf852"
+    ],
+    "vid": [
+      7841211
+    ],
+    "view_count": [
+      10569
+    ],
+    "search_api_id": [
+      "entity:node/86138:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/below-poverty-line-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      131964
+    ],
+    "published_date": [
+      1358937252
+    ],
+    "body:value": [
+      "The data refers to population Below Poverty Line in India."
+    ],
+    "changed": [
+      1454581841
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "poverty",
+      "Rural",
+      "Person"
+    ],
+    "nid": [
+      86143
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Below Poverty Line in India"
+    ],
+    "uuid": [
+      "ae236539-e7ed-4fab-967d-ea4c9c4d6d93"
+    ],
+    "vid": [
+      7841247
+    ],
+    "view_count": [
+      126658
+    ],
+    "search_api_id": [
+      "entity:node/86143:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/bench-marking-indian-railways-chinese-and-russian-railways"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1420
+    ],
+    "published_date": [
+      1370084939
+    ],
+    "body:value": [
+      "The data refers to an overview of Bench marking Indian Railways with Chinese and Russian Railways."
+    ],
+    "changed": [
+      1436419233
+    ],
+    "created": [
+      1370064120
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Railways"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Railways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Export",
+      "Rail",
+      "Benchmark"
+    ],
+    "nid": [
+      86154
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Bench Marking Indian Railways With Chinese And Russian Railways"
+    ],
+    "uuid": [
+      "884d6b6e-226e-4f12-b12f-4d3a6a792415"
+    ],
+    "vid": [
+      7841249
+    ],
+    "view_count": [
+      1274
+    ],
+    "search_api_id": [
+      "entity:node/86154:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/beneficiaries-reporting-inadequate-food-served-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      743
+    ],
+    "published_date": [
+      1385706201
+    ],
+    "body:value": [
+      "The data refers to the success of CMDM scheme on eliminating hunger at school level in the sample states. It provides state-wise details of Percent of Beneficiaries Reporting Inadequate Food Served. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385640300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CMDM",
+      "Scheme",
+      "Cooked",
+      "Meal"
+    ],
+    "nid": [
+      86156
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Beneficiaries Reporting Inadequate Food Served - Based on Sample Survey"
+    ],
+    "uuid": [
+      "057d419c-fd05-46d6-8542-b833916486d2"
+    ],
+    "vid": [
+      7841256
+    ],
+    "view_count": [
+      680
+    ],
+    "search_api_id": [
+      "entity:node/86156:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-deep-tubewells-according-source-energy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      250
+    ],
+    "published_date": [
+      1390912848
+    ],
+    "body:value": [
+      "The data refers to block wise number of Deep Tubewells according to various sources of energy. It includes details on sources like Electric pump, Solar pump, Diesel pump, Wind Mills and Manual/animal."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      86226
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise distribution of deep tubewells according to source of energy"
+    ],
+    "uuid": [
+      "1187f42d-28d5-4ffb-995c-7ee0a6a34be1"
+    ],
+    "vid": [
+      7841476
+    ],
+    "view_count": [
+      237
+    ],
+    "search_api_id": [
+      "entity:node/86226:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-deep-tubewells-according-total-hours-pumping-operation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      180
+    ],
+    "published_date": [
+      1390913100
+    ],
+    "body:value": [
+      "The data refers to block wise distribution of Deep Tubewells according to total hours of pumping operating during kharif and rabi seasons."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      86239
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise distribution of deep tubewells according to total hours of pumping operation"
+    ],
+    "uuid": [
+      "4d0d9683-8e0b-4d62-bc32-c47a9fd0da88"
+    ],
+    "vid": [
+      7841516
+    ],
+    "view_count": [
+      177
+    ],
+    "search_api_id": [
+      "entity:node/86239:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-deep-tubewells-cost-maintenance"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      221
+    ],
+    "published_date": [
+      1390911916
+    ],
+    "body:value": [
+      "The data refers to block wise number of Deep Tubewells according to the annual cost of maintenance."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      86245
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise distribution of deep tubewells by cost of maintenance"
+    ],
+    "uuid": [
+      "8327b75a-fa89-4c02-942c-42c11308a10c"
+    ],
+    "vid": [
+      7841534
+    ],
+    "view_count": [
+      204
+    ],
+    "search_api_id": [
+      "entity:node/86245:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-deep-tubewells-location-command-majormedium-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      208
+    ],
+    "published_date": [
+      1390913196
+    ],
+    "body:value": [
+      "The data refers to block wise distribution of Deep Tubewells by location in the command of Major/Medium Projects which includes Outside command, Inside command and Inside command for augmentation only."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      86247
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise distribution of deep tubewells by location in the command of major/medium projects"
+    ],
+    "uuid": [
+      "c18433dc-51ec-43fd-8a11-8ac9d288919f"
+    ],
+    "vid": [
+      7841539
+    ],
+    "view_count": [
+      202
+    ],
+    "search_api_id": [
+      "entity:node/86247:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-deep-tubewells-type"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      271
+    ],
+    "published_date": [
+      1390911650
+    ],
+    "body:value": [
+      "The data refers to block wise details on number of Deep Tubewells by types. The different types of Deep Tubewells included are Pucca, Kutcha and Dug-cum borewell."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      86253
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise distribution of deep tubewells by type"
+    ],
+    "uuid": [
+      "6bf353dc-4ed7-404c-a6de-51ce0ea2fe92"
+    ],
+    "vid": [
+      7841557
+    ],
+    "view_count": [
+      257
+    ],
+    "search_api_id": [
+      "entity:node/86253:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-deep-tubewells-permanently-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      228
+    ],
+    "published_date": [
+      1390912629
+    ],
+    "body:value": [
+      "The data refers to block wise number of Deep Tubewells permanent not in use due to Salinity, Drying up, Destroyed beyond repair and Sinking."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      86259
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise distribution of deep tubewells permanently not is use by reasons"
+    ],
+    "uuid": [
+      "b777f2cf-69c8-4156-ab9f-84e600ee1c6a"
+    ],
+    "vid": [
+      7841572
+    ],
+    "view_count": [
+      222
+    ],
+    "search_api_id": [
+      "entity:node/86259:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-surface-flow-schemes-cost-maintenance"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      283
+    ],
+    "published_date": [
+      1390989866
+    ],
+    "body:value": [
+      "The data refers to block-wise number of surface flow schemes according to the annual cost of maintenance."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390541100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI",
+      "Minor"
+    ],
+    "nid": [
+      86416
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of surface flow schemes by cost of maintenance"
+    ],
+    "uuid": [
+      "f2b1c4da-9312-4758-81dc-d48d680c3262"
+    ],
+    "vid": [
+      7842029
+    ],
+    "view_count": [
+      270
+    ],
+    "search_api_id": [
+      "entity:node/86416:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-surface-flow-schemes-location-command-majormedium-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      257
+    ],
+    "published_date": [
+      1390990166
+    ],
+    "body:value": [
+      "The data refers to block-wise distribution of surface lift schemes by location in the command of Major/Medium Projects which includes Outside command, Inside command and Inside command for augmentation only."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390541100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI",
+      "Minor"
+    ],
+    "nid": [
+      86418
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of surface flow schemes by location in the command of Major/Medium projects"
+    ],
+    "uuid": [
+      "dc487a6f-5300-4b77-a726-0a6e89ff8943"
+    ],
+    "vid": [
+      7842034
+    ],
+    "view_count": [
+      250
+    ],
+    "search_api_id": [
+      "entity:node/86418:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-surface-flow-schemes-permanently-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      219
+    ],
+    "published_date": [
+      1390990060
+    ],
+    "body:value": [
+      "The data refers to block-wise number of surface flow schemes permanent not in use due to Salinity, Drying up, Destroyed beyond repair and Sinking."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390541100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI",
+      "Minor"
+    ],
+    "nid": [
+      86431
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of surface flow schemes permanently not is use by reasons"
+    ],
+    "uuid": [
+      "37e9631a-1c27-4116-a84a-21707a331edb"
+    ],
+    "vid": [
+      7842074
+    ],
+    "view_count": [
+      204
+    ],
+    "search_api_id": [
+      "entity:node/86431:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-surface-flow-schemes-temporary-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      245
+    ],
+    "published_date": [
+      1390989995
+    ],
+    "body:value": [
+      "The data refers to block-wise number of surface flow schemes temporarily not in use due to Non-availability of adequate power, Mechanical break-down, Less discharge of water, Storage not filled up fully, Siltation of channel/storage and Channel break-down."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390541100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI",
+      "Minor"
+    ],
+    "nid": [
+      86433
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of surface flow schemes temporary not is use by reasons"
+    ],
+    "uuid": [
+      "48c71593-b63c-42d8-903b-4357d6beae19"
+    ],
+    "vid": [
+      7842079
+    ],
+    "view_count": [
+      233
+    ],
+    "search_api_id": [
+      "entity:node/86433:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-tankspondsreservoir-lift-schemes-cca-classes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1098
+    ],
+    "published_date": [
+      1391085496
+    ],
+    "body:value": [
+      "The data refers to block wise number of tanks/ponds/reservoirs by culturable command area in private and public."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390557720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI"
+    ],
+    "nid": [
+      86481
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Tanks/Ponds/Reservoir of Lift Schemes by CCA classes"
+    ],
+    "uuid": [
+      "1a5610f7-8005-4da8-b7ca-815c49a5d378"
+    ],
+    "vid": [
+      7842226
+    ],
+    "view_count": [
+      1051
+    ],
+    "search_api_id": [
+      "entity:node/86481:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-tankspondsreservoir-lift-schemes-storage-size"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      893
+    ],
+    "published_date": [
+      1391085482
+    ],
+    "body:value": [
+      "The data refers to block wise number of tanks/ponds/reservoirs by designed storage capacities."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390557720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI"
+    ],
+    "nid": [
+      86483
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Tanks/Ponds/Reservoir of Lift Schemes by storage size"
+    ],
+    "uuid": [
+      "cdacffeb-1cf3-4d45-85d9-309f81118701"
+    ],
+    "vid": [
+      7842231
+    ],
+    "view_count": [
+      876
+    ],
+    "search_api_id": [
+      "entity:node/86483:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-tankspondsreservoir-surface-flow-schemes-cca-classes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      249
+    ],
+    "published_date": [
+      1390990463
+    ],
+    "body:value": [
+      "The data refers to block-wise distribution of Tanks/Ponds/Reservoir of flow schemes by Culturable command area classes and Inside command for augmentation only under Private and Public ownership."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390541100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI",
+      "Minor"
+    ],
+    "nid": [
+      86485
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Tanks/Ponds/Reservoir of surface flow schemes by CCA classes"
+    ],
+    "uuid": [
+      "471d10c9-e3c6-419b-b82b-086d1a5398f8"
+    ],
+    "vid": [
+      7842236
+    ],
+    "view_count": [
+      241
+    ],
+    "search_api_id": [
+      "entity:node/86485:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-tankspondsreservoir-surface-flow-schemes-storage-size"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      345
+    ],
+    "published_date": [
+      1390990403
+    ],
+    "body:value": [
+      "The data refers to block-wise number of tanks/ponds/reservoirs by designed storage capacities."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390541100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI",
+      "Minor"
+    ],
+    "nid": [
+      86487
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Tanks/Ponds/Reservoir of surface flow schemes by storage size"
+    ],
+    "uuid": [
+      "c4b8fe05-3e01-4f02-bba7-998dbd3d18b7"
+    ],
+    "vid": [
+      7842241
+    ],
+    "view_count": [
+      234
+    ],
+    "search_api_id": [
+      "entity:node/86487:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-deep-tubewells-temporary-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      183
+    ],
+    "published_date": [
+      1390912579
+    ],
+    "body:value": [
+      "The data refers to block wise number of Deep Tubewells temporarily not in use due to Non-availability of adequate power, Mechanical break-down and Less discharge of water."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      86261
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise distribution of deep tubewells temporary not is use by reasons"
+    ],
+    "uuid": [
+      "639a3c33-cf8e-4af1-aa84-708f92ab7b33"
+    ],
+    "vid": [
+      7841577
+    ],
+    "view_count": [
+      175
+    ],
+    "search_api_id": [
+      "entity:node/86261:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-dugwells-according-depth-dugwells"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      354
+    ],
+    "published_date": [
+      1391073051
+    ],
+    "body:value": [
+      "The data refers to block wise distribution of dugwells according to the depth of the dugwells."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390554780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      86266
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Dugwells according to depth of the Dugwells"
+    ],
+    "uuid": [
+      "d9026abd-0c04-4c9d-893e-780960bcec04"
+    ],
+    "vid": [
+      7841591
+    ],
+    "view_count": [
+      322
+    ],
+    "search_api_id": [
+      "entity:node/86266:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-dugwells-according-source-energy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      419
+    ],
+    "published_date": [
+      1391072857
+    ],
+    "body:value": [
+      "The data refers to block wise number of dugwells according to various sources of energy. It includes details on sources like Electric pump, Solar pump, Diesel pump, Wind Mills and Manual/animal."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390554780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      86280
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Dugwells according to source of energy"
+    ],
+    "uuid": [
+      "20e225aa-5ac4-44b1-ae07-a7445e7a751a"
+    ],
+    "vid": [
+      7841635
+    ],
+    "view_count": [
+      324
+    ],
+    "search_api_id": [
+      "entity:node/86280:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-dugwells-according-total-hours-pumping-operation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      294
+    ],
+    "published_date": [
+      1391072898
+    ],
+    "body:value": [
+      "The data refers to block wise distribution of dugwells according to total hours of pumping operating during kharif and rabi seasons."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390554780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      86290
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Dugwells according to total hours of pumping operation"
+    ],
+    "uuid": [
+      "5daa48ba-1adb-438c-b528-021fa531f9cb"
+    ],
+    "vid": [
+      7841666
+    ],
+    "view_count": [
+      284
+    ],
+    "search_api_id": [
+      "entity:node/86290:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-dugwells-cost-maintenance"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      394
+    ],
+    "published_date": [
+      1391072687
+    ],
+    "body:value": [
+      "The data refers to block wise number of dugwells according to the annual cost of maintenance."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390554780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      86296
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Dugwells by cost of maintenance"
+    ],
+    "uuid": [
+      "f88abdae-89ce-41f7-bab0-e460b5146b3a"
+    ],
+    "vid": [
+      7841684
+    ],
+    "view_count": [
+      353
+    ],
+    "search_api_id": [
+      "entity:node/86296:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-dugwells-location-command-majormedium-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      347
+    ],
+    "published_date": [
+      1391072951
+    ],
+    "body:value": [
+      "The data refers to block wise distribution of dugwells by location in the command of Major/Medium Projects which includes Outside command, Inside command and Inside command for augmentation only."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390554780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      86298
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Dugwells by location in the command of Major/Medium projects"
+    ],
+    "uuid": [
+      "f6b31b21-5f1d-43b5-b12a-905cf9bbbeef"
+    ],
+    "vid": [
+      7841689
+    ],
+    "view_count": [
+      336
+    ],
+    "search_api_id": [
+      "entity:node/86298:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-dugwells-permanently-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      288
+    ],
+    "published_date": [
+      1391072783
+    ],
+    "body:value": [
+      "The data refers to block wise number of dugwells permanent not in use due to Salinity, Drying up, Destroyed beyond repair and Sinking."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390554780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      86312
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Dugwells permanently not is use by reasons"
+    ],
+    "uuid": [
+      "e9c0f81d-3b19-4db9-9a69-38301d6f6f2b"
+    ],
+    "vid": [
+      7841730
+    ],
+    "view_count": [
+      283
+    ],
+    "search_api_id": [
+      "entity:node/86312:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-dugwells-temporary-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      405
+    ],
+    "published_date": [
+      1391072750
+    ],
+    "body:value": [
+      "The data refers to block wise number of dugwells temporarily not in use due to Non-availability of adequate power, Mechanical break-down and Less discharge of water."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390554780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      86314
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Dugwells temporary not is use by reasons"
+    ],
+    "uuid": [
+      "ca40d79c-846c-436e-8c0e-367be58e5884"
+    ],
+    "vid": [
+      7841735
+    ],
+    "view_count": [
+      355
+    ],
+    "search_api_id": [
+      "entity:node/86314:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-lift-schemes-according-source-energy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      316
+    ],
+    "published_date": [
+      1391085362
+    ],
+    "body:value": [
+      "The data refers to block wise number of surface lift schemes according to various sources of energy. It includes details on sources like Electric pump, Solar pump, Diesel pump, Wind Mills and Manual/animal."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390557660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI"
+    ],
+    "nid": [
+      86316
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Lift Schemes according to source of energy"
+    ],
+    "uuid": [
+      "9a975404-1258-432a-a2d6-15a8d4865352"
+    ],
+    "vid": [
+      7841740
+    ],
+    "view_count": [
+      303
+    ],
+    "search_api_id": [
+      "entity:node/86316:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-lift-schemes-according-total-hours-pumping-operation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      291
+    ],
+    "published_date": [
+      1391085390
+    ],
+    "body:value": [
+      "The data refers to block wise distribution of surface lift schemes according to total hours of pumping operating during kharif and rabi seasons."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390557660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI"
+    ],
+    "nid": [
+      86318
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Lift Schemes according to total hours of pumping operation"
+    ],
+    "uuid": [
+      "f4f78cf5-8c2d-4079-8d3e-2b6436c157f1"
+    ],
+    "vid": [
+      7841745
+    ],
+    "view_count": [
+      276
+    ],
+    "search_api_id": [
+      "entity:node/86318:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-lift-schemes-cost-maintenance"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      276
+    ],
+    "published_date": [
+      1391085263
+    ],
+    "body:value": [
+      "The data refers to block wise number of surface lift schemes according to the annual cost of maintenance."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390557660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI"
+    ],
+    "nid": [
+      86320
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Lift Schemes by cost of maintenance"
+    ],
+    "uuid": [
+      "85a79f88-1c0e-410c-8268-b4b2c9609b65"
+    ],
+    "vid": [
+      7841750
+    ],
+    "view_count": [
+      265
+    ],
+    "search_api_id": [
+      "entity:node/86320:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-lift-schemes-location-command-majormedium-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      351
+    ],
+    "published_date": [
+      1391085416
+    ],
+    "body:value": [
+      "The data refers to block wise distribution of surface lift schemes by location in the command of Major/Medium Projects which includes Outside command, Inside command and Inside command for augmentation only."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390557660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI"
+    ],
+    "nid": [
+      86322
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Lift Schemes by location in the command of Major/Medium projects"
+    ],
+    "uuid": [
+      "b5764b91-3084-4c82-ad09-39b38cf859c4"
+    ],
+    "vid": [
+      7841755
+    ],
+    "view_count": [
+      327
+    ],
+    "search_api_id": [
+      "entity:node/86322:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-wise-distribution-lift-schemes-permanently-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      364
+    ],
+    "published_date": [
+      1391085319
+    ],
+    "body:value": [
+      "The data refers to block wise number of surface lift schemes permanent not in use due to Salinity, Drying up, Destroyed beyond repair and Sinking."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390557660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Scheme",
+      "Surface",
+      "MI"
+    ],
+    "nid": [
+      86324
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Block wise Distribution of Lift Schemes permanently not is use by reasons"
+    ],
+    "uuid": [
+      "94b7c22c-e60d-4687-b801-0505e61b7cb0"
+    ],
+    "vid": [
+      7841760
+    ],
+    "view_count": [
+      350
+    ],
+    "search_api_id": [
+      "entity:node/86324:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]
