@@ -13,101 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/total-road-length-and-percentage-share-each-category-road-total-road-length"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      5411
-    ],
-    "published_date": [
-      1388468537
-    ],
-    "body:value": [
-      "The data refers to total road length and percentage share of each category of road to total road length."
-    ],
-    "changed": [
-      1398846411
-    ],
-    "created": [
-      1392283981
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Roads"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Road Transport and Highways"
-    ],
-    "field_sector:name": [
-      "Transport",
-      "Road Transport"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Length",
-      "Project",
-      "Road",
-      "Rural",
-      "Urban",
-      "PWD"
-    ],
-    "nid": [
-      92142
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Total road length and percentage share of each category of road to total road length"
-    ],
-    "uuid": [
-      "83eb95cf-e6c4-4607-ae4f-0d60f0dcc339"
-    ],
-    "vid": [
-      7864003
-    ],
-    "view_count": [
-      5183
-    ],
-    "search_api_id": [
-      "entity:node/92142:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/total-traffic-and-operating-statistics-air-india-non-scheduled-revenue-services"
     ],
     "ogdp_custom_field": [
@@ -4807,6 +4712,100 @@
     ],
     "search_api_id": [
       "entity:node/91669:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-estimates-milk-production-animal"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3964
+    ],
+    "published_date": [
+      1387255537
+    ],
+    "body:value": [
+      "The data refers to information about State/UT-wise Milk Production. It further provides details on number of animals in Milk, Average yield per animal in Milk and Milk Production by Cows, Goats and buffalos."
+    ],
+    "changed": [
+      1434438113
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Milk Production"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Buffalo",
+      "Cow",
+      "Goat",
+      "Yield"
+    ],
+    "nid": [
+      91676
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise estimates of Milk Production by animal"
+    ],
+    "uuid": [
+      "7769348f-99a5-4d55-89f0-02bd91484230"
+    ],
+    "vid": [
+      7862413
+    ],
+    "view_count": [
+      3589
+    ],
+    "search_api_id": [
+      "entity:node/91676:en"
     ],
     "search_api_datasource": [
       "entity:node"

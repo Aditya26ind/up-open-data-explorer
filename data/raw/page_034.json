@@ -1,105 +1,5 @@
 [
   {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
-      "/catalog/cash-transaction-reports-received-under-prevention-money-laundering-act"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      6455
-    ],
-    "published_date": [
-      1361267814
-    ],
-    "body:value": [
-      "The Prevention of Money-laundering Act, 2002, and rule thereunder require every banking company, financial institution and intermediary, to furnish to FIU-IND information relating to - All cash transactions of the value of more than rupees ten lakhs or its equivalent in foreign currency; All series of cash transactions integrally connected to each other which have been valued below rupees ten lakhs or its equivalent in foreign currency where such series of transactions have taken place within a month."
-    ],
-    "changed": [
-      1392273597
-    ],
-    "created": [
-      1392273597
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Financial Intelligence"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Finance",
-      "Department of Revenue",
-      "Financial Intelligence Unit - India"
-    ],
-    "field_sector:name": [
-      "Finance"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Cash",
-      "CTR",
-      "Currency",
-      "finance",
-      "Financial",
-      "Foreign",
-      "intelligence",
-      "PMLA",
-      "Transaction",
-      "Laundring"
-    ],
-    "nid": [
-      86654
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Cash Transaction Reports received under Prevention of Money Laundering Act"
-    ],
-    "uuid": [
-      "02af2362-3a1f-4782-88e4-b3d8be6a8ab7"
-    ],
-    "vid": [
-      7842850
-    ],
-    "view_count": [
-      5880
-    ],
-    "search_api_id": [
-      "entity:node/86654:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
     "api_request_count": [
       2
     ],
@@ -4777,6 +4677,103 @@
     ],
     "search_api_id": [
       "entity:node/87026:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/details-department-related-parliamentary-standing-committees-lok-sabha-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1101
+    ],
+    "published_date": [
+      1379670371
+    ],
+    "body:value": [
+      "(English) The data refers to details regarding the department related Parliamentary Standing Committees of Lok Sabha and their members. It gives the Introduction, Composition, Reports, Rules, Meetings, Engagements, Bills/Petitions, etc."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378099560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "committee",
+      "Membership",
+      "Loksabha",
+      "Member",
+      "Rajyasabha",
+      "Joint",
+      "Adhoc"
+    ],
+    "nid": [
+      87028
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Details of Department Related Parliamentary Standing Committees of Lok Sabha (English)"
+    ],
+    "uuid": [
+      "58bac9a8-7287-4a72-b68d-1287e48a19df"
+    ],
+    "vid": [
+      7844194
+    ],
+    "view_count": [
+      974
+    ],
+    "search_api_id": [
+      "entity:node/87028:en"
     ],
     "search_api_datasource": [
       "entity:node"

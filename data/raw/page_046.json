@@ -1,105 +1,5 @@
 [
   {
-    "api_request_count": [
-      1
-    ],
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
-      "/catalog/estimated-number-workers-manufacturing-sector-different-statesuts"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      1370
-    ],
-    "published_date": [
-      1373976355
-    ],
-    "body:value": [
-      "The table presents estimated number of workers in unincorporated non-agricultural in manufacturing sector for each states/UTs by sector and enterprise type. The percentage share indicated in column 11 has been calculated for all enterprises in the combined sector and the table has been ranked on the basis of descending order."
-    ],
-    "changed": [
-      1441691460
-    ],
-    "created": [
-      1373916300
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Labour and Employment"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Statistics and Programme Implementation"
-    ],
-    "field_sector:name": [
-      "Labour and Employment",
-      "Unorganized Sector Workers",
-      "Statistics"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Employment",
-      "manufacturing",
-      "Rural",
-      "Urban",
-      "Enterprise",
-      "Account",
-      "Unorganized"
-    ],
-    "nid": [
-      87787
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Estimated number of workers in manufacturing sector in different States/UTs"
-    ],
-    "uuid": [
-      "7eee1415-0549-4cdb-ad99-f58230ed8c85"
-    ],
-    "vid": [
-      7846846
-    ],
-    "view_count": [
-      1228
-    ],
-    "search_api_id": [
-      "entity:node/87787:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
     "high_value_dataset": [
       0
     ],
@@ -4797,6 +4697,114 @@
     ],
     "search_api_id": [
       "entity:node/88195:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-domestic-savings-and-gross-domestic-capital-formation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7781
+    ],
+    "published_date": [
+      1372140962
+    ],
+    "body:value": [
+      "The data refers to Gross Domestic Savings and Gross Domestic Capital Formation. It gives details regarding private corporate sector, public sector and households sector, individually. Gross Domestic Savings indicates the financial state and growth of the country, as household saving is the main source of government borrowing to fund public services."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - National Income and Production"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "domestic",
+      "Economic",
+      "finance",
+      "Formation",
+      "Gross",
+      "Household",
+      "Income",
+      "national",
+      "Production",
+      "Private",
+      "Public",
+      "Survey",
+      "Saving",
+      "Corporate"
+    ],
+    "nid": [
+      88197
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross Domestic Savings and Gross Domestic Capital Formation"
+    ],
+    "uuid": [
+      "9f02f54c-d39f-4bb4-88ae-f99cc4718df0"
+    ],
+    "vid": [
+      7848694
+    ],
+    "view_count": [
+      7650
+    ],
+    "search_api_id": [
+      "entity:node/88197:en"
     ],
     "search_api_datasource": [
       "entity:node"

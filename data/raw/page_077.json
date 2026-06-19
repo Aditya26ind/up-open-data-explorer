@@ -13,112 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/educational-level-age-and-sex-population-age-7-and-above-2011-india-and-states"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      6813
-    ],
-    "published_date": [
-      1445581797
-    ],
-    "body:value": [
-      "The data refers to Educational Level by Age and Sex for Population Age 7 and Above. It provides information about the educational level by age and sex for population age 7 and above for total, rural and urban residence at India/State/District and City level. For presentation of data, population has been divided in various age groups. Data has been presented by single year age for population in the age 7-19 years. The data in respect of rest of the population has been presented by dividing the population in 13 age-groups and age not stated. Data has been presented for the following educational levels : Literate without educational level, Below primary, Primary, Middle, Matric / Secondary, Higher Secondary, Intermediate / Pre-University/ Senior Secondary, Non-technical diploma or certificate not equal to degree,Technical diploma or certificate not equal to degree,Graduate and above."
-    ],
-    "changed": [
-      1472560864
-    ],
-    "created": [
-      1444899526
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India",
-      "State"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Population Census"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Home Affairs",
-      "Department of Home",
-      "Registrar General and Census Commissioner, India"
-    ],
-    "field_sector:name": [
-      "Census and Surveys",
-      "Census"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "census",
-      "Education",
-      "Literate",
-      "primary",
-      "University",
-      "Intermediate",
-      "Matric",
-      "Educational"
-    ],
-    "nid": [
-      385621
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "21",
-      "61",
-      "81",
-      "101",
-      "121",
-      "122"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Educational Level by Age and Sex for Population Age 7 and Above, 2011 - India and States"
-    ],
-    "uuid": [
-      "871e5726-b760-477a-b4c2-67888de3ca29"
-    ],
-    "vid": [
-      7895289
-    ],
-    "view_count": [
-      6093
-    ],
-    "search_api_id": [
-      "entity:node/385621:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/details-livestock-18th-livestock-census"
     ],
     "ogdp_custom_field": [
@@ -5604,6 +5498,113 @@
     ],
     "search_api_id": [
       "entity:node/875501:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/households-ownership-status-census-houses-size-household-and-dwelling-rooms-census-2001"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1073
+    ],
+    "published_date": [
+      1471427678
+    ],
+    "body:value": [
+      "The catalog contains data related to households by ownership status of census houses, size of the household and dwelling rooms, census 2001 - India and States. It includes data on Ownership of Houses, House Ownership, Ownership Status of Houses, Households by Ownership of Houses, Ownership Status of Census Houses, Households by Ownership Status of Census Houses, Dwelling Rooms, Household and Dwelling Rooms, Households having Dwelling Rooms, Size of the Household and Dwelling Rooms, Households and Number of Dwelling Rooms, Census 2001, Scheduled Caste (SC), Scheduled Tribe (ST)."
+    ],
+    "changed": [
+      1471927335
+    ],
+    "created": [
+      1470294872
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "House",
+      "Room",
+      "SC",
+      "ST",
+      "Owner",
+      "Caste",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      875561
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Households by Ownership Status of Census Houses, Size of the Household and Dwelling Rooms, Census 2001 - India and States"
+    ],
+    "uuid": [
+      "9dc36ab6-cca3-44fb-a10c-8ba2641ee887"
+    ],
+    "vid": [
+      7896064
+    ],
+    "view_count": [
+      952
+    ],
+    "search_api_id": [
+      "entity:node/875561:en"
     ],
     "search_api_datasource": [
       "entity:node"

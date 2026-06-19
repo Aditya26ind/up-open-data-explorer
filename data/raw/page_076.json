@@ -13,111 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/main-workers-educational-level-age-and-sex-census-2011-india-and-states"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      3775
-    ],
-    "published_date": [
-      1458536259
-    ],
-    "body:value": [
-      "It provides the district wise data of the main workers by educational level and cross classified with age-groups by sex and residence."
-    ],
-    "changed": [
-      1458537062
-    ],
-    "created": [
-      1456829892
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India",
-      "State"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Socio-Economic"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Home Affairs",
-      "Department of Home",
-      "Registrar General and Census Commissioner, India"
-    ],
-    "field_sector:name": [
-      "Census and Surveys",
-      "Census",
-      "Population Enumerator"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Age",
-      "census",
-      "Education",
-      "Population",
-      "Working",
-      "Worker"
-    ],
-    "nid": [
-      534981
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "21",
-      "61",
-      "81",
-      "101",
-      "121",
-      "122"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Main Workers by Educational Level, Age and Sex, Census 2011 - India and States"
-    ],
-    "uuid": [
-      "835713ee-3e58-475f-868f-2a4354001474"
-    ],
-    "vid": [
-      7895661
-    ],
-    "view_count": [
-      3516
-    ],
-    "search_api_id": [
-      "entity:node/534981:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/other-workers-distance-residence-place-work-and-mode-travel-place-work-census-2011-india"
     ],
     "ogdp_custom_field": [
@@ -5411,6 +5306,112 @@
     ],
     "search_api_id": [
       "entity:node/385581:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/educational-level-age-and-sex-population-age-7-and-above-2011-india-and-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6813
+    ],
+    "published_date": [
+      1445581797
+    ],
+    "body:value": [
+      "The data refers to Educational Level by Age and Sex for Population Age 7 and Above. It provides information about the educational level by age and sex for population age 7 and above for total, rural and urban residence at India/State/District and City level. For presentation of data, population has been divided in various age groups. Data has been presented by single year age for population in the age 7-19 years. The data in respect of rest of the population has been presented by dividing the population in 13 age-groups and age not stated. Data has been presented for the following educational levels : Literate without educational level, Below primary, Primary, Middle, Matric / Secondary, Higher Secondary, Intermediate / Pre-University/ Senior Secondary, Non-technical diploma or certificate not equal to degree,Technical diploma or certificate not equal to degree,Graduate and above."
+    ],
+    "changed": [
+      1472560864
+    ],
+    "created": [
+      1444899526
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Population Census"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Education",
+      "Literate",
+      "primary",
+      "University",
+      "Intermediate",
+      "Matric",
+      "Educational"
+    ],
+    "nid": [
+      385621
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "81",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Educational Level by Age and Sex for Population Age 7 and Above, 2011 - India and States"
+    ],
+    "uuid": [
+      "871e5726-b760-477a-b4c2-67888de3ca29"
+    ],
+    "vid": [
+      7895289
+    ],
+    "view_count": [
+      6093
+    ],
+    "search_api_id": [
+      "entity:node/385621:en"
     ],
     "search_api_datasource": [
       "entity:node"

@@ -13,105 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/revenue-realized-road-transport-centre"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      3603
-    ],
-    "published_date": [
-      1389249205
-    ],
-    "body:value": [
-      "The data refers to Revenue Realized from Road Transport (Centre). Data contains Revenue from import and excise duty on Motor Vehicles & Accessories, Tyres & Tubes, High Speed Diesel Oil and Motor Spirit"
-    ],
-    "changed": [
-      1398669493
-    ],
-    "created": [
-      1392283981
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Road Transport"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Road Transport and Highways"
-    ],
-    "field_sector:name": [
-      "Transport",
-      "Road Transport"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Diesel",
-      "high",
-      "OIL",
-      "vehicle",
-      "Speed",
-      "Motor",
-      "Tube",
-      "Spirit",
-      "Accessory",
-      "Tyre"
-    ],
-    "nid": [
-      90794
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Revenue Realized from Road Transport (Centre)"
-    ],
-    "uuid": [
-      "a548d92e-d2a5-45ec-a24b-e87d9a295ecc"
-    ],
-    "vid": [
-      7859295
-    ],
-    "view_count": [
-      3473
-    ],
-    "search_api_id": [
-      "entity:node/90794:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/revenue-receipts"
     ],
     "ogdp_custom_field": [
@@ -4775,6 +4676,111 @@
     ],
     "search_api_id": [
       "entity:node/90606:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/rajya-sabha-parliamentary-bulletin-part-i-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      749
+    ],
+    "published_date": [
+      1378449842
+    ],
+    "body:value": [
+      "(Hindi) Parliamentary Bulletin Part I is issued daily during the Session period and contains a brief record of the items taken up by the Rajya Sabha and the time. It includes a mention of (a) question number orally answered, (b) Papers Laid on the Table, (c) subject of Special Mention/ Calling Attention and names of speakers, (d) Bills taken up for introduction, consideration and/or passing/return and names of speakers etc. Session-wise compilation on the Bulletins, after editing, is published as the 'Session Journal'. Details of speeches etc. are available in 'Synopsis' or in the 'Verbatim Proceedings' and 'Official Report'."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "business",
+      "paper",
+      "Synopsis",
+      "report",
+      "Hindi",
+      "Journal",
+      "Special",
+      "Session",
+      "Laid",
+      "Proceeding",
+      "Mention",
+      "Attention",
+      "Calling",
+      "Official",
+      "Verbatim"
+    ],
+    "nid": [
+      90608
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rajya Sabha Parliamentary Bulletin Part I (Hindi)"
+    ],
+    "uuid": [
+      "9575ee5b-5a6c-47a1-b184-40703c5febf0"
+    ],
+    "vid": [
+      7858680
+    ],
+    "view_count": [
+      641
+    ],
+    "search_api_id": [
+      "entity:node/90608:en"
     ],
     "search_api_datasource": [
       "entity:node"

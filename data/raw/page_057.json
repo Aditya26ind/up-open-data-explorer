@@ -13,111 +13,6 @@
       1
     ],
     "node_alias": [
-      "/catalog/rajya-sabha-parliamentary-bulletin-part-i-hindi"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      749
-    ],
-    "published_date": [
-      1378449842
-    ],
-    "body:value": [
-      "(Hindi) Parliamentary Bulletin Part I is issued daily during the Session period and contains a brief record of the items taken up by the Rajya Sabha and the time. It includes a mention of (a) question number orally answered, (b) Papers Laid on the Table, (c) subject of Special Mention/ Calling Attention and names of speakers, (d) Bills taken up for introduction, consideration and/or passing/return and names of speakers etc. Session-wise compilation on the Bulletins, after editing, is published as the 'Session Journal'. Details of speeches etc. are available in 'Synopsis' or in the 'Verbatim Proceedings' and 'Official Report'."
-    ],
-    "changed": [
-      1392283981
-    ],
-    "created": [
-      1378273140
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Rajya Sabha Hindi RSS Feeds"
-    ],
-    "field_ministry_department:name": [
-      "Rajya Sabha"
-    ],
-    "field_sector:name": [
-      "Parliament Of india",
-      "Governance and Administration",
-      "Rajya Sabha"
-    ],
-    "from_api": [
-      "1"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "business",
-      "paper",
-      "Synopsis",
-      "report",
-      "Hindi",
-      "Journal",
-      "Special",
-      "Session",
-      "Laid",
-      "Proceeding",
-      "Mention",
-      "Attention",
-      "Calling",
-      "Official",
-      "Verbatim"
-    ],
-    "nid": [
-      90608
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Rajya Sabha Parliamentary Bulletin Part I (Hindi)"
-    ],
-    "uuid": [
-      "9575ee5b-5a6c-47a1-b184-40703c5febf0"
-    ],
-    "vid": [
-      7858680
-    ],
-    "view_count": [
-      641
-    ],
-    "search_api_id": [
-      "entity:node/90608:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
       "/catalog/rajya-sabha-parliamentary-bulletin-part-i-english"
     ],
     "ogdp_custom_field": [
@@ -4810,6 +4705,105 @@
     ],
     "search_api_id": [
       "entity:node/905121:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/proportion-expenditure-spent-supplementary-nutritionsn-and-estimated-shares-different"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      911
+    ],
+    "published_date": [
+      1375249979
+    ],
+    "body:value": [
+      "The data refers to proportion of expenditure spent on supplementary nutrition and estimated shares of different groups (%). It provides the state-wise details regarding proportion of estimated expenditure (total for both components of supplementary nutrition) spent on supplementary nutrition."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1375165860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Women",
+      "Supplementary",
+      "Anganwadi",
+      "AWC",
+      "Mother",
+      "Pregnant",
+      "Lactating"
+    ],
+    "nid": [
+      90514
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Proportion of expenditure spent on Supplementary Nutrition(SN) and estimated shares of different groups (%)"
+    ],
+    "uuid": [
+      "e02aa397-7ee6-4099-89fb-c9d08268ce05"
+    ],
+    "vid": [
+      7858402
+    ],
+    "view_count": [
+      876
+    ],
+    "search_api_id": [
+      "entity:node/90514:en"
     ],
     "search_api_datasource": [
       "entity:node"

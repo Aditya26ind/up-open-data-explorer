@@ -13,102 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/observation-investigator-about-cleanliness-cooking-area-awc"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      1133
-    ],
-    "published_date": [
-      1375449389
-    ],
-    "body:value": [
-      "The data refers to the observation of the investigator about cleanliness of the cooking area (% AWC). The cleanliness of the cooking area of the AWC was examined by the investigators and it was found that among the states, it was seen that in Kerala, the highest percentage of AWC had Very clean cooking area (70.9%). The maximum percentage of AWC with Unclean/unhygienic cooking areas was found in Haryana (84.1%)."
-    ],
-    "changed": [
-      1392273597
-    ],
-    "created": [
-      1375348140
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Health"
-    ],
-    "field_ministry_department:name": [
-      "NITI Aayog"
-    ],
-    "field_sector:name": [
-      "Health and Family welfare",
-      "Health"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "child",
-      "cleanliness",
-      "Development",
-      "ICDS",
-      "Integrated",
-      "Scheme",
-      "Anganwadi"
-    ],
-    "nid": [
-      89646
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Observation of the Investigator about Cleanliness of the Cooking Area (% AWC)"
-    ],
-    "uuid": [
-      "0ec55e2a-dd88-4268-9f7e-39a5256d6bbd"
-    ],
-    "vid": [
-      7854861
-    ],
-    "view_count": [
-      1098
-    ],
-    "search_api_id": [
-      "entity:node/89646:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/observation-investigator-about-cleanliness-toilet-awc"
     ],
     "ogdp_custom_field": [
@@ -4831,6 +4735,100 @@
     ],
     "search_api_id": [
       "entity:node/89749:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/patents-granted-under-research-and-development-funding-deity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3139
+    ],
+    "published_date": [
+      1351744133
+    ],
+    "body:value": [
+      "Department of Electronics and Information Technology (DeitY), M/o C&IT, GoI provides R&D grants to various Academic and Research organizations for undertaking R&D in emerging ICT areas. Details of the Patents Granted under such DeitY funding can be obtained from this dataset."
+    ],
+    "changed": [
+      1573207890
+    ],
+    "created": [
+      1351743060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "e-Governance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Electronics and Information Technology (MeitY)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "Development",
+      "R&D",
+      "research",
+      "patent"
+    ],
+    "nid": [
+      89751
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Patents Granted Under Research and Development Funding of DeitY"
+    ],
+    "uuid": [
+      "dd2f9e81-5085-4b35-b37f-b7c013a29095"
+    ],
+    "vid": [
+      7855169
+    ],
+    "view_count": [
+      2965
+    ],
+    "search_api_id": [
+      "entity:node/89751:en"
     ],
     "search_api_datasource": [
       "entity:node"

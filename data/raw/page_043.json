@@ -13,100 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/effectiveness-crcs-based-sample-survey"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      641
-    ],
-    "published_date": [
-      1383198437
-    ],
-    "body:value": [
-      "The data refers to details of the Effectiveness of Cluster Resource Centres (CRCs) in urban slums for the surveyed states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission in eleven states and two union territories for 'Evaluation Report On Sarva Shiksha Abhiyan, 2010'. The reference period for the study was 2003 to 2007."
-    ],
-    "changed": [
-      1392273597
-    ],
-    "created": [
-      1383111540
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Education"
-    ],
-    "field_ministry_department:name": [
-      "NITI Aayog"
-    ],
-    "field_sector:name": [
-      "Education",
-      "Elementary"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Aware",
-      "CRC",
-      "School",
-      "Location",
-      "Respondent"
-    ],
-    "nid": [
-      87673
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Effectiveness of CRCs - Based on Sample Survey"
-    ],
-    "uuid": [
-      "f38b88f4-e35e-4005-8b5d-769f8429bee2"
-    ],
-    "vid": [
-      7846348
-    ],
-    "view_count": [
-      545
-    ],
-    "search_api_id": [
-      "entity:node/87673:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/effectiveness-district-level-monitoring-teams-based-sample-survey"
     ],
     "ogdp_custom_field": [
@@ -4767,6 +4673,102 @@
     ],
     "search_api_id": [
       "entity:node/88857:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/list-starred-and-unstarred-questions-rajya-sabha-members-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1009
+    ],
+    "published_date": [
+      1378449744
+    ],
+    "body:value": [
+      "(Hindi) This provides information on the list of starred and unstarred questions by Rajya Sabha members."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Starred",
+      "Unstarred",
+      "Hindi",
+      "Question",
+      "Member",
+      "Rajyasabha"
+    ],
+    "nid": [
+      88859
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "List of Starred and Unstarred Questions by Rajya Sabha Members (Hindi)"
+    ],
+    "uuid": [
+      "c6317ab8-9ff0-48ec-a94e-65d0476e2d24"
+    ],
+    "vid": [
+      7851607
+    ],
+    "view_count": [
+      955
+    ],
+    "search_api_id": [
+      "entity:node/88859:en"
     ],
     "search_api_datasource": [
       "entity:node"

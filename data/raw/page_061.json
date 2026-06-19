@@ -13,107 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/receipts-other-related-transactions-undertaken"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      1090
-    ],
-    "published_date": [
-      1370328990
-    ],
-    "body:value": [
-      "The data refers to details on receipts from other related transactions undertaken. It includes capital receipts, special dividends and dividend tax in CPSEs, slump sale, sale of shares to employees in privatised CPSEs, control premium given by Suzuki Motors Co. (SMC) to GoI for renunciation of rights shares in favour of SMC and leasing of hotel of ITDC."
-    ],
-    "changed": [
-      1392283981
-    ],
-    "created": [
-      1370237580
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Disinvestment"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Finance",
-      "Department of Investment and Public Asset Management"
-    ],
-    "field_sector:name": [
-      "Finance",
-      "Revenue"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Capital",
-      "CPSE",
-      "DISINVESTMENT",
-      "DIVIDEND",
-      "finance",
-      "Receipt",
-      "Premium",
-      "Share",
-      "sale",
-      "Control",
-      "Slump"
-    ],
-    "nid": [
-      90700
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Receipts From Other Related Transactions Undertaken"
-    ],
-    "uuid": [
-      "fca53136-1b19-4760-98eb-1116abea13ed"
-    ],
-    "vid": [
-      7858923
-    ],
-    "view_count": [
-      967
-    ],
-    "search_api_id": [
-      "entity:node/90700:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/receipts-strategic-sale"
     ],
     "ogdp_custom_field": [
@@ -4704,6 +4603,100 @@
     ],
     "search_api_id": [
       "entity:node/92036:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/subsidy-provided-government-and-oil-companies-pds-sko-and-domestic-lpg"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3279
+    ],
+    "published_date": [
+      1371208014
+    ],
+    "body:value": [
+      "The data refers to subsidy provided by the Government and Oil Companies on PDS SKO & domestic LPG in India."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371104100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "PNG Economic and Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Petroleum",
+      "product",
+      "Fiscal",
+      "Recovery",
+      "Under"
+    ],
+    "nid": [
+      92038
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Subsidy Provided By The Government And Oil Companies On PDS SKO And Domestic LPG"
+    ],
+    "uuid": [
+      "ef9fb7a1-9c02-47c4-9914-f0360f2247f5"
+    ],
+    "vid": [
+      7863619
+    ],
+    "view_count": [
+      3210
+    ],
+    "search_api_id": [
+      "entity:node/92038:en"
     ],
     "search_api_datasource": [
       "entity:node"

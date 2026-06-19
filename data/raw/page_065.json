@@ -13,99 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/state-wise-percentage-st-population-and-enrolment-upper-primary-classes-dise-flash"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      1080
-    ],
-    "published_date": [
-      1389162618
-    ],
-    "body:value": [
-      "The data refers to elementary education in India by providing state-wise percentage of ST Population, ST Enrolment and Girls Enrolment in Upper Primary Classes during the years 2010 to 2013."
-    ],
-    "changed": [
-      1392283981
-    ],
-    "created": [
-      1388999820
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Elementary Education"
-    ],
-    "field_ministry_department:name": [
-      "NITI Aayog"
-    ],
-    "field_sector:name": [
-      "Education",
-      "Elementary"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Enrolment",
-      "primary",
-      "Class",
-      "Upper"
-    ],
-    "nid": [
-      91906
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "State-wise Percentage of ST Population and Enrolment in Upper Primary Classes - DISE : Flash Statistics"
-    ],
-    "uuid": [
-      "e5d18b8a-0116-4389-bd40-a0c0e247c905"
-    ],
-    "vid": [
-      7863167
-    ],
-    "view_count": [
-      1048
-    ],
-    "search_api_id": [
-      "entity:node/91906:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/state-wise-percentage-share-enrolment-pre-primary-classes-total-enrolment-dise-flash"
     ],
     "ogdp_custom_field": [
@@ -4814,6 +4721,98 @@
     ],
     "search_api_id": [
       "entity:node/91806:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-number-and-paid-capital-public-companies-and-private-companies-ceased-work"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2589
+    ],
+    "published_date": [
+      1366896166
+    ],
+    "body:value": [
+      "The data refers to State-wise number and paid-up capital of Public Companies and Private Companies ceased to work as on 31st March from 2009 to 2010."
+    ],
+    "changed": [
+      1509360498
+    ],
+    "created": [
+      1366893720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Company",
+      "Work",
+      "Paid"
+    ],
+    "nid": [
+      91808
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Number And Paid-up Capital of Public Companies and Private Companies Ceased To Work"
+    ],
+    "uuid": [
+      "69799845-8d6e-4f7a-be25-68704ca3d130"
+    ],
+    "vid": [
+      7862913
+    ],
+    "view_count": [
+      2459
+    ],
+    "search_api_id": [
+      "entity:node/91808:en"
     ],
     "search_api_datasource": [
       "entity:node"

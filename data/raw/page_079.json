@@ -13,109 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/main-workers-other-cultivators-and-agricultural-labourers-classified-industrial-category"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      4418
-    ],
-    "published_date": [
-      1482481862
-    ],
-    "body:value": [
-      "The catalog contains data related to Main Workers other than Cultivators and Agricultural Labourers Classified by Industrial Category, Educational Level and Sex, Census 1991 - India and States. It includes data on Gender wise and Education level wise Main Worker other than Cultivators and Agricultural Labourers Classified by different Industrial Category."
-    ],
-    "changed": [
-      1484556810
-    ],
-    "created": [
-      1482379793
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India",
-      "State"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Census Digital Library"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Home Affairs",
-      "Department of Home",
-      "Registrar General and Census Commissioner, India"
-    ],
-    "field_sector:name": [
-      "Census and Surveys",
-      "Census",
-      "Population Enumerator"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Cultivator",
-      "Education",
-      "Population",
-      "Worker",
-      "Excluding"
-    ],
-    "nid": [
-      1681661
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "21",
-      "61",
-      "101",
-      "121",
-      "122"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Main Workers other than Cultivators and Agricultural Labourers Classified by Industrial Category, Educational Level and Sex, Census 1991 - India and States"
-    ],
-    "uuid": [
-      "0392d749-e495-4312-a6cc-62a2a617f25d"
-    ],
-    "vid": [
-      7896849
-    ],
-    "view_count": [
-      4311
-    ],
-    "search_api_id": [
-      "entity:node/1681661:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/main-workers-classified-industrial-category-educational-level-and-sex-census-1991-india-0"
     ],
     "ogdp_custom_field": [
@@ -5002,6 +4899,100 @@
     ],
     "search_api_id": [
       "entity:node/7514854:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/foreign-direct-investment-fdi-equity-inflows"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      43195
+    ],
+    "published_date": [
+      1469786594
+    ],
+    "body:value": [
+      "Get data on Foreign Direct Investment (FDI) Equity Inflows for various sectors. Various Sectors are Metallurgical Industries, Mining, Power, Non-conventional Energy, Coal Production, Petroleum & Natural Gas, Boilers and Steam Generating Plants, Prime Mover, Electrical Equipments, Computer Software & Hardware, Electronics, Telecommunications, Information & Broadcasting (including Print Media), Automobile Industry, Air Transport (including Air Freight), Sea Transport, Ports, Railway Related Components, Industrial Machinery, Machine Tools, Agricultural Machinery, Earth-moving Machinery, Mechanical & Engineering Industries, Commercial, Office & Household Equipments, Medical and Surgical Appliances, Industrial Instruments, Scientific Instruments, Mathematical,surveying and Drawing Instruments, Fertilizers, Chemicals , Photographic, Dye-stuffs, Drugs & Pharmaceuticals, Textiles, Paper And Pulp , Sugar, Fermentation Industries, Food Processing Industries, Vegetable Oils And Vanaspati, Soaps, Cosmetics & Toilet Preparations, Rubber Goods, Leather,leather Goods And Pickers, Glue And Gelatin, Glass, Ceramics, Cement And Gypsum Products, Timber Products, Defence Industries, Consultancy Services, Services Sector, Hospital & Diagnostic Centres, Education, Hotel & Tourism, Trading, Retail Trading, Agriculture Services, Diamond,gold Ornaments, Tea And Coffee (processing & Warehousing Coffee & Rubber), Printing, Coir, Construction etc."
+    ],
+    "changed": [
+      1776056911
+    ],
+    "created": [
+      1469777363
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Foreign Direct Investment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department for Promotion of industry and Internal Trade"
+    ],
+    "field_sector:name": [
+      "Commerce"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commerce",
+      "FDI",
+      "Foreign",
+      "Industry",
+      "Investment"
+    ],
+    "nid": [
+      839421
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Foreign Direct Investment (FDI) Equity Inflows"
+    ],
+    "uuid": [
+      "9b89072e-4725-4cf3-afae-5f09d374a8a4"
+    ],
+    "vid": [
+      7895957
+    ],
+    "view_count": [
+      34469
+    ],
+    "search_api_id": [
+      "entity:node/839421:en"
     ],
     "search_api_datasource": [
       "entity:node"

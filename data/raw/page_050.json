@@ -13,98 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/number-foreign-tourists-india"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      6796
-    ],
-    "published_date": [
-      1366045431
-    ],
-    "body:value": [
-      "The data refers to nationality-wise (North America, Central and South America, Western Europe, Eastern Europe, Africa, West Asia, South Asia, etc.) listing of the number of foreign tourists to India from 2001 to 2010."
-    ],
-    "changed": [
-      1602756586
-    ],
-    "created": [
-      1366026360
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Tourism"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Statistics and Programme Implementation"
-    ],
-    "field_sector:name": [
-      "Statistics",
-      "Travel and Tourism"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Foreign",
-      "Nationality",
-      "Tourism"
-    ],
-    "nid": [
-      89509
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Number of Foreign Tourists To India"
-    ],
-    "uuid": [
-      "059f6c33-e12e-4805-883d-15ad4152ccb0"
-    ],
-    "vid": [
-      7854426
-    ],
-    "view_count": [
-      6176
-    ],
-    "search_api_id": [
-      "entity:node/89509:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/number-institutions-higher-education-enrolment-and-faculty-during-tenth-plan"
     ],
     "ogdp_custom_field": [
@@ -4811,6 +4719,102 @@
     ],
     "search_api_id": [
       "entity:node/89644:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/observation-investigator-about-cleanliness-cooking-area-awc"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1133
+    ],
+    "published_date": [
+      1375449389
+    ],
+    "body:value": [
+      "The data refers to the observation of the investigator about cleanliness of the cooking area (% AWC). The cleanliness of the cooking area of the AWC was examined by the investigators and it was found that among the states, it was seen that in Kerala, the highest percentage of AWC had Very clean cooking area (70.9%). The maximum percentage of AWC with Unclean/unhygienic cooking areas was found in Haryana (84.1%)."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "cleanliness",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Scheme",
+      "Anganwadi"
+    ],
+    "nid": [
+      89646
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Observation of the Investigator about Cleanliness of the Cooking Area (% AWC)"
+    ],
+    "uuid": [
+      "0ec55e2a-dd88-4268-9f7e-39a5256d6bbd"
+    ],
+    "vid": [
+      7854861
+    ],
+    "view_count": [
+      1098
+    ],
+    "search_api_id": [
+      "entity:node/89646:en"
     ],
     "search_api_datasource": [
       "entity:node"

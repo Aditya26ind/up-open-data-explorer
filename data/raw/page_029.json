@@ -13,100 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/accretion-coal-reserves-power-sector"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      701
-    ],
-    "published_date": [
-      1370939779
-    ],
-    "body:value": [
-      "The data refers to category-wise Accretion of Coal Reserves at the end of the respective years. The details are given for years 2005 to 2011."
-    ],
-    "changed": [
-      1436419215
-    ],
-    "created": [
-      1370682240
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Power and Energy"
-    ],
-    "field_ministry_department:name": [
-      "NITI Aayog"
-    ],
-    "field_sector:name": [
-      "Power and Energy",
-      "Non Renewable"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Coal",
-      "indicated",
-      "inferred",
-      "Reserve",
-      "Power"
-    ],
-    "nid": [
-      85712
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Accretion of Coal Reserves - Power Sector"
-    ],
-    "uuid": [
-      "ce63889e-21c7-4092-86a1-33899a9ce581"
-    ],
-    "vid": [
-      7839389
-    ],
-    "view_count": [
-      643
-    ],
-    "search_api_id": [
-      "entity:node/85712:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/achievement-national-highways-0"
     ],
     "ogdp_custom_field": [
@@ -4831,6 +4737,100 @@
     ],
     "search_api_id": [
       "entity:node/85977:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/attendance-members-lok-sabha-session"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      23567
+    ],
+    "published_date": [
+      1374234840
+    ],
+    "body:value": [
+      "The data refers to details on the total number of days each member signed the member's attendance register in session of Lok Sabha."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Attendance of the Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "Loksabha",
+      "Member",
+      "Session"
+    ],
+    "nid": [
+      85981
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Attendance of the Members of Lok Sabha Session"
+    ],
+    "uuid": [
+      "01cd9aee-3714-4614-9074-6688fd2a9453"
+    ],
+    "vid": [
+      7840624
+    ],
+    "view_count": [
+      23149
+    ],
+    "search_api_id": [
+      "entity:node/85981:en"
     ],
     "search_api_datasource": [
       "entity:node"

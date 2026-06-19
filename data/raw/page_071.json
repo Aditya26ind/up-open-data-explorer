@@ -13,109 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/households-number-married-couples-household-and-number-dwelling-rooms"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      1090
-    ],
-    "published_date": [
-      1395392213
-    ],
-    "body:value": [
-      "The data refers to details of Area Name, Table Name, State Code, District Code, Tehsil Code, Town Code, Area Name, Total/Rural/Urban, Ownership status, Household size, Total number of households, No exclusive room, One room, One room, Households having number of dwelling rooms Two room, Three room, Four room, Five room, Six rooms and above at States/UTs and District level."
-    ],
-    "changed": [
-      1441628552
-    ],
-    "created": [
-      1395298547
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India",
-      "State"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Houselisting and Housing Census Data"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Home Affairs",
-      "Department of Home",
-      "Registrar General and Census Commissioner, India"
-    ],
-    "field_sector:name": [
-      "Census and Surveys",
-      "Census",
-      "House listing and Housing Census",
-      "Statistics"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Dwelling",
-      "Household",
-      "SC",
-      "ST",
-      "Caste",
-      "Married",
-      "Scheduled",
-      "Tribe",
-      "Couple"
-    ],
-    "nid": [
-      96965
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Households by number of married couples per household and number of dwelling rooms"
-    ],
-    "uuid": [
-      "2688ad81-73cb-44d3-bb8d-6ffa2cbf7361"
-    ],
-    "vid": [
-      7888249
-    ],
-    "view_count": [
-      956
-    ],
-    "search_api_id": [
-      "entity:node/96965:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/households-main-source-drinking-water-and-its-location"
     ],
     "ogdp_custom_field": [
@@ -4836,6 +4733,99 @@
     ],
     "search_api_id": [
       "entity:node/94780:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/involvement-ngos-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2097
+    ],
+    "published_date": [
+      1392018237
+    ],
+    "body:value": [
+      "The data refers to district-wise details of NGOs commissioned, sector of involvement and funds allocated."
+    ],
+    "changed": [
+      1392373094
+    ],
+    "created": [
+      1391754840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Infrastructure",
+      "Labour and Employment",
+      "Employment"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "RSVY",
+      "Yojna",
+      "Rashtriya",
+      "Sam",
+      "Vikas"
+    ],
+    "nid": [
+      94782
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Involvement of NGOs - Based on Sample Survey"
+    ],
+    "uuid": [
+      "f89fc4bd-f280-451d-8e75-615f77f565b1"
+    ],
+    "vid": [
+      7886483
+    ],
+    "view_count": [
+      2003
+    ],
+    "search_api_id": [
+      "entity:node/94782:en"
     ],
     "search_api_datasource": [
       "entity:node"

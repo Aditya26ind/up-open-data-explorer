@@ -13,103 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/stateut-wise-length-roads-under-coal-mines-department-type-surface-india"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      708
-    ],
-    "published_date": [
-      1388480565
-    ],
-    "body:value": [
-      "The data refers to state/UT wise length of roads under Coal Mines Department by type of surface in India. Surface types have been classified as Water-bound macadam, Black Top and Cement Concrete & unsurface types have been classified as Motorable and Non Motorable."
-    ],
-    "changed": [
-      1398846411
-    ],
-    "created": [
-      1392283981
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Roads"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Road Transport and Highways"
-    ],
-    "field_sector:name": [
-      "Transport",
-      "Road Transport"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "cement",
-      "Motorable",
-      "Road",
-      "Surface",
-      "Water",
-      "Concrete",
-      "Bound",
-      "Macadam"
-    ],
-    "nid": [
-      91479
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "State/UT wise length of roads under Coal Mines Department by type of surface in India"
-    ],
-    "uuid": [
-      "0224e1d5-3a9e-4103-8ad7-936322c92967"
-    ],
-    "vid": [
-      7861522
-    ],
-    "view_count": [
-      554
-    ],
-    "search_api_id": [
-      "entity:node/91479:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/stateut-wise-length-roads-under-electricity-department-type-surface-india"
     ],
     "ogdp_custom_field": [
@@ -4690,6 +4593,107 @@
     ],
     "search_api_id": [
       "entity:node/90698:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/receipts-other-related-transactions-undertaken"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1090
+    ],
+    "published_date": [
+      1370328990
+    ],
+    "body:value": [
+      "The data refers to details on receipts from other related transactions undertaken. It includes capital receipts, special dividends and dividend tax in CPSEs, slump sale, sale of shares to employees in privatised CPSEs, control premium given by Suzuki Motors Co. (SMC) to GoI for renunciation of rights shares in favour of SMC and leasing of hotel of ITDC."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1370237580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Disinvestment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Investment and Public Asset Management"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "CPSE",
+      "DISINVESTMENT",
+      "DIVIDEND",
+      "finance",
+      "Receipt",
+      "Premium",
+      "Share",
+      "sale",
+      "Control",
+      "Slump"
+    ],
+    "nid": [
+      90700
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Receipts From Other Related Transactions Undertaken"
+    ],
+    "uuid": [
+      "fca53136-1b19-4760-98eb-1116abea13ed"
+    ],
+    "vid": [
+      7858923
+    ],
+    "view_count": [
+      967
+    ],
+    "search_api_id": [
+      "entity:node/90700:en"
     ],
     "search_api_datasource": [
       "entity:node"

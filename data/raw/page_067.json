@@ -1,99 +1,5 @@
 [
   {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
-      "/catalog/stateut-wise-number-persons-killed-road-accidents-state-highways"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      808
-    ],
-    "published_date": [
-      1389173981
-    ],
-    "body:value": [
-      "The data refers to state/UT wise number of persons killed in Road Accidents on State Highways. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
-    ],
-    "changed": [
-      1513253077
-    ],
-    "created": [
-      1388988540
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Road Accidents"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Road Transport and Highways"
-    ],
-    "field_sector:name": [
-      "Transport",
-      "Road Transport"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Killed",
-      "Road",
-      "Person",
-      "Highway",
-      "Accident"
-    ],
-    "nid": [
-      91533
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "State/UT wise Number of Persons Killed in Road Accidents on State Highways"
-    ],
-    "uuid": [
-      "642a2a3d-65e7-4b63-81eb-0cf27fa4dcdf"
-    ],
-    "vid": [
-      7861745
-    ],
-    "view_count": [
-      668
-    ],
-    "search_api_id": [
-      "entity:node/91533:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
     "api_request_count": [
       1
     ],
@@ -4687,6 +4593,99 @@
     ],
     "search_api_id": [
       "entity:node/94390:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-distribution-dugwells-according-source-energy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      384
+    ],
+    "published_date": [
+      1391073884
+    ],
+    "body:value": [
+      "The data refers to village wise number of dugwells according to various sources of energy. It includes details on sources like Electric pump, Solar pump, Diesel pump, Wind Mills and Manual/animal."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1390554840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      94404
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village wise Distribution of Dugwells according to source of energy"
+    ],
+    "uuid": [
+      "12e5f0a9-68e4-4622-8676-d8bcfbbf1689"
+    ],
+    "vid": [
+      7884743
+    ],
+    "view_count": [
+      377
+    ],
+    "search_api_id": [
+      "entity:node/94404:en"
     ],
     "search_api_datasource": [
       "entity:node"

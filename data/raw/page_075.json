@@ -13,108 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/number-women-and-ever-married-women-present-age-religious-community-number-surviving"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      417
-    ],
-    "published_date": [
-      1479359904
-    ],
-    "body:value": [
-      "The catalog contains data related to Number of Women and Ever Married Women by Present Age, Religious Community, Number of Surviving Children and Total Surviving Children by Sex, Census 2001 - India and States. It includes data on Religious, Religious Community, Surviving Children, Women, Ever Married Women."
-    ],
-    "changed": [
-      1482474441
-    ],
-    "created": [
-      1477639802
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India",
-      "State"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Census Digital Library"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Home Affairs",
-      "Department of Home",
-      "Registrar General and Census Commissioner, India"
-    ],
-    "field_sector:name": [
-      "Census and Surveys",
-      "Census",
-      "Population Enumerator"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "census",
-      "community",
-      "Women",
-      "Married"
-    ],
-    "nid": [
-      1197581
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "21",
-      "61",
-      "101",
-      "121",
-      "122"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Number of Women and Ever Married Women by Present Age, Religious Community, Number of Surviving Children and Total Surviving Children by Sex, Census 2001 - India and States"
-    ],
-    "uuid": [
-      "0df2f373-b580-4099-81ae-1b90e73a79e4"
-    ],
-    "vid": [
-      7896567
-    ],
-    "view_count": [
-      350
-    ],
-    "search_api_id": [
-      "entity:node/1197581:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/number-women-and-ever-married-women-present-age-educational-level-number-surviving-children"
     ],
     "ogdp_custom_field": [
@@ -5601,6 +5499,111 @@
     ],
     "search_api_id": [
       "entity:node/534961:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/main-workers-educational-level-age-and-sex-census-2011-india-and-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3775
+    ],
+    "published_date": [
+      1458536259
+    ],
+    "body:value": [
+      "It provides the district wise data of the main workers by educational level and cross classified with age-groups by sex and residence."
+    ],
+    "changed": [
+      1458537062
+    ],
+    "created": [
+      1456829892
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Socio-Economic"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "census",
+      "Education",
+      "Population",
+      "Working",
+      "Worker"
+    ],
+    "nid": [
+      534981
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "81",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Main Workers by Educational Level, Age and Sex, Census 2011 - India and States"
+    ],
+    "uuid": [
+      "835713ee-3e58-475f-868f-2a4354001474"
+    ],
+    "vid": [
+      7895661
+    ],
+    "view_count": [
+      3516
+    ],
+    "search_api_id": [
+      "entity:node/534981:en"
     ],
     "search_api_datasource": [
       "entity:node"

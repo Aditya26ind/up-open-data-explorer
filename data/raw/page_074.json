@@ -13,116 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/religious-community-age-group-and-sex-india-and-states"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      8141
-    ],
-    "published_date": [
-      1406792209
-    ],
-    "body:value": [
-      "Get details on religious community by age-group and sex. It includes information on State Code, District Code, Tehsil Code, Area Name, Persons, Males, Females, Age-group, Religious communities, Hindu, Muslim, Christian, Sikh, Buddhist and Jain etc."
-    ],
-    "changed": [
-      1472449782
-    ],
-    "created": [
-      1406665568
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India",
-      "State"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Religious community population"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Home Affairs",
-      "Department of Home",
-      "Registrar General and Census Commissioner, India"
-    ],
-    "field_sector:name": [
-      "Census and Surveys",
-      "Census",
-      "Statistics"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Christian",
-      "community",
-      "Female",
-      "Male",
-      "Muslim",
-      "Hindu",
-      "Sikh",
-      "Jain",
-      "Buddhist",
-      "Person",
-      "Religious"
-    ],
-    "nid": [
-      113145
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "21",
-      "61",
-      "81",
-      "101",
-      "121",
-      "122"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Religious community by age-group and sex - India and States"
-    ],
-    "uuid": [
-      "87d596f0-6450-4b57-a8f7-6c6b4b2da15a"
-    ],
-    "vid": [
-      7890148
-    ],
-    "view_count": [
-      5283
-    ],
-    "search_api_id": [
-      "entity:node/113145:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/disabled-population-type-disability-age-and-sex-census-2001-india-and-states-0"
     ],
     "ogdp_custom_field": [
@@ -5220,6 +5110,108 @@
     ],
     "search_api_id": [
       "entity:node/1197561:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-women-and-ever-married-women-present-age-religious-community-number-surviving"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      417
+    ],
+    "published_date": [
+      1479359904
+    ],
+    "body:value": [
+      "The catalog contains data related to Number of Women and Ever Married Women by Present Age, Religious Community, Number of Surviving Children and Total Surviving Children by Sex, Census 2001 - India and States. It includes data on Religious, Religious Community, Surviving Children, Women, Ever Married Women."
+    ],
+    "changed": [
+      1482474441
+    ],
+    "created": [
+      1477639802
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "community",
+      "Women",
+      "Married"
+    ],
+    "nid": [
+      1197581
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Women and Ever Married Women by Present Age, Religious Community, Number of Surviving Children and Total Surviving Children by Sex, Census 2001 - India and States"
+    ],
+    "uuid": [
+      "0df2f373-b580-4099-81ae-1b90e73a79e4"
+    ],
+    "vid": [
+      7896567
+    ],
+    "view_count": [
+      350
+    ],
+    "search_api_id": [
+      "entity:node/1197581:en"
     ],
     "search_api_datasource": [
       "entity:node"

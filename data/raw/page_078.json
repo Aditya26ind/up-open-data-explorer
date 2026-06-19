@@ -13,113 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/households-ownership-status-census-houses-size-household-and-dwelling-rooms-census-2001"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      1073
-    ],
-    "published_date": [
-      1471427678
-    ],
-    "body:value": [
-      "The catalog contains data related to households by ownership status of census houses, size of the household and dwelling rooms, census 2001 - India and States. It includes data on Ownership of Houses, House Ownership, Ownership Status of Houses, Households by Ownership of Houses, Ownership Status of Census Houses, Households by Ownership Status of Census Houses, Dwelling Rooms, Household and Dwelling Rooms, Households having Dwelling Rooms, Size of the Household and Dwelling Rooms, Households and Number of Dwelling Rooms, Census 2001, Scheduled Caste (SC), Scheduled Tribe (ST)."
-    ],
-    "changed": [
-      1471927335
-    ],
-    "created": [
-      1470294872
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India",
-      "State"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Census Digital Library"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Home Affairs",
-      "Department of Home",
-      "Registrar General and Census Commissioner, India"
-    ],
-    "field_sector:name": [
-      "Census and Surveys",
-      "Census",
-      "Population Enumerator"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "census",
-      "House",
-      "Room",
-      "SC",
-      "ST",
-      "Owner",
-      "Caste",
-      "Scheduled",
-      "Tribe"
-    ],
-    "nid": [
-      875561
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "21",
-      "61",
-      "101",
-      "121",
-      "122"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Households by Ownership Status of Census Houses, Size of the Household and Dwelling Rooms, Census 2001 - India and States"
-    ],
-    "uuid": [
-      "9dc36ab6-cca3-44fb-a10c-8ba2641ee887"
-    ],
-    "vid": [
-      7896064
-    ],
-    "view_count": [
-      952
-    ],
-    "search_api_id": [
-      "entity:node/875561:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/households-ownership-status-census-houses-occupied-them-and-dwelling-rooms-census-2001"
     ],
     "ogdp_custom_field": [
@@ -5287,6 +5180,109 @@
     ],
     "search_api_id": [
       "entity:node/1681641:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/main-workers-other-cultivators-and-agricultural-labourers-classified-industrial-category"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4418
+    ],
+    "published_date": [
+      1482481862
+    ],
+    "body:value": [
+      "The catalog contains data related to Main Workers other than Cultivators and Agricultural Labourers Classified by Industrial Category, Educational Level and Sex, Census 1991 - India and States. It includes data on Gender wise and Education level wise Main Worker other than Cultivators and Agricultural Labourers Classified by different Industrial Category."
+    ],
+    "changed": [
+      1484556810
+    ],
+    "created": [
+      1482379793
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Cultivator",
+      "Education",
+      "Population",
+      "Worker",
+      "Excluding"
+    ],
+    "nid": [
+      1681661
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Main Workers other than Cultivators and Agricultural Labourers Classified by Industrial Category, Educational Level and Sex, Census 1991 - India and States"
+    ],
+    "uuid": [
+      "0392d749-e495-4312-a6cc-62a2a617f25d"
+    ],
+    "vid": [
+      7896849
+    ],
+    "view_count": [
+      4311
+    ],
+    "search_api_id": [
+      "entity:node/1681661:en"
     ],
     "search_api_datasource": [
       "entity:node"

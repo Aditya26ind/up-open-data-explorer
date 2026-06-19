@@ -13,109 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/mothers-who-consumed-iron-folic-acidifa-least-90-days"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      950
-    ],
-    "published_date": [
-      1398682657
-    ],
-    "body:value": [
-      "The data refers to Mothers who consumed Iron-Folic Acid(IFA) for at least 90 days - National Family Health Survey (NFHS), District Level Household and Facility Survey(DLHS) and Coverage Evaluation Survey- UNICEF (CES)."
-    ],
-    "changed": [
-      1566286941
-    ],
-    "created": [
-      1393834402
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Family Welfare Statistics"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Health and Family Welfare",
-      "Department of Health and Family Welfare"
-    ],
-    "field_sector:name": [
-      "Health and Family welfare",
-      "Family Welfare"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Health",
-      "Household",
-      "Iron",
-      "NFHS",
-      "Survey",
-      "Facility",
-      "CES",
-      "Coverage",
-      "Mother",
-      "Family",
-      "Folic",
-      "SurveyDLHS",
-      "Evaluion"
-    ],
-    "nid": [
-      95970
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Mothers who consumed Iron-Folic Acid(IFA) for at least 90 days"
-    ],
-    "uuid": [
-      "ebe10f81-03df-49f0-ab58-e86ce5a2de74"
-    ],
-    "vid": [
-      7887139
-    ],
-    "view_count": [
-      853
-    ],
-    "search_api_id": [
-      "entity:node/95970:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/neo-natal-mortality-rates-residence"
     ],
     "ogdp_custom_field": [
@@ -4835,6 +4732,109 @@
     ],
     "search_api_id": [
       "entity:node/96961:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/households-number-married-couples-household-and-number-dwelling-rooms"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1090
+    ],
+    "published_date": [
+      1395392213
+    ],
+    "body:value": [
+      "The data refers to details of Area Name, Table Name, State Code, District Code, Tehsil Code, Town Code, Area Name, Total/Rural/Urban, Ownership status, Household size, Total number of households, No exclusive room, One room, One room, Households having number of dwelling rooms Two room, Three room, Four room, Five room, Six rooms and above at States/UTs and District level."
+    ],
+    "changed": [
+      1441628552
+    ],
+    "created": [
+      1395298547
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Houselisting and Housing Census Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "House listing and Housing Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Dwelling",
+      "Household",
+      "SC",
+      "ST",
+      "Caste",
+      "Married",
+      "Scheduled",
+      "Tribe",
+      "Couple"
+    ],
+    "nid": [
+      96965
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Households by number of married couples per household and number of dwelling rooms"
+    ],
+    "uuid": [
+      "2688ad81-73cb-44d3-bb8d-6ffa2cbf7361"
+    ],
+    "vid": [
+      7888249
+    ],
+    "view_count": [
+      956
+    ],
+    "search_api_id": [
+      "entity:node/96965:en"
     ],
     "search_api_datasource": [
       "entity:node"

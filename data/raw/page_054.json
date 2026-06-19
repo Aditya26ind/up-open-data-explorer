@@ -10,98 +10,6 @@
       0
     ],
     "is_webservice": [
-      0
-    ],
-    "node_alias": [
-      "/catalog/ninth-plan-outlay-expenditure-and-tenth-plan-approved-outlay"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      1092
-    ],
-    "published_date": [
-      1375864427
-    ],
-    "body:value": [
-      "The data refers to the Ninth Plan outlay/ expenditure and Tenth Plan approved outlay under various schemes of Department of Secondary and Higher Education."
-    ],
-    "changed": [
-      1436419141
-    ],
-    "created": [
-      1375707000
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Higher Education"
-    ],
-    "field_ministry_department:name": [
-      "NITI Aayog"
-    ],
-    "field_sector:name": [
-      "Education",
-      "Higher Education"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Education",
-      "expenditure",
-      "Higher"
-    ],
-    "nid": [
-      89415
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Ninth Plan Outlay/ Expenditure and Tenth Plan Approved Outlay"
-    ],
-    "uuid": [
-      "182bcab1-0c4d-4237-88ed-cd4b189adecd"
-    ],
-    "vid": [
-      7854079
-    ],
-    "view_count": [
-      1041
-    ],
-    "search_api_id": [
-      "entity:node/89415:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
       1
     ],
     "node_alias": [
@@ -4778,6 +4686,101 @@
     ],
     "search_api_id": [
       "entity:node/90880:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/seasonality-mgnrega-employment-provided"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1249
+    ],
+    "published_date": [
+      1369675947
+    ],
+    "body:value": [
+      "The data refers to information on month-wise employment about seasonality of work under MGNREGA during FY 201011 (Twelfth Five Year Plan document). It indicates that during lean agricultural season (January June), around 70 per cent of person-days of work were generated."
+    ],
+    "changed": [
+      1436419242
+    ],
+    "created": [
+      1369669860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employment",
+      "MGNREGA",
+      "Plan",
+      "Guarantee",
+      "Document"
+    ],
+    "nid": [
+      90882
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Seasonality of MGNREGA Employment Provided"
+    ],
+    "uuid": [
+      "86692748-0516-4ade-9fc2-493d8ff7edf8"
+    ],
+    "vid": [
+      7859582
+    ],
+    "view_count": [
+      1098
+    ],
+    "search_api_id": [
+      "entity:node/90882:en"
     ],
     "search_api_datasource": [
       "entity:node"

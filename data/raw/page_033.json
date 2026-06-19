@@ -13,100 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/block-wise-distribution-lift-schemes-temporary-not-use-reasons"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      305
-    ],
-    "published_date": [
-      1391085304
-    ],
-    "body:value": [
-      "The data refers to block wise number of surface lift schemes temporarily not in use due to Non-availability of adequate power, Mechanical break-down, Less discharge of water, Storage not filled up fully, Siltation of channel/storage and Channel break-down."
-    ],
-    "changed": [
-      1392273597
-    ],
-    "created": [
-      1390557660
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Water Resources"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Jal Shakti",
-      "Department of Water Resources, River Development & Ganga Rejuvenation"
-    ],
-    "field_sector:name": [
-      "Water Resources"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "census",
-      "irrigation",
-      "Scheme",
-      "Surface",
-      "MI"
-    ],
-    "nid": [
-      86326
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Block wise Distribution of Lift Schemes temporary not is use by reasons"
-    ],
-    "uuid": [
-      "7dfa046d-7438-42a1-957c-b42e18be8572"
-    ],
-    "vid": [
-      7841765
-    ],
-    "view_count": [
-      290
-    ],
-    "search_api_id": [
-      "entity:node/86326:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/block-wise-distribution-shallow-tubewells-according-depth-dugwells"
     ],
     "ogdp_custom_field": [
@@ -4943,6 +4849,106 @@
     ],
     "search_api_id": [
       "entity:node/86652:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cash-transaction-reports-received-under-prevention-money-laundering-act"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6455
+    ],
+    "published_date": [
+      1361267814
+    ],
+    "body:value": [
+      "The Prevention of Money-laundering Act, 2002, and rule thereunder require every banking company, financial institution and intermediary, to furnish to FIU-IND information relating to - All cash transactions of the value of more than rupees ten lakhs or its equivalent in foreign currency; All series of cash transactions integrally connected to each other which have been valued below rupees ten lakhs or its equivalent in foreign currency where such series of transactions have taken place within a month."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Intelligence"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Revenue",
+      "Financial Intelligence Unit - India"
+    ],
+    "field_sector:name": [
+      "Finance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Cash",
+      "CTR",
+      "Currency",
+      "finance",
+      "Financial",
+      "Foreign",
+      "intelligence",
+      "PMLA",
+      "Transaction",
+      "Laundring"
+    ],
+    "nid": [
+      86654
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cash Transaction Reports received under Prevention of Money Laundering Act"
+    ],
+    "uuid": [
+      "02af2362-3a1f-4782-88e4-b3d8be6a8ab7"
+    ],
+    "vid": [
+      7842850
+    ],
+    "view_count": [
+      5880
+    ],
+    "search_api_id": [
+      "entity:node/86654:en"
     ],
     "search_api_datasource": [
       "entity:node"

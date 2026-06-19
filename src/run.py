@@ -1,26 +1,36 @@
-import .analyse
-import .collect_data
-import .consolidate_data
-import .utils
+import sys
+import os
+sys.path.insert(0, os.path.dirname(__file__))
+
+import pandas as pd
+from pathlib import Path
+
+import collect_data
+import consolidate_data
+import analyse
+
+CSV_PATH = Path(__file__).parent.parent / "data" / "processed" / "up_dataset_catalog.csv"
+
 
 class Pipeline:
-    def __init__(self, steps):
-        self.steps = steps
+    def __init__(self):
+        self.extractor = collect_data.Extraction()
+        self.analyzer = None
 
-    def run(self, data):
-        # Run each step in sequence, passing the output of one as input to the next
-        for step in self.steps:
-            data = step.run(data)
-        return data
-    
+    def run(self):
+        # Step 1: collect
+        self.extractor.extract()
+        self.extractor.load()
+
+        # Step 2: consolidate
+        consolidate_data.consolidate()
+
+        # Step 3: analyse
+        df = pd.read_csv(CSV_PATH)
+        self.analyzer = analyse.Analyzer(df)
+        self.analyzer.analyze()
+
+
 if __name__ == "__main__":
-    # Define the steps of the pipeline
-    steps = [
-        collect_data.Extraction(),
-        consolidate_data.Transformation("Flatten and Clean", consolidate_data._flatten_row),
-        analyse.Analysis(),
-    ]
-
-    # Create and run the pipeline
-    pipeline = Pipeline(steps)
-    pipeline.run(None)  # Initial input is None since Extraction doesn't require input
+    pipeline = Pipeline()
+    pipeline.run()

@@ -1327,119 +1327,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-uttar"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      188
-    ],
-    "published_date": [
-      1608274094
-    ],
-    "body:value": [
-      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Uttar Pradesh. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
-    ],
-    "changed": [
-      1608614680
-    ],
-    "created": [
-      1608121862
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India",
-      "State",
-      "Uttar Pradesh"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Health Management Information System"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Health and Family Welfare",
-      "Department of Health and Family Welfare"
-    ],
-    "field_sector:name": [
-      "Health and Family welfare",
-      "Family Welfare",
-      "Health"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "attendance",
-      "CHC",
-      "community",
-      "Delivery",
-      "Health",
-      "HMIS",
-      "Hospital",
-      "IPD",
-      "OPD",
-      "PHC",
-      "SC",
-      "Facility",
-      "Patient",
-      "NHM",
-      "SDH",
-      "DH",
-      "Anaesthesia",
-      "Subdural",
-      "Hematoma"
-    ],
-    "nid": [
-      6819488
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "792"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Uttar Pradesh"
-    ],
-    "uuid": [
-      "560551ac-22dd-44ee-a220-f11e24c0e6ac"
-    ],
-    "vid": [
-      7907165
-    ],
-    "view_count": [
-      63
-    ],
-    "search_api_id": [
-      "entity:node/6819488:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts"
     ],
     "ogdp_custom_field": [
@@ -6119,6 +6006,131 @@
     ],
     "search_api_id": [
       "entity:node/6824835:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/item-wise-monthly-hmis-report-district-level-punjab"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      433
+    ],
+    "published_date": [
+      1608714790
+    ],
+    "body:value": [
+      "The catalog contains data regarding various indicators of HMIS like Health, Abortions, Immunisation, AEFI, Adolescent, Bite, Sting, Disease, Diarrhoeal, Hypertension, HIV, AIDS, Malaria, Neurological, Stroke, Fever, Respiratory, Infection, suicide, Trauma, Accident, Burn, Tuberculosis, VHND, ASHA, JSY, CHC, PHC, SDH, DH, Hospital."
+    ],
+    "changed": [
+      1613364515
+    ],
+    "created": [
+      1608649263
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Punjab"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AIDS",
+      "ASHA",
+      "CHC",
+      "Disease",
+      "Health",
+      "HIV",
+      "Hospital",
+      "Immunisation",
+      "Malaria",
+      "PHC",
+      "Tuberculosis",
+      "Adolescent",
+      "JSY",
+      "Hypertension",
+      "Accident",
+      "Abortion",
+      "Fever",
+      "SDH",
+      "DH",
+      "AEFI",
+      "Bite",
+      "Sting",
+      "Diarrhoeal",
+      "Neurological",
+      "Stroke",
+      "Respiratory",
+      "Infection",
+      "suicide",
+      "Trauma",
+      "Burn",
+      "VHND"
+    ],
+    "nid": [
+      6824836
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Item-wise monthly HMIS report at District level of Punjab"
+    ],
+    "uuid": [
+      "8794cbb9-6898-4228-98a0-8ab90fb89750"
+    ],
+    "vid": [
+      7907559
+    ],
+    "view_count": [
+      54
+    ],
+    "search_api_id": [
+      "entity:node/6824836:en"
     ],
     "search_api_datasource": [
       "entity:node"

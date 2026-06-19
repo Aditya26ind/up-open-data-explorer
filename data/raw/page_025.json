@@ -13,131 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/item-wise-monthly-hmis-report-district-level-punjab"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      433
-    ],
-    "published_date": [
-      1608714790
-    ],
-    "body:value": [
-      "The catalog contains data regarding various indicators of HMIS like Health, Abortions, Immunisation, AEFI, Adolescent, Bite, Sting, Disease, Diarrhoeal, Hypertension, HIV, AIDS, Malaria, Neurological, Stroke, Fever, Respiratory, Infection, suicide, Trauma, Accident, Burn, Tuberculosis, VHND, ASHA, JSY, CHC, PHC, SDH, DH, Hospital."
-    ],
-    "changed": [
-      1613364515
-    ],
-    "created": [
-      1608649263
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India",
-      "State",
-      "Punjab"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Health Management Information System"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Health and Family Welfare",
-      "Department of Health and Family Welfare"
-    ],
-    "field_sector:name": [
-      "Health and Family welfare",
-      "Family Welfare",
-      "Health"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "AIDS",
-      "ASHA",
-      "CHC",
-      "Disease",
-      "Health",
-      "HIV",
-      "Hospital",
-      "Immunisation",
-      "Malaria",
-      "PHC",
-      "Tuberculosis",
-      "Adolescent",
-      "JSY",
-      "Hypertension",
-      "Accident",
-      "Abortion",
-      "Fever",
-      "SDH",
-      "DH",
-      "AEFI",
-      "Bite",
-      "Sting",
-      "Diarrhoeal",
-      "Neurological",
-      "Stroke",
-      "Respiratory",
-      "Infection",
-      "suicide",
-      "Trauma",
-      "Burn",
-      "VHND"
-    ],
-    "nid": [
-      6824836
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "21"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Item-wise monthly HMIS report at District level of Punjab"
-    ],
-    "uuid": [
-      "8794cbb9-6898-4228-98a0-8ab90fb89750"
-    ],
-    "vid": [
-      7907559
-    ],
-    "view_count": [
-      54
-    ],
-    "search_api_id": [
-      "entity:node/6824836:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/item-wise-monthly-hmis-report-district-level-rajasthan"
     ],
     "ogdp_custom_field": [
@@ -6418,6 +6293,114 @@
     ],
     "search_api_id": [
       "entity:node/6881480:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/range-wise-quarterly-performance-public-facilities-ipd-attendance-india-across-statesuts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      518
+    ],
+    "published_date": [
+      1624454405
+    ],
+    "body:value": [
+      "Get data on Range-wise Quarterly Performance of Public Facilities for IPD Attendance in India (Across States/Uts). It contains type of facilities, number of facilities, and overall Quarterly performance of the facilities."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1624444268
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "CHC",
+      "community",
+      "Delivery",
+      "District",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "Management",
+      "PHC",
+      "primary",
+      "Public",
+      "SC",
+      "Facility",
+      "SDH",
+      "DH",
+      "Power"
+    ],
+    "nid": [
+      6881481
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Range-wise Quarterly Performance of Public Facilities for IPD Attendance in India (Across States/UTs)"
+    ],
+    "uuid": [
+      "addadd24-d9a0-4772-88e6-e341f98a2571"
+    ],
+    "vid": [
+      13003900
+    ],
+    "view_count": [
+      100
+    ],
+    "search_api_id": [
+      "entity:node/6881481:en"
     ],
     "search_api_datasource": [
       "entity:node"

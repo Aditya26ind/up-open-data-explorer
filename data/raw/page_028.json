@@ -1,116 +1,5 @@
 [
   {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
-      "/catalog/crime-india-1986"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      1958
-    ],
-    "published_date": [
-      1467087660
-    ],
-    "body:value": [
-      "Catalog contains data of Crime in India -1986. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
-    ],
-    "changed": [
-      1467089441
-    ],
-    "created": [
-      1466596059
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India",
-      "State"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Crime"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Home Affairs",
-      "Department of States",
-      "National Crime Records Bureau (NCRB)"
-    ],
-    "field_sector:name": [
-      "Home Affairs and Enforcement",
-      "Police"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Crime",
-      "Dacoity",
-      "girls",
-      "Kidnapping",
-      "Robbery",
-      "Police",
-      "code",
-      "Murder",
-      "Importation",
-      "Abduction",
-      "Rape",
-      "IPC",
-      "Trial",
-      "LSL",
-      "Penal",
-      "Culpable",
-      "Homicide",
-      "Victim",
-      "Forces"
-    ],
-    "nid": [
-      750301
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Crime in India - 1986"
-    ],
-    "uuid": [
-      "25b9f0eb-dccf-4082-bcbc-9c279ad844f4"
-    ],
-    "vid": [
-      7895838
-    ],
-    "view_count": [
-      1803
-    ],
-    "search_api_id": [
-      "entity:node/750301:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
     "api_request_count": [
       17
     ],
@@ -4838,6 +4727,100 @@
     ],
     "search_api_id": [
       "entity:node/85710:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/accretion-coal-reserves-power-sector"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      701
+    ],
+    "published_date": [
+      1370939779
+    ],
+    "body:value": [
+      "The data refers to category-wise Accretion of Coal Reserves at the end of the respective years. The details are given for years 2005 to 2011."
+    ],
+    "changed": [
+      1436419215
+    ],
+    "created": [
+      1370682240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Coal",
+      "indicated",
+      "inferred",
+      "Reserve",
+      "Power"
+    ],
+    "nid": [
+      85712
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Accretion of Coal Reserves - Power Sector"
+    ],
+    "uuid": [
+      "ce63889e-21c7-4092-86a1-33899a9ce581"
+    ],
+    "vid": [
+      7839389
+    ],
+    "view_count": [
+      643
+    ],
+    "search_api_id": [
+      "entity:node/85712:en"
     ],
     "search_api_datasource": [
       "entity:node"

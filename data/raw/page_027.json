@@ -1,97 +1,5 @@
 [
   {
-    "api_request_count": [
-      1
-    ],
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
-      "/catalog/indian-petroleum-and-natural-gas-statistics-2020-21"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      2167
-    ],
-    "published_date": [
-      1649216831
-    ],
-    "body:value": [
-      "Indian Petroleum and Natural Gas Statistics - 2020-21 provides exhaustive data on oil & gas sector in India. In addition, this catalog also gives a glimpse of the global petroleum scenario through the latest international petroleum statistics. It contains data on various parameters including inter-alia production, exploration, refining, transportation and marketing, imports and exports of crude oil and petroleum products along with taxes and duties realized, man power employed in oil & gas CPSEs, outlays and annual expenditure, dividends paid, equity capital and profit of the CPSEs etc."
-    ],
-    "changed": [
-      1726745986
-    ],
-    "created": [
-      1649156414
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Petroleum and Natural Gas"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Petroleum and Natural Gas"
-    ],
-    "field_sector:name": [
-      "Industries",
-      "Petroleum and Natural Gas"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "PNG",
-      "Natural Gas",
-      "Crude Oil"
-    ],
-    "nid": [
-      7039958
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Indian Petroleum and Natural Gas Statistics - 2020-21"
-    ],
-    "uuid": [
-      "386149ed-781e-46a6-acd2-df9337e92097"
-    ],
-    "vid": [
-      10566598
-    ],
-    "search_api_id": [
-      "entity:node/7039958:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
     "high_value_dataset": [
       1
     ],
@@ -4732,6 +4640,117 @@
     ],
     "search_api_id": [
       "entity:node/7492343:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1986"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1958
+    ],
+    "published_date": [
+      1467087660
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1986. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1467089441
+    ],
+    "created": [
+      1466596059
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "girls",
+      "Kidnapping",
+      "Robbery",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Victim",
+      "Forces"
+    ],
+    "nid": [
+      750301
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1986"
+    ],
+    "uuid": [
+      "25b9f0eb-dccf-4082-bcbc-9c279ad844f4"
+    ],
+    "vid": [
+      7895838
+    ],
+    "view_count": [
+      1803
+    ],
+    "search_api_id": [
+      "entity:node/750301:en"
     ],
     "search_api_datasource": [
       "entity:node"

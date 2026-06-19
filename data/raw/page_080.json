@@ -1,99 +1,5 @@
 [
   {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
-      "/catalog/foreign-direct-investment-fdi-equity-inflows"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      43195
-    ],
-    "published_date": [
-      1469786594
-    ],
-    "body:value": [
-      "Get data on Foreign Direct Investment (FDI) Equity Inflows for various sectors. Various Sectors are Metallurgical Industries, Mining, Power, Non-conventional Energy, Coal Production, Petroleum & Natural Gas, Boilers and Steam Generating Plants, Prime Mover, Electrical Equipments, Computer Software & Hardware, Electronics, Telecommunications, Information & Broadcasting (including Print Media), Automobile Industry, Air Transport (including Air Freight), Sea Transport, Ports, Railway Related Components, Industrial Machinery, Machine Tools, Agricultural Machinery, Earth-moving Machinery, Mechanical & Engineering Industries, Commercial, Office & Household Equipments, Medical and Surgical Appliances, Industrial Instruments, Scientific Instruments, Mathematical,surveying and Drawing Instruments, Fertilizers, Chemicals , Photographic, Dye-stuffs, Drugs & Pharmaceuticals, Textiles, Paper And Pulp , Sugar, Fermentation Industries, Food Processing Industries, Vegetable Oils And Vanaspati, Soaps, Cosmetics & Toilet Preparations, Rubber Goods, Leather,leather Goods And Pickers, Glue And Gelatin, Glass, Ceramics, Cement And Gypsum Products, Timber Products, Defence Industries, Consultancy Services, Services Sector, Hospital & Diagnostic Centres, Education, Hotel & Tourism, Trading, Retail Trading, Agriculture Services, Diamond,gold Ornaments, Tea And Coffee (processing & Warehousing Coffee & Rubber), Printing, Coir, Construction etc."
-    ],
-    "changed": [
-      1776056911
-    ],
-    "created": [
-      1469777363
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Foreign Direct Investment"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Commerce and Industry",
-      "Department for Promotion of industry and Internal Trade"
-    ],
-    "field_sector:name": [
-      "Commerce"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Commerce",
-      "FDI",
-      "Foreign",
-      "Industry",
-      "Investment"
-    ],
-    "nid": [
-      839421
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Foreign Direct Investment (FDI) Equity Inflows"
-    ],
-    "uuid": [
-      "9b89072e-4725-4cf3-afae-5f09d374a8a4"
-    ],
-    "vid": [
-      7895957
-    ],
-    "view_count": [
-      34469
-    ],
-    "search_api_id": [
-      "entity:node/839421:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
     "api_request_count": [
       4
     ],
@@ -2959,101 +2865,6 @@
       1
     ],
     "node_alias": [
-      "/catalog/daily-data-ihhl-coverage-namami-ganga-villages-under-swachh-bharat-mission"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      2043
-    ],
-    "published_date": [
-      1526445200
-    ],
-    "body:value": [
-      "The catalog contains status on IHHL coverage in Namami Ganga villages under Swachh Bharat Mission."
-    ],
-    "changed": [
-      1780927243
-    ],
-    "created": [
-      1526281858
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India",
-      "State"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Namami Gange Programme"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Jal Shakti",
-      "Department of Drinking Water and Sanitation"
-    ],
-    "field_sector:name": [
-      "Water and Sanitation"
-    ],
-    "from_api": [
-      "1"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "ganga",
-      "Clean",
-      "Rejuvenation",
-      "Namami",
-      "Gange"
-    ],
-    "nid": [
-      5067501
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Daily data on IHHL coverage in Namami Ganga villages under Swachh Bharat Mission"
-    ],
-    "uuid": [
-      "b66fd610-224e-4811-88ff-11f05e4b5709"
-    ],
-    "vid": [
-      7898008
-    ],
-    "view_count": [
-      1374
-    ],
-    "search_api_id": [
-      "entity:node/5067501:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
       "/catalog/daily-data-open-defecation-free-odf-under-swachh-bharat-mission"
     ],
     "ogdp_custom_field": [
@@ -3129,6 +2940,101 @@
     ],
     "search_api_id": [
       "entity:node/5067441:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-data-ihhl-coverage-namami-ganga-villages-under-swachh-bharat-mission"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2043
+    ],
+    "published_date": [
+      1526445200
+    ],
+    "body:value": [
+      "The catalog contains status on IHHL coverage in Namami Ganga villages under Swachh Bharat Mission."
+    ],
+    "changed": [
+      1780927243
+    ],
+    "created": [
+      1526281858
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Namami Gange Programme"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Drinking Water and Sanitation"
+    ],
+    "field_sector:name": [
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ganga",
+      "Clean",
+      "Rejuvenation",
+      "Namami",
+      "Gange"
+    ],
+    "nid": [
+      5067501
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily data on IHHL coverage in Namami Ganga villages under Swachh Bharat Mission"
+    ],
+    "uuid": [
+      "b66fd610-224e-4811-88ff-11f05e4b5709"
+    ],
+    "vid": [
+      7898008
+    ],
+    "view_count": [
+      1374
+    ],
+    "search_api_id": [
+      "entity:node/5067501:en"
     ],
     "search_api_datasource": [
       "entity:node"
@@ -3808,6 +3714,106 @@
     ]
   },
   {
+    "api_request_count": [
+      26
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/company-master-data"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      486181
+    ],
+    "published_date": [
+      1442318144
+    ],
+    "body:value": [
+      "Get data on master details of any company registered with Registrar of Companies (RoC). Data contains various information like Corporate Identification Number(CIN), Company Name, Company Status, Company Class, Company Category,  Authorized Capital in INR, Paid-up Capital in INR, Date of Registration, Registered State, Registrar of Companies, Principal Business Activity, Registered Office Address and Sub Category.  \r\n"
+    ],
+    "changed": [
+      1781162992
+    ],
+    "created": [
+      1442299687
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Corporate Affairs"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Companies"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Company",
+      "CIN",
+      "Corporate",
+      "Paid",
+      "Authorized",
+      "Identification"
+    ],
+    "nid": [
+      354261
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Company Master Data"
+    ],
+    "uuid": [
+      "ec58dab7-d891-4abb-936e-d5d274a6ce9b"
+    ],
+    "vid": [
+      12280970
+    ],
+    "view_count": [
+      385007
+    ],
+    "search_api_id": [
+      "entity:node/354261:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
     "high_value_dataset": [
       0
     ],
@@ -3938,13 +3944,128 @@
       0
     ],
     "node_alias": [
+      "/catalog/quarterly-maximum-and-minimum-performing-public-health-facilities-selected-data-items"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      498
+    ],
+    "published_date": [
+      1621313267
+    ],
+    "body:value": [
+      "Get data on Quarterly maximum & minimum performing public health facilities on selected data items Across States. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1781244576
+    ],
+    "created": [
+      1620579661
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6872941
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Quarterly Maximum and Minimum Performing Public Health Facilities on Selected Data Items Across States"
+    ],
+    "uuid": [
+      "ff3b623f-2a84-4960-8bf6-ab2cdfe4baef"
+    ],
+    "vid": [
+      7909854
+    ],
+    "view_count": [
+      185
+    ],
+    "search_api_id": [
+      "entity:node/6872941:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
       "/catalog/all-india-level-annual-maximum-and-minimum-performing-public-health-facilities-selected"
     ],
     "ogdp_custom_field": [
       "test"
     ],
     "ogdp_view_count": [
-      1855
+      3542
     ],
     "published_date": [
       1622178021
@@ -4030,10 +4151,301 @@
       7909843
     ],
     "view_count": [
-      1230
+      3029
     ],
     "search_api_id": [
       "entity:node/6872939:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/etaal-electronic-transaction-aggregation-and-analysis-layer"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1406
+    ],
+    "published_date": [
+      1747821300
+    ],
+    "body:value": [
+      "eTaal- Electronic Transaction Aggregation and Analysis Layer"
+    ],
+    "changed": [
+      1781713816
+    ],
+    "created": [
+      1747639693
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "eTaal"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Electronics and Information Technology (MeitY)",
+      "National Informatics Centre (NIC)"
+    ],
+    "field_sector:name": [
+      "Information and Technology"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "eTransaction",
+      "ETaal"
+    ],
+    "nid": [
+      603772951
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "eTaal- Electronic Transaction Aggregation and Analysis Layer"
+    ],
+    "uuid": [
+      "5b7cb458-b96f-40cd-9fd6-f8c7d00c521b"
+    ],
+    "vid": [
+      13272106
+    ],
+    "search_api_id": [
+      "entity:node/603772951:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-uttar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      188
+    ],
+    "published_date": [
+      1608274094
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Uttar Pradesh. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1781772616
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Uttar Pradesh"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "OPD",
+      "PHC",
+      "SC",
+      "Facility",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Subdural",
+      "Hematoma"
+    ],
+    "nid": [
+      6819488
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "792"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Uttar Pradesh"
+    ],
+    "uuid": [
+      "560551ac-22dd-44ee-a220-f11e24c0e6ac"
+    ],
+    "vid": [
+      7907165
+    ],
+    "view_count": [
+      63
+    ],
+    "search_api_id": [
+      "entity:node/6819488:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/survey-villages-abadi-and-mapping-improvised-technology-village-areas-svamitva"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3538
+    ],
+    "published_date": [
+      1661509884
+    ],
+    "body:value": [
+      "The scheme is a reformative step towards the establishment of clear ownership of property in rural inhabited (Abadi) areas, by mapping of land parcels using drone technology and providing Record of Rights to village household owners with the issuance of legal ownership cards (Property cards/Title deeds) to the property owners."
+    ],
+    "changed": [
+      1781767160
+    ],
+    "created": [
+      1660105886
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Panchayati Raj"
+    ],
+    "field_sector:name": [
+      "Panchayati Raj"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Property Card distribution ",
+      "SVAMITVA",
+      "Panchayati Raj"
+    ],
+    "nid": [
+      7190430
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Survey of Villages Abadi and Mapping with Improvised Technology in Village Areas (SVAMITVA) "
+    ],
+    "uuid": [
+      "0eee04a2-598b-4e4e-8315-d15ae8b3e07c"
+    ],
+    "vid": [
+      11057222
+    ],
+    "search_api_id": [
+      "entity:node/7190430:en"
     ],
     "search_api_datasource": [
       "entity:node"
@@ -4074,7 +4486,7 @@
       "The catalog contains queries asked by farmers in Kisan Call Centre. It includes district wise - month Wise details of queries asked by farmers and answers given by FTAs"
     ],
     "changed": [
-      1781194588
+      1781799223
     ],
     "created": [
       1488803059
@@ -4145,402 +4557,6 @@
     ]
   },
   {
-    "api_request_count": [
-      26
-    ],
-    "high_value_dataset": [
-      1
-    ],
-    "is_api_available": [
-      1
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
-      "/catalog/company-master-data"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      486181
-    ],
-    "published_date": [
-      1442318144
-    ],
-    "body:value": [
-      "Get data on master details of any company registered with Registrar of Companies (RoC). Data contains various information like Corporate Identification Number(CIN), Company Name, Company Status, Company Class, Company Category,  Authorized Capital in INR, Paid-up Capital in INR, Date of Registration, Registered State, Registrar of Companies, Principal Business Activity, Registered Office Address and Sub Category.  \r\n"
-    ],
-    "changed": [
-      1781162992
-    ],
-    "created": [
-      1442299687
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Companies"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Corporate Affairs"
-    ],
-    "field_sector:name": [
-      "Commerce",
-      "Companies"
-    ],
-    "from_api": [
-      "1"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Capital",
-      "Company",
-      "CIN",
-      "Corporate",
-      "Paid",
-      "Authorized",
-      "Identification"
-    ],
-    "nid": [
-      354261
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Company Master Data"
-    ],
-    "uuid": [
-      "ec58dab7-d891-4abb-936e-d5d274a6ce9b"
-    ],
-    "vid": [
-      12280970
-    ],
-    "view_count": [
-      385007
-    ],
-    "search_api_id": [
-      "entity:node/354261:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      1
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
-      "/catalog/etaal-electronic-transaction-aggregation-and-analysis-layer"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      1406
-    ],
-    "published_date": [
-      1747821300
-    ],
-    "body:value": [
-      "eTaal- Electronic Transaction Aggregation and Analysis Layer"
-    ],
-    "changed": [
-      1781195415
-    ],
-    "created": [
-      1747639693
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "eTaal"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Electronics and Information Technology (MeitY)",
-      "National Informatics Centre (NIC)"
-    ],
-    "field_sector:name": [
-      "Information and Technology"
-    ],
-    "from_api": [
-      "1"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "eTransaction",
-      "ETaal"
-    ],
-    "nid": [
-      603772951
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "eTaal- Electronic Transaction Aggregation and Analysis Layer"
-    ],
-    "uuid": [
-      "5b7cb458-b96f-40cd-9fd6-f8c7d00c521b"
-    ],
-    "vid": [
-      13272106
-    ],
-    "search_api_id": [
-      "entity:node/603772951:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "api_request_count": [
-      14
-    ],
-    "high_value_dataset": [
-      1
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
-      "/catalog/surface-water-quality"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      2299
-    ],
-    "published_date": [
-      1642088594
-    ],
-    "body:value": [
-      "Surface  Water Quality of CWC, CPCB"
-    ],
-    "changed": [
-      1781202636
-    ],
-    "created": [
-      1640156564
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "National Water Informatics Centre"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Jal Shakti",
-      "Department of Water Resources, River Development & Ganga Rejuvenation",
-      "National Water Informatics Centre"
-    ],
-    "field_sector:name": [
-      "Water Resources",
-      "Surface Water"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "CPCB",
-      "CWC"
-    ],
-    "nid": [
-      6905400
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Surface  Water Quality "
-    ],
-    "uuid": [
-      "ba99a72f-3f2c-475b-be6f-2680e05b59f9"
-    ],
-    "vid": [
-      10285891
-    ],
-    "search_api_id": [
-      "entity:node/6905400:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "api_request_count": [
-      12
-    ],
-    "high_value_dataset": [
-      1
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
-      "/catalog/real-time-air-quality-index"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      64894
-    ],
-    "published_date": [
-      1470284740
-    ],
-    "body:value": [
-      "Get Real time National Air Quality Index values from different monitoring stations across India. The pollutants monitored are Sulphur Dioxide (SO2), Nitrogen Dioxide (NO2), Particulate Matter (PM10 and PM2.5) , Carbon Monoxide (CO), Ozone(O3) etc."
-    ],
-    "changed": [
-      1781272915
-    ],
-    "created": [
-      1469420830
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Air Quality"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Environment, Forest and Climate Change",
-      "Central Pollution Control Board"
-    ],
-    "field_sector:name": [
-      "Environment and Forest",
-      "Industrial Air Pollution",
-      "Residential Air Pollution",
-      "Vehicular Air Pollution"
-    ],
-    "from_api": [
-      "1"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Air",
-      "Monitoring",
-      "quality",
-      "Ozone",
-      "pollution",
-      "SO2",
-      "station",
-      "NO2",
-      "particulate",
-      "AQI",
-      "PM10",
-      "CO",
-      "Carbon",
-      "Dioxide",
-      "Nitrogen",
-      "Matter",
-      "Polutant",
-      "Sulphur",
-      "Monoxide"
-    ],
-    "nid": [
-      804641
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Real time Air Quality Index"
-    ],
-    "uuid": [
-      "a3e7afc6-b799-4ede-b143-8e074b27e062"
-    ],
-    "vid": [
-      7895893
-    ],
-    "view_count": [
-      34812
-    ],
-    "search_api_id": [
-      "entity:node/804641:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
     "high_value_dataset": [
       0
     ],
@@ -4569,7 +4585,7 @@
       "Statistical information on automation of CGHS WCs like list of Wellness Centres, list of hospital and diagnostic centres, top indented medicines, city wise count of beneficiaries, Drugs list, no. of plastic cards issued  etc."
     ],
     "changed": [
-      1781265605
+      1781784226
     ],
     "created": [
       1513661682
@@ -4644,6 +4660,101 @@
   },
   {
     "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/mahatma-gandhi-national-rural-employment-guarantee-act-mgnrega"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      12556
+    ],
+    "published_date": [
+      1694626186
+    ],
+    "body:value": [
+      "An Act to provide for the enhancement of livelihood security of the households in rural areas of the country by providing at least one hundred days of guaranteed wage employment in every financial year to every household whose adult members volunteer to do unskilled manual work and for matters connected therewith or incidental thereto."
+    ],
+    "changed": [
+      1781802017
+    ],
+    "created": [
+      1694428598
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Rural Development",
+      "Department of Rural Development (DRD)"
+    ],
+    "field_sector:name": [
+      "Development"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "MGNREGA",
+      "FTO",
+      "Jobcard",
+      "Asset",
+      "Works assests"
+    ],
+    "nid": [
+      7678584
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)"
+    ],
+    "uuid": [
+      "854e5a1f-a4e3-4177-8586-2bcc27b74552"
+    ],
+    "vid": [
+      12245013
+    ],
+    "search_api_id": [
+      "entity:node/7678584:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
       2
     ],
     "high_value_dataset": [
@@ -4659,25 +4770,25 @@
       1
     ],
     "node_alias": [
-      "/catalog/current-daily-price-various-commodities-various-markets-mandi"
+      "/catalog/national-rural-livelihoods-mission"
     ],
     "ogdp_custom_field": [
       "test"
     ],
     "ogdp_view_count": [
-      1317654
+      6059
     ],
     "published_date": [
-      1369368430
+      1709957960
     ],
     "body:value": [
-      "The data refers to prices of various commodities. It has the wholesale maximum price, minimum price and modal price on daily basis. This dataset is generated through the AGMARKNET Portal (http://agmarknet.gov.in), which disseminates daily market information of various commodities."
+      "Deendayal Antyodaya Yojana- National Rural Livelihoods Mission (DAY-NRLM) aims at mobilizing about 9 crore rural poor households into Self Help Groups (SHGs) in a phased manner and provide them long-term support such that they diversify their livelihoods, improve their incomes and quality of life. The National Rural Livelihood Mission (NRLM) is a federated program that is run via various State Missions and a tiered network of community institutions. NRLM boasts of a large number of women members of 10 Cr into Self Help Group (SHG) of 90 Lakh SHGs. NRLM Scheme beneficiries data with social category are available at the granularity of village level in OGD platform."
     ],
     "changed": [
-      1781272921
+      1781803803
     ],
     "created": [
-      1369290300
+      1709535450
     ],
     "field_asset_jurisdiction:name": [
       "All India"
@@ -4685,17 +4796,13 @@
     "field_ds_govt_type": [
       "Central"
     ],
-    "field_group_name:name": [
-      "Agricultural Marketing"
-    ],
     "field_ministry_department:name": [
-      "Ministry of Agriculture and Farmers Welfare",
-      "Department of Agriculture and Farmers Welfare",
-      "Directorate of Marketing and Inspection (DMI)"
+      "Ministry of Rural Development",
+      "Department of Rural Development (DRD)"
     ],
     "field_sector:name": [
-      "Agriculture",
-      "Agricultural Marketing"
+      "Rural",
+      "Development"
     ],
     "from_api": [
       "1"
@@ -4704,15 +4811,11 @@
       "Central"
     ],
     "keywords": [
-      "mandi",
-      "Price",
-      "Agriculture",
-      "Commodity",
-      "Market",
-      "Rate"
+      "SHG",
+      "NRLM"
     ],
     "nid": [
-      86944
+      602939057
     ],
     "ogpl_module_domain_access": [
       "4",
@@ -4722,112 +4825,16 @@
       "data.gov.in"
     ],
     "title": [
-      "Current daily price of various commodities from various markets (Mandi)"
+      "National Rural Livelihoods Mission"
     ],
     "uuid": [
-      "6141ea17-a69d-4713-b600-0a43c8fd9a6c"
+      "61363e5e-0b4e-42c7-89a2-95104bbe2652"
     ],
     "vid": [
-      12726161
-    ],
-    "view_count": [
-      1280866
+      13013590
     ],
     "search_api_id": [
-      "entity:node/86944:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "api_request_count": [
-      26
-    ],
-    "high_value_dataset": [
-      1
-    ],
-    "is_api_available": [
-      1
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
-      "/catalog/local-government-directory-lgd"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      20956
-    ],
-    "published_date": [
-      1658488466
-    ],
-    "body:value": [
-      "LGD is a complete directory of Land Regions/Revenue, Rural and Urban Local Governments. LGD aims to keep all information about the structure of Local Governments and revenue entities online. The main objective of LGD is to maintain up-to-date list of revenue entities (districts/subdistricts/villages), Local Government Bodies (Panchayats, Municipalities and traditional bodies) and their wards."
-    ],
-    "changed": [
-      1781244268
-    ],
-    "created": [
-      1658473039
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Local Government Directory"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Panchayati Raj"
-    ],
-    "field_sector:name": [
-      "Panchayati Raj"
-    ],
-    "from_api": [
-      "1"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Governance",
-      "Local Government",
-      "Gram Panchayat",
-      "LGD"
-    ],
-    "nid": [
-      7166949
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Local Government Directory (LGD)"
-    ],
-    "uuid": [
-      "5aefd6b6-f0ed-4b11-aa87-a2f2f7277227"
-    ],
-    "vid": [
-      10979212
-    ],
-    "search_api_id": [
-      "entity:node/7166949:en"
+      "entity:node/602939057:en"
     ],
     "search_api_datasource": [
       "entity:node"

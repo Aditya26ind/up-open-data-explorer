@@ -13,98 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/cumulative-achievement-transmission-lines-end-eleventh-plan"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      889
-    ],
-    "published_date": [
-      1370946054
-    ],
-    "body:value": [
-      "The data refers to details on cumulative achievement of transmission lines at the end of the Eleventh Plan."
-    ],
-    "changed": [
-      1436419218
-    ],
-    "created": [
-      1370678820
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Power and Energy"
-    ],
-    "field_ministry_department:name": [
-      "NITI Aayog"
-    ],
-    "field_sector:name": [
-      "Power and Energy",
-      "Renewable"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Class",
-      "System",
-      "Voltage"
-    ],
-    "nid": [
-      86936
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Cumulative Achievement of Transmission Lines at The End of The Eleventh Plan"
-    ],
-    "uuid": [
-      "25185fae-6e73-49fa-b9ef-9fe7121d90e6"
-    ],
-    "vid": [
-      7843932
-    ],
-    "view_count": [
-      795
-    ],
-    "search_api_id": [
-      "entity:node/86936:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/cumulative-physical-progress-under-bharat-nirman-0"
     ],
     "ogdp_custom_field": [
@@ -4750,6 +4658,104 @@
     ],
     "search_api_id": [
       "entity:node/87635:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/diversion-teaching-time-teachers-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      520
+    ],
+    "published_date": [
+      1385707213
+    ],
+    "body:value": [
+      "The data refers to information on diversion from teaching time of teachers. The data refers to Average Hours Spent per day per Teacher Engaged in the Arrangement of Provisions, Cooking and Serving in the sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385641020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CMDM",
+      "diversion",
+      "Scheme",
+      "Provision",
+      "Serving",
+      "Teacher",
+      "Meal",
+      "Cook",
+      "Spent"
+    ],
+    "nid": [
+      87637
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Diversion from Teaching Time of Teachers - Based on Sample Survey"
+    ],
+    "uuid": [
+      "52ef0fd3-a1d8-49cf-9932-e4b4fd362ebe"
+    ],
+    "vid": [
+      7846202
+    ],
+    "view_count": [
+      481
+    ],
+    "search_api_id": [
+      "entity:node/87637:en"
     ],
     "search_api_datasource": [
       "entity:node"

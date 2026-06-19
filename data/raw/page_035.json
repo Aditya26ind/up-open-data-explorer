@@ -10,103 +10,6 @@
       0
     ],
     "is_webservice": [
-      0
-    ],
-    "node_alias": [
-      "/catalog/details-department-related-parliamentary-standing-committees-lok-sabha-english"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      1101
-    ],
-    "published_date": [
-      1379670371
-    ],
-    "body:value": [
-      "(English) The data refers to details regarding the department related Parliamentary Standing Committees of Lok Sabha and their members. It gives the Introduction, Composition, Reports, Rules, Meetings, Engagements, Bills/Petitions, etc."
-    ],
-    "changed": [
-      1392273597
-    ],
-    "created": [
-      1378099560
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Rajya Sabha English RSS Feeds"
-    ],
-    "field_ministry_department:name": [
-      "Rajya Sabha"
-    ],
-    "field_sector:name": [
-      "Parliament Of india",
-      "Governance and Administration",
-      "Rajya Sabha"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "committee",
-      "Membership",
-      "Loksabha",
-      "Member",
-      "Rajyasabha",
-      "Joint",
-      "Adhoc"
-    ],
-    "nid": [
-      87028
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Details of Department Related Parliamentary Standing Committees of Lok Sabha (English)"
-    ],
-    "uuid": [
-      "58bac9a8-7287-4a72-b68d-1287e48a19df"
-    ],
-    "vid": [
-      7844194
-    ],
-    "view_count": [
-      974
-    ],
-    "search_api_id": [
-      "entity:node/87028:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
       1
     ],
     "node_alias": [
@@ -4820,6 +4723,98 @@
     ],
     "search_api_id": [
       "entity:node/86934:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cumulative-achievement-transmission-lines-end-eleventh-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      889
+    ],
+    "published_date": [
+      1370946054
+    ],
+    "body:value": [
+      "The data refers to details on cumulative achievement of transmission lines at the end of the Eleventh Plan."
+    ],
+    "changed": [
+      1436419218
+    ],
+    "created": [
+      1370678820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Class",
+      "System",
+      "Voltage"
+    ],
+    "nid": [
+      86936
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cumulative Achievement of Transmission Lines at The End of The Eleventh Plan"
+    ],
+    "uuid": [
+      "25185fae-6e73-49fa-b9ef-9fe7121d90e6"
+    ],
+    "vid": [
+      7843932
+    ],
+    "view_count": [
+      795
+    ],
+    "search_api_id": [
+      "entity:node/86936:en"
     ],
     "search_api_datasource": [
       "entity:node"

@@ -13,99 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/village-wise-distribution-dugwells-according-source-energy"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      384
-    ],
-    "published_date": [
-      1391073884
-    ],
-    "body:value": [
-      "The data refers to village wise number of dugwells according to various sources of energy. It includes details on sources like Electric pump, Solar pump, Diesel pump, Wind Mills and Manual/animal."
-    ],
-    "changed": [
-      1392366003
-    ],
-    "created": [
-      1390554840
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Water Resources"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Jal Shakti",
-      "Department of Water Resources, River Development & Ganga Rejuvenation"
-    ],
-    "field_sector:name": [
-      "Water Resources"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "census",
-      "Dugwell",
-      "irrigation",
-      "MI"
-    ],
-    "nid": [
-      94404
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Village wise Distribution of Dugwells according to source of energy"
-    ],
-    "uuid": [
-      "12e5f0a9-68e4-4622-8676-d8bcfbbf1689"
-    ],
-    "vid": [
-      7884743
-    ],
-    "view_count": [
-      377
-    ],
-    "search_api_id": [
-      "entity:node/94404:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/village-wise-distribution-dugwells-according-total-hours-pumping-operation"
     ],
     "ogdp_custom_field": [
@@ -4739,6 +4646,98 @@
     ],
     "search_api_id": [
       "entity:node/97013:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/coverage-under-swavalamban-scheme-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1840
+    ],
+    "published_date": [
+      1411454762
+    ],
+    "body:value": [
+      "Till 31st August 2013, 78 entities have been appointed as Aggregator which include 26 Public Sector Banks (PSBs), 13 Regional Rural Banks (RRBs), 33 Private Entities, 2 Private Banks and 4 Labour Boards.; Under \"NPS Lite Swavalamban\": Aggregator is an entity appointed for enrolment of subscribers, submitting their forms and depositing their money under Swavalamban Scheme; Swavalamban Scheme is a co-contributory Pension Scheme for unorganised sector where government will contribute Rs. 1,000 to all such subscribers who are able to save Rs. 1,000 to Rs. 12,000 in a financial year. Benefits under this scheme are available in 2016-17; -Under \"UOS-Swavalamban\": Points of Presence (PoP) is an entity between Subscriber and Scheme; NA: Not Available."
+    ],
+    "changed": [
+      1528110026
+    ],
+    "created": [
+      1395399288
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Financial Services"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Pension Reforms"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Beneficiary",
+      "finance",
+      "PoP",
+      "Aggregator",
+      "Swavlamban"
+    ],
+    "nid": [
+      97031
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Coverage under Swavalamban Scheme"
+    ],
+    "uuid": [
+      "4d7767f8-a6da-46c1-9012-7d8c199d8c87"
+    ],
+    "vid": [
+      7888376
+    ],
+    "view_count": [
+      1620
+    ],
+    "search_api_id": [
+      "entity:node/97031:en"
     ],
     "search_api_datasource": [
       "entity:node"

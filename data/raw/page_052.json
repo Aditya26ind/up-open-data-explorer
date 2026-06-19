@@ -1,99 +1,5 @@
 [
   {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
-      "/catalog/patents-granted-under-research-and-development-funding-deity"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      3139
-    ],
-    "published_date": [
-      1351744133
-    ],
-    "body:value": [
-      "Department of Electronics and Information Technology (DeitY), M/o C&IT, GoI provides R&D grants to various Academic and Research organizations for undertaking R&D in emerging ICT areas. Details of the Patents Granted under such DeitY funding can be obtained from this dataset."
-    ],
-    "changed": [
-      1573207890
-    ],
-    "created": [
-      1351743060
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "e-Governance"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Electronics and Information Technology (MeitY)"
-    ],
-    "field_sector:name": [
-      "Information and Communications",
-      "Information and Technology"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Communication",
-      "Development",
-      "R&D",
-      "research",
-      "patent"
-    ],
-    "nid": [
-      89751
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Patents Granted Under Research and Development Funding of DeitY"
-    ],
-    "uuid": [
-      "dd2f9e81-5085-4b35-b37f-b7c013a29095"
-    ],
-    "vid": [
-      7855169
-    ],
-    "view_count": [
-      2965
-    ],
-    "search_api_id": [
-      "entity:node/89751:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
     "api_request_count": [
       1
     ],
@@ -4779,6 +4685,99 @@
     ],
     "search_api_id": [
       "entity:node/88989:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/member-wise-special-mentions-lok-sabha-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1046
+    ],
+    "published_date": [
+      1381485660
+    ],
+    "body:value": [
+      "(Hindi) The data refers to Special Mentions provided by the members of Lok Sabha. It gives details on the basis of Member ID or Member of Parliament (MP) code and session number."
+    ],
+    "changed": [
+      1487336315
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Parliament",
+      "Loksabha",
+      "Member"
+    ],
+    "nid": [
+      88991
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Member-wise Special Mentions in Lok Sabha (Hindi)"
+    ],
+    "uuid": [
+      "a80af702-8623-4fb5-985b-e6833a8ed118"
+    ],
+    "vid": [
+      7851964
+    ],
+    "view_count": [
+      971
+    ],
+    "search_api_id": [
+      "entity:node/88991:en"
     ],
     "search_api_datasource": [
       "entity:node"

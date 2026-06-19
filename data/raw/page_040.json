@@ -13,114 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/installation-griddecentralized-renewable-energy-systemsdevices"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      2357
-    ],
-    "published_date": [
-      1365012090
-    ],
-    "body:value": [
-      "The data refers to State-wise (2009-10 and 2010-11) data of Installation Of Off-Grid/Decentralized Renewable Energy Systems/Devices like biogas plants, water pumping wind mills, SPV pumps, solar photovoltaic SLS, solar photovoltaic SL, solar photovoltaic PP, aerogen hybrid system, solar cooker, biomass gasifiers etc."
-    ],
-    "changed": [
-      1441695730
-    ],
-    "created": [
-      1364806860
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Energy"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Statistics and Programme Implementation"
-    ],
-    "field_sector:name": [
-      "Power and Energy",
-      "Statistics"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Biomass",
-      "Energy",
-      "hybrid",
-      "Solar",
-      "SPV",
-      "Wind",
-      "Water",
-      "pump",
-      "Biogas",
-      "Renewable",
-      "Mill",
-      "Plant",
-      "Aerogen",
-      "Cooker",
-      "Photovoltaic",
-      "Gasifiers",
-      "PP",
-      "SL",
-      "SLS"
-    ],
-    "nid": [
-      88680
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Installation Of Off-Grid/Decentralized Renewable Energy Systems/Devices"
-    ],
-    "uuid": [
-      "66c5efab-cdf7-4f9e-b811-6bcfb7c6e0c0"
-    ],
-    "vid": [
-      7850860
-    ],
-    "view_count": [
-      2228
-    ],
-    "search_api_id": [
-      "entity:node/88680:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/installed-capacity-addition-during-eleventh-plan"
     ],
     "ogdp_custom_field": [
@@ -4875,6 +4767,108 @@
     ],
     "search_api_id": [
       "entity:node/87971:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/fish-catch-and-landings-group-species"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1283
+    ],
+    "published_date": [
+      1365752213
+    ],
+    "body:value": [
+      "The data refers to details from year 2000 to 2010 on Fish Catch and Landings By Group Of Species like Inland Fish, Flat Fish, Indian Shad Sardines, Anchovies, Tunas, Marine Teleousteans, Elasmobranchs, Decapods, etc."
+    ],
+    "changed": [
+      1506517564
+    ],
+    "created": [
+      1365677220
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Live Stock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anchovies",
+      "Inland",
+      "Marine",
+      "Tunas",
+      "Specie",
+      "Decapod",
+      "Elasmobranch",
+      "Flat",
+      "Shad",
+      "Sardines",
+      "Landing",
+      "Teleoustean"
+    ],
+    "nid": [
+      87973
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Fish Catch and Landings By Group of Species"
+    ],
+    "uuid": [
+      "455d5656-648f-409e-bb40-590d6307252d"
+    ],
+    "vid": [
+      7847693
+    ],
+    "view_count": [
+      1166
+    ],
+    "search_api_id": [
+      "entity:node/87973:en"
     ],
     "search_api_datasource": [
       "entity:node"

@@ -13,100 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/plan-investments-public-enterprises"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      803
-    ],
-    "published_date": [
-      1371473059
-    ],
-    "body:value": [
-      "It provides details of plan investments in Public Enterprises viz. equity/loan components of budget support."
-    ],
-    "changed": [
-      1392273597
-    ],
-    "created": [
-      1370589960
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Union Budget 2013-14 - Expenditure Budget"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Finance",
-      "Department of Economic Affairs"
-    ],
-    "field_sector:name": [
-      "Finance",
-      "Economy"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Budget",
-      "finance",
-      "Provision",
-      "Union"
-    ],
-    "nid": [
-      90064
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Plan Investments in Public Enterprises"
-    ],
-    "uuid": [
-      "ef457ff4-39b0-4210-ae0c-eabe29fbd8f6"
-    ],
-    "vid": [
-      7856450
-    ],
-    "view_count": [
-      713
-    ],
-    "search_api_id": [
-      "entity:node/90064:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/plan-outlay-and-expenditure-public-sector-heads-development"
     ],
     "ogdp_custom_field": [
@@ -4773,6 +4679,98 @@
     ],
     "search_api_id": [
       "entity:node/89507:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-foreign-tourists-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6796
+    ],
+    "published_date": [
+      1366045431
+    ],
+    "body:value": [
+      "The data refers to nationality-wise (North America, Central and South America, Western Europe, Eastern Europe, Africa, West Asia, South Asia, etc.) listing of the number of foreign tourists to India from 2001 to 2010."
+    ],
+    "changed": [
+      1602756586
+    ],
+    "created": [
+      1366026360
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Tourism"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Statistics",
+      "Travel and Tourism"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Foreign",
+      "Nationality",
+      "Tourism"
+    ],
+    "nid": [
+      89509
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Foreign Tourists To India"
+    ],
+    "uuid": [
+      "059f6c33-e12e-4805-883d-15ad4152ccb0"
+    ],
+    "vid": [
+      7854426
+    ],
+    "view_count": [
+      6176
+    ],
+    "search_api_id": [
+      "entity:node/89509:en"
     ],
     "search_api_datasource": [
       "entity:node"

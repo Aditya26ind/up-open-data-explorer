@@ -1,5 +1,767 @@
 [
   {
+    "api_request_count": [
+      14
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/surface-water-quality"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2299
+    ],
+    "published_date": [
+      1642088594
+    ],
+    "body:value": [
+      "Surface  Water Quality of CWC, CPCB"
+    ],
+    "changed": [
+      1781807450
+    ],
+    "created": [
+      1640156564
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Water Informatics Centre"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation",
+      "National Water Informatics Centre"
+    ],
+    "field_sector:name": [
+      "Water Resources",
+      "Surface Water"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CPCB",
+      "CWC"
+    ],
+    "nid": [
+      6905400
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Surface  Water Quality "
+    ],
+    "uuid": [
+      "ba99a72f-3f2c-475b-be6f-2680e05b59f9"
+    ],
+    "vid": [
+      10285891
+    ],
+    "search_api_id": [
+      "entity:node/6905400:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      7
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/region-wise-district-wise-commodity-wise-daily-food-stock-position-fci"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      19987
+    ],
+    "published_date": [
+      1485247914
+    ],
+    "body:value": [
+      "Get data on Region wise, District Wise, Commodity wise, Daily food stock Position of FCI. Commodities are Bajra, Barley, DAAL Chana, Jowar, Maize, Masur, Moong, Paddy, Ragi, Rice-Parboiled, Rice-Raw, Sugar, Tur(Arhar), Urad, Wheat and Wheat URS (FIG.IN QTLS.)"
+    ],
+    "changed": [
+      1781822198
+    ],
+    "created": [
+      1484716792
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Food Stock"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Food and Public Distribution",
+      "Food Corporation of India (FCI)"
+    ],
+    "field_sector:name": [
+      "Food"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "barley",
+      "bajra",
+      "Corporation",
+      "Food",
+      "maize",
+      "Jowar",
+      "ragi",
+      "wheat",
+      "paddy",
+      "rice",
+      "Sugar",
+      "DAAL",
+      "Chana",
+      "Masur",
+      "Tur",
+      "Moong",
+      "Arhar",
+      "Urad"
+    ],
+    "nid": [
+      1897521
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Region wise, District Wise, Commodity wise, Daily food stock Position of FCI"
+    ],
+    "uuid": [
+      "814d6bf2-2790-4e1d-8d8a-eea417efb7a7"
+    ],
+    "vid": [
+      11377661
+    ],
+    "view_count": [
+      14250
+    ],
+    "search_api_id": [
+      "entity:node/1897521:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/import-export-petroleum-products"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2071
+    ],
+    "published_date": [
+      1682593371
+    ],
+    "body:value": [
+      "Import & Export of Petroleum Products"
+    ],
+    "changed": [
+      1781841647
+    ],
+    "created": [
+      1682591363
+    ],
+    "field_asset_jurisdiction:name": [
+      "World",
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas",
+      "Petroleum Planning & Analysis Cell (PPAC)"
+    ],
+    "field_sector:name": [
+      "Non Renewable"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Import",
+      "Export",
+      "Petroleum Products"
+    ],
+    "nid": [
+      7465877
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Import & Export of Petroleum Products"
+    ],
+    "uuid": [
+      "6829c601-2972-496e-8d25-623c61c1079f"
+    ],
+    "vid": [
+      13002993
+    ],
+    "search_api_id": [
+      "entity:node/7465877:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/passport-seva"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      13368
+    ],
+    "published_date": [
+      1453119489
+    ],
+    "body:value": [
+      "Regional Passport Office wise analytic about various Passport related services such as (i) Type of services Normal, Tatkaal and Walk-IN (ii) Male/Female Ratio (iii) Number of Applicants using Aadhaar number as Proof of Address (PoA) and Proof of Identity (PoI)  (iii) Qualification of Passport Applicants specially for eligibility of ECNR (iv) Financial inclusion in terms of payment mode used viz. Netbanking, Debit/Credit card, Challan etc. (v) Ratio of Fresh/Re-issue category  (vi) Number of ECR/ECNR passports (viii) Police verification mode viz. Pre-PV, Post-PV and No-PV ratio  (ix) Number of days taken for Police Verification (x) Growth in passport related services."
+    ],
+    "changed": [
+      1781840604
+    ],
+    "created": [
+      1453102152
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Passport Seva Project"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of External Affairs"
+    ],
+    "field_sector:name": [
+      "Foreign Affairs",
+      "Passport"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Passport",
+      "Normal",
+      "Tatkaal"
+    ],
+    "nid": [
+      513881
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Passport Seva"
+    ],
+    "uuid": [
+      "3545e2c6-c0af-4a1a-a53b-107bb57324ba"
+    ],
+    "vid": [
+      7895498
+    ],
+    "view_count": [
+      12266
+    ],
+    "search_api_id": [
+      "entity:node/513881:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/udyam-registration-msme-registration"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      75945
+    ],
+    "published_date": [
+      1635768144
+    ],
+    "body:value": [
+      "The catalog contains district wise total MSME (Micro, Small & Medium) registered enterprise data under UDYAM since inception to till last date with LG Directory district code and list of MSMEs."
+    ],
+    "changed": [
+      1781825768
+    ],
+    "created": [
+      1635161756
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "MSME Registration"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Micro, Small and Medium Enterprises"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Medium",
+      "Micro",
+      "Small Scale"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "UDYAM",
+      "MSME Registration Data",
+      "MSME Registration",
+      "MSME",
+      "UDYAM Registration"
+    ],
+    "nid": [
+      6898726
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      " UDYAM Registration (MSME Registration)"
+    ],
+    "uuid": [
+      "0536e86e-3751-4054-84e5-e257d4c94477"
+    ],
+    "vid": [
+      12332586
+    ],
+    "view_count": [
+      33989
+    ],
+    "search_api_id": [
+      "entity:node/6898726:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/airsewa"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      18417
+    ],
+    "published_date": [
+      1500987686
+    ],
+    "body:value": [
+      "This catalog contains the data regarding the AirSewa data. It contains data about the flight schedule, status, Airport Services and FAQs."
+    ],
+    "changed": [
+      1781840751
+    ],
+    "created": [
+      1500872799
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AirSewa"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Civil Aviation"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Aviation"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Aviation",
+      "Civil",
+      "Question",
+      "AirSewa",
+      "Airport",
+      "Schedule",
+      "Flight",
+      "FAQ",
+      "Frequently"
+    ],
+    "nid": [
+      2969981
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "AirSewa"
+    ],
+    "uuid": [
+      "33f31e65-2980-4088-8803-8b5b79ff4c9b"
+    ],
+    "vid": [
+      7897464
+    ],
+    "view_count": [
+      12409
+    ],
+    "search_api_id": [
+      "entity:node/2969981:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      6
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/patent-application"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4365
+    ],
+    "published_date": [
+      1677866255
+    ],
+    "body:value": [
+      "Once the Patent is granted to an application a publication under section 43(2) in respect of the grant is made available to the public.  This publication provide basic information about the granted application such as the appropriate office, application number, date of filing, title of the invention, the name of the patentee(s) . The publication is done weekly."
+    ],
+    "changed": [
+      1781841768
+    ],
+    "created": [
+      1672318738
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Patents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department for Promotion of industry and Internal Trade"
+    ],
+    "field_sector:name": [
+      "Industries"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "patent"
+    ],
+    "nid": [
+      7347246
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Patent Application"
+    ],
+    "uuid": [
+      "a1da8bec-a182-425d-a1a3-f95aca053df8"
+    ],
+    "vid": [
+      13002830
+    ],
+    "search_api_id": [
+      "entity:node/7347246:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "ogdp_view_count": [
+      5907
+    ],
+    "keywords": [
+      "Aadhaar",
+      "Enrollment",
+      "Update",
+      "UIDAI"
+    ],
+    "search_api_id": [
+      "entity:node/603749612:en"
+    ],
+    "nid": [
+      603749612
+    ],
+    "title": [
+      "Aadhaar Enrolment and Update Data"
+    ],
+    "uuid": [
+      "1ddb4f34-6f2c-42b9-a6e2-c78baa53cc5b"
+    ],
+    "is_priced": [
+      0
+    ],
+    "vid": [
+      13261774
+    ],
+    "from_api": [
+      "0"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "is_webservice": [
+      0
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Electronics and Information Technology (MeitY)",
+      "Unique Identification Authority of India (UIDAI)"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "created": [
+      1746515464
+    ],
+    "search_api_language": [
+      "en"
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "body:value": [
+      "This catalog contains age-group-wise and pin-code-wise monthly Aadhaar enrolment and update data across India."
+    ],
+    "field_sector:name": [
+      "Union/State Government Administration"
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "node_alias": [
+      "/catalog/aadhaar-enrolment-and-update-data"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "published_date": [
+      1747398673
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "changed": [
+      1781843145
+    ]
+  },
+  {
     "having_api": [
       1
     ],
@@ -31,7 +793,7 @@
       "The Catalog contains dataset under Jal Jeevan Mission (JJM)."
     ],
     "changed": [
-      1781240068
+      1781844921
     ],
     "created": [
       1643095662
@@ -185,494 +947,7 @@
       "entity:node"
     ],
     "changed": [
-      1781242159
-    ]
-  },
-  {
-    "ogdp_view_count": [
-      5907
-    ],
-    "keywords": [
-      "Aadhaar",
-      "Enrollment",
-      "Update",
-      "UIDAI"
-    ],
-    "search_api_id": [
-      "entity:node/603749612:en"
-    ],
-    "nid": [
-      603749612
-    ],
-    "title": [
-      "Aadhaar Enrolment and Update Data"
-    ],
-    "uuid": [
-      "1ddb4f34-6f2c-42b9-a6e2-c78baa53cc5b"
-    ],
-    "is_priced": [
-      0
-    ],
-    "vid": [
-      13261774
-    ],
-    "from_api": [
-      "0"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "is_webservice": [
-      0
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Electronics and Information Technology (MeitY)",
-      "Unique Identification Authority of India (UIDAI)"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "4"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "created": [
-      1746515464
-    ],
-    "search_api_language": [
-      "en"
-    ],
-    "high_value_dataset": [
-      1
-    ],
-    "is_api_available": [
-      0
-    ],
-    "body:value": [
-      "This catalog contains age-group-wise and pin-code-wise monthly Aadhaar enrolment and update data across India."
-    ],
-    "field_sector:name": [
-      "Union/State Government Administration"
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "node_alias": [
-      "/catalog/aadhaar-enrolment-and-update-data"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "published_date": [
-      1747398673
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "changed": [
-      1781240625
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
-      "/catalog/airsewa"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      18417
-    ],
-    "published_date": [
-      1500987686
-    ],
-    "body:value": [
-      "This catalog contains the data regarding the AirSewa data. It contains data about the flight schedule, status, Airport Services and FAQs."
-    ],
-    "changed": [
-      1781238292
-    ],
-    "created": [
-      1500872799
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "AirSewa"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Civil Aviation"
-    ],
-    "field_sector:name": [
-      "Transport",
-      "Aviation"
-    ],
-    "from_api": [
-      "1"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Aviation",
-      "Civil",
-      "Question",
-      "AirSewa",
-      "Airport",
-      "Schedule",
-      "Flight",
-      "FAQ",
-      "Frequently"
-    ],
-    "nid": [
-      2969981
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "AirSewa"
-    ],
-    "uuid": [
-      "33f31e65-2980-4088-8803-8b5b79ff4c9b"
-    ],
-    "vid": [
-      7897464
-    ],
-    "view_count": [
-      12409
-    ],
-    "search_api_id": [
-      "entity:node/2969981:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "api_request_count": [
-      6
-    ],
-    "high_value_dataset": [
-      1
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
-      "/catalog/patent-application"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      4365
-    ],
-    "published_date": [
-      1677866255
-    ],
-    "body:value": [
-      "Once the Patent is granted to an application a publication under section 43(2) in respect of the grant is made available to the public.  This publication provide basic information about the granted application such as the appropriate office, application number, date of filing, title of the invention, the name of the patentee(s) . The publication is done weekly."
-    ],
-    "changed": [
-      1781238500
-    ],
-    "created": [
-      1672318738
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Patents"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Commerce and Industry",
-      "Department for Promotion of industry and Internal Trade"
-    ],
-    "field_sector:name": [
-      "Industries"
-    ],
-    "from_api": [
-      "1"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "patent"
-    ],
-    "nid": [
-      7347246
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Patent Application"
-    ],
-    "uuid": [
-      "a1da8bec-a182-425d-a1a3-f95aca053df8"
-    ],
-    "vid": [
-      13002830
-    ],
-    "search_api_id": [
-      "entity:node/7347246:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "api_request_count": [
-      1
-    ],
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
-      "/catalog/passport-seva"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      13368
-    ],
-    "published_date": [
-      1453119489
-    ],
-    "body:value": [
-      "Regional Passport Office wise analytic about various Passport related services such as (i) Type of services Normal, Tatkaal and Walk-IN (ii) Male/Female Ratio (iii) Number of Applicants using Aadhaar number as Proof of Address (PoA) and Proof of Identity (PoI)  (iii) Qualification of Passport Applicants specially for eligibility of ECNR (iv) Financial inclusion in terms of payment mode used viz. Netbanking, Debit/Credit card, Challan etc. (v) Ratio of Fresh/Re-issue category  (vi) Number of ECR/ECNR passports (viii) Police verification mode viz. Pre-PV, Post-PV and No-PV ratio  (ix) Number of days taken for Police Verification (x) Growth in passport related services."
-    ],
-    "changed": [
-      1781238622
-    ],
-    "created": [
-      1453102152
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Passport Seva Project"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of External Affairs"
-    ],
-    "field_sector:name": [
-      "Foreign Affairs",
-      "Passport"
-    ],
-    "from_api": [
-      "1"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Passport",
-      "Normal",
-      "Tatkaal"
-    ],
-    "nid": [
-      513881
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Passport Seva"
-    ],
-    "uuid": [
-      "3545e2c6-c0af-4a1a-a53b-107bb57324ba"
-    ],
-    "vid": [
-      7895498
-    ],
-    "view_count": [
-      12266
-    ],
-    "search_api_id": [
-      "entity:node/513881:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
-      "/catalog/quarterly-maximum-and-minimum-performing-public-health-facilities-selected-data-items"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      498
-    ],
-    "published_date": [
-      1621313267
-    ],
-    "body:value": [
-      "Get data on Quarterly maximum & minimum performing public health facilities on selected data items Across States. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
-    ],
-    "changed": [
-      1781244576
-    ],
-    "created": [
-      1620579661
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Health Management Information System"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Health and Family Welfare",
-      "Department of Health and Family Welfare"
-    ],
-    "field_sector:name": [
-      "Health and Family welfare"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "attendance",
-      "CHC",
-      "community",
-      "Delivery",
-      "Health",
-      "HMIS",
-      "Hospital",
-      "IPD",
-      "Management",
-      "Mission",
-      "national",
-      "OPD",
-      "PHC",
-      "primary",
-      "SC",
-      "Facility",
-      "Information",
-      "Patient",
-      "NHM",
-      "SDH",
-      "DH",
-      "Anaesthesia",
-      "Divisial",
-      "Subdural",
-      "Hematoma",
-      "Developmental"
-    ],
-    "nid": [
-      6872941
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Quarterly Maximum and Minimum Performing Public Health Facilities on Selected Data Items Across States"
-    ],
-    "uuid": [
-      "ff3b623f-2a84-4960-8bf6-ab2cdfe4baef"
-    ],
-    "vid": [
-      7909854
-    ],
-    "view_count": [
-      185
-    ],
-    "search_api_id": [
-      "entity:node/6872941:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
+      1781847373
     ]
   },
   {
@@ -692,31 +967,249 @@
       1
     ],
     "node_alias": [
-      "/catalog/survey-villages-abadi-and-mapping-improvised-technology-village-areas-svamitva"
+      "/catalog/current-daily-price-various-commodities-various-markets-mandi"
     ],
     "ogdp_custom_field": [
       "test"
     ],
     "ogdp_view_count": [
-      3538
+      1317654
     ],
     "published_date": [
-      1661509884
+      1369368430
     ],
     "body:value": [
-      "The scheme is a reformative step towards the establishment of clear ownership of property in rural inhabited (Abadi) areas, by mapping of land parcels using drone technology and providing Record of Rights to village household owners with the issuance of legal ownership cards (Property cards/Title deeds) to the property owners."
+      "The data refers to prices of various commodities. It has the wholesale maximum price, minimum price and modal price on daily basis. This dataset is generated through the AGMARKNET Portal (http://agmarknet.gov.in), which disseminates daily market information of various commodities."
     ],
     "changed": [
-      1781248753
+      1781848843
     ],
     "created": [
-      1660105886
+      1369290300
     ],
     "field_asset_jurisdiction:name": [
       "All India"
     ],
     "field_ds_govt_type": [
       "Central"
+    ],
+    "field_group_name:name": [
+      "Agricultural Marketing"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agriculture and Farmers Welfare",
+      "Directorate of Marketing and Inspection (DMI)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Agricultural Marketing"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "mandi",
+      "Price",
+      "Agriculture",
+      "Commodity",
+      "Market",
+      "Rate"
+    ],
+    "nid": [
+      86944
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Current daily price of various commodities from various markets (Mandi)"
+    ],
+    "uuid": [
+      "6141ea17-a69d-4713-b600-0a43c8fd9a6c"
+    ],
+    "vid": [
+      12726161
+    ],
+    "view_count": [
+      1280866
+    ],
+    "search_api_id": [
+      "entity:node/86944:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      12
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/real-time-air-quality-index"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      64894
+    ],
+    "published_date": [
+      1470284740
+    ],
+    "body:value": [
+      "Get Real time National Air Quality Index values from different monitoring stations across India. The pollutants monitored are Sulphur Dioxide (SO2), Nitrogen Dioxide (NO2), Particulate Matter (PM10 and PM2.5) , Carbon Monoxide (CO), Ozone(O3) etc."
+    ],
+    "changed": [
+      1781848946
+    ],
+    "created": [
+      1469420830
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Air Quality"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Environment, Forest and Climate Change",
+      "Central Pollution Control Board"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Industrial Air Pollution",
+      "Residential Air Pollution",
+      "Vehicular Air Pollution"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air",
+      "Monitoring",
+      "quality",
+      "Ozone",
+      "pollution",
+      "SO2",
+      "station",
+      "NO2",
+      "particulate",
+      "AQI",
+      "PM10",
+      "CO",
+      "Carbon",
+      "Dioxide",
+      "Nitrogen",
+      "Matter",
+      "Polutant",
+      "Sulphur",
+      "Monoxide"
+    ],
+    "nid": [
+      804641
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Real time Air Quality Index"
+    ],
+    "uuid": [
+      "a3e7afc6-b799-4ede-b143-8e074b27e062"
+    ],
+    "vid": [
+      7895893
+    ],
+    "view_count": [
+      34812
+    ],
+    "search_api_id": [
+      "entity:node/804641:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      26
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/local-government-directory-lgd"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      20956
+    ],
+    "published_date": [
+      1658488466
+    ],
+    "body:value": [
+      "LGD is a complete directory of Land Regions/Revenue, Rural and Urban Local Governments. LGD aims to keep all information about the structure of Local Governments and revenue entities online. The main objective of LGD is to maintain up-to-date list of revenue entities (districts/subdistricts/villages), Local Government Bodies (Panchayats, Municipalities and traditional bodies) and their wards."
+    ],
+    "changed": [
+      1781849071
+    ],
+    "created": [
+      1658473039
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Local Government Directory"
     ],
     "field_ministry_department:name": [
       "Ministry of Panchayati Raj"
@@ -731,12 +1224,13 @@
       "Central"
     ],
     "keywords": [
-      "Property Card distribution ",
-      "SVAMITVA",
-      "Panchayati Raj"
+      "Governance",
+      "Local Government",
+      "Gram Panchayat",
+      "LGD"
     ],
     "nid": [
-      7190430
+      7166949
     ],
     "ogpl_module_domain_access": [
       "4",
@@ -746,498 +1240,16 @@
       "data.gov.in"
     ],
     "title": [
-      "Survey of Villages Abadi and Mapping with Improvised Technology in Village Areas (SVAMITVA) "
+      "Local Government Directory (LGD)"
     ],
     "uuid": [
-      "0eee04a2-598b-4e4e-8315-d15ae8b3e07c"
+      "5aefd6b6-f0ed-4b11-aa87-a2f2f7277227"
     ],
     "vid": [
-      11057222
+      10979212
     ],
     "search_api_id": [
-      "entity:node/7190430:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "api_request_count": [
-      1
-    ],
-    "high_value_dataset": [
-      1
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
-      "/catalog/mahatma-gandhi-national-rural-employment-guarantee-act-mgnrega"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      12556
-    ],
-    "published_date": [
-      1694626186
-    ],
-    "body:value": [
-      "An Act to provide for the enhancement of livelihood security of the households in rural areas of the country by providing at least one hundred days of guaranteed wage employment in every financial year to every household whose adult members volunteer to do unskilled manual work and for matters connected therewith or incidental thereto."
-    ],
-    "changed": [
-      1781472603
-    ],
-    "created": [
-      1694428598
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Rural Development"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Rural Development",
-      "Department of Rural Development (DRD)"
-    ],
-    "field_sector:name": [
-      "Development"
-    ],
-    "from_api": [
-      "1"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "MGNREGA",
-      "FTO",
-      "Jobcard",
-      "Asset",
-      "Works assests"
-    ],
-    "nid": [
-      7678584
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)"
-    ],
-    "uuid": [
-      "854e5a1f-a4e3-4177-8586-2bcc27b74552"
-    ],
-    "vid": [
-      12245013
-    ],
-    "search_api_id": [
-      "entity:node/7678584:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "api_request_count": [
-      2
-    ],
-    "high_value_dataset": [
-      1
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
-      "/catalog/national-rural-livelihoods-mission"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      6059
-    ],
-    "published_date": [
-      1709957960
-    ],
-    "body:value": [
-      "Deendayal Antyodaya Yojana- National Rural Livelihoods Mission (DAY-NRLM) aims at mobilizing about 9 crore rural poor households into Self Help Groups (SHGs) in a phased manner and provide them long-term support such that they diversify their livelihoods, improve their incomes and quality of life. The National Rural Livelihood Mission (NRLM) is a federated program that is run via various State Missions and a tiered network of community institutions. NRLM boasts of a large number of women members of 10 Cr into Self Help Group (SHG) of 90 Lakh SHGs. NRLM Scheme beneficiries data with social category are available at the granularity of village level in OGD platform."
-    ],
-    "changed": [
-      1781472566
-    ],
-    "created": [
-      1709535450
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Rural Development",
-      "Department of Rural Development (DRD)"
-    ],
-    "field_sector:name": [
-      "Rural",
-      "Development"
-    ],
-    "from_api": [
-      "1"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "SHG",
-      "NRLM"
-    ],
-    "nid": [
-      602939057
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "National Rural Livelihoods Mission"
-    ],
-    "uuid": [
-      "61363e5e-0b4e-42c7-89a2-95104bbe2652"
-    ],
-    "vid": [
-      13013590
-    ],
-    "search_api_id": [
-      "entity:node/602939057:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "api_request_count": [
-      7
-    ],
-    "high_value_dataset": [
-      1
-    ],
-    "is_api_available": [
-      1
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
-      "/catalog/region-wise-district-wise-commodity-wise-daily-food-stock-position-fci"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      19987
-    ],
-    "published_date": [
-      1485247914
-    ],
-    "body:value": [
-      "Get data on Region wise, District Wise, Commodity wise, Daily food stock Position of FCI. Commodities are Bajra, Barley, DAAL Chana, Jowar, Maize, Masur, Moong, Paddy, Ragi, Rice-Parboiled, Rice-Raw, Sugar, Tur(Arhar), Urad, Wheat and Wheat URS (FIG.IN QTLS.)"
-    ],
-    "changed": [
-      1781483123
-    ],
-    "created": [
-      1484716792
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Food Stock"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Consumer Affairs, Food and Public Distribution",
-      "Department of Food and Public Distribution",
-      "Food Corporation of India (FCI)"
-    ],
-    "field_sector:name": [
-      "Food"
-    ],
-    "from_api": [
-      "1"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "barley",
-      "bajra",
-      "Corporation",
-      "Food",
-      "maize",
-      "Jowar",
-      "ragi",
-      "wheat",
-      "paddy",
-      "rice",
-      "Sugar",
-      "DAAL",
-      "Chana",
-      "Masur",
-      "Tur",
-      "Moong",
-      "Arhar",
-      "Urad"
-    ],
-    "nid": [
-      1897521
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Region wise, District Wise, Commodity wise, Daily food stock Position of FCI"
-    ],
-    "uuid": [
-      "814d6bf2-2790-4e1d-8d8a-eea417efb7a7"
-    ],
-    "vid": [
-      11377661
-    ],
-    "view_count": [
-      14250
-    ],
-    "search_api_id": [
-      "entity:node/1897521:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      1
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
-      "/catalog/udyam-registration-msme-registration"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      75945
-    ],
-    "published_date": [
-      1635768144
-    ],
-    "body:value": [
-      "The catalog contains district wise total MSME (Micro, Small & Medium) registered enterprise data under UDYAM since inception to till last date with LG Directory district code and list of MSMEs."
-    ],
-    "changed": [
-      1781484380
-    ],
-    "created": [
-      1635161756
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "MSME Registration"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Micro, Small and Medium Enterprises"
-    ],
-    "field_sector:name": [
-      "Industries",
-      "Medium",
-      "Micro",
-      "Small Scale"
-    ],
-    "from_api": [
-      "1"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "UDYAM",
-      "MSME Registration Data",
-      "MSME Registration",
-      "MSME",
-      "UDYAM Registration"
-    ],
-    "nid": [
-      6898726
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      " UDYAM Registration (MSME Registration)"
-    ],
-    "uuid": [
-      "0536e86e-3751-4054-84e5-e257d4c94477"
-    ],
-    "vid": [
-      12332586
-    ],
-    "view_count": [
-      33989
-    ],
-    "search_api_id": [
-      "entity:node/6898726:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      1
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      1
-    ],
-    "node_alias": [
-      "/catalog/import-export-petroleum-products"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      2071
-    ],
-    "published_date": [
-      1682593371
-    ],
-    "body:value": [
-      "Import & Export of Petroleum Products"
-    ],
-    "changed": [
-      1781514259
-    ],
-    "created": [
-      1682591363
-    ],
-    "field_asset_jurisdiction:name": [
-      "World",
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Petroleum and Natural Gas",
-      "Petroleum Planning & Analysis Cell (PPAC)"
-    ],
-    "field_sector:name": [
-      "Non Renewable"
-    ],
-    "from_api": [
-      "1"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Import",
-      "Export",
-      "Petroleum Products"
-    ],
-    "nid": [
-      7465877
-    ],
-    "ogpl_module_domain_access": [
-      "4",
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Import & Export of Petroleum Products"
-    ],
-    "uuid": [
-      "6829c601-2972-496e-8d25-623c61c1079f"
-    ],
-    "vid": [
-      13002993
-    ],
-    "search_api_id": [
-      "entity:node/7465877:en"
+      "entity:node/7166949:en"
     ],
     "search_api_datasource": [
       "entity:node"

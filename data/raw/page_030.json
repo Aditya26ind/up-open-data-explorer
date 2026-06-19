@@ -13,100 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/attendance-members-lok-sabha-session"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      23567
-    ],
-    "published_date": [
-      1374234840
-    ],
-    "body:value": [
-      "The data refers to details on the total number of days each member signed the member's attendance register in session of Lok Sabha."
-    ],
-    "changed": [
-      1392273597
-    ],
-    "created": [
-      1392273597
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Attendance of the Members of Lok Sabha"
-    ],
-    "field_ministry_department:name": [
-      "Lok Sabha Secretariat"
-    ],
-    "field_sector:name": [
-      "Parliament Of india",
-      "Governance and Administration",
-      "Lok Sabha"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Budget",
-      "Loksabha",
-      "Member",
-      "Session"
-    ],
-    "nid": [
-      85981
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Attendance of the Members of Lok Sabha Session"
-    ],
-    "uuid": [
-      "01cd9aee-3714-4614-9074-6688fd2a9453"
-    ],
-    "vid": [
-      7840624
-    ],
-    "view_count": [
-      23149
-    ],
-    "search_api_id": [
-      "entity:node/85981:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/attendance-members-rajya-sabha-session"
     ],
     "ogdp_custom_field": [
@@ -4804,6 +4710,102 @@
     ],
     "search_api_id": [
       "entity:node/86624:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cases-registered-and-their-disposal-under-crime-against-scheduled-tribes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      906
+    ],
+    "published_date": [
+      1381209418
+    ],
+    "body:value": [
+      "The data refers to State/UT wise details of cases registered and their disposal under crime committed against Scheduled Tribes by different crime heads. Crime Against Scheduled Tribes includes: Murder, Rape, Kidnapping and Abduction, Dacoity, Robbery, Arson, Hurt, Protection of Civil Rights Act, SC/ST (Prevention of atrocities) Act and Other Crimes Committed Against Scheduled Tribes. Figures of cases pending investigation or trial at the end of previous year may not match with figures of cases pending investigation or trial at the beginning of current year in respect of some data supplying centre (s) due to modification of these figures by the concerned data supplying centre (s)."
+    ],
+    "changed": [
+      1462768359
+    ],
+    "created": [
+      1379419200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "ST",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      86626
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cases registered and their disposal under crime against Scheduled Tribes"
+    ],
+    "uuid": [
+      "7aa93dc4-2543-4b39-9207-5344779732ed"
+    ],
+    "vid": [
+      7842696
+    ],
+    "view_count": [
+      850
+    ],
+    "search_api_id": [
+      "entity:node/86626:en"
     ],
     "search_api_datasource": [
       "entity:node"

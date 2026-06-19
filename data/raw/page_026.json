@@ -13,114 +13,6 @@
       0
     ],
     "node_alias": [
-      "/catalog/range-wise-quarterly-performance-public-facilities-ipd-attendance-india-across-statesuts"
-    ],
-    "ogdp_custom_field": [
-      "test"
-    ],
-    "ogdp_view_count": [
-      518
-    ],
-    "published_date": [
-      1624454405
-    ],
-    "body:value": [
-      "Get data on Range-wise Quarterly Performance of Public Facilities for IPD Attendance in India (Across States/Uts). It contains type of facilities, number of facilities, and overall Quarterly performance of the facilities."
-    ],
-    "changed": [
-      1739370846
-    ],
-    "created": [
-      1624444268
-    ],
-    "field_asset_jurisdiction:name": [
-      "All India"
-    ],
-    "field_ds_govt_type": [
-      "Central"
-    ],
-    "field_group_name:name": [
-      "Health Management Information System"
-    ],
-    "field_ministry_department:name": [
-      "Ministry of Health and Family Welfare",
-      "Department of Health and Family Welfare"
-    ],
-    "field_sector:name": [
-      "Health and Family welfare",
-      "Family Welfare",
-      "Health"
-    ],
-    "from_api": [
-      "0"
-    ],
-    "govt_type": [
-      "Central"
-    ],
-    "keywords": [
-      "Centre",
-      "CHC",
-      "community",
-      "Delivery",
-      "District",
-      "Health",
-      "HMIS",
-      "Hospital",
-      "Management",
-      "PHC",
-      "primary",
-      "Public",
-      "SC",
-      "Facility",
-      "SDH",
-      "DH",
-      "Power"
-    ],
-    "nid": [
-      6881481
-    ],
-    "ogpl_module_domain_access": [
-      "4"
-    ],
-    "ogpl_module_domain_name": [
-      "data.gov.in"
-    ],
-    "title": [
-      "Range-wise Quarterly Performance of Public Facilities for IPD Attendance in India (Across States/UTs)"
-    ],
-    "uuid": [
-      "addadd24-d9a0-4772-88e6-e341f98a2571"
-    ],
-    "vid": [
-      13003900
-    ],
-    "view_count": [
-      100
-    ],
-    "search_api_id": [
-      "entity:node/6881481:en"
-    ],
-    "search_api_datasource": [
-      "entity:node"
-    ],
-    "search_api_language": [
-      "en"
-    ]
-  },
-  {
-    "high_value_dataset": [
-      0
-    ],
-    "is_api_available": [
-      0
-    ],
-    "is_priced": [
-      0
-    ],
-    "is_webservice": [
-      0
-    ],
-    "node_alias": [
       "/catalog/range-wise-quarterly-performance-public-facilities-opd-attendance-india-across-statesuts"
     ],
     "ogdp_custom_field": [
@@ -5049,6 +4941,98 @@
     ],
     "search_api_id": [
       "entity:node/7038691:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/indian-petroleum-and-natural-gas-statistics-2020-21"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2167
+    ],
+    "published_date": [
+      1649216831
+    ],
+    "body:value": [
+      "Indian Petroleum and Natural Gas Statistics - 2020-21 provides exhaustive data on oil & gas sector in India. In addition, this catalog also gives a glimpse of the global petroleum scenario through the latest international petroleum statistics. It contains data on various parameters including inter-alia production, exploration, refining, transportation and marketing, imports and exports of crude oil and petroleum products along with taxes and duties realized, man power employed in oil & gas CPSEs, outlays and annual expenditure, dividends paid, equity capital and profit of the CPSEs etc."
+    ],
+    "changed": [
+      1726745986
+    ],
+    "created": [
+      1649156414
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Petroleum and Natural Gas"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "PNG",
+      "Natural Gas",
+      "Crude Oil"
+    ],
+    "nid": [
+      7039958
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Indian Petroleum and Natural Gas Statistics - 2020-21"
+    ],
+    "uuid": [
+      "386149ed-781e-46a6-acd2-df9337e92097"
+    ],
+    "vid": [
+      10566598
+    ],
+    "search_api_id": [
+      "entity:node/7039958:en"
     ],
     "search_api_datasource": [
       "entity:node"
