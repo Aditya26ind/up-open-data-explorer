@@ -1,0 +1,4826 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-institutions-higher-education-enrolment-and-faculty-during-tenth-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2771
+    ],
+    "published_date": [
+      1375864172
+    ],
+    "body:value": [
+      "The data refers to the number of colleges and universities in Indian higher education, together with their student enrolment and faculty during Tenth Plan (2002-07)."
+    ],
+    "changed": [
+      1436419141
+    ],
+    "created": [
+      1375706820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Higher Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "Faculty",
+      "Institution",
+      "Plan"
+    ],
+    "nid": [
+      89511
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Institutions of Higher Education, Enrolment and Faculty during Tenth Plan"
+    ],
+    "uuid": [
+      "6e304fcd-cbfc-47eb-a3c1-a998e38cd592"
+    ],
+    "vid": [
+      7854428
+    ],
+    "view_count": [
+      2669
+    ],
+    "search_api_id": [
+      "entity:node/89511:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-job-seekers-live-registers-employment-exchange"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3555
+    ],
+    "published_date": [
+      1364835325
+    ],
+    "body:value": [
+      "The table presents data on number of job seekers on the live registers on the employment exchanges by various Science & Technology fields. The data are taken from the publication - Analysis of Budgeted Expenditure on Education, Department of Education, MHRD."
+    ],
+    "changed": [
+      1462422946
+    ],
+    "created": [
+      1364203020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Human Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Engineering",
+      "Medical",
+      "Science",
+      "Veternity",
+      "Graduate"
+    ],
+    "nid": [
+      89513
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Job Seekers on The Live Registers of Employment Exchange"
+    ],
+    "uuid": [
+      "9a1db9ba-9776-4ca6-b2ce-48fa301c08cf"
+    ],
+    "vid": [
+      7854435
+    ],
+    "view_count": [
+      3403
+    ],
+    "search_api_id": [
+      "entity:node/89513:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-livestock-and-poultry"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2056
+    ],
+    "published_date": [
+      1365755955
+    ],
+    "body:value": [
+      "The data refers to all India figures on Livestock and Poultry for 2003 and 2007 including Cattle, Buffaloes, Sheep, Goats, Pigs, Horses, Ponies, Mules, Donkeys, Camels, Yaks, Mithuns, etc."
+    ],
+    "changed": [
+      1506517498
+    ],
+    "created": [
+      1365679560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Live Stock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Buffalo",
+      "Cattle",
+      "Goat",
+      "Mithuns",
+      "Ponies",
+      "Sheep",
+      "Pig",
+      "Horse",
+      "Donkey",
+      "Camel",
+      "Yak",
+      "Fishery",
+      "Mule"
+    ],
+    "nid": [
+      89515
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Livestock And Poultry"
+    ],
+    "uuid": [
+      "2a95e6ef-9f71-413e-9a22-dd37916eaea1"
+    ],
+    "vid": [
+      7854443
+    ],
+    "view_count": [
+      1901
+    ],
+    "search_api_id": [
+      "entity:node/89515:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-newborn-visited-within-24-hrs-home-delivery-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1626
+    ],
+    "published_date": [
+      1357833426
+    ],
+    "body:value": [
+      "Total number of newborns visited by health worker (Accredited Social Health Activist (ASHA)/Auxiliary Nurse Midwife (ANM) / Doctor / Staff Nurse) within 24 hours of home delivery during the reporting month. Essential newborn care, including weighing is provided. Data Source for this data element is Delivery Register and the reporting is done by sub centres."
+    ],
+    "changed": [
+      1566286979
+    ],
+    "created": [
+      1357797660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANM",
+      "ASHA",
+      "Delivery",
+      "Doctor",
+      "Health",
+      "Staff",
+      "Nurse",
+      "Social",
+      "Auxiliary",
+      "Midwife",
+      "Accredited",
+      "Activist"
+    ],
+    "nid": [
+      89517
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Newborn Visited Within 24 Hrs of Home Delivery in India"
+    ],
+    "uuid": [
+      "9d794416-d9ce-4569-a73d-722bf0a4635c"
+    ],
+    "vid": [
+      7854453
+    ],
+    "view_count": [
+      1544
+    ],
+    "search_api_id": [
+      "entity:node/89517:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-newborns-breastfed-within-1-hour-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1556
+    ],
+    "published_date": [
+      1357833332
+    ],
+    "body:value": [
+      "Total of newborns (live births) reported at Sub-Centre, Community Health Centre, Primary Health Centre, District Hospital, Sub-divisional Hospital and have been breastfed within 1st hour of delivery during the reporting month. Data Source for this data element is Delivery Register."
+    ],
+    "changed": [
+      1566286979
+    ],
+    "created": [
+      1357798020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "community",
+      "Delivery",
+      "Health",
+      "Hospital",
+      "Newborn",
+      "primary"
+    ],
+    "nid": [
+      89519
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Newborns Breastfed Within 1 Hour in India"
+    ],
+    "uuid": [
+      "528c0f87-7327-427a-8943-7b990a331359"
+    ],
+    "vid": [
+      7854464
+    ],
+    "view_count": [
+      1410
+    ],
+    "search_api_id": [
+      "entity:node/89519:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-newborns-having-weight-less-25-kgs-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1945
+    ],
+    "published_date": [
+      1357833170
+    ],
+    "body:value": [
+      "Total of newborns (live births) weighted at Sub-Centre, Community Health Centre, Primary Health Centre, District Hospital, Sub-divisional Hospital and found to be less than 2500g during the reporting month. Data Source for this data element is Pregnancy Register/ Labour Room Register."
+    ],
+    "changed": [
+      1566286979
+    ],
+    "created": [
+      1357798500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "community",
+      "Health",
+      "Hospital",
+      "Labour",
+      "Newborn",
+      "Pregnancy",
+      "primary",
+      "Room"
+    ],
+    "nid": [
+      89521
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Newborns Having Weight Less Than 2.5 Kgs in India"
+    ],
+    "uuid": [
+      "0c27dc1f-a7d4-493b-a2ab-bf823c2144e2"
+    ],
+    "vid": [
+      7854474
+    ],
+    "view_count": [
+      1826
+    ],
+    "search_api_id": [
+      "entity:node/89521:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-newborns-weighed-birth"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1991
+    ],
+    "published_date": [
+      1357833077
+    ],
+    "body:value": [
+      "Total of newborns (live births) weighted within 24 Hrs of birth during reporting month at Sub-Centre, Community Health Centre, Primary Health Centre, District Hospital, Sub-divisional Hospital are reported. Data Source for this data element is Pregnancy Register/ Labour Room Register."
+    ],
+    "changed": [
+      1566286971
+    ],
+    "created": [
+      1357811940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "community",
+      "Health",
+      "Hospital",
+      "Labour",
+      "Newborn",
+      "Pregnancy",
+      "primary",
+      "Room"
+    ],
+    "nid": [
+      89523
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Newborns Weighed At Birth"
+    ],
+    "uuid": [
+      "bced8324-ec97-463c-af36-9046db91167a"
+    ],
+    "vid": [
+      7854484
+    ],
+    "view_count": [
+      1830
+    ],
+    "search_api_id": [
+      "entity:node/89523:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-panchayati-raj-institutions-and-elected-representatives"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3691
+    ],
+    "published_date": [
+      1366822664
+    ],
+    "body:value": [
+      "The data refers to all India (2001, 2002, 2004, 2006. 2008 and 2009) and state-wise (2009) details on the number of Panchayati Raj institutions and elected representatives."
+    ],
+    "changed": [
+      1506517224
+    ],
+    "created": [
+      1366719960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Local Government"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Local Government",
+      "Rural",
+      "Panchayati Raj",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Institution",
+      "Panchayat",
+      "village",
+      "Intermediate",
+      "Representative"
+    ],
+    "nid": [
+      89560
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Panchayati Raj Institutions And Elected Representatives"
+    ],
+    "uuid": [
+      "c38fe80c-5a6a-4b22-b787-3ba0d11d8ad0"
+    ],
+    "vid": [
+      7854494
+    ],
+    "view_count": [
+      3488
+    ],
+    "search_api_id": [
+      "entity:node/89560:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-personnel-nipgr"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2298
+    ],
+    "published_date": [
+      1387515283
+    ],
+    "body:value": [
+      "Number of research and Administrative personnel working at NIPGR is provided in year-wise description."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1377511740
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "NIPGR-DBT"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India",
+      "National Institute of Plant Genome Research (NIPGR), New Delhi"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biotechnology",
+      "Institute",
+      "research",
+      "molecular",
+      "biology",
+      "Breed",
+      "Plant",
+      "Genome"
+    ],
+    "nid": [
+      89562
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of personnel in NIPGR"
+    ],
+    "uuid": [
+      "97221300-6657-4932-b43b-d43b4283c967"
+    ],
+    "vid": [
+      7854498
+    ],
+    "view_count": [
+      2124
+    ],
+    "search_api_id": [
+      "entity:node/89562:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-persons-killed-and-injured-railway-related-accidents"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3740
+    ],
+    "published_date": [
+      1367316757
+    ],
+    "body:value": [
+      "The data indicates about the details on number of passengers, railways servants and other persons (persons killed due to trespass and suicides) killed and injured in railway related accidents according to nature of accidents."
+    ],
+    "changed": [
+      1506592572
+    ],
+    "created": [
+      1366952040
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Railways"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Statistics",
+      "Transport",
+      "Railways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "passenger",
+      "Accident",
+      "Servant"
+    ],
+    "nid": [
+      89564
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number Of Persons Killed And Injured In Railway Related Accidents"
+    ],
+    "uuid": [
+      "9cdf30b0-8d66-4220-805f-24b073289c6e"
+    ],
+    "vid": [
+      7854520
+    ],
+    "view_count": [
+      3061
+    ],
+    "search_api_id": [
+      "entity:node/89564:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-post-office-savings-banks-depositors-and-amount-deposits"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1863
+    ],
+    "published_date": [
+      1367948874
+    ],
+    "body:value": [
+      "The data refers to details on the number of post office savings banks, depositors and amount of deposits from 2000-01 to 2011-12."
+    ],
+    "changed": [
+      1506517567
+    ],
+    "created": [
+      1367927580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Post"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Post",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bank",
+      "Withdrwal"
+    ],
+    "nid": [
+      89566
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Post Office Savings Banks / Depositors And Amount of Deposits"
+    ],
+    "uuid": [
+      "0c38cac9-78dc-43b4-a2ea-08671625c99b"
+    ],
+    "vid": [
+      7854527
+    ],
+    "view_count": [
+      1742
+    ],
+    "search_api_id": [
+      "entity:node/89566:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-post-offices-letter-boxes-and-postal-articles"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2383
+    ],
+    "published_date": [
+      1367948915
+    ],
+    "body:value": [
+      "The data refers to circle-wise details on the number of post offices, letter boxes and estimated number of postal articles handled (excluding money orders) for 2009-10 and 2010-11."
+    ],
+    "changed": [
+      1599032634
+    ],
+    "created": [
+      1367926140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Post"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Post",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Article",
+      "Circle",
+      "Post",
+      "Postal",
+      "Traffic",
+      "Registered",
+      "Speed",
+      "Box",
+      "Money",
+      "Mail"
+    ],
+    "nid": [
+      89568
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Post Offices / Letter Boxes And Postal Articles"
+    ],
+    "uuid": [
+      "a739efea-7349-44e8-a5a8-b27d83e7afa1"
+    ],
+    "vid": [
+      7854534
+    ],
+    "view_count": [
+      2177
+    ],
+    "search_api_id": [
+      "entity:node/89568:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-pregnant-women-received-3-anc-check-ups-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      12692
+    ],
+    "published_date": [
+      1357833376
+    ],
+    "body:value": [
+      "Antenatal care is the healthcare received by a woman during pregnancy. Antenatal care starts with history-taking and is followed by examination of the woman, which basically includes recording weight and height, blood test for anaemia, blood pressure measurement, regular abdominal examination etc. as per the guidelines. The women is advised for diet, regular ante-natal check-up and counselled for family planning. She is also provided with immunization for TT and IFA tablets along with proper treatment required in case of any complication. Ideally as per the RCH schedule 1st ANC check-up is to be done within 12 weeks, preferably as soon as the pregnancy is suspected, 2nd ANC check-up between 14-26 weeks, 3rd ANC check-up between 28-34 weeks, 4th ANC check-up between 36-40 weeks. Data Source for this data element is Antenatal Register (Pregnancy Register) and the reporting is applicable to all health facilities."
+    ],
+    "changed": [
+      1566286971
+    ],
+    "created": [
+      1357814880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Health",
+      "RCH",
+      "Reproductive",
+      "Care",
+      "Antenatal",
+      "History"
+    ],
+    "nid": [
+      89570
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Pregnant Women Received 3 ANC Check-ups in India"
+    ],
+    "uuid": [
+      "3c25a2ff-d87e-42b2-a657-ec21d2bc07ea"
+    ],
+    "vid": [
+      7854544
+    ],
+    "view_count": [
+      12042
+    ],
+    "search_api_id": [
+      "entity:node/89570:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-recognised-educational-institutions-higher-learning-all-india-and-state-wise"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4571
+    ],
+    "published_date": [
+      1365011870
+    ],
+    "body:value": [
+      "The data refers to All India (2000-01 to 2009-10) and State-wise (2008-09) data of Number of Recognised Educational Institutions of Higher Learning like Universities/ Deemed to be Universities Institutions of National Importance, Research Institutions, College for General Education, Professional Education Engg. Tech., Arch, Medical & Education College, Other Colleges (Law, Mana- Management, Agriculture etc.), Polytechnics, Schools for general education High/Higher Secondary etc."
+    ],
+    "changed": [
+      1441695756
+    ],
+    "created": [
+      1364814420
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Education",
+      "Engineering",
+      "Institutions",
+      "Law",
+      "Management",
+      "Medical",
+      "research",
+      "Polytechnics",
+      "School",
+      "University"
+    ],
+    "nid": [
+      89572
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number Of Recognised Educational Institutions Of Higher Learning, All India And State wise"
+    ],
+    "uuid": [
+      "fd36ff4d-abcf-4b6b-9e46-86e0a04e7ce3"
+    ],
+    "vid": [
+      7854567
+    ],
+    "view_count": [
+      4270
+    ],
+    "search_api_id": [
+      "entity:node/89572:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-registered-allopathic-doctors-and-dental-surgeons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      18262
+    ],
+    "published_date": [
+      1364465162
+    ],
+    "body:value": [
+      "The data refers to the number allopathic doctors and dental surgeons registered with state medical councils for 2010 and 2011 (only for 2010 for allopathic doctors)."
+    ],
+    "changed": [
+      1441693334
+    ],
+    "created": [
+      1364451240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare",
+      "trfff"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Allopathic",
+      "Doctor",
+      "Surgeon",
+      "Registered",
+      "Dental"
+    ],
+    "nid": [
+      89574
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Registered Allopathic Doctors And Dental Surgeons"
+    ],
+    "uuid": [
+      "b6106b05-4b74-4279-9431-084affaf4fa0"
+    ],
+    "vid": [
+      7854574
+    ],
+    "view_count": [
+      17959
+    ],
+    "search_api_id": [
+      "entity:node/89574:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-registered-general-nursing-midwives-auxiliary-nurse-midwives-and-health-visitors"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3811
+    ],
+    "published_date": [
+      1364464564
+    ],
+    "body:value": [
+      "The data refers to the number of registered general nursing midwives, auxiliary nurse-midwives and health visitors from 2000 on wards for All India and for 2009 and 2010 for States."
+    ],
+    "changed": [
+      1441693328
+    ],
+    "created": [
+      1364452020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare",
+      "trfff"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Midwive",
+      "Supervisor"
+    ],
+    "nid": [
+      89576
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Registered General Nursing Midwives/ Auxiliary Nurse-Midwives And Health Visitors"
+    ],
+    "uuid": [
+      "01560c8b-f903-4b4e-83aa-3d0de5560d2b"
+    ],
+    "vid": [
+      7854581
+    ],
+    "view_count": [
+      3741
+    ],
+    "search_api_id": [
+      "entity:node/89576:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-registered-newspapers-and-periodicals-language-all-india-and-state-wise"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10001
+    ],
+    "published_date": [
+      1366042162
+    ],
+    "body:value": [
+      "The data indicates about all India and state-wise details on the number of registered newspapers and periodicals by language."
+    ],
+    "changed": [
+      1599033784
+    ],
+    "created": [
+      1366029300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Newspapers And Periodicals"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Information and Broadcasting",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Periodcicals",
+      "Newspaper"
+    ],
+    "nid": [
+      89578
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Registered Newspapers And Periodicals By Language (All India And State wise)"
+    ],
+    "uuid": [
+      "32cd20b3-9033-443b-9d57-8119b5bb8bc9"
+    ],
+    "vid": [
+      7854597
+    ],
+    "view_count": [
+      9587
+    ],
+    "search_api_id": [
+      "entity:node/89578:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-registered-newspapers-and-periodicals-language-and-periodicity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2528
+    ],
+    "published_date": [
+      1366042471
+    ],
+    "body:value": [
+      "Get the data of all India and language-wise details on the number of registered newspapers and periodicals."
+    ],
+    "changed": [
+      1602755804
+    ],
+    "created": [
+      1366027980
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Newspapers And Periodicals"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Information and Broadcasting",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Dailies",
+      "Newspaper"
+    ],
+    "nid": [
+      89580
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Registered Newspapers And Periodicals By Language And Periodicity"
+    ],
+    "uuid": [
+      "e15906ea-c6da-4d83-bca5-1421633992cb"
+    ],
+    "vid": [
+      7854614
+    ],
+    "view_count": [
+      2190
+    ],
+    "search_api_id": [
+      "entity:node/89580:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-registered-newspapers-and-periodicals-states-and-periodicity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3220
+    ],
+    "published_date": [
+      1366042350
+    ],
+    "body:value": [
+      "The data indicates all India and state-wise details on the number of registered newspapers and periodicals."
+    ],
+    "changed": [
+      1506516926
+    ],
+    "created": [
+      1366028640
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Newspapers And Periodicals"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Information and Broadcasting",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Newspaper",
+      "Periodical"
+    ],
+    "nid": [
+      89582
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Registered Newspapers and Periodicals by States and Periodicity"
+    ],
+    "uuid": [
+      "56a9d215-9dd6-4144-a3a0-f174aa9b2979"
+    ],
+    "vid": [
+      7854630
+    ],
+    "view_count": [
+      2963
+    ],
+    "search_api_id": [
+      "entity:node/89582:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-registered-trade-unions"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      35595
+    ],
+    "published_date": [
+      1367950059
+    ],
+    "body:value": [
+      "Get the data about all India and state-wise details on the number of registered trade unions (such as workers unions and employers unions)."
+    ],
+    "changed": [
+      1602760736
+    ],
+    "created": [
+      1367838240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Trade Unions"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "Employer",
+      "Employment",
+      "Labour",
+      "Union",
+      "Worker",
+      "Bureau"
+    ],
+    "nid": [
+      89584
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Registered Trade Unions"
+    ],
+    "uuid": [
+      "10bfdca5-8382-44c6-8454-369427d2e928"
+    ],
+    "vid": [
+      7854648
+    ],
+    "view_count": [
+      31161
+    ],
+    "search_api_id": [
+      "entity:node/89584:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-reporting-mines-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3619
+    ],
+    "published_date": [
+      1365751446
+    ],
+    "body:value": [
+      "The data refers to State-wise (2009-10 and 2010-11) and All India (2000-01 to 2010-11) details on the number of reporting mines in India such as Fuels, Metallic Minerals, Metallic and Non-Metallic Minerals."
+    ],
+    "changed": [
+      1546584254
+    ],
+    "created": [
+      1365684000
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mining"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Mining",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Apatite",
+      "Barytes",
+      "Bauxite",
+      "Coal",
+      "Chromite",
+      "Diamond",
+      "Dolomite",
+      "Felspar",
+      "Fire",
+      "Fuel",
+      "Gold",
+      "Gypsum",
+      "Iron",
+      "Kaolin",
+      "Kyanite",
+      "Lignite",
+      "mineral",
+      "Copper",
+      "Manganese",
+      "Metallic",
+      "Ore",
+      "Mine",
+      "Asbesto",
+      "Clay",
+      "Lead"
+    ],
+    "nid": [
+      89586
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Reporting Mines In India"
+    ],
+    "uuid": [
+      "93278417-f65e-4bd5-bcd1-87edb183663d"
+    ],
+    "vid": [
+      7854655
+    ],
+    "view_count": [
+      3194
+    ],
+    "search_api_id": [
+      "entity:node/89586:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/number-seats-and-lok-sabha-members-state-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1127
+    ],
+    "published_date": [
+      1379939214
+    ],
+    "body:value": [
+      "(English) This provides information on the number of seats and Lok Sabha members strength by state."
+    ],
+    "changed": [
+      1487335039
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Loksabha",
+      "Member",
+      "Parliamentary"
+    ],
+    "nid": [
+      89588
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Seats and Lok Sabha Members by State (English)"
+    ],
+    "uuid": [
+      "02de5f95-24c1-44ad-a60c-27b1c2cf22c6"
+    ],
+    "vid": [
+      7854659
+    ],
+    "view_count": [
+      1031
+    ],
+    "search_api_id": [
+      "entity:node/89588:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/number-seats-and-lok-sabha-members-state-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4320
+    ],
+    "published_date": [
+      1381486016
+    ],
+    "body:value": [
+      "(Hindi) This provides information on the number of seats and Lok Sabha members strength by state."
+    ],
+    "changed": [
+      1487335120
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Seat",
+      "Hindi",
+      "Loksabha",
+      "Member"
+    ],
+    "nid": [
+      89590
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Seats and Lok Sabha Members by State (Hindi)"
+    ],
+    "uuid": [
+      "041384b4-078e-4379-bea3-e66edb9ea64b"
+    ],
+    "vid": [
+      7854664
+    ],
+    "view_count": [
+      4170
+    ],
+    "search_api_id": [
+      "entity:node/89590:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/number-seats-and-rajya-sabha-members-state-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1470
+    ],
+    "published_date": [
+      1378199016
+    ],
+    "body:value": [
+      "(English) This provides information on number of seats and Rajya Sabha members strength by state."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378099500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Member",
+      "Rajyasabha"
+    ],
+    "nid": [
+      89592
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Seats and Rajya Sabha Members by State (English)"
+    ],
+    "uuid": [
+      "488193bd-6ac5-4b65-8968-e74abc704b09"
+    ],
+    "vid": [
+      7854669
+    ],
+    "view_count": [
+      1432
+    ],
+    "search_api_id": [
+      "entity:node/89592:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/number-seats-and-rajya-sabha-members-state-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3444
+    ],
+    "published_date": [
+      1378449789
+    ],
+    "body:value": [
+      "(Hindi) This provides information on the number of seats and Rajya Sabha member's strength by the state."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Seat",
+      "Hindi",
+      "Member",
+      "Rajyasabha"
+    ],
+    "nid": [
+      89594
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Seats and Rajya Sabha Members by State (Hindi)"
+    ],
+    "uuid": [
+      "a4523a94-bdc0-43da-8f10-8639f9103e29"
+    ],
+    "vid": [
+      7854674
+    ],
+    "view_count": [
+      3339
+    ],
+    "search_api_id": [
+      "entity:node/89594:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-sittings-held-each-session-lok-sabha"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      700
+    ],
+    "published_date": [
+      1375093675
+    ],
+    "body:value": [
+      "The data refers to the number of sittings held in each session of Lok Sabha."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375088820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Statement of Work - An Overview"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Public",
+      "Work",
+      "Loksabha",
+      "Session"
+    ],
+    "nid": [
+      89596
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Sittings Held in Each Session of Lok Sabha"
+    ],
+    "uuid": [
+      "3992eddd-7dc8-477e-8e84-37b118b61b01"
+    ],
+    "vid": [
+      7854679
+    ],
+    "view_count": [
+      660
+    ],
+    "search_api_id": [
+      "entity:node/89596:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-starred-questions-answered-orally-minister-concerned-each-session-lok-sabha"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      564
+    ],
+    "published_date": [
+      1375093704
+    ],
+    "body:value": [
+      "The data refers to the number of starred questions answered orally by minister concerned in each session of Lok Sabha."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375090380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Statement of Work - An Overview"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Public",
+      "Work",
+      "Loksabha",
+      "Session"
+    ],
+    "nid": [
+      89598
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Starred Questions Answered Orally by Minister Concerned in Each Session of Lok Sabha"
+    ],
+    "uuid": [
+      "0b0181e6-757a-400a-bafa-348e6abb21ba"
+    ],
+    "vid": [
+      7854684
+    ],
+    "view_count": [
+      496
+    ],
+    "search_api_id": [
+      "entity:node/89598:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-still-births-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2345
+    ],
+    "published_date": [
+      1357833526
+    ],
+    "body:value": [
+      "Number of still birth recorded from Pregnancy Register/Labour Room Register at Sub-Centre, Community Health Centre, Primary Health Centre, District Hospital, Sub-divisional Hospital during the reporting month. Complete expulsion or extraction of baby from its mother where the foetus does not breathe or show any evidence of life, such as beating of the heart or a cry or movement of the limbs. In case the foetus dies in the uterus after 20 week or during labour/delivery, it will be reported under still birth. Data Source for this data element is Pregnancy Register/ Labour Room Register and the reporting is applicable to all health facilities."
+    ],
+    "changed": [
+      1566286971
+    ],
+    "created": [
+      1357815600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Foetus",
+      "Health",
+      "Labour",
+      "Pregnancy",
+      "Room",
+      "Register"
+    ],
+    "nid": [
+      89600
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Still Births in India"
+    ],
+    "uuid": [
+      "a3b65e9d-5e7f-48b2-bb28-115eba2053bc"
+    ],
+    "vid": [
+      7854695
+    ],
+    "view_count": [
+      2181
+    ],
+    "search_api_id": [
+      "entity:node/89600:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-sub-centres-primary-health-centres-and-community-health-centres-established-during-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      90128
+    ],
+    "published_date": [
+      1357905820
+    ],
+    "body:value": [
+      "Sub-Centre (SC) is the most peripheral and first contact point between the primary health care system and the community. One Sub Centre is to cover a population of 3000 in Hilly / Tribal / Difficult areas and 5000 in Plain areas. Each Sub-Centre is required to be manned by at least one Auxiliary Nurse Midwife (ANM) / Female Health Worker and one Male Health Worker. Under National Rural Health Mission (NRHM), there is a provision for one additional second ANM on contract basis. Sub-Centres are assigned tasks relating to interpersonal communication in order to bring about behavioural change and provide services in relation to maternal and child health, family welfare, nutrition, immunization, diarrhoea control and control of communicable diseases programmes. The Sub-Centres are provided with basic drugs for minor ailments needed for taking care of essential health needs of men, women and children. Primary Health Centre (PHC) is the first contact point between village community and the Medical Officer. The PHCs were envisaged to provide an integrated curative and preventive health care to the rural population with emphasis on preventive and promotive aspects of health care. One PHC is to cover a population of 20000 in Hilly/ Tribal / Difficult areas and 30000 in Plain areas. As per minimum requirement, a PHC is to be manned by a Medical Officer supported by 14 paramedical and other staff. Under NRHM, there is a provision for two additional Staff Nurses at PHCs on contract basis. It acts as a referral unit for 6 Sub Centres and has 4 - 6 beds for patients. The activities of PHC involve curative, preventive, promotive and Family Welfare Services. As per minimum norms, a Community Health Centre (CHC) is required to be manned by four Medical Specialists i.e. Surgeon, Physician, Gynaecologist and Paediatrician supported by paramedical and other staff. It has 30 in-door beds with one OT, X-ray, Labour Room and Laboratory facilities. It serves as a referral centre for 4 PHCs and also provides facilities for obstetric care and specialist consultations. One CHC is to cover a population of 80000 in Hilly/ Tribal / Difficult areas and 1,20,000 in Plain areas."
+    ],
+    "changed": [
+      1566286971
+    ],
+    "created": [
+      1357806180
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Health Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Diarrhoea",
+      "Establishment",
+      "Female",
+      "Immunization",
+      "Male",
+      "Mission",
+      "Nutrition",
+      "Plan",
+      "Rural",
+      "Nurse",
+      "Worker",
+      "Auxiliary",
+      "Midwife",
+      "Family",
+      "Welfare"
+    ],
+    "nid": [
+      89602
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Sub-Centres, Primary Health Centres and Community Health Centres Established During Five Year Plans"
+    ],
+    "uuid": [
+      "4bf00f1a-4fa8-475a-93ef-3163e448bf3a"
+    ],
+    "vid": [
+      7854702
+    ],
+    "view_count": [
+      89179
+    ],
+    "search_api_id": [
+      "entity:node/89602:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-teachers-educational-institutions-all-india-and-state-wise"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      42889
+    ],
+    "published_date": [
+      1365011996
+    ],
+    "body:value": [
+      "The data refers to All India (2001-02 to 2009-10) and State-wise (2008-09 to 2009-10) Number of Teachers in Educational Institutions like primary/junior basic schools, middle/senior basic school, high/post basic school, higher secondary schools, universities and affiliated colleges."
+    ],
+    "changed": [
+      1528452695
+    ],
+    "created": [
+      1364816640
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "College",
+      "Education",
+      "Institution",
+      "junior",
+      "middle",
+      "Post",
+      "primary",
+      "School",
+      "secondary",
+      "senior",
+      "University",
+      "Teacher",
+      "Affiliated"
+    ],
+    "nid": [
+      89604
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number Of Teachers In Educational Institutions (All India And State wise)"
+    ],
+    "uuid": [
+      "77256403-5c3f-4eb2-837b-b98f25f291aa"
+    ],
+    "vid": [
+      7854726
+    ],
+    "view_count": [
+      42497
+    ],
+    "search_api_id": [
+      "entity:node/89604:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-telephones-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2188
+    ],
+    "published_date": [
+      1367949156
+    ],
+    "body:value": [
+      "The data refers to all India (from 2004 to 2011) and state-wise (2010 and 2011) details on the number of telephones (including wireline phones and wireless phones) in India."
+    ],
+    "changed": [
+      1602755747
+    ],
+    "created": [
+      1367926860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Telecommunication"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Telecom",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CDMA",
+      "Circle",
+      "GSM",
+      "Telecommunication",
+      "Telephone",
+      "Wireless",
+      "Wireline",
+      "Fixed",
+      "mobile",
+      "Phone",
+      "global",
+      "Telecom",
+      "Access",
+      "DEL"
+    ],
+    "nid": [
+      89606
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Telephones In India"
+    ],
+    "uuid": [
+      "4684b38a-4fc2-4f9e-80cc-b83033489a09"
+    ],
+    "vid": [
+      7854733
+    ],
+    "view_count": [
+      1747
+    ],
+    "search_api_id": [
+      "entity:node/89606:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-towns-and-villages-electrified-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6275
+    ],
+    "published_date": [
+      1365012095
+    ],
+    "body:value": [
+      "The data refers to State-wise number of towns and villages electrified in India."
+    ],
+    "changed": [
+      1441695733
+    ],
+    "created": [
+      1364807220
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Electrified",
+      "Energy"
+    ],
+    "nid": [
+      89608
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number Of Towns And Villages Electrified In India"
+    ],
+    "uuid": [
+      "60010dc5-fc27-46e2-9c71-32f9e7b599d2"
+    ],
+    "vid": [
+      7854740
+    ],
+    "view_count": [
+      6067
+    ],
+    "search_api_id": [
+      "entity:node/89608:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-visitors-passes-issued-any-single-day-each-session-lok-sabha"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      702
+    ],
+    "published_date": [
+      1375093757
+    ],
+    "body:value": [
+      "The data refers to the number of visitors passes issued on any single day in each session of Lok Sabha."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375090920
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Statement of Work - An Overview"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Public",
+      "Pass",
+      "Work",
+      "Loksabha",
+      "Session",
+      "Visitor"
+    ],
+    "nid": [
+      89610
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Visitors Passes Issued on any Single Day in Each Session of Lok Sabha"
+    ],
+    "uuid": [
+      "693e9d26-ccb4-478f-aaa7-e2727ea45d3d"
+    ],
+    "vid": [
+      7854744
+    ],
+    "view_count": [
+      638
+    ],
+    "search_api_id": [
+      "entity:node/89610:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-visits-anm-lhv-awc-and-issues-discussed-reported-aww"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1181
+    ],
+    "published_date": [
+      1375448972
+    ],
+    "body:value": [
+      "The data refers to Number of Visits by Auxiliary Nurse Midwife (ANM)/ Lady Health Visitor (LHV) in AWC and Issues discussed as reported by AWW. It gives details regarding visits in the last 30 days, last 90 days and last 6 months and the issues discussed thereof."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANM",
+      "child",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Scheme",
+      "Anganwadi",
+      "Center"
+    ],
+    "nid": [
+      89612
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Visits by ANM/ LHV in AWC and Issues Discussed: Reported by AWW"
+    ],
+    "uuid": [
+      "41473489-040e-4c49-820d-1f27d2fc0a19"
+    ],
+    "vid": [
+      7854750
+    ],
+    "view_count": [
+      1133
+    ],
+    "search_api_id": [
+      "entity:node/89612:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-visits-block-education-officers-awc-reported-aww"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      494
+    ],
+    "published_date": [
+      1375449237
+    ],
+    "body:value": [
+      "The data refers to Number of Visits by Block Education Officers in AWC and Issues discussed as reported by AWW. It gives details regarding visits in the last 30 days, last 90 days and last 6 months and the issues discussed thereof."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Project",
+      "Scheme",
+      "Anganwadi",
+      "AWC",
+      "Ficer"
+    ],
+    "nid": [
+      89614
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Visits by Block Education Officers in AWC: Reported by AWW"
+    ],
+    "uuid": [
+      "095bf2b7-7e4c-45a5-975c-c32f605c3d5f"
+    ],
+    "vid": [
+      7854756
+    ],
+    "view_count": [
+      475
+    ],
+    "search_api_id": [
+      "entity:node/89614:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-visits-cdpo-acdpo-awc-and-issues-discussed-reported-aww"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9588
+    ],
+    "published_date": [
+      1375449174
+    ],
+    "body:value": [
+      "The data refers to Number of Visits by CDPO/ ACDPO in AWC and Issues discussed as reported by AWW. It gives details regarding visits in the last 30 days, last 90 days and last 6 months and the issues discussed thereof."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Project",
+      "Scheme",
+      "Officer",
+      "Assistant",
+      "CDPO"
+    ],
+    "nid": [
+      89616
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Visits by CDPO/ ACDPO in AWC and Issues Discussed: Reported by AWW"
+    ],
+    "uuid": [
+      "b13ac36b-511d-4c2c-b8f8-cbf7318a0ff7"
+    ],
+    "vid": [
+      7854762
+    ],
+    "view_count": [
+      9496
+    ],
+    "search_api_id": [
+      "entity:node/89616:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-visits-medical-officer-awc-and-issues-discussed-reported-aww"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      407
+    ],
+    "published_date": [
+      1375254090
+    ],
+    "body:value": [
+      "The data refers to the number of visits by Medical Officer in AWC and issues discussed, which are reported by AWW. It is seen that the numbers of visits made by the medical officer was quite low, with the average for six months being only one."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Service",
+      "Worker",
+      "Anganwadi"
+    ],
+    "nid": [
+      89618
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of visits by Medical Officer in AWC and issues discussed: Reported by AWW"
+    ],
+    "uuid": [
+      "3f5dcc5a-d304-498e-99b4-3e53634c7b13"
+    ],
+    "vid": [
+      7854768
+    ],
+    "view_count": [
+      389
+    ],
+    "search_api_id": [
+      "entity:node/89618:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-visits-sarpanch-awc-and-issues-discussed-reported-aww"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      782
+    ],
+    "published_date": [
+      1375449260
+    ],
+    "body:value": [
+      "The data refers to Number of Visits by Sarpanch in AWC and Issues discussed as reported by AWW. It gives details regarding visits in the last 30 days, last 90 days and last 6 months and the issues discussed thereof."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Scheme",
+      "sarpanch",
+      "Anganwadi"
+    ],
+    "nid": [
+      89620
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Visits by Sarpanch in AWC and Issues Discussed: Reported by AWW"
+    ],
+    "uuid": [
+      "9c883cd0-1f0e-4ba9-ae10-7e41de205b77"
+    ],
+    "vid": [
+      7854774
+    ],
+    "view_count": [
+      719
+    ],
+    "search_api_id": [
+      "entity:node/89620:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-visits-supervisors-awc-and-issues-discussed-reported-aww"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      651
+    ],
+    "published_date": [
+      1375449147
+    ],
+    "body:value": [
+      "The data refers to Number of Visits by Supervisors in AWC and Issues discussed as reported by AWW. It gives details regarding visits in the last 30 days, last 90 days and last 6 months and the issues discussed thereof."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Scheme",
+      "Anganwadi",
+      "Supervisor"
+    ],
+    "nid": [
+      89622
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Visits by Supervisors in AWC and Issues Discussed: Reported by AWW"
+    ],
+    "uuid": [
+      "54e1c2ae-d131-482b-8fc0-d82d99b9aec1"
+    ],
+    "vid": [
+      7854780
+    ],
+    "view_count": [
+      624
+    ],
+    "search_api_id": [
+      "entity:node/89622:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-women-discharged-under-48-hrs-delivery-public-facility-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1178
+    ],
+    "published_date": [
+      1357833479
+    ],
+    "body:value": [
+      "Out of the total deliveries conducted in the facilities, the numbers of women discharged within 48 hours of delivery during the reporting month are reported. It is important that a woman should stay in the Sub-Centre, Community Health Centre, Primary Health Centre, District Hospital, Sub-divisional Hospital for at least 48 hours after delivery. Data Source for this data element is Labour Room Register and the reporting is applicable to all health facilities."
+    ],
+    "changed": [
+      1566286971
+    ],
+    "created": [
+      1357815840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Delivery",
+      "Discharge",
+      "Labour",
+      "Room",
+      "Register"
+    ],
+    "nid": [
+      89624
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Women Discharged Under 48 Hrs of Delivery From Public Facility in India "
+    ],
+    "uuid": [
+      "e8fa6f70-6b24-47b8-b744-fadbf6444e97"
+    ],
+    "vid": [
+      7854791
+    ],
+    "view_count": [
+      1132
+    ],
+    "search_api_id": [
+      "entity:node/89624:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-women-given-tt2booster-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1767
+    ],
+    "published_date": [
+      1357833582
+    ],
+    "body:value": [
+      "Total number of pregnant women who have received the second dose of TT immunization (TT-2) or Booster of TT during the reporting month. This indicates number of pregnant women who have completed TT immunization for the current pregnancy. The second dose is to be given one month after the first dose but, preferably, at least one month before the expected date of delivery. If the woman has received two injections during previous pregnancy (in last 3 years) a single dose of TT is given and it would be counted as TT Booster. Data Source for this data element is Antenatal Register (Pregnancy Register) and the reporting is applicable to all health facilities."
+    ],
+    "changed": [
+      1566286971
+    ],
+    "created": [
+      1357816200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Health",
+      "Immunization",
+      "Tetanus",
+      "Booster",
+      "Pregnant",
+      "Toxoid"
+    ],
+    "nid": [
+      89626
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Women Given TT2/Booster in India"
+    ],
+    "uuid": [
+      "634bbeb0-d12c-4d53-ba19-907489953e7a"
+    ],
+    "vid": [
+      7854801
+    ],
+    "view_count": [
+      1632
+    ],
+    "search_api_id": [
+      "entity:node/89626:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-women-having-hemoglobin-hb-level-less-11-tested-cases-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3041
+    ],
+    "published_date": [
+      1357833024
+    ],
+    "body:value": [
+      "Number of pregnant women tested during ANC visits and found with Hemoglobin (Hb) less than 11 g/dl during the reporting month. Only those cases are to be reported where the Hb was measured by a Haemoglobinometer or any other acceptable laboratory method. Cases identified only by examination of eyes are not to be recorded. Data Source for this data element is Antenatal Register (Pregnancy Register, Laboratory Register) and the reporting is applicable to all health facilities."
+    ],
+    "changed": [
+      1566286971
+    ],
+    "created": [
+      1357816620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Hemoglobin",
+      "Laboratory",
+      "Pregnancy",
+      "Pregnant",
+      "Antenatal"
+    ],
+    "nid": [
+      89628
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Women Having Hemoglobin (Hb) Level Less Than 11 (Tested Cases) in India"
+    ],
+    "uuid": [
+      "47f8adfa-cd62-48fe-aace-f47131a00145"
+    ],
+    "vid": [
+      7854812
+    ],
+    "view_count": [
+      2869
+    ],
+    "search_api_id": [
+      "entity:node/89628:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-women-receiving-post-partum-check-within-48-hours-after-delivery-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3451
+    ],
+    "published_date": [
+      1357833613
+    ],
+    "body:value": [
+      "Total number of women who have received first post partum check-up within 48 hours of delivery (0-48 hours) during the reporting month. This would include the post partum check-up given at Sub-Centre, Community Health Centre, Primary Health Centre, District Hospital, Sub-divisional Hospital within 48 hours of delivery. Data Source for this data element is IP register/pregnancy register."
+    ],
+    "changed": [
+      1567679272
+    ],
+    "created": [
+      1357836840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "nid": [
+      89630
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Women Receiving Post Partum Check-Up Within 48 Hours After Delivery in India"
+    ],
+    "uuid": [
+      "caa8fecc-57bf-49a6-adf0-ac465a540d63"
+    ],
+    "vid": [
+      10464483
+    ],
+    "view_count": [
+      3357
+    ],
+    "search_api_id": [
+      "entity:node/89630:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/number-workers-broad-employment-status-millions"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1482
+    ],
+    "published_date": [
+      1372670445
+    ],
+    "body:value": [
+      "The data refers to the number of workers according to Usual Principal and Subsidiary Status (PS+SS) approach by Broad Employment Status (in Million Workers). It gives the sector-wise details for the years 1999-2000, 2004-05 and 2009-10."
+    ],
+    "changed": [
+      1436419164
+    ],
+    "created": [
+      1372430100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Employment"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NSS",
+      "Plan",
+      "Worker",
+      "Principal",
+      "Document",
+      "Round",
+      "Usual",
+      "Subsidiary"
+    ],
+    "nid": [
+      89632
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Number of Workers by Broad Employment Status (in Millions)"
+    ],
+    "uuid": [
+      "ca446976-3bcc-485e-8080-e7fc838ea59d"
+    ],
+    "vid": [
+      7854824
+    ],
+    "view_count": [
+      1329
+    ],
+    "search_api_id": [
+      "entity:node/89632:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/nutritional-status-children-aged-7-months-60-months"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1313
+    ],
+    "published_date": [
+      1375251818
+    ],
+    "body:value": [
+      "The data refers to the Nutritional status of children aged 7 months-60 months. It provides state-wise details regarding the nutritional status of children who are covered under the Integrated Child Development Services (ICDS) scheme and those who are not covered under the scheme."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Development",
+      "Integrated",
+      "Service",
+      "Anganwadi",
+      "AWC"
+    ],
+    "nid": [
+      89634
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Nutritional status of children aged 7 months-60 months"
+    ],
+    "uuid": [
+      "8a7d3084-b807-4477-9c24-5a7bef6dfe1a"
+    ],
+    "vid": [
+      7854831
+    ],
+    "view_count": [
+      1286
+    ],
+    "search_api_id": [
+      "entity:node/89634:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/nutritional-status-children-aged-7-months-60-months-asset-class"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      937
+    ],
+    "published_date": [
+      1375251071
+    ],
+    "body:value": [
+      "The data refers to the Nutritional status of children aged 7 months-60 months by Expenditure classes. It provides state-wise details regarding the nutritional status of children who are under the ICDS scheme and those who are not covered under the scheme, categorized on the basis of their by Asset class. Beneficiary and non-beneficiary households are put in two asset-holding categories, i.e. those with expensive assets (Asset-I) and those without such assets (Asset-II)."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Asset",
+      "Beneficiary",
+      "Children",
+      "Development",
+      "Integrated",
+      "Service",
+      "Anganwadi",
+      "AWC"
+    ],
+    "nid": [
+      89636
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Nutritional status of children aged 7 months-60 months by Asset class"
+    ],
+    "uuid": [
+      "14fc54af-ff52-4614-bcfc-90d2a2d0b1f3"
+    ],
+    "vid": [
+      7854837
+    ],
+    "view_count": [
+      903
+    ],
+    "search_api_id": [
+      "entity:node/89636:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/nutritional-status-children-aged-7-months-60-months-expenditure-classes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      826
+    ],
+    "published_date": [
+      1375251637
+    ],
+    "body:value": [
+      "The data refers to the Nutritional status of children aged 7 months-60 months by Expenditure classes. It provides state-wise details regarding the nutritional status of children who are under the ICDS scheme and those who are not covered under the scheme, categorized on the basis of their monthly household expenditure."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "Children",
+      "Development",
+      "expenditure",
+      "Household",
+      "Integrated",
+      "Service",
+      "Anganwadi",
+      "AWC"
+    ],
+    "nid": [
+      89638
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Nutritional status of children aged 7 months-60 months by Expenditure classes"
+    ],
+    "uuid": [
+      "f5299606-d9ec-42f0-98bd-53f42c86c1f1"
+    ],
+    "vid": [
+      7854843
+    ],
+    "view_count": [
+      793
+    ],
+    "search_api_id": [
+      "entity:node/89638:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/nutritional-status-children-aged-7-months-60-months-occupation-group"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      890
+    ],
+    "published_date": [
+      1375251486
+    ],
+    "body:value": [
+      "The data refers to the Nutritional status of children aged 7 months-60 months by Expenditure classes. It provides state-wise details regarding the nutritional status of children who are under the ICDS scheme and those who are not covered under the scheme, categorized on the basis of their by Occupation group (agriculture, wage earners and others)."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "child",
+      "Children",
+      "Development",
+      "Integrated",
+      "Wage",
+      "Anganwadi",
+      "AWC",
+      "Earner"
+    ],
+    "nid": [
+      89640
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Nutritional status of children aged 7 months-60 months by Occupation group"
+    ],
+    "uuid": [
+      "8116a8dd-8b5d-4731-94d3-1f4c19743810"
+    ],
+    "vid": [
+      7854849
+    ],
+    "view_count": [
+      852
+    ],
+    "search_api_id": [
+      "entity:node/89640:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/observation-investigator-about-cleanliness-awc-awc"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      759
+    ],
+    "published_date": [
+      1375449370
+    ],
+    "body:value": [
+      "The data refers to the investigators observations on accuracy of maintenance of different records (%AWC). Record maintenance facilitates supervision and evaluation, and helps ensure better implementation of the ICDS programme."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "cleanliness",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Scheme"
+    ],
+    "nid": [
+      89644
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Observation of the Investigator about Cleanliness of the AWC (% AWC)"
+    ],
+    "uuid": [
+      "7116c944-5522-4289-b801-87b1d5bb6ecd"
+    ],
+    "vid": [
+      7854855
+    ],
+    "view_count": [
+      738
+    ],
+    "search_api_id": [
+      "entity:node/89644:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/observation-investigator-about-cleanliness-cooking-area-awc"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1133
+    ],
+    "published_date": [
+      1375449389
+    ],
+    "body:value": [
+      "The data refers to the observation of the investigator about cleanliness of the cooking area (% AWC). The cleanliness of the cooking area of the AWC was examined by the investigators and it was found that among the states, it was seen that in Kerala, the highest percentage of AWC had Very clean cooking area (70.9%). The maximum percentage of AWC with Unclean/unhygienic cooking areas was found in Haryana (84.1%)."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "cleanliness",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Scheme",
+      "Anganwadi"
+    ],
+    "nid": [
+      89646
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Observation of the Investigator about Cleanliness of the Cooking Area (% AWC)"
+    ],
+    "uuid": [
+      "0ec55e2a-dd88-4268-9f7e-39a5256d6bbd"
+    ],
+    "vid": [
+      7854861
+    ],
+    "view_count": [
+      1098
+    ],
+    "search_api_id": [
+      "entity:node/89646:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

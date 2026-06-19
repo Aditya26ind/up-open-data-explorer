@@ -1,0 +1,4780 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/effectiveness-district-level-monitoring-teams-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      519
+    ],
+    "published_date": [
+      1382683539
+    ],
+    "body:value": [
+      "The data refers to the Effectiveness of the District Level Monitoring teams. It provides details of Number of Districts (N), Number of districts with DEO holding Additional charge, Monitoring Schools, Classroom Observation, School Mapping, Learning Achievement of Children, Fund Related Issues, Management Issues, Civil Work and Meal Issues. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission in eleven states and two union territories for 'Evaluation Report On Sarva Shiksha Abhiyan, 2010'. The reference period for the study was 2003 to 2007."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1382600580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Civil",
+      "classroom",
+      "Fund",
+      "Management",
+      "School",
+      "Work",
+      "Meal",
+      "Mapping",
+      "Issue",
+      "Observation"
+    ],
+    "nid": [
+      87675
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Effectiveness of the District Level Monitoring teams - Based on Sample Survey"
+    ],
+    "uuid": [
+      "32803fc1-bfd6-467c-92f0-cf148299d824"
+    ],
+    "vid": [
+      7846353
+    ],
+    "view_count": [
+      465
+    ],
+    "search_api_id": [
+      "entity:node/87675:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/election-lok-sabha-house-people"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7584
+    ],
+    "published_date": [
+      1366245148
+    ],
+    "body:value": [
+      "The data refers to all India and state-wise details on election to the Lok Sabha (House of People) including number of constituencies, electors, votes polled and valid votes polled."
+    ],
+    "changed": [
+      1441699780
+    ],
+    "created": [
+      1366114380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Electoral Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Lok Sabha",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Elector",
+      "Poll",
+      "Loksabha",
+      "Constituencie"
+    ],
+    "nid": [
+      87677
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Election To The Lok Sabha - House of People"
+    ],
+    "uuid": [
+      "ebc33108-b6dd-4d9c-a2ae-ae3f651fd606"
+    ],
+    "vid": [
+      7846378
+    ],
+    "view_count": [
+      6952
+    ],
+    "search_api_id": [
+      "entity:node/87677:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/electrical-optical-sensors-target-acquisition"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1794
+    ],
+    "published_date": [
+      1368437025
+    ],
+    "body:value": [
+      "Instruments Research and Development Establishment (IRDE), Dehra Dun, under DRDO, is devoted to research, design, development and technology transfer in Electrical-Optical Sensors for Target Acquisition. Development of electro-optical sensors for light combat aircraft , remotely piloted vehicle and air defence artillery weapon system are some of the more challenging assignments envisaged for the laboratory."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1368003900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DRDO Product"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Detector",
+      "FOV",
+      "Length",
+      "Wave",
+      "Defence",
+      "Range",
+      "Optical",
+      "Zoom",
+      "Micrometer"
+    ],
+    "nid": [
+      87679
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Electrical-Optical Sensors for Target Acquisition"
+    ],
+    "uuid": [
+      "69f755d5-92a5-40a1-9937-5fb93e85f4f3"
+    ],
+    "vid": [
+      7846385
+    ],
+    "view_count": [
+      1571
+    ],
+    "search_api_id": [
+      "entity:node/87679:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/electricity-generated-utility-distributed-sold-and-lost"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2501
+    ],
+    "published_date": [
+      1365012089
+    ],
+    "body:value": [
+      "The data indicates regarding All India data on Electricity Generated (From Utility), Distributed, \r\nSold to ultimate consumers and other countries and Lost in transmission."
+    ],
+    "changed": [
+      1441695728
+    ],
+    "created": [
+      1364806320
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "electricity",
+      "Energy",
+      "Power",
+      "station",
+      "transmission"
+    ],
+    "nid": [
+      87681
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Electricity Generated (From Utility), Distributed, Sold And Lost"
+    ],
+    "uuid": [
+      "3ce6b9c9-6cb3-4aeb-b4a7-1fda27d65617"
+    ],
+    "vid": [
+      7846397
+    ],
+    "view_count": [
+      2384
+    ],
+    "search_api_id": [
+      "entity:node/87681:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/electricity-sold-ultimate-consumers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2156
+    ],
+    "published_date": [
+      1365012092
+    ],
+    "body:value": [
+      "The data refers to All India (2001-01 to 2008-09) and State-wise (2008-09) data on Electricity Sold To Ultimate Consumers by public electricity undertakings are presented in this table by categories of consumers viz. domestic, commercial, industrial power, public lighting, traction, agricultural, public water works sewage pumping and miscellaneous."
+    ],
+    "changed": [
+      1441695718
+    ],
+    "created": [
+      1364799480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "electricity",
+      "industrial",
+      "Lighting",
+      "Power",
+      "Public",
+      "pumping",
+      "sewage"
+    ],
+    "nid": [
+      87683
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Electricity Sold To Ultimate Consumers"
+    ],
+    "uuid": [
+      "82c34d1c-7531-48bb-91d4-0442c445e516"
+    ],
+    "vid": [
+      7846404
+    ],
+    "view_count": [
+      2019
+    ],
+    "search_api_id": [
+      "entity:node/87683:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/electricity-installed-capacity-generation-and-consumption-utilities-only"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3243
+    ],
+    "published_date": [
+      1364614831
+    ],
+    "body:value": [
+      "The data indicates about the statistics on electricity-installed capacity, generation and consumption (utilities only)."
+    ],
+    "changed": [
+      1441695717
+    ],
+    "created": [
+      1364473500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Diesel",
+      "electricity",
+      "Gas",
+      "Hydro",
+      "Nuclear",
+      "Power",
+      "station",
+      "Steam",
+      "Wind",
+      "Installed"
+    ],
+    "nid": [
+      87685
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Electricity-Installed Capacity / Generation And Consumption (Utilities Only)"
+    ],
+    "uuid": [
+      "287a0612-1703-42a8-8462-a957208dd380"
+    ],
+    "vid": [
+      7846416
+    ],
+    "view_count": [
+      3090
+    ],
+    "search_api_id": [
+      "entity:node/87685:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/electronics-and-it-exports"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4319
+    ],
+    "published_date": [
+      1357732121
+    ],
+    "body:value": [
+      "The Export Data of Electronics and IT Sector is provided in this dataset. "
+    ],
+    "changed": [
+      1573207736
+    ],
+    "created": [
+      1357716180
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "e-Governance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Electronics and Information Technology (MeitY)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "Export",
+      "IT",
+      "Electronic"
+    ],
+    "nid": [
+      87687
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Electronics and IT Exports"
+    ],
+    "uuid": [
+      "a89ce2ce-c6b0-43bb-8a74-720a4640462a"
+    ],
+    "vid": [
+      7846424
+    ],
+    "view_count": [
+      3842
+    ],
+    "search_api_id": [
+      "entity:node/87687:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/electro-optical-instruments-arjun-mk-ii"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1472
+    ],
+    "published_date": [
+      1368436871
+    ],
+    "body:value": [
+      "Instruments Research and Development Establishment (IRDE), Dehra Dun, under DRDO, is devoted to research, design, development and technology transfer in Electro-Optical Instruments for Arjun MK-II for the Defence Services."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1368004080
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DRDO Product"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "FOV",
+      "width",
+      "Defence",
+      "Range",
+      "Narrow",
+      "Accuracy"
+    ],
+    "nid": [
+      87689
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Electro-Optical Instruments for Arjun MK-II"
+    ],
+    "uuid": [
+      "43c80920-624f-4335-a92b-dc30f0956b0b"
+    ],
+    "vid": [
+      7846431
+    ],
+    "view_count": [
+      1312
+    ],
+    "search_api_id": [
+      "entity:node/87689:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/electro-optical-sensors-airborne-application"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1499
+    ],
+    "published_date": [
+      1368427373
+    ],
+    "body:value": [
+      "Instruments Research and Development Establishment (IRDE), Dehradun, under DRDO, is devoted to research, design, development and technology transfer in optical and electro-optical instrumentation primarily for the Defence Services.IRDE's core competence lies in the development of Electro-optical Sensors for Airborne Application. To achieve excellence in the fields of optics & electro-optical instrumentation with a commitment to provide world class equipment."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1368004200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DRDO Product"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Defence",
+      "Range",
+      "Accuracy",
+      "LOS",
+      "Freedom",
+      "Az",
+      "El",
+      "Stab"
+    ],
+    "nid": [
+      87691
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Electro-optical Sensors for Airborne Application"
+    ],
+    "uuid": [
+      "ecd59960-9118-4b6c-aefb-86b42978e15e"
+    ],
+    "vid": [
+      7846439
+    ],
+    "view_count": [
+      1337
+    ],
+    "search_api_id": [
+      "entity:node/87691:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/elementary-schools-management"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1135
+    ],
+    "published_date": [
+      1375096228
+    ],
+    "body:value": [
+      "This provide detail with regard to the number of Elementary Schools under Public and Private managements."
+    ],
+    "changed": [
+      1436419147
+    ],
+    "created": [
+      1374898920
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "statistics"
+    ],
+    "nid": [
+      87693
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Elementary Schools by Management"
+    ],
+    "uuid": [
+      "f1c7f229-a451-4a9c-9c94-08f81cce45e4"
+    ],
+    "vid": [
+      7846442
+    ],
+    "view_count": [
+      1035
+    ],
+    "search_api_id": [
+      "entity:node/87693:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/eleventh-five-year-plan-financial-allocations-and-expenditure-mnre-power-sector"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1135
+    ],
+    "published_date": [
+      1370853630
+    ],
+    "body:value": [
+      "The data refers to Eleventh Five Year Plan Financial Allocations and Expenditure for Ministry of New and Renewable Energy (MNRE) pertaining to Power Sector. The Budget Estimates (BE) and expenditure are given for each programme component."
+    ],
+    "changed": [
+      1436419164
+    ],
+    "created": [
+      1370691600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power & Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "BE",
+      "Component",
+      "expenditure",
+      "Programme"
+    ],
+    "nid": [
+      87695
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Eleventh Five Year Plan Financial Allocations and Expenditure: MNRE - Power Sector"
+    ],
+    "uuid": [
+      "352f5715-1291-4ad8-beaa-cffaa1770158"
+    ],
+    "vid": [
+      7846446
+    ],
+    "view_count": [
+      1075
+    ],
+    "search_api_id": [
+      "entity:node/87695:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/eleventh-five-year-plan-physical-progress-rggvy-projects-under-implementation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1072
+    ],
+    "published_date": [
+      1370936202
+    ],
+    "body:value": [
+      "This table (Annexure 14.1 to base table) provides Eleventh Five Year Plan (2007-2012) Physical Progress of Rajiv Gandhi Grameen Vidyutikaran Yojana (RGGVY) Projects under Implementation. It gives state-wise details regarding Electrification of Un/De-Electrified Villages (Achievement), Intensive Electrification of Electrified Villages (Achievement), No. of Connections to BPL households (Achievement)."
+    ],
+    "changed": [
+      1436419215
+    ],
+    "created": [
+      1370682540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "BPL",
+      "RGGVY",
+      "Yojana",
+      "Rajiv",
+      "Gandhi",
+      "Grameen",
+      "Vidyutikaran"
+    ],
+    "nid": [
+      87697
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Eleventh Five Year Plan Physical Progress of RGGVY Projects under Implementation"
+    ],
+    "uuid": [
+      "6df936ec-d968-4a9a-b88f-b1880c82301a"
+    ],
+    "vid": [
+      7846450
+    ],
+    "view_count": [
+      1004
+    ],
+    "search_api_id": [
+      "entity:node/87697:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/eleventh-five-year-plan-power-capacity-addition-through-grid-interactive-renewable-power"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1382
+    ],
+    "published_date": [
+      1370855065
+    ],
+    "body:value": [
+      "The data refers to Eleventh Five Year Plan Power Capacity Addition through Grid Interactive Renewable Power. It provides the target and actual figures as on 31st March 2012."
+    ],
+    "changed": [
+      1436419167
+    ],
+    "created": [
+      1370691180
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power & Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Power",
+      "target",
+      "Solar",
+      "MW"
+    ],
+    "nid": [
+      87699
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Eleventh Five Year Plan Power Capacity Addition through Grid Interactive Renewable Power"
+    ],
+    "uuid": [
+      "d3a2555f-2c9c-4a97-9962-ac7182011420"
+    ],
+    "vid": [
+      7846454
+    ],
+    "view_count": [
+      1269
+    ],
+    "search_api_id": [
+      "entity:node/87699:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/eleventh-plan-allocation-and-expenditure-special-schemes-scs"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      584
+    ],
+    "published_date": [
+      1374049471
+    ],
+    "body:value": [
+      "The data refers to 7 individual scholarship type schemes allocation and expenditure for special schemes for Scheduled Castes. This become necessary because expansion in education in general was a major thrust of the Eleventh Plan and this was accompanied by several schemes aimed specifically at educational development among SCs especially women and girl children."
+    ],
+    "changed": [
+      1436419161
+    ],
+    "created": [
+      1373633640
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Social Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development",
+      "Tribal"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Scholarship",
+      "Schedule",
+      "Cast"
+    ],
+    "nid": [
+      87701
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Eleventh Plan Allocation And Expenditure For Special Schemes For SCs"
+    ],
+    "uuid": [
+      "1e7754ae-189f-48be-8808-92ee9cec2b7c"
+    ],
+    "vid": [
+      7846458
+    ],
+    "view_count": [
+      535
+    ],
+    "search_api_id": [
+      "entity:node/87701:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/eleventh-plan-allocation-and-expenditure-special-schemes-sts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      530
+    ],
+    "published_date": [
+      1374051492
+    ],
+    "body:value": [
+      "Education continued to receive high priority in the Eleventh Plan to facilitate educational development among STs by providing educational facilities, incentives and support especially focusing the ST girls. The expenditure in the Eleventh Plan, compared with the allocation is given in this table."
+    ],
+    "changed": [
+      1436419161
+    ],
+    "created": [
+      1373635800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Social Development"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Social Development",
+      "Women"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "Scholarship",
+      "Scheduled",
+      "Tribe",
+      "Educational"
+    ],
+    "nid": [
+      87703
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Eleventh Plan Allocation And Expenditure For Special Schemes For STs"
+    ],
+    "uuid": [
+      "0719f394-764b-48d0-9a19-05170791c448"
+    ],
+    "vid": [
+      7846462
+    ],
+    "view_count": [
+      520
+    ],
+    "search_api_id": [
+      "entity:node/87703:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/eleventh-plan-monitorable-goals-and-achievements-health-and-family-welfare-sector"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3528
+    ],
+    "published_date": [
+      1369675320
+    ],
+    "body:value": [
+      "The data refers to details on Eleventh Plan targets, baseline level in the beginning of Eleventh Plan and recent status of the targets available so far."
+    ],
+    "changed": [
+      1436419239
+    ],
+    "created": [
+      1369669860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Fertility",
+      "Infant",
+      "malnutrition",
+      "maternal",
+      "Mortality",
+      "target",
+      "Rate",
+      "Ratio"
+    ],
+    "nid": [
+      87705
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "791",
+      "797"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Eleventh Plan Monitorable Goals And Achievements For Health And Family Welfare Sector"
+    ],
+    "uuid": [
+      "2230634e-53e8-4ec3-9a28-95350391893d"
+    ],
+    "vid": [
+      7846468
+    ],
+    "view_count": [
+      3502
+    ],
+    "search_api_id": [
+      "entity:node/87705:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/eleventh-plan-projection-and-achievements-traffic-and-capacity-major-ports"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1246
+    ],
+    "published_date": [
+      1370338396
+    ],
+    "body:value": [
+      "The data refers to an overview of Eleventh Plan projection and achievements of traffic and capacity by major ports."
+    ],
+    "changed": [
+      1436419230
+    ],
+    "created": [
+      1370319240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Transport"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Water ways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "capacity",
+      "Plan",
+      "Port",
+      "Traffic"
+    ],
+    "nid": [
+      87707
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Eleventh Plan Projection And Achievements of Traffic And Capacity By Major Ports"
+    ],
+    "uuid": [
+      "bbfc59d8-cf38-407a-b23f-6fb86b21e067"
+    ],
+    "vid": [
+      7846472
+    ],
+    "view_count": [
+      1165
+    ],
+    "search_api_id": [
+      "entity:node/87707:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/eleventh-plan-resources-states-and-ut"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      470
+    ],
+    "published_date": [
+      1375863418
+    ],
+    "body:value": [
+      "The data refers to data related to Eleventh Plan resources of States and UTs (in Rs. Crore) at 2006-07 prices."
+    ],
+    "changed": [
+      1436419144
+    ],
+    "created": [
+      1375455120
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Financial Resources"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy",
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "Economy",
+      "Macro"
+    ],
+    "nid": [
+      87709
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Eleventh Plan Resources of States and UT"
+    ],
+    "uuid": [
+      "a5c84c3e-d6b3-415d-969b-7135542aeba6"
+    ],
+    "vid": [
+      7846476
+    ],
+    "view_count": [
+      424
+    ],
+    "search_api_id": [
+      "entity:node/87709:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/employment-across-various-sectors-millions"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3909
+    ],
+    "published_date": [
+      1372659883
+    ],
+    "body:value": [
+      "The data refers to Employment across various sectors (in millions) on Usual Principal Subsidiary Status basis (UPSS) for the years 1999-2000, 2004-05 and 2009-10. It gives details on the absolute increase in employment over the years as well."
+    ],
+    "changed": [
+      1436419161
+    ],
+    "created": [
+      1372431120
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Employment"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NSS",
+      "Plan",
+      "Service",
+      "Round"
+    ],
+    "nid": [
+      87711
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Employment Across Various Sectors (in Millions)"
+    ],
+    "uuid": [
+      "0f48538a-3731-4898-a2e8-ef01de7e4369"
+    ],
+    "vid": [
+      7846480
+    ],
+    "view_count": [
+      3774
+    ],
+    "search_api_id": [
+      "entity:node/87711:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/employment-and-unemployment-national-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      62046
+    ],
+    "published_date": [
+      1353856751
+    ],
+    "body:value": [
+      "The quinquennial Employment and Unemployment surveys of National sample Survey (NSS) are the primary sources of data on various indicators of labour force at National and State levels. These are used for planning, policy formulation, decision support and as input for further statistical exercises by various Government organizations, academicians, researchers and scholars. NSS surveys on employment and un-employment with large sample size of households have been conducted quinquennially from 27th. round(October 1972 - September 1973) of NSS onwards. These surveys provide data on various indicators of labour force at National and State levels. "
+    ],
+    "changed": [
+      1616757201
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National Sample Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Duration",
+      "Education",
+      "Employer",
+      "Employment",
+      "occupation"
+    ],
+    "nid": [
+      87713
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Employment and Unemployment : National Sample Survey "
+    ],
+    "uuid": [
+      "b9c2228e-8af5-49d4-9c93-2e602b5a8d29"
+    ],
+    "vid": [
+      7846514
+    ],
+    "view_count": [
+      53985
+    ],
+    "search_api_id": [
+      "entity:node/87713:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/employment-sector-industries"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      66734
+    ],
+    "published_date": [
+      1380522666
+    ],
+    "body:value": [
+      "The International Labour Organisation (ILO) international definition of employment provides separate criteria for persons in paid employment and persons in self-employment in order to accommodate the idea that employment covers any work, be it for wage or salary, profit or family gain, including the production of goods for own consumption. The data contains  to sector-wise information on employment."
+    ],
+    "changed": [
+      1436419084
+    ],
+    "created": [
+      1380436440
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Construction",
+      "Economy",
+      "electricity",
+      "Industry",
+      "manufacturing",
+      "Mining",
+      "Service",
+      "employed",
+      "Job",
+      "Work",
+      "Paid",
+      "Seeker",
+      "Self",
+      "Opportunity"
+    ],
+    "nid": [
+      87720
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Employment by Sector - Industries"
+    ],
+    "uuid": [
+      "213d3ca7-04b5-4641-970f-4c93754bf3a9"
+    ],
+    "vid": [
+      7846520
+    ],
+    "view_count": [
+      64718
+    ],
+    "search_api_id": [
+      "entity:node/87720:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/employment-banks"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5845
+    ],
+    "published_date": [
+      1365011150
+    ],
+    "body:value": [
+      "Reserve Bank India (RBI) is source agency for furnishing the information regarding employment in RBI and Scheduled Commercial Banks in India. The periodicity of data is annual. The reference periods are 31st December in respect of RBI and 31st March in respect of Scheduled Commercial Banks. The data refers to number of banks and persons employed in the banking sector separately in respect of scheduled and non-scheduled banks in regional rural banks and in the reserve bank of India."
+    ],
+    "changed": [
+      1509345593
+    ],
+    "created": [
+      1364898840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bank",
+      "Foreign",
+      "Labour",
+      "Reserve",
+      "Rural",
+      "Scheduled",
+      "Regional"
+    ],
+    "nid": [
+      87722
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Employment In Banks"
+    ],
+    "uuid": [
+      "e748dd8a-1e81-4f43-92e5-4855d25551c7"
+    ],
+    "vid": [
+      7846534
+    ],
+    "view_count": [
+      5702
+    ],
+    "search_api_id": [
+      "entity:node/87722:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/employment-factories-adults-adolescents-and-children-according-sex"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1896
+    ],
+    "published_date": [
+      1365011430
+    ],
+    "body:value": [
+      "The data refers to All India and State wise average daily employment in factories according three broad age-categories and sex is shown in this table. The information relates to only factories submitting returns. The factories act,1948 defines adult (one who has completed 18 years, adolescents (one who has completed 15 years but not 18 years) and child (one who has not completed 15 years and children below 14 years are not permitted to work)."
+    ],
+    "changed": [
+      1602755833
+    ],
+    "created": [
+      1364898840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Adult",
+      "Factory",
+      "Labour",
+      "men",
+      "woman",
+      "Submitting"
+    ],
+    "nid": [
+      87724
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Employment In Factories-Adults Adolescents And Children According To Sex"
+    ],
+    "uuid": [
+      "9cd919b3-6b01-4eb0-bd6c-0189e37a5543"
+    ],
+    "vid": [
+      7846549
+    ],
+    "view_count": [
+      1726
+    ],
+    "search_api_id": [
+      "entity:node/87724:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/employment-insurance-sector"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4602
+    ],
+    "published_date": [
+      1364617164
+    ],
+    "body:value": [
+      "The data refers to Employment In Insurance sector (Life insurance and General insurance) for the period 2001-01 to 2010-11."
+    ],
+    "changed": [
+      1509361717
+    ],
+    "created": [
+      1364470260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Labour",
+      "Life",
+      "Insuarance"
+    ],
+    "nid": [
+      87726
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Employment In Insurance sector"
+    ],
+    "uuid": [
+      "6fc4efa7-94ed-49e7-a74d-14a4eaa88dc4"
+    ],
+    "vid": [
+      7846558
+    ],
+    "view_count": [
+      4433
+    ],
+    "search_api_id": [
+      "entity:node/87726:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/employment-organised-sectors-public-and-private"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      27618
+    ],
+    "published_date": [
+      1372074623
+    ],
+    "body:value": [
+      "The data refers to the Employment in Organised Sectors by Public and Private. It gives sector-wise employment figures (Public and Private sector) for various years. Further, details are given by Branch, Industry and Gender."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Economic",
+      "finance",
+      "manufacturing",
+      "trade",
+      "Service"
+    ],
+    "nid": [
+      87728
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Employment in Organised Sectors - Public and Private"
+    ],
+    "uuid": [
+      "b2480309-ca33-48b7-b50d-9901d037275d"
+    ],
+    "vid": [
+      7846562
+    ],
+    "view_count": [
+      27293
+    ],
+    "search_api_id": [
+      "entity:node/87728:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/employment-plantations"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1540
+    ],
+    "published_date": [
+      1364616529
+    ],
+    "body:value": [
+      "The data refers to Employment (Number of estates and average daily number of workers) in Plantations (Tea, Coffee and Rubber) for the period 2000 to 2010."
+    ],
+    "changed": [
+      1506517446
+    ],
+    "created": [
+      1364470980
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Coffee",
+      "rubber",
+      "Tea"
+    ],
+    "nid": [
+      87730
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Employment In Plantations"
+    ],
+    "uuid": [
+      "781eb077-09ef-4011-a050-5bb2f95d4750"
+    ],
+    "vid": [
+      7846572
+    ],
+    "view_count": [
+      1372
+    ],
+    "search_api_id": [
+      "entity:node/87730:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/employment-railways-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1612
+    ],
+    "published_date": [
+      1364617008
+    ],
+    "body:value": [
+      "The data refers to figures of Employment in Railways for the period 2000-01 to 2010-11 for the different railway zones in India."
+    ],
+    "changed": [
+      1602755835
+    ],
+    "created": [
+      1364469840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employment",
+      "Railway",
+      "Statistical"
+    ],
+    "nid": [
+      87732
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Employment In Railways"
+    ],
+    "uuid": [
+      "44c4fb6f-e036-4b1d-8bf6-da9a94fb18da"
+    ],
+    "vid": [
+      7846579
+    ],
+    "view_count": [
+      1424
+    ],
+    "search_api_id": [
+      "entity:node/87732:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/employment-shops-and-commercial-establishments"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3991
+    ],
+    "published_date": [
+      1365009440
+    ],
+    "body:value": [
+      "The data describes All India and State-wise statistics of employment in respect of Shops, Commercial Establishments and restaurants and theaters."
+    ],
+    "changed": [
+      1599032973
+    ],
+    "created": [
+      1364898840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "commercial",
+      "Establishment",
+      "Labour",
+      "Restaurant",
+      "Worker",
+      "Theatre",
+      "Shop"
+    ],
+    "nid": [
+      87734
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Employment In Shops And Commercial Establishments"
+    ],
+    "uuid": [
+      "3b52afbe-05c7-4a28-8237-df2393b9b02e"
+    ],
+    "vid": [
+      7846594
+    ],
+    "view_count": [
+      3601
+    ],
+    "search_api_id": [
+      "entity:node/87734:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/employments-ports"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2929
+    ],
+    "published_date": [
+      1365011246
+    ],
+    "body:value": [
+      "These are two table which give the number persons employed in ports in India. The first one give the staff strength in major ports and second one shows the data regarding manpower at non major ports in maritime states."
+    ],
+    "changed": [
+      1602755819
+    ],
+    "created": [
+      1364898840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employment",
+      "Labour",
+      "major",
+      "Manpower",
+      "Maritime",
+      "Port",
+      "Intermediate",
+      "Board",
+      "Worker",
+      "Dock"
+    ],
+    "nid": [
+      87736
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Employments In Ports"
+    ],
+    "uuid": [
+      "a04327d1-349f-4778-82f6-f69efd2433e2"
+    ],
+    "vid": [
+      7846607
+    ],
+    "view_count": [
+      2699
+    ],
+    "search_api_id": [
+      "entity:node/87736:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/energy-intensity-eight-countries-twelfth-five-year-plan-document"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      674
+    ],
+    "published_date": [
+      1370935777
+    ],
+    "body:value": [
+      "The data refers to the Energy Intensity (Twelfth Five Year Plan Document) for eight countries i.e. United Kingdom, Germany, Japan, Brazil, USA, China, South Korea and India."
+    ],
+    "changed": [
+      1436419221
+    ],
+    "created": [
+      1370674980
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Energy",
+      "Intensity"
+    ],
+    "nid": [
+      87738
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Energy Intensity For Eight Countries - Twelfth Five Year Plan Document"
+    ],
+    "uuid": [
+      "065a98ef-6fed-4913-9a00-36b339b2e844"
+    ],
+    "vid": [
+      7846609
+    ],
+    "view_count": [
+      621
+    ],
+    "search_api_id": [
+      "entity:node/87738:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/energy-intensity-total-primary-energy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1083
+    ],
+    "published_date": [
+      1370935196
+    ],
+    "body:value": [
+      "The data refers to energy intensity for total primary energy from 1981 to 2011, indicating the energy required to produce a unit of GDP."
+    ],
+    "changed": [
+      1436419221
+    ],
+    "created": [
+      1370674800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "domestic",
+      "GDP",
+      "Gross",
+      "Kgoe",
+      "prices",
+      "Constant"
+    ],
+    "nid": [
+      87740
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Energy Intensity For Total Primary Energy "
+    ],
+    "uuid": [
+      "5b384956-43b9-4c8d-9de9-2185057dfaea"
+    ],
+    "vid": [
+      7846613
+    ],
+    "view_count": [
+      920
+    ],
+    "search_api_id": [
+      "entity:node/87740:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/enrolment-and-student-attendance-rates-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1400
+    ],
+    "published_date": [
+      1383197982
+    ],
+    "body:value": [
+      "The data refers to Enrolment and Student Attendance Rates in urban areas (in %). It provides details of Number of Schools (N), Difference in Enrolment (2007 as Compared to 2003), Student Attendance Rates and percentage of Schools with Midday Meals. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission in eleven states and two union territories for 'Evaluation Report On Sarva Shiksha Abhiyan, 2010'. The reference period for the study was 2003 to 2007."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1383111480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Enrolment",
+      "Urban",
+      "Rate"
+    ],
+    "nid": [
+      87742
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Enrolment and Student Attendance Rates - Based on Sample Survey"
+    ],
+    "uuid": [
+      "425b38af-619c-4dd0-a16a-5f6922deb9f6"
+    ],
+    "vid": [
+      7846620
+    ],
+    "view_count": [
+      1292
+    ],
+    "search_api_id": [
+      "entity:node/87742:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/enrolment-different-stages-higher-education-different-categories-courses-and-diplomas"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1132
+    ],
+    "published_date": [
+      1368612379
+    ],
+    "body:value": [
+      "The data refers to details on enrolment in different stages of higher education for different categories of Courses and Diplomas from 2007-08 to 2009-10."
+    ],
+    "changed": [
+      1436419251
+    ],
+    "created": [
+      1368537780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Higher Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Diploma",
+      "Distance"
+    ],
+    "nid": [
+      87744
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Enrolment In Different Stages Of Higher Education For Different Categories Of Courses And Diplomas"
+    ],
+    "uuid": [
+      "3077c133-bfad-4746-a5da-ec803d3d6958"
+    ],
+    "vid": [
+      7846626
+    ],
+    "view_count": [
+      1073
+    ],
+    "search_api_id": [
+      "entity:node/87744:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/enrolment-higher-education-according-faculty-and-stage-all-india-and-state-wise"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5194
+    ],
+    "published_date": [
+      1365011867
+    ],
+    "body:value": [
+      "The data refers to All India (2001-02 to 2009-10) and State-wise (2008-09 to 2009-10) for general courses (Arts, science, commerce) professional courses (Engineering, medicine, law etc) in Higher Education and Enrolment in Phd/phil."
+    ],
+    "changed": [
+      1506516999
+    ],
+    "created": [
+      1364815320
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Art",
+      "Commerce",
+      "Course",
+      "Courses",
+      "Engineering",
+      "General",
+      "Law",
+      "Medicine",
+      "professional",
+      "Science",
+      "PHD",
+      "Phil"
+    ],
+    "nid": [
+      87746
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Enrolment In Higher Education According To Faculty And Stage (All India And State wise)"
+    ],
+    "uuid": [
+      "e1111f1c-4dd7-4265-b6b8-804d12f95d1e"
+    ],
+    "vid": [
+      7846672
+    ],
+    "view_count": [
+      4696
+    ],
+    "search_api_id": [
+      "entity:node/87746:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/enrolment-school-education-courses-and-stages-recognised-institutions"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1376
+    ],
+    "published_date": [
+      1365011993
+    ],
+    "body:value": [
+      "The data refers to All India (2001-02 to 2009-10) data on Enrolment in School Education by Courses and Stages in Recognised Institutions."
+    ],
+    "changed": [
+      1441695760
+    ],
+    "created": [
+      1364815980
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Art",
+      "industrial",
+      "middle",
+      "primary",
+      "professional",
+      "secondary",
+      "technical",
+      "vocational",
+      "Higher",
+      "Stitution",
+      "Craft"
+    ],
+    "nid": [
+      87748
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Enrolment in School Education By Courses And Stages In Recognised Institutions"
+    ],
+    "uuid": [
+      "1c2f94e1-06db-4280-a3af-5438ab0e1d0b"
+    ],
+    "vid": [
+      7846688
+    ],
+    "view_count": [
+      1260
+    ],
+    "search_api_id": [
+      "entity:node/87748:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/enrolment-girls-schools-educationally-backward-blocks-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1739
+    ],
+    "published_date": [
+      1382680974
+    ],
+    "body:value": [
+      "The data refers to the increase in enrolment in the selected educationally backward blocks. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission in eleven states and two union territories for 'Evaluation Report On Sarva Shiksha Abhiyan, 2010'. The reference period for the study was 2003 to 2007."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1382600580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Backward",
+      "Enrolment",
+      "School",
+      "Survey",
+      "Girl",
+      "Sample",
+      "Educationally"
+    ],
+    "nid": [
+      87750
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Enrolment of Girls in Schools in Educationally Backward Blocks - Based on Sample Survey"
+    ],
+    "uuid": [
+      "7c8e0714-ad97-4917-a158-67083ac4b38a"
+    ],
+    "vid": [
+      7846692
+    ],
+    "view_count": [
+      1646
+    ],
+    "search_api_id": [
+      "entity:node/87750:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/enrolment-women-higher-education-science-and-technology-disciplines"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1711
+    ],
+    "published_date": [
+      1364834741
+    ],
+    "body:value": [
+      "The data refers to enrolment of women in higher education sector by Science & Technology disciplines. The data are taken from the University Grants Commission (UGC) annual report."
+    ],
+    "changed": [
+      1426852033
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Human Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Engineering",
+      "Grant",
+      "Medicine",
+      "University",
+      "UGC",
+      "Veterinary",
+      "Commission"
+    ],
+    "nid": [
+      87752
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Enrolment of Women In Higher Education By Science And Technology Disciplines"
+    ],
+    "uuid": [
+      "3b173566-846d-4a59-9dff-1ee48a57385c"
+    ],
+    "vid": [
+      7846703
+    ],
+    "view_count": [
+      1585
+    ],
+    "search_api_id": [
+      "entity:node/87752:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/enrolment-share-girls-scsts-and-cwsn-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      699
+    ],
+    "published_date": [
+      1382680946
+    ],
+    "body:value": [
+      "The data refers to the percentage enrolment share in total enrolment for Girls, SC\\STs and Children with Special Needs for the years 2003 and 2007 (percentage share in total enrolment). The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission in eleven states and two union territories for 'Evaluation Report On Sarva Shiksha Abhiyan, 2010'. The reference period for the study was 2003 to 2007."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1382600580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Enrolment",
+      "SC",
+      "ST",
+      "Girl",
+      "Special",
+      "Need"
+    ],
+    "nid": [
+      87754
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Enrolment share of Girls, SC/STs and CWSN - Based on Sample Survey"
+    ],
+    "uuid": [
+      "b0962bd2-819e-4bb4-8ef9-de183696eb0c"
+    ],
+    "vid": [
+      7846707
+    ],
+    "view_count": [
+      657
+    ],
+    "search_api_id": [
+      "entity:node/87754:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/equivalent-green-weight-country-level-age-and-soundness"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      882
+    ],
+    "published_date": [
+      1379928648
+    ],
+    "body:value": [
+      "The data refers to details of equivalent green weight at country level by age and soundness (in '000 tonnes). This data set has been sourced from the \"India State of Forest Report 2011\"."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1379069820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "Class",
+      "Dry",
+      "Culm"
+    ],
+    "nid": [
+      87756
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Equivalent Green Weight at Country level by Age and Soundness"
+    ],
+    "uuid": [
+      "61c41bdb-35a9-404c-acd2-8ca362624996"
+    ],
+    "vid": [
+      7846713
+    ],
+    "view_count": [
+      790
+    ],
+    "search_api_id": [
+      "entity:node/87756:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/error-matrix"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      940
+    ],
+    "published_date": [
+      1379678842
+    ],
+    "body:value": [
+      "The data refers to details of the error matrix. "
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "classes",
+      "Classification",
+      "Forest",
+      "ISFR",
+      "MDF",
+      "OF",
+      "VDF",
+      "Dense",
+      "Ground",
+      "Moderately",
+      "Accuracy",
+      "Truth"
+    ],
+    "nid": [
+      87758
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Error Matrix"
+    ],
+    "uuid": [
+      "7629b6f3-4cd6-49a6-8a12-bd785766e7e7"
+    ],
+    "vid": [
+      7846722
+    ],
+    "view_count": [
+      675
+    ],
+    "search_api_id": [
+      "entity:node/87758:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-average-available-fund-supplementary-nutrition-different-types-beneficiaries"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1087
+    ],
+    "published_date": [
+      1375249490
+    ],
+    "body:value": [
+      "The data refers to estimated average available fund for supplementary nutrition on different types of beneficiaries (per beneficiary per day in Rs.) for 2008-09. It describes the allocation for supplementary nutrition of different type of beneficiaries per day. It is seen that most of the states could not provide the allocation for supplementary nutrition as per norms."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Beneficiary",
+      "child",
+      "Development",
+      "Fund",
+      "Integrated",
+      "Nutrition",
+      "Programme",
+      "Service",
+      "Anganwadi",
+      "AWC",
+      "Supplemenatry"
+    ],
+    "nid": [
+      87761
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated average available fund for Supplementary Nutrition on different types of beneficiaries (per beneficiary per day in Rs.)"
+    ],
+    "uuid": [
+      "f6e70003-c3eb-4e6b-a252-45f4ce77dcd4"
+    ],
+    "vid": [
+      7846729
+    ],
+    "view_count": [
+      1067
+    ],
+    "search_api_id": [
+      "entity:node/87761:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-average-daily-employment-and-number-working-factories"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1556
+    ],
+    "published_date": [
+      1364615015
+    ],
+    "body:value": [
+      "The employment relate to persons employed directly or through any agency, whether for wages or not, in any manufacturing process or in cleaning any part of the machinery or premises used for a manufacturing process or any other kind of work incidental to or connected with the manufacturing process or the subject of manufacturing process. The average daily employment relating to a factory is derived by dividing the total attendance (man-days worked) during a year by the total number of working days during the year. The information is based on the annual statutory returns received by Labour bureau From States and Union Territories. The information at States and Union Territories level is collected by the Chief Inspectors of the Factories from individual units situated in the States and Union Territories under their jurisdictions and is transmitted to Labour Bureau in prescribed format after aggregating at the State level. Labour Bureau compiles and disseminates the information relating to factories at all India level. The periodicity of the data is annual and the reference period is calendar year. The Factory Act, 1948 covers factories employing 10 workers or more with the aid of power, 20 workers or more without the aid of power and factories specially brought under the purview of the Act by the State Governments."
+    ],
+    "changed": [
+      1599033190
+    ],
+    "created": [
+      1364471640
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Employment",
+      "Factory",
+      "Labour",
+      "Working"
+    ],
+    "nid": [
+      87763
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated Average Daily Employment And number of working factories"
+    ],
+    "uuid": [
+      "d31e1889-0483-42b3-b5fd-9f36314d5652"
+    ],
+    "vid": [
+      7846745
+    ],
+    "view_count": [
+      1359
+    ],
+    "search_api_id": [
+      "entity:node/87763:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-effective-coverage-supplementary-nutrition-programme-snp-children-under-icds"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      924
+    ],
+    "published_date": [
+      1375249183
+    ],
+    "body:value": [
+      "The data refers to the estimated effective coverage in Supplementary Nutrition Programme (SNP) for children under ICDS. It provides the estimates of the three gaps - Survey gap, Service gap and Delivery gap, across the states as well as the actual coverage in terms of survey number, delivery number and estimated total eligible children."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375165320
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Nutrition",
+      "Programme",
+      "Supplementary",
+      "Service"
+    ],
+    "nid": [
+      87765
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated effective coverage in Supplementary Nutrition Programme (SNP) for children under ICDS"
+    ],
+    "uuid": [
+      "96cbed08-7dec-4304-bba4-09c591fa62cf"
+    ],
+    "vid": [
+      7846750
+    ],
+    "view_count": [
+      836
+    ],
+    "search_api_id": [
+      "entity:node/87765:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-employment-public-and-private-sectors"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5413
+    ],
+    "published_date": [
+      1365011435
+    ],
+    "body:value": [
+      "Presents the data of estimated employment in the public sector categorized by Central Government, State Government, Quasi Government with sub-classification of Central and State, Local Bodies and private sector categorized by larger and smaller establishments."
+    ],
+    "changed": [
+      1462164853
+    ],
+    "created": [
+      1364898840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "estimated",
+      "Organisation",
+      "Body",
+      "Quasi"
+    ],
+    "nid": [
+      87767
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated Employment In The Public And Private Sectors"
+    ],
+    "uuid": [
+      "498bf294-d3d4-474a-969b-4fb31305035f"
+    ],
+    "vid": [
+      7846766
+    ],
+    "view_count": [
+      5158
+    ],
+    "search_api_id": [
+      "entity:node/87767:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-number-enterprises-different-statesuts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3352
+    ],
+    "published_date": [
+      1373976143
+    ],
+    "body:value": [
+      "The table presents estimated number of unincorporated non-agricultural enterprises in different States and UTs. The percentage share indicated in column 11 has been calculated for all enterprises in the combined sector and all other columns has been ranked accordingly on the basis of descending order."
+    ],
+    "changed": [
+      1441691452
+    ],
+    "created": [
+      1373916900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Industries"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Rural",
+      "Urban",
+      "Enterprise",
+      "Uncorporated"
+    ],
+    "nid": [
+      87769
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated number of enterprises in different States/UTs"
+    ],
+    "uuid": [
+      "bf1ff4fb-c44e-4a15-84e1-6666f2da68e9"
+    ],
+    "vid": [
+      7846774
+    ],
+    "view_count": [
+      3134
+    ],
+    "search_api_id": [
+      "entity:node/87769:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/estimated-number-manufacturing-enterprises-different-statesuts"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1392
+    ],
+    "published_date": [
+      1373976186
+    ],
+    "body:value": [
+      "The table presents estimated number of unincorporated non-agricultural manufacturing enterprises in different States and UTs. The percentage share indicated in column 11 has been calculated and sorted based on descending order for all manufacturing enterprises in the combined sector."
+    ],
+    "changed": [
+      1441691454
+    ],
+    "created": [
+      1373916780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Industries"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Manufacture",
+      "Rural",
+      "Urban",
+      "Enterprise",
+      "Account"
+    ],
+    "nid": [
+      87771
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Estimated number of manufacturing enterprises in different States/UTs"
+    ],
+    "uuid": [
+      "110cb282-1e1c-455c-a7ec-5d48f15eba29"
+    ],
+    "vid": [
+      7846782
+    ],
+    "view_count": [
+      1119
+    ],
+    "search_api_id": [
+      "entity:node/87771:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/list-starred-and-unstarred-questions-lok-sabha-members-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1703
+    ],
+    "published_date": [
+      1379938988
+    ],
+    "body:value": [
+      "(English) This provides information on list of starred and unstarred questions by Lok Sabha members."
+    ],
+    "changed": [
+      1487335816
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Starred",
+      "Unstarred",
+      "English",
+      "Question",
+      "Loksabha",
+      "Member"
+    ],
+    "nid": [
+      88853
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "List of Starred and Unstarred Questions by Lok Sabha Members (English)"
+    ],
+    "uuid": [
+      "e7a80421-c02f-446e-acb2-62f92317acbd"
+    ],
+    "vid": [
+      7851592
+    ],
+    "view_count": [
+      1546
+    ],
+    "search_api_id": [
+      "entity:node/88853:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/list-starred-and-unstarred-questions-lok-sabha-members-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3388
+    ],
+    "published_date": [
+      1381485908
+    ],
+    "body:value": [
+      "(Hindi) This provides information on list of starred and unstarred questions by Lok Sabha members."
+    ],
+    "changed": [
+      1487335948
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Starred",
+      "Unstarred",
+      "Hindi",
+      "Question",
+      "Loksabha",
+      "Member"
+    ],
+    "nid": [
+      88855
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "List of Starred and Unstarred Questions by Lok Sabha Members (Hindi)"
+    ],
+    "uuid": [
+      "6c377c85-6f6b-4d65-be69-59ee13e2373e"
+    ],
+    "vid": [
+      7851597
+    ],
+    "view_count": [
+      3249
+    ],
+    "search_api_id": [
+      "entity:node/88855:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/list-starred-and-unstarred-questions-rajya-sabha-members-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      594
+    ],
+    "published_date": [
+      1378198967
+    ],
+    "body:value": [
+      "(English) This provides information on list of starred and unstarred questions by Rajya Sabha members."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378099500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Starred",
+      "Unstarred",
+      "English",
+      "Question",
+      "Member",
+      "Rajyasabha"
+    ],
+    "nid": [
+      88857
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "List of Starred and Unstarred Questions by Rajya Sabha Members (English)"
+    ],
+    "uuid": [
+      "e45d41b1-68f2-4954-8866-29993b615680"
+    ],
+    "vid": [
+      7851602
+    ],
+    "view_count": [
+      519
+    ],
+    "search_api_id": [
+      "entity:node/88857:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/list-starred-and-unstarred-questions-rajya-sabha-members-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1009
+    ],
+    "published_date": [
+      1378449744
+    ],
+    "body:value": [
+      "(Hindi) This provides information on the list of starred and unstarred questions by Rajya Sabha members."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Starred",
+      "Unstarred",
+      "Hindi",
+      "Question",
+      "Member",
+      "Rajyasabha"
+    ],
+    "nid": [
+      88859
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "List of Starred and Unstarred Questions by Rajya Sabha Members (Hindi)"
+    ],
+    "uuid": [
+      "c6317ab8-9ff0-48ec-a94e-65d0476e2d24"
+    ],
+    "vid": [
+      7851607
+    ],
+    "view_count": [
+      955
+    ],
+    "search_api_id": [
+      "entity:node/88859:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

@@ -1,0 +1,4762 @@
+[
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/panchayat-awards-data"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      500
+    ],
+    "published_date": [
+      1649316099
+    ],
+    "body:value": [
+      "This catalog gives gram panchayat level data of Panchayat awards given in a  financial year"
+    ],
+    "changed": [
+      1649316299
+    ],
+    "created": [
+      1649308762
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Ministry of Panchayati Raj Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Panchayati Raj"
+    ],
+    "field_sector:name": [
+      "Rural",
+      "Panchayati Raj"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Panchayat Awards"
+    ],
+    "nid": [
+      7041592
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Panchayat Awards Data"
+    ],
+    "uuid": [
+      "897b620d-2c68-4914-9e83-d567ffad85d4"
+    ],
+    "vid": [
+      10568027
+    ],
+    "search_api_id": [
+      "entity:node/7041592:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/panchayat-finance"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      980
+    ],
+    "published_date": [
+      1649316104
+    ],
+    "body:value": [
+      "This catalog contains data of panchayat finance i.e No. of GPs onboarded in the Online Payment Module, Payment Initiated and  Approved, No. of GPs with Account book closed for a financial year"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1649309175
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Ministry of Panchayati Raj Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Panchayati Raj"
+    ],
+    "field_sector:name": [
+      "Rural",
+      "Panchayati Raj"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "EGS",
+      "Account book",
+      "Panchayat Finance",
+      "eGramSwaraj",
+      "Payment Vouchers"
+    ],
+    "nid": [
+      7041612
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Panchayat Finance "
+    ],
+    "uuid": [
+      "e2518a5b-8616-474f-ba11-3025884188f4"
+    ],
+    "vid": [
+      13011336
+    ],
+    "search_api_id": [
+      "entity:node/7041612:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      6
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/coallignite-production-and-dispatch-cilscclnlcil"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      933
+    ],
+    "published_date": [
+      1651753379
+    ],
+    "body:value": [
+      "This catalog contains, Data regarding Coal Production and Dispatch from Coal India Limited (CIL), Singareni Collieries Company Limited (SCCL), Neyveli Lignite Corporation India Limited (NLCIL)"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1650439437
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Coal"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Coal"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Coal",
+      "Lignite",
+      "Production",
+      "Dispatch",
+      "offtake"
+    ],
+    "nid": [
+      7053503
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Coal/Lignite Production and Dispatch (CIL,SCCL,NLCIL)"
+    ],
+    "uuid": [
+      "6c3dc4a3-d83e-4791-a719-3890ab50c628"
+    ],
+    "vid": [
+      13002976
+    ],
+    "search_api_id": [
+      "entity:node/7053503:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      4
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/coallignite-production-and-dispatch-cil-and-its-subsidiaries-sccl-nlcil-captive-others"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      702
+    ],
+    "published_date": [
+      1650446066
+    ],
+    "body:value": [
+      "This catalog contains the date regarding Coal/Lignite Production and Dispatch (CIL & its subsidaries ,SCCL,NLCIL, Captive & Others) on a monthly basis"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1650441972
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Coal"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Coal"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Coal",
+      "Dispatch",
+      "Production",
+      "Lignite",
+      "offtake"
+    ],
+    "nid": [
+      7053543
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Coal/Lignite Production and Dispatch (CIL and its subsidiaries, SCCL, NLCIL, Captive & Others)"
+    ],
+    "uuid": [
+      "cf196f75-b92a-41bb-b14b-5f7604da6b6e"
+    ],
+    "vid": [
+      13002977
+    ],
+    "search_api_id": [
+      "entity:node/7053543:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/sugar-development-fund"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      627
+    ],
+    "published_date": [
+      1652079516
+    ],
+    "body:value": [
+      "Information related to Sugar Development Fund (SDF)"
+    ],
+    "changed": [
+      1652079615
+    ],
+    "created": [
+      1650608778
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Food and Public Distribution"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "SDF Recoveries",
+      "Recovereis",
+      "Recovery",
+      "SDF Recovery",
+      "Sugar Development Fund",
+      "Recovery",
+      "Monthly Recovery"
+    ],
+    "nid": [
+      7055739
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Sugar Development Fund"
+    ],
+    "uuid": [
+      "1decae1b-1436-4924-baca-3f310d951ea1"
+    ],
+    "vid": [
+      10597823
+    ],
+    "search_api_id": [
+      "entity:node/7055739:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/msde-pradhan-mantri-kaushal-vikas-yojana-pmkvy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1252
+    ],
+    "published_date": [
+      1653567744
+    ],
+    "body:value": [
+      "Pradhan Mantri Kaushal Vikas Yojana (PMKVY) is the flagship scheme of the Ministry of Skill Development & Entrepreneurship (MSDE) implemented by National Skill Development Corporation.The objective of this Skill Certification Scheme is to enable a large number of Indian youth to take up industry-relevant skill training that will help them in securing a better livelihood."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1650964415
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Skill Development And Entrepreneurship"
+    ],
+    "field_sector:name": [
+      "Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "PMKVY",
+      "MSDE",
+      "Skill Development",
+      "Short term skill training",
+      "RPL",
+      "PMKVY 2.0",
+      "skill",
+      "Enterpreneureship"
+    ],
+    "nid": [
+      7059727
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "MSDE - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)"
+    ],
+    "uuid": [
+      "30ae372d-e2c3-4946-8833-d19bba5fdbdd"
+    ],
+    "vid": [
+      13058581
+    ],
+    "search_api_id": [
+      "entity:node/7059727:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      10
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/global-youth-tobacco-survey-gyts-4"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9111
+    ],
+    "published_date": [
+      1662032969
+    ],
+    "body:value": [
+      "The fourth round of Global Youth Tobacco Survey (GYTS-4) was conducted in 2019 by the International Institute for Population Sciences (IIPS) under the Ministry of Health and Family Welfare (MoHFW). The survey was designed to produce national estimates of tobacco use among school going children aged 13-15 years at the state level and Union Territory (UT) by sex, location of school (rural-urban), and management of school (public-private). The first three rounds of GYTS were conducted in 2003, 2006 and 2009. A total of 97,302 students from 987schools (Public-544; Private-443) participated in the survey. Of which, 80,772 students aged 13-15 years were considered for reporting. The objective of the survey was to provide information on tobacco use, cessation, second-hand smoke, access and availability, exposure to anti-tobacco information, awareness and receptivity to tobacco marketing, knowledge, and attitudes."
+    ],
+    "changed": [
+      1662033041
+    ],
+    "created": [
+      1651050757
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Global Youth Tobacco Survey GYTS-4"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare",
+      "International Institute for Population Sciences (IIPS)"
+    ],
+    "field_sector:name": [
+      "Health",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Tobacco use, Cessation, Secondhand smoke, AccessandAvailability,  Awareness, Receptivity, Marketing, Knowledge, Attitudes"
+    ],
+    "nid": [
+      7060792
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Global Youth Tobacco Survey (GYTS-4)"
+    ],
+    "uuid": [
+      "bf6a86e8-1b2f-4385-b021-318b3a22f997"
+    ],
+    "vid": [
+      11070351
+    ],
+    "search_api_id": [
+      "entity:node/7060792:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/msde-jan-shikshan-sansthan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      676
+    ],
+    "published_date": [
+      1653567567
+    ],
+    "body:value": [
+      "The Scheme of Jan Shikshan Sansthan (JSS) formerly known as Shramik Vidyapeeth was a unique creation of Government of India is being implemented through NGOs in the country since 1967. The scheme was renamed as Jan Shikshan Sansthan in 2000. JSS scheme was transferred from Ministry of Education (erstwhile Ministry of Human Resource Development) to Ministry of Skill Development & Entrepreneurship in July, 2018.The objective of JSS is to uplift this rural population economically by imparting essential skills training, thereby enabling local trades to grow and creating new opportunities for the natives of the region."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1651058452
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Skill Development And Entrepreneurship"
+    ],
+    "field_sector:name": [
+      "Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Skill Development",
+      "MSDE",
+      "NGO",
+      "skill",
+      "Jan Shikshan Sansthan",
+      "Vocational training",
+      "illiterates"
+    ],
+    "nid": [
+      7060956
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "MSDE - Jan Shikshan Sansthan"
+    ],
+    "uuid": [
+      "ba9784b9-9614-44d4-a8d7-18180d55c72f"
+    ],
+    "vid": [
+      13000712
+    ],
+    "search_api_id": [
+      "entity:node/7060956:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/quota-sugar-public-distribution-system-pds"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      673
+    ],
+    "published_date": [
+      1652267930
+    ],
+    "body:value": [
+      "This catalog depicts the data related to State/UT wise quota of sugar for PDS as per existing guidelines for AAY families and amount of subsidy released to the States/UTs during a financial year."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1651655971
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Sugar Subsidy to AAY families"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Food and Public Distribution"
+    ],
+    "field_sector:name": [
+      "Food"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "sugar subsidy",
+      "Sugar",
+      "AAY families"
+    ],
+    "nid": [
+      7066446
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Quota of sugar for Public Distribution System (PDS)"
+    ],
+    "uuid": [
+      "339fb27a-b539-428b-b55e-a9bc6609364d"
+    ],
+    "vid": [
+      13012962
+    ],
+    "search_api_id": [
+      "entity:node/7066446:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/msde-national-promotion-apprenticeship-scheme-naps"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1161
+    ],
+    "published_date": [
+      1653567893
+    ],
+    "body:value": [
+      "National Apprenticeship Promotion Scheme (NAPS) is a new scheme of Government of India to provide financial support to establishments undertaking the apprenticeship training. It was launched on19th August 2016."
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1651657073
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "National apprenticeship promotion scheme "
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Skill Development And Entrepreneurship"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Industries",
+      "Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Skill Development",
+      "NAPS",
+      "MSDE",
+      "Apprentice",
+      "Apprentices",
+      "Apprenticeship",
+      "Unskilled",
+      "Apprentice",
+      "Trained",
+      "NAPS"
+    ],
+    "nid": [
+      7066475
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "MSDE - National Promotion Apprenticeship Scheme (NAPS)"
+    ],
+    "uuid": [
+      "0705de01-ff54-4ba4-a788-d5fd76a5c3e9"
+    ],
+    "vid": [
+      13056615
+    ],
+    "search_api_id": [
+      "entity:node/7066475:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      5
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/bhukosh"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      25340
+    ],
+    "published_date": [
+      1652354467
+    ],
+    "body:value": [
+      "BHUKOSH is the gateway for all the geoscientific data of Geological Survey of India"
+    ],
+    "changed": [
+      1652355417
+    ],
+    "created": [
+      1652094247
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Geological Survey of India"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Union/State Government Administration",
+      "Union/State Government Administration",
+      "Mining",
+      "Mining",
+      "Coastal & Island",
+      "Earth Sciences",
+      "Marine Science",
+      "Polar Science",
+      "Research & Development"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Seismic Surveys",
+      "seisat",
+      "seismotectonic",
+      "Quadrangle Geological Map",
+      "Geological Map",
+      "earthquake",
+      "Earth Sciences"
+    ],
+    "nid": [
+      7070693
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "BHUKOSH"
+    ],
+    "uuid": [
+      "5075a1c8-d69b-4d3f-8050-9125a1f89370"
+    ],
+    "vid": [
+      10601151
+    ],
+    "search_api_id": [
+      "entity:node/7070693:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      4
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/longitudinal-ageing-study-india-lasi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3374
+    ],
+    "published_date": [
+      1661489005
+    ],
+    "body:value": [
+      "The Longitudinal Ageing Study in India (LASI) is a nationally and state representative longitudinal study of ageing and health. LASI is a national landmark, the largest in the world and, only of its kind in India. Its main goal is to provide valid, reliable and continuous scientific data on the health, social, mental and economic well-being of Indias older adult (aged 45 and above) population. These data will help to monitor existing programmes and inform new national health and ageing policies. LASI is undertaken as a globally harmonized study carried out in more than 44 developed and developing countries worldwide; and the survey schedules, protocols and methodologies are harmonized across these countries. These are part of the Health and Retirement Study (HRS) family of longitudinal ageing and retirement surveys. Therefore, LASI data will also serve as an important public resource for national policy making and worldwide comparative research on ageing. LASI is undertaken under the aegis of the Ministry of Health and Family Welfare (MoHFW), Government of India. The International Institute for Population Sciences (IIPS), Mumbai is the nodal institution for implementing LASI in collaboration with the Harvard T.H.Chan School of Public Health (HSPH) and the University of Southern California (USC)."
+    ],
+    "changed": [
+      1661489128
+    ],
+    "created": [
+      1652177128
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Longitudinal Ageing Study"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare",
+      "International Institute for Population Sciences (IIPS)"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "LASI",
+      "Longitudinal Ageing Study"
+    ],
+    "nid": [
+      7071556
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Longitudinal Ageing Study in India (LASI)"
+    ],
+    "uuid": [
+      "cff5ee3d-579d-4755-a6cc-9bc97ddef63e"
+    ],
+    "vid": [
+      11056668
+    ],
+    "search_api_id": [
+      "entity:node/7071556:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/online-core-business-integrated-system-ocbis"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3012
+    ],
+    "published_date": [
+      1656589298
+    ],
+    "body:value": [
+      "Online core business  integrated system (OCBIS )is an integrated Web enabled interactive system incorporating technologies like GIS, Enterprise Portal, DMS, SOA, BPM, RDBMS etc. using which all scientific and administrative processes of GSI can be managed and automated. "
+    ],
+    "changed": [
+      1657773011
+    ],
+    "created": [
+      1652763123
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Geological Survey of India"
+    ],
+    "field_sector:name": [
+      "Mining",
+      "Others",
+      "Science and Technology",
+      "Earth Sciences",
+      "Marine Science",
+      "Coastal & Island",
+      "Geo Technology",
+      "Polar Science",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "DRM",
+      "GQM"
+    ],
+    "nid": [
+      7076619
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Online Core Business  Integrated System (OCBIS)"
+    ],
+    "uuid": [
+      "7ab27c6c-803a-42ea-8cd5-300560e8724c"
+    ],
+    "vid": [
+      10946019
+    ],
+    "search_api_id": [
+      "entity:node/7076619:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      6
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-255"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1383
+    ],
+    "published_date": [
+      1656326568
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 255 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1710147752
+    ],
+    "created": [
+      1653036484
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "nid": [
+      7084855
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 255"
+    ],
+    "uuid": [
+      "c985f76a-bd31-4309-a6f3-917cfa5d0d78"
+    ],
+    "vid": [
+      10942338
+    ],
+    "search_api_id": [
+      "entity:node/7084855:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1990"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3876
+    ],
+    "published_date": [
+      1465888472
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1990. Get information on Cognizable crimes registered, IPC crimes, LSL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and LSL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1469526139
+    ],
+    "created": [
+      1461920376
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Kidnapping",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim"
+    ],
+    "nid": [
+      711081
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1990"
+    ],
+    "uuid": [
+      "302fa2d8-19c3-492c-a24a-7201a79a7c60"
+    ],
+    "vid": [
+      7895800
+    ],
+    "view_count": [
+      3338
+    ],
+    "search_api_id": [
+      "entity:node/711081:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1992"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2038
+    ],
+    "published_date": [
+      1465790932
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1992. Get information on Cognizable crimes registered, IPC crimes, LSL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and LSL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1465802719
+    ],
+    "created": [
+      1461920733
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Kidnapping",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim"
+    ],
+    "nid": [
+      711121
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1992"
+    ],
+    "uuid": [
+      "ab98987b-84a2-4849-8a87-82e6af6539d0"
+    ],
+    "vid": [
+      7895804
+    ],
+    "view_count": [
+      1804
+    ],
+    "search_api_id": [
+      "entity:node/711121:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1993"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2319
+    ],
+    "published_date": [
+      1465531688
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1993. Get information on Cognizable crimes registered, IPC crimes, LSL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and LSL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1487759009
+    ],
+    "created": [
+      1461920761
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Kidnapping",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim"
+    ],
+    "nid": [
+      711141
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1993"
+    ],
+    "uuid": [
+      "6c36542c-0dcf-4a85-aaee-58bfa49d014e"
+    ],
+    "vid": [
+      7895809
+    ],
+    "view_count": [
+      2046
+    ],
+    "search_api_id": [
+      "entity:node/711141:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1994"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2933
+    ],
+    "published_date": [
+      1465197062
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1994. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and SLL, Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Burglary cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Rape and their disposal by police and courts, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1465447434
+    ],
+    "created": [
+      1461920782
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Kidnapping",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim"
+    ],
+    "nid": [
+      711161
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1994"
+    ],
+    "uuid": [
+      "a40997e6-0e08-46ad-a06c-ffd82cd0a9ee"
+    ],
+    "vid": [
+      7895814
+    ],
+    "view_count": [
+      2586
+    ],
+    "search_api_id": [
+      "entity:node/711161:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      5
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/union-budget-2022-23"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2607
+    ],
+    "published_date": [
+      1653390888
+    ],
+    "body:value": [
+      "The Union Budget of India, also referred to as the Annual Financial Statement in the Article 112 of the Constitution of India, is the annual budget of the Republic of India. It contains data of Union Budget: 2022-23."
+    ],
+    "changed": [
+      1653390999
+    ],
+    "created": [
+      1653385944
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Allocation and Expenditure",
+      "Deficit",
+      "receipts",
+      "Union Budget"
+    ],
+    "nid": [
+      7112664
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Union Budget 2022-23"
+    ],
+    "uuid": [
+      "9bd30d39-383d-4f68-8863-0ce98302ee68"
+    ],
+    "vid": [
+      10640531
+    ],
+    "search_api_id": [
+      "entity:node/7112664:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/enhancement-and-augmentation-ethanol-production-capacity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      714
+    ],
+    "published_date": [
+      1653907985
+    ],
+    "body:value": [
+      "This catalog provides the details of various data related to schemes for extending financial assistance to Sugar Mills and Distilleries for enhancement and augmentation of Ethanol Production Capacity to under the Ethanol Blending Programme."
+    ],
+    "changed": [
+      1653908059
+    ],
+    "created": [
+      1653650412
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Ethanol"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Department of Food and Public Distribution"
+    ],
+    "field_sector:name": [
+      "Food",
+      "Public Distribution"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "distilleries",
+      "sugar mill",
+      "capacity"
+    ],
+    "nid": [
+      7115544
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Enhancement and augmentation of Ethanol Production Capacity"
+    ],
+    "uuid": [
+      "85be7ffa-55ff-4e72-bc14-4425ccd1295c"
+    ],
+    "vid": [
+      10653109
+    ],
+    "search_api_id": [
+      "entity:node/7115544:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/direct-home-dth"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3818
+    ],
+    "published_date": [
+      1461844724
+    ],
+    "body:value": [
+      "The catalog refers to Direct to Home TV Services. It includes list of DTH providers and their details."
+    ],
+    "changed": [
+      1461844807
+    ],
+    "created": [
+      1461738277
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Broadcasting"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Communications",
+      "Department of Telecommunications (DOT)",
+      "Telecom Regulatory Authority of India (TRAI)"
+    ],
+    "field_sector:name": [
+      "Information and Broadcasting",
+      "Broadcasting"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "Television",
+      "Provider",
+      "Channel"
+    ],
+    "nid": [
+      692561
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Direct to Home (DTH)"
+    ],
+    "uuid": [
+      "ea42d94c-e90b-4365-b706-5ab8e47ba3df"
+    ],
+    "vid": [
+      7895779
+    ],
+    "view_count": [
+      3408
+    ],
+    "search_api_id": [
+      "entity:node/692561:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/pay-channels"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7179
+    ],
+    "published_date": [
+      1461844838
+    ],
+    "body:value": [
+      "The Catalog refers to the information related to pay channels in Broadcasting sector. It includes names of the pay channels , their advertisement durations etc."
+    ],
+    "changed": [
+      1462534465
+    ],
+    "created": [
+      1461736489
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Broadcasting"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Communications",
+      "Department of Telecommunications (DOT)",
+      "Telecom Regulatory Authority of India (TRAI)"
+    ],
+    "field_sector:name": [
+      "Information and Broadcasting",
+      "Broadcasting"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "pay",
+      "Advertisement",
+      "Channel"
+    ],
+    "nid": [
+      692481
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Pay Channels"
+    ],
+    "uuid": [
+      "bef07cb1-505a-479b-85c1-f222acfd91bf"
+    ],
+    "vid": [
+      7895776
+    ],
+    "view_count": [
+      6599
+    ],
+    "search_api_id": [
+      "entity:node/692481:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/frequency-modulation-fm-radio"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2686
+    ],
+    "published_date": [
+      1461746399
+    ],
+    "body:value": [
+      "The catalog refers to the details of Frequency Modulation (FM) Radio Services in the Country. It includes number  of operational channels in each city and category of the city."
+    ],
+    "changed": [
+      1461746429
+    ],
+    "created": [
+      1461739108
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Broadcasting"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Communications",
+      "Department of Telecommunications (DOT)",
+      "Telecom Regulatory Authority of India (TRAI)"
+    ],
+    "field_sector:name": [
+      "Information and Broadcasting",
+      "Broadcasting"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "Frequency",
+      "FM",
+      "Channel"
+    ],
+    "nid": [
+      692661
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Frequency Modulation (FM) Radio"
+    ],
+    "uuid": [
+      "3204c5cb-77d3-4316-bd9a-3181a4df2967"
+    ],
+    "vid": [
+      7895782
+    ],
+    "view_count": [
+      2310
+    ],
+    "search_api_id": [
+      "entity:node/692661:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      4
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/road-accidents-india-2019"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4097
+    ],
+    "published_date": [
+      1676461499
+    ],
+    "body:value": [
+      "The data refers to Total Number of Road Accidents, Persons Killed and Injured. It also provides some other information like Number of Accidents per Lakh Population, Number of Accidents per Ten Thousand Vehicles, Number of Accidents per Ten Thousand Kms of Roads, Number of Persons Killed Per Lakh Population, Number of Persons Killed Per Ten Thousand Vehicles, Number of Persons Killed per Ten Thousand Kms of Roads, Number of Persons Injured per Lakh Population, Number of Persons Injured Per Ten Thousand Vehicles and Number of Persons Injured Per Ten Thousand Kms of Roads. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1739515789
+    ],
+    "created": [
+      1675422318
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents In India"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Killed",
+      "Injured",
+      "Road",
+      "Accident",
+      "Person",
+      "Highway",
+      "Vehicle",
+      "States",
+      "Road Accident"
+    ],
+    "nid": [
+      7384012
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Road Accidents in India 2019"
+    ],
+    "uuid": [
+      "34fd336e-5235-4bcc-8f44-7cfadd54e8f1"
+    ],
+    "vid": [
+      13014756
+    ],
+    "search_api_id": [
+      "entity:node/7384012:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/business-reforms-action-plan-brap"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1615
+    ],
+    "published_date": [
+      1676377377
+    ],
+    "body:value": [
+      "DPIIT, in consultation with the State Governments, started a comprehensive reform exercise in States and UTs in December 2014. Under the Business Reforms Action Plan (BRAP), all States/UTs in the country are assessed on the basis of reforms undertaken by them on designated parameters. BRAP covers reform areas such as Information Wizard, Single Window Systems, Online Building Permission System, Inspection Reforms, Labour Reforms, etc. This exercise has helped in improving business environment across States/UTs. Till date five editions of BRAP (2015, 2016, 2017-18, 2019 and 2020) have been completed and States/UTs have been assessed accordingly. The Action Plan for BRAP, 2022 (i.e., the sixth edition) was shared with States/UTs for its implementation and is currently under progress."
+    ],
+    "changed": [
+      1676377396
+    ],
+    "created": [
+      1676287182
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Business Reforms Action Plan"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department for Promotion of industry and Internal Trade"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Business Reforms Action Plan",
+      " BRAP",
+      "Ease of Doing Business",
+      "Compliance Reduction"
+    ],
+    "nid": [
+      7393320
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Business Reforms Action Plan (BRAP)"
+    ],
+    "uuid": [
+      "42077606-1cb8-444f-9f30-5cff6ddb13b3"
+    ],
+    "vid": [
+      11309429
+    ],
+    "search_api_id": [
+      "entity:node/7393320:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      22
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-258"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3749
+    ],
+    "published_date": [
+      1676376218
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 258 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1684481953
+    ],
+    "created": [
+      1676365878
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Annexures"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Rajya Sabha Question"
+    ],
+    "nid": [
+      7394211
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 258"
+    ],
+    "uuid": [
+      "d1045b41-4c31-4225-8afa-390b454c2498"
+    ],
+    "vid": [
+      11309392
+    ],
+    "search_api_id": [
+      "entity:node/7394211:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/road-transport-year-book-2017-18-2018-19"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1240
+    ],
+    "published_date": [
+      1695639485
+    ],
+    "body:value": [
+      "The Road Transport Year book is an Annual Publication of Ministry of Road Transport and Highway. Range of information pertaining to registered motor vehicles over time and across state/UTs and major cities and Data of various road transport parameters have been provided here i.e Number of Registered Motor Vechicles, composition of registered motor vehicles, taxes on road transport and motor vehicles, production and sale of motor vehicles, drivers conductors licenses issued etc."
+    ],
+    "changed": [
+      1739854850
+    ],
+    "created": [
+      1676618346
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport Year Book"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Road",
+      "Transport",
+      "Production",
+      "Sales",
+      "Export",
+      "Registered",
+      "Driver",
+      "Conductor",
+      "Licences",
+      "Commerical",
+      "NonTransport",
+      "goods",
+      "Permit",
+      "Freight",
+      "primary",
+      "Two wheelers",
+      "Van",
+      "Car",
+      "Jeep",
+      "Rikshaw",
+      "passenger",
+      "Buses",
+      "LMV",
+      "Revenue",
+      "Centre",
+      "State",
+      "Cities",
+      "Million plus cities",
+      "Motor",
+      "Vehicle",
+      "Year"
+    ],
+    "nid": [
+      7398314
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Road Transport Year Book 2017-18 & 2018-19"
+    ],
+    "uuid": [
+      "6b5d1f03-6d33-4c75-86b4-b6fa7afd54c1"
+    ],
+    "vid": [
+      13059563
+    ],
+    "search_api_id": [
+      "entity:node/7398314:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/fast-track-special-courts-scheme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1275
+    ],
+    "published_date": [
+      1677241508
+    ],
+    "body:value": [
+      "The Criminal Law Amendment Act, 2018 provided for the Fast Track Special Courts (FTSCs). Based on the pendency of cases in March 2018, a total of 1023 FTSCs including 389 exclusive POCSO (ePOCSO) Courts were earmarked by the Department of Justice to be implemented in 31 States/UTs for early disposal of cases related to rape and POCSO Act. This Centrally Sponsored Scheme started initially for one year in October 2019 which now has been continued for two more FY, i.e., till March, 2023. "
+    ],
+    "changed": [
+      1732878906
+    ],
+    "created": [
+      1677235223
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Special Courts"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Law and Justice",
+      "Department of Justice"
+    ],
+    "field_sector:name": [
+      "Judiciary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Special Courts",
+      "FTSCs",
+      "Courts"
+    ],
+    "nid": [
+      7406031
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Fast Track Special Courts Scheme "
+    ],
+    "uuid": [
+      "643dde17-17fe-4acb-893c-2d1581c05558"
+    ],
+    "vid": [
+      11324316
+    ],
+    "search_api_id": [
+      "entity:node/7406031:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      7
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/tele-law-program-under-designing-innovative-solution-holistic-access-justice-disha"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      673
+    ],
+    "published_date": [
+      1677241463
+    ],
+    "body:value": [
+      "Tele-Law means the use of communications and information technology for the delivery of legal information and advice. This e-interaction between lawyers and people would be through the video-conferencing infrastructure available at the CSCs."
+    ],
+    "changed": [
+      1739808639
+    ],
+    "created": [
+      1677236789
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Designing Innovative Solution for Holistic Access to Justice"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Law and Justice",
+      "Department of Justice"
+    ],
+    "field_sector:name": [
+      "Judiciary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Legal Advice",
+      "TeleLaw",
+      "TeleLaw",
+      "TeleLaw",
+      "TeleLaw",
+      "TeleLaw"
+    ],
+    "nid": [
+      7406065
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Tele-Law Program under Designing Innovative Solution for Holistic Access to Justice (DISHA)"
+    ],
+    "uuid": [
+      "2cf654b1-5607-4fcf-9460-ad3b225b5eab"
+    ],
+    "vid": [
+      13041703
+    ],
+    "search_api_id": [
+      "entity:node/7406065:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/development-infrastructure-facilities-districts-and-subordinate-judiciary-scheme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1068
+    ],
+    "published_date": [
+      1677241434
+    ],
+    "body:value": [
+      "The Department of Justice has been implementing the Centrally Sponsored Scheme(CSS) for Development of Infrastructure Facilities for Districts and Subordinate Judiciary since 1993-94. Under the Scheme , the central assistance is provided to the State Government / UT Administrations for construction of court halls and residential units for Judicial Officers / Judges of District and Subordinate Courts"
+    ],
+    "changed": [
+      1732878693
+    ],
+    "created": [
+      1677237844
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Law and Justice",
+      "Department of Justice"
+    ],
+    "field_sector:name": [
+      "Judiciary",
+      "Infrastructure"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Court Halls ",
+      "Judicial Infrastructure "
+    ],
+    "nid": [
+      7406096
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Development of Infrastructure Facilities for Districts and Subordinate Judiciary Scheme"
+    ],
+    "uuid": [
+      "bc550b04-aa2a-40ba-b508-0289c6c60027"
+    ],
+    "vid": [
+      11324313
+    ],
+    "search_api_id": [
+      "entity:node/7406096:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/road-accidents-india-2020"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3987
+    ],
+    "published_date": [
+      1682488431
+    ],
+    "body:value": [
+      "The data refers to Total Number of Road Accidents, Persons Killed and Injured. It also provides some other information like Number of Accidents per Lakh Population, Number of Accidents per Ten Thousand Vehicles, Number of Accidents per Ten Thousand Kms of Roads, Number of Persons Killed Per Lakh Population, Number of Persons Killed Per Ten Thousand Vehicles, Number of Persons Killed per Ten Thousand Kms of Roads, Number of Persons Injured per Lakh Population, Number of Persons Injured Per Ten Thousand Vehicles and Number of Persons Injured Per Ten Thousand Kms of Roads. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1677481247
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents In India"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Road Accident",
+      "Year 2020",
+      "Highways",
+      "Fatal Accidents",
+      "Injured",
+      "States",
+      "Junctions",
+      "Person Killed",
+      "Vehicles",
+      "PWD",
+      "collision",
+      "Road Environment",
+      "Traffic Control",
+      "road features",
+      "Weather Condition",
+      "Male",
+      "Female",
+      "Rural",
+      "Urban",
+      "Month Wise",
+      "Million plus cities",
+      "Time",
+      "Blackspot"
+    ],
+    "nid": [
+      7407891
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Road Accidents in India 2020"
+    ],
+    "uuid": [
+      "4ed6bc2e-a9ec-4ef9-b8fe-e695a3d618e3"
+    ],
+    "vid": [
+      13060365
+    ],
+    "search_api_id": [
+      "entity:node/7407891:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/books-procured-drdo-laboratories"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2012
+    ],
+    "published_date": [
+      1465965488
+    ],
+    "body:value": [
+      "DRDO laboratories procure books for its user community on defence, science and technology. This list provides number of books each libraries in the respective labs are holding since their inception. These books are either procured or obtained on gratis basis.\r\n"
+    ],
+    "changed": [
+      1465966648
+    ],
+    "created": [
+      1464937269
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DRDO"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Laboratory",
+      "library",
+      "Defence"
+    ],
+    "nid": [
+      741581
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Books procured by DRDO laboratories"
+    ],
+    "uuid": [
+      "672f9c67-9cdb-4b7c-a022-8b1ca13a11c9"
+    ],
+    "vid": [
+      7895830
+    ],
+    "view_count": [
+      1703
+    ],
+    "search_api_id": [
+      "entity:node/741581:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1987"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1771
+    ],
+    "published_date": [
+      1467000173
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1987. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1467001969
+    ],
+    "created": [
+      1464950054
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim"
+    ],
+    "nid": [
+      741681
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1987"
+    ],
+    "uuid": [
+      "d7688604-63e1-470d-b098-47ac6049b2c6"
+    ],
+    "vid": [
+      7895834
+    ],
+    "view_count": [
+      1466
+    ],
+    "search_api_id": [
+      "entity:node/741681:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/pradhan-mantri-matsya-sampada-yojana-pmmsy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2387
+    ],
+    "published_date": [
+      1678464394
+    ],
+    "body:value": [
+      "Pradhan Mantri Matsya Sampada Yojana  - A scheme to bring about Blue Revolution through sustainable and responsible development of fisheries sector in India at an estimated investment of Rs. 20050 crores for holistic development of fisheries sector including welfare of fishers. PMMSY is being implemented in all the States and Union Territories for a period of 5 years from FY 2020-21 to FY 2024-25.PMMSY is designed to address critical gaps in the fisheries value chain from fish production, productivity and quality to technology, post-harvest infrastructure and marketing. It aims to modernize and strengthen the value chain, enhance traceability and establish a robust fisheries management framework while simultaneously ensuring the socio-economic welfare of fishers and fish farmers."
+    ],
+    "changed": [
+      1739857487
+    ],
+    "created": [
+      1678440727
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Fisheries, Animal Husbandry and Dairying",
+      "Department of Fisheries"
+    ],
+    "field_sector:name": [
+      "Fisheries"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "PMMSY",
+      "Sampada",
+      "Matsya"
+    ],
+    "nid": [
+      7417088
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Pradhan Mantri Matsya Sampada Yojana (PMMSY)"
+    ],
+    "uuid": [
+      "979b9d13-a217-400e-b6b1-9a5412daf8d1"
+    ],
+    "vid": [
+      13059769
+    ],
+    "search_api_id": [
+      "entity:node/7417088:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/khelo-india-scheme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      877
+    ],
+    "published_date": [
+      1678724778
+    ],
+    "body:value": [
+      "Infrastructure Projects sanctioned under Khelo India scheme by Government of India for promotion of Sports"
+    ],
+    "changed": [
+      1678724778
+    ],
+    "created": [
+      1678690965
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Youth Affairs and Sports",
+      "Department of Sports"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Khelo India ",
+      "Sports Infrastructure ",
+      "Sports facility"
+    ],
+    "nid": [
+      7418949
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Khelo India Scheme"
+    ],
+    "uuid": [
+      "7387155f-11fd-4ab6-8052-8c98f86994ff"
+    ],
+    "vid": [
+      11346702
+    ],
+    "search_api_id": [
+      "entity:node/7418949:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/quarterly-employment-survey-qes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1423
+    ],
+    "published_date": [
+      1679760076
+    ],
+    "body:value": [
+      "Report on Quarterly Employment Survey (QES) of All India Quarterly Establishment based Employment Survey (AQEES)."
+    ],
+    "changed": [
+      1679760219
+    ],
+    "created": [
+      1678691937
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Labour and Employment"
+    ],
+    "field_sector:name": [
+      "Employment"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Quarterly Employment Survey",
+      "Quarterly Employment Survey"
+    ],
+    "nid": [
+      7418970
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Quarterly Employment Survey (QES)"
+    ],
+    "uuid": [
+      "28401cd2-d5d4-4db2-9cf0-3ce25d5dbba0"
+    ],
+    "vid": [
+      11351228
+    ],
+    "search_api_id": [
+      "entity:node/7418970:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/review-performance-state-road-transport-undertakings-srtus-april2016-march-2017"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      586
+    ],
+    "published_date": [
+      1695639482
+    ],
+    "body:value": [
+      "Review of the Performance of State Road Transport Undertakings (SRTUs) is one of the publications brought out by the Transport Research Wing of the Ministry of Road Transport and Highways. In this, the physical and financial performance of SRTUs. It also provide detail information about SRTUs like Fleet Strength, Fleet Utilization, Staff Strength, Passenger carried, Fuel efficiency, Occupancy Ratio, Total Revenue, Total cost, some financial ratios, Capital Structure, Metropolitan cities etc."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1679030649
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "State Road Transport Undertakings SRTUs"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "SRTUs",
+      "Physical Performance",
+      "Fleet",
+      "Revenue",
+      "Financial Performance",
+      "passenger",
+      "Traffic",
+      "Income",
+      "lubricants",
+      "DEPRECIATION",
+      "Profit and Loss",
+      "Accidents",
+      "over aged vehicles",
+      "Capital",
+      "Liabilities"
+    ],
+    "nid": [
+      7423207
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Review of the Performance of State Road Transport Undertakings (SRTUs) April,2016 - March, 2017"
+    ],
+    "uuid": [
+      "495661dc-3a43-414c-823b-a3232fe43db5"
+    ],
+    "vid": [
+      13013209
+    ],
+    "search_api_id": [
+      "entity:node/7423207:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/springs-water-resource-distribution-central-himalaya-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      388
+    ],
+    "published_date": [
+      1682665693
+    ],
+    "body:value": [
+      "The Springs catalogue contains IHR State/UT-wise spring data from NMHS through specialized institutions, Access available data on discharge and water quality of the springs with geo-coordinates in the IHR at the block level."
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1679984270
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Spring"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Environment, Forest and Climate Change"
+    ],
+    "field_sector:name": [
+      "Ground Water",
+      "Water Quality"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Water Resources",
+      "springs",
+      "Himalayas"
+    ],
+    "nid": [
+      7433869
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Springs (Water Resource) distribution in Central Himalaya"
+    ],
+    "uuid": [
+      "2c05fb2b-d170-40f4-8758-bca8920e11e9"
+    ],
+    "vid": [
+      13060357
+    ],
+    "search_api_id": [
+      "entity:node/7433869:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/fauna-biodiversity-resource-distribution-centrsl-himalaya"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      330
+    ],
+    "published_date": [
+      1682665590
+    ],
+    "body:value": [
+      "The fauna catalogue contains detailed data like family, class, species and genus information found in in selected sites of Indian Himalayan Region (IHR)."
+    ],
+    "changed": [
+      1682666848
+    ],
+    "created": [
+      1679996604
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Fauna"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Environment, Forest and Climate Change"
+    ],
+    "field_sector:name": [
+      "Bio-diversity"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Fauna",
+      "Biodiversity",
+      "Himalayan"
+    ],
+    "nid": [
+      7434199
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Fauna (Biodiversity Resource) distribution in Centrsl Himalaya"
+    ],
+    "uuid": [
+      "479d6829-b482-4ef7-9138-afc20a178266"
+    ],
+    "vid": [
+      11389543
+    ],
+    "search_api_id": [
+      "entity:node/7434199:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/flora-biodiversity-resources-distribution-central-himalaya"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      422
+    ],
+    "published_date": [
+      1683031050
+    ],
+    "body:value": [
+      "The flora catalogue contains detailed data like family, class, species and genus information found in selected sites of the Indian Himalayan Region (IHR).  "
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1679996944
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Flora"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Environment, Forest and Climate Change"
+    ],
+    "field_sector:name": [
+      "Bio-diversity"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "flora",
+      "Biodiversity",
+      "Himalayan"
+    ],
+    "nid": [
+      7434216
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Flora (Biodiversity Resources) distribution in Central Himalaya"
+    ],
+    "uuid": [
+      "9f0beb00-1bc5-4e82-bb2d-cde039bce892"
+    ],
+    "vid": [
+      13060368
+    ],
+    "search_api_id": [
+      "entity:node/7434216:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/livelihood-options-central-himalaya"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      217
+    ],
+    "published_date": [
+      1682665759
+    ],
+    "body:value": [
+      "This catalogue highlighted the innovative interventions and resources showcasing the Green, Sustainable, Innovative and alternative models for livelihood in the selected sites of Indian Himalayan Region, along with benefitted /skilled/trained manpower data."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1679999443
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livelihood options"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Environment, Forest and Climate Change"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "livelihood",
+      "Employment",
+      "Himalayan"
+    ],
+    "nid": [
+      7434295
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Livelihood options in Central Himalaya"
+    ],
+    "uuid": [
+      "6b3e710c-ea54-4ebb-ad84-f49ee8a2aaad"
+    ],
+    "vid": [
+      12995452
+    ],
+    "search_api_id": [
+      "entity:node/7434295:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/basic-road-statistics-india-2018-19"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1206
+    ],
+    "published_date": [
+      1682488866
+    ],
+    "body:value": [
+      "Get data of Basic Road Statistics of India 2018-19. It provides comprehensive information on the total road network of the country. Road Statistics of India contains information on various categories of roads at National, State and Local (Municipal and Panchayat) levels. Apart from this, the information on plan allocation and expenditure on roads and an international comparison of road networks are also provided."
+    ],
+    "changed": [
+      1682488983
+    ],
+    "created": [
+      1681193687
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Number of Road Accidents",
+      "Number of Persons Killed"
+    ],
+    "nid": [
+      7447812
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Basic Road Statistics of India 2018-19"
+    ],
+    "uuid": [
+      "0e9140df-e6b4-473a-99bf-c4efa69ea09e"
+    ],
+    "vid": [
+      11386671
+    ],
+    "search_api_id": [
+      "entity:node/7447812:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      4
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cbse-result-statistics-class-x"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2074
+    ],
+    "published_date": [
+      1682511009
+    ],
+    "body:value": [
+      "The catalog contains CBSE Result Statistics for Board Exam."
+    ],
+    "changed": [
+      1686656199
+    ],
+    "created": [
+      1682505533
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "CBSE Result Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of School Education and Literacy",
+      "Central Board of Secondary Education (CBSE)"
+    ],
+    "field_sector:name": [
+      "Secondary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CBSE Result Statistics"
+    ],
+    "nid": [
+      7464638
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "CBSE Result Statistics Class X "
+    ],
+    "uuid": [
+      "01132685-f5f7-4224-b1cc-2677ab3009a9"
+    ],
+    "vid": [
+      11387480
+    ],
+    "search_api_id": [
+      "entity:node/7464638:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/pradhan-mantri-krishi-sinchayee-yojna-command-area-development-water-management-pmksy-cadwm"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      496
+    ],
+    "published_date": [
+      1684498735
+    ],
+    "body:value": [
+      "PMKSY-CADWM project a CSS on promoting Irrigation network and water user management to increase Culturable Command Area (CCA). CADWM focus on development of field channels, micro irrigation, field drain, land leveling. It also create & provide awareness, trainings / demonstration to Water User Association (WUA)."
+    ],
+    "changed": [
+      1684498781
+    ],
+    "created": [
+      1684308930
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Department of Water Resources, River Development & Ganga Rejuvenation",
+      "Ministry of Jal Shakti"
+    ],
+    "field_sector:name": [
+      "Ground Water"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CADWM"
+    ],
+    "nid": [
+      7488962
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Pradhan Mantri Krishi Sinchayee Yojna - Command Area Development & Water Management (PMKSY-CADWM)"
+    ],
+    "uuid": [
+      "30fc8822-cbc1-4741-87ce-908659c963ee"
+    ],
+    "vid": [
+      11420318
+    ],
+    "search_api_id": [
+      "entity:node/7488962:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/india-tuberculosis-report-2023"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5173
+    ],
+    "published_date": [
+      1685536355
+    ],
+    "body:value": [
+      "National TB Elimination Programme (NTEP) is a centrally sponsored programme being implemented under the aegis of the National Health Mission (NHM) with resource sharing between the State Governments and the Central Government. Despite the devastating impact of pandemic in the country, under the guiding light of National Strategic Plan (NSP) 2017-2025, NTEP shifted gears in 2022 and accelerated its pace towards ending TB by 2025. The four key pillars being implemented through strategic interventions under the NSP are DETECT, TREAT, PREVENT  and BUILD. This led to various achievements by the programme as well as implementation of innovative strategies and interventions for the benefit of patients and the community as a whole. "
+    ],
+    "changed": [
+      1689078838
+    ],
+    "created": [
+      1684391274
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "MoHFW",
+      "national",
+      "TB",
+      "Tuberculosis",
+      "NTEP",
+      "NHM",
+      "NSP",
+      "Detect",
+      "TREAT",
+      "Prevent",
+      "Build",
+      "community",
+      "Health"
+    ],
+    "nid": [
+      7490615
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "India Tuberculosis Report, 2023"
+    ],
+    "uuid": [
+      "cb8909ee-5b02-49a0-b4f2-74c014d96345"
+    ],
+    "vid": [
+      11434536
+    ],
+    "search_api_id": [
+      "entity:node/7490615:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/budget-schemes-do-youth-affairs"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      329
+    ],
+    "published_date": [
+      1684499160
+    ],
+    "body:value": [
+      "The catalog contains the Budget for the schemes of the Department of Youth Affairs."
+    ],
+    "changed": [
+      1684499262
+    ],
+    "created": [
+      1684394457
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Youth Affairs and Sports",
+      "Department of Youth Affairs"
+    ],
+    "field_sector:name": [
+      "Finance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget"
+    ],
+    "nid": [
+      7490703
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Budget for the schemes of D/o Youth Affairs"
+    ],
+    "uuid": [
+      "7ecf0683-4bd4-490f-b366-2b324efdade0"
+    ],
+    "vid": [
+      11420332
+    ],
+    "search_api_id": [
+      "entity:node/7490703:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-schemes-do-youth-affairs"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      362
+    ],
+    "published_date": [
+      1684499164
+    ],
+    "body:value": [
+      "The catalog contains the expenditure for the schemes of D/o Youth Affairs"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1684395290
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Expenditure "
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Youth Affairs and Sports",
+      "Department of Youth Affairs"
+    ],
+    "field_sector:name": [
+      "Finance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure"
+    ],
+    "nid": [
+      7490727
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure for the schemes of D/o Youth Affairs"
+    ],
+    "uuid": [
+      "a67e1b21-a728-4a59-99fa-cbce90c328bf"
+    ],
+    "vid": [
+      12996169
+    ],
+    "search_api_id": [
+      "entity:node/7490727:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/green-india-mission-gim-data"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2316
+    ],
+    "published_date": [
+      1686820779
+    ],
+    "body:value": [
+      "The National Mission for a Green India or commonly called Green India Mission (GIM), is one of the eight Missions under the National Action Plan on Climate Change (NAPCC). The Mission would strive for enhancing carbon sinks in sustainably managed forests and other ecosystems, adaptation of vulnerable species/ecosystems to the changing climate and adaptation of forest-dependent communities has a context menu."
+    ],
+    "changed": [
+      1686820817
+    ],
+    "created": [
+      1684411094
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Environment, Forest and Climate Change"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Area-wise Funding",
+      "GIM"
+    ],
+    "nid": [
+      7491161
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Green India Mission (GIM) Data"
+    ],
+    "uuid": [
+      "7f8b07ba-36ed-40b2-a550-791f02ac5eb0"
+    ],
+    "vid": [
+      11461655
+    ],
+    "search_api_id": [
+      "entity:node/7491161:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/wetlands-conservation-and-management"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1071
+    ],
+    "published_date": [
+      1686759272
+    ],
+    "body:value": [
+      "The Wetlands Division of MoEFCC is currently implementing a centrally sponsored scheme namely, National Plan for Conservation of Aquatic Ecosystems (NPCA) for conservation and management of wetlands in the country on cost sharing basis between Central Government and respective State/UT Governments. The scheme aims at holistic conservation and restoration of wetlands for achieving the desired water quality enhancement, besides improvement in biodiversity and ecosystems. It aims to promote mainstreaming of wetlands in developmental programming with States by supporting formulation and implementation of integrated management plans, capacity development and research. The dataset includes the state-wise distribution of wetlands in the country along with state-wise distribution and health card reports of 75 Ramsar Sites."
+    ],
+    "changed": [
+      1686823117
+    ],
+    "created": [
+      1684496883
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Environment, Forest and Climate Change"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Wetlands",
+      "National Plan for Conservation of Aquatic Ecosystems",
+      "Ramsar Sites",
+      "SAC Atlas",
+      "NPCA"
+    ],
+    "nid": [
+      7492343
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Wetlands Conservation and Management"
+    ],
+    "uuid": [
+      "000b42f1-a924-4f83-a61a-3f4eb76c655b"
+    ],
+    "vid": [
+      11460680
+    ],
+    "search_api_id": [
+      "entity:node/7492343:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1986"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1958
+    ],
+    "published_date": [
+      1467087660
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1986. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1467089441
+    ],
+    "created": [
+      1466596059
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "girls",
+      "Kidnapping",
+      "Robbery",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Victim",
+      "Forces"
+    ],
+    "nid": [
+      750301
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1986"
+    ],
+    "uuid": [
+      "25b9f0eb-dccf-4082-bcbc-9c279ad844f4"
+    ],
+    "vid": [
+      7895838
+    ],
+    "view_count": [
+      1803
+    ],
+    "search_api_id": [
+      "entity:node/750301:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

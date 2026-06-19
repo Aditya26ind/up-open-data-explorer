@@ -1,0 +1,5004 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/main-workers-classified-industrial-category-educational-level-and-sex-census-1991-india-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4504
+    ],
+    "published_date": [
+      1482481874
+    ],
+    "body:value": [
+      "The catalog contains data related to Main Workers Classified by Industrial Category, Educational Level and Sex, Census 1991 - India and States. It includes data on Gender wise and Education level wise Total Population, Total Main Workers, Main Workers under different Industrial Category."
+    ],
+    "changed": [
+      1518669485
+    ],
+    "created": [
+      1482379860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Population",
+      "Worker"
+    ],
+    "nid": [
+      1681681
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Main Workers Classified by Industrial Category, Educational Level and Sex, Census 1991 - India and States"
+    ],
+    "uuid": [
+      "06dd2cd7-94e7-4f25-be52-b76ed93c2013"
+    ],
+    "vid": [
+      7896853
+    ],
+    "view_count": [
+      4425
+    ],
+    "search_api_id": [
+      "entity:node/1681681:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/main-workers-age-sex-and-educational-level-census-1991-india-and-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9373
+    ],
+    "published_date": [
+      1482481855
+    ],
+    "body:value": [
+      "The catalog contains data related to Main Workers by Age, Sex and Educational Level, Census 1991 - India and States. It includes data on Gender, Age-group and Education level wise Main Workers."
+    ],
+    "changed": [
+      1482989447
+    ],
+    "created": [
+      1482380291
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Worker",
+      "Educational",
+      "Main"
+    ],
+    "nid": [
+      1681701
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Main Workers by Age, Sex and Educational Level, Census 1991 - India and States"
+    ],
+    "uuid": [
+      "5b27dbfe-20e5-4e05-9498-51c75f610d44"
+    ],
+    "vid": [
+      7896858
+    ],
+    "view_count": [
+      9211
+    ],
+    "search_api_id": [
+      "entity:node/1681701:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/maximum-minimum-performing-public-health-facilities-selected-data-items-across-sub-5"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1005
+    ],
+    "published_date": [
+      1486095936
+    ],
+    "body:value": [
+      "Get data on maximum & minimum performing public health facilities on selected data items across sub districts of Sikkim. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains  total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name,  sub-district, value reported) etc."
+    ],
+    "changed": [
+      1599808646
+    ],
+    "created": [
+      1483422347
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Sikkim"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      1769021
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "101"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Maximum & Minimum Performing Public Health Facilities on Selected Data Items across sub districts of Sikkim"
+    ],
+    "uuid": [
+      "3bae3ab8-6bbb-48d9-bd22-237c9e3699d7"
+    ],
+    "vid": [
+      7897003
+    ],
+    "view_count": [
+      996
+    ],
+    "search_api_id": [
+      "entity:node/1769021:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/marginal-workers-industrial-category-age-and-sex-census-1991-india-and-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3068
+    ],
+    "published_date": [
+      1488255612
+    ],
+    "body:value": [
+      "The catalog contains data related to Marginal workers by Industrial Category, Age and Sex, Census 1991 - India and States. It includes data on Gender wise and Industrial category wise number of Marginal Workers under different Age group."
+    ],
+    "changed": [
+      1492602975
+    ],
+    "created": [
+      1487159209
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "Group",
+      "Population",
+      "Worker"
+    ],
+    "nid": [
+      2011541
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Marginal workers by Industrial Category, Age and Sex, Census 1991 - India and States"
+    ],
+    "uuid": [
+      "fcb177fb-b583-4a56-b35f-fd2aa38ea54e"
+    ],
+    "vid": [
+      7897065
+    ],
+    "view_count": [
+      2975
+    ],
+    "search_api_id": [
+      "entity:node/2011541:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/marginal-workers-industrial-category-educational-level-and-sex-census-1991-india-and-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2570
+    ],
+    "published_date": [
+      1487824294
+    ],
+    "body:value": [
+      "The catalog contains data related to Marginal Workers by Industrial Category, Educational Level and Sex, Census 1991 - India and States. It includes data on Gender wise and Industrial category wise number of Marginal Workers under different Educational Level."
+    ],
+    "changed": [
+      1488773375
+    ],
+    "created": [
+      1487159274
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Population",
+      "Worker",
+      "Marginal"
+    ],
+    "nid": [
+      2011581
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Marginal Workers by Industrial Category, Educational Level and Sex, Census 1991 - India and States"
+    ],
+    "uuid": [
+      "c5117b2c-ead9-47ec-9d36-4d1e3c0a324c"
+    ],
+    "vid": [
+      7897069
+    ],
+    "view_count": [
+      2463
+    ],
+    "search_api_id": [
+      "entity:node/2011581:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/non-workers-main-activity-age-and-sex-census-1991-india-and-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3640
+    ],
+    "published_date": [
+      1488255616
+    ],
+    "body:value": [
+      "The catalog contains data related to Non Workers by Main Activity, Age and Sex, Census 1991 - India and States. It includes data on Gender wise and Age-group wise number of Non Workers under various Main Activity like Student, Household Duties, Dependents, Retired Persons or Rentiers, Beggars, Vagrant etc."
+    ],
+    "changed": [
+      1488514714
+    ],
+    "created": [
+      1487159340
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "Household",
+      "Institution",
+      "Population",
+      "Student",
+      "Worker",
+      "Person",
+      "Beggar",
+      "Vagrant",
+      "Dependent",
+      "Rentier",
+      "Inmate",
+      "Duty",
+      "Retired"
+    ],
+    "nid": [
+      2011621
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Non Workers by Main Activity, Age and Sex, Census 1991 - India and States"
+    ],
+    "uuid": [
+      "086c2c41-17f5-4354-a916-ca97c8d487c1"
+    ],
+    "vid": [
+      7897073
+    ],
+    "view_count": [
+      3402
+    ],
+    "search_api_id": [
+      "entity:node/2011621:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/non-workers-main-activity-educational-level-and-sex-census-1991-india-and-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2907
+    ],
+    "published_date": [
+      1488778076
+    ],
+    "body:value": [
+      "The catalog contains data related to Non Workers by Main Activity, Educational level and Sex, Census 1991 - India and States. It includes data on Gender wise and Education level wise number of Non Workers under various Main Activity like Student, Household Duties, Dependents, Retired Persons or Rentiers, Beggars, Vagrant etc."
+    ],
+    "changed": [
+      1488881382
+    ],
+    "created": [
+      1487159381
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Household",
+      "Institution",
+      "Population",
+      "Student",
+      "Worker",
+      "Person",
+      "Beggar",
+      "Vagrant",
+      "Dependent",
+      "Rentier",
+      "Duty",
+      "Retired",
+      "Inmates"
+    ],
+    "nid": [
+      2011661
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Non Workers by Main Activity, Educational level and Sex, Census 1991 - India and States"
+    ],
+    "uuid": [
+      "4436e964-7d91-4e3b-8050-1c5dcbe7a144"
+    ],
+    "vid": [
+      7897077
+    ],
+    "view_count": [
+      2516
+    ],
+    "search_api_id": [
+      "entity:node/2011661:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/non-workers-seekingavailable-work-and-those-among-them-who-never-worked-classified-age-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2463
+    ],
+    "published_date": [
+      1487823547
+    ],
+    "body:value": [
+      "The catalog contains data related to Non-Workers Seeking/Available for work and those among them who Never worked before classified by Age, Sex and Educational level, Census 1991 - India and States. It includes data on Gender wise, Age-group wise and education level wise number of Non-Workers seeking or available for work and those among them who Never worked before."
+    ],
+    "changed": [
+      1519014761
+    ],
+    "created": [
+      1487159433
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "Population",
+      "Worker",
+      "Work",
+      "Seeking",
+      "Available"
+    ],
+    "nid": [
+      2011681
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Non-Workers Seeking/Available for work and those among them who Never worked before classified by Age, Sex and Educational level, Census 1991 - India and States"
+    ],
+    "uuid": [
+      "e3e4a710-0425-453d-8d0b-0a96b8543c25"
+    ],
+    "vid": [
+      7897081
+    ],
+    "view_count": [
+      2141
+    ],
+    "search_api_id": [
+      "entity:node/2011681:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/age-sex-and-educational-level-population-census-1991-india-and-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      12312
+    ],
+    "published_date": [
+      1489465554
+    ],
+    "body:value": [
+      "The catalog contains data related to Age, Sex and Educational level Population, Census 1991 - India and States. It includes data on Gender wise and Age-group wise Population under different Educational level like Illiterate, Literate without educational level and various Education levels like Primary, Middle, Matriculation/Secondary, Higher Secondary/Intermediate/Pre-University/Senior Secondary, Non-Technical diploma or certificate not equal to degree, Technical diploma or certificate not equal to degree, Graduate degree other than technical degree, Post graduate degree other than technical degree and Technical degree or diploma equal to post-graduate degree etc."
+    ],
+    "changed": [
+      1492597469
+    ],
+    "created": [
+      1488194880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "Diploma",
+      "Education",
+      "Illiterate",
+      "Literate",
+      "primary",
+      "technical",
+      "Graduate",
+      "Matriculation"
+    ],
+    "nid": [
+      2222961
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Age, Sex and Educational level Population, Census 1991 - India and States"
+    ],
+    "uuid": [
+      "422b840d-5a59-4469-add8-9402da0dd9c6"
+    ],
+    "vid": [
+      7897093
+    ],
+    "view_count": [
+      11378
+    ],
+    "search_api_id": [
+      "entity:node/2222961:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/population-attending-school-or-college-completed-level-education-census-1991-india-and"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4949
+    ],
+    "published_date": [
+      1491366715
+    ],
+    "body:value": [
+      "The catalog contains data related to Population Attending School or College by Completed level of Education, Census 1991 - India and States. It includes data on Gender wise and Age-group wise Population attending School or College under different Educational level like Illiterate, Literate without educational level and various Education levels like Primary, Middle, Matriculation/Secondary, Higher Secondary/Intermediate/Pre-University/Senior Secondary, Non-Technical diploma or certificate not equal to degree, Technical diploma or certificate not equal to degree, Graduate degree other than technical degree, Post graduate degree other than technical degree and Technical degree or diploma equal to post-graduate degree etc."
+    ],
+    "changed": [
+      1492063508
+    ],
+    "created": [
+      1488194935
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "Diploma",
+      "Education",
+      "Illiterate",
+      "Literate",
+      "primary",
+      "School",
+      "Sex",
+      "technical",
+      "Graduate",
+      "Matriculation"
+    ],
+    "nid": [
+      2222981
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Population Attending School or College by Completed level of Education, Census 1991 - India and States"
+    ],
+    "uuid": [
+      "2c1e39a8-7247-44d4-9c2d-8cf5007dd424"
+    ],
+    "vid": [
+      7897097
+    ],
+    "view_count": [
+      4274
+    ],
+    "search_api_id": [
+      "entity:node/2222981:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/population-single-year-age-returns-census-1991-india-and-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5317
+    ],
+    "published_date": [
+      1491202752
+    ],
+    "body:value": [
+      "The catalog contains data related to Population by Single Year Age Returns, Census 1991 - India and States. It includes data on Gender wise and single age wise Total Population, Rural Population and Urban Population."
+    ],
+    "changed": [
+      1492598402
+    ],
+    "created": [
+      1488195091
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Census Digital Library"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Population Enumerator"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Population",
+      "Rural",
+      "Sex",
+      "Urban"
+    ],
+    "nid": [
+      2223001
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Population by Single Year Age Returns, Census 1991 - India and States"
+    ],
+    "uuid": [
+      "c637385b-fba6-4e1c-a466-d66132b8b0ec"
+    ],
+    "vid": [
+      7897101
+    ],
+    "view_count": [
+      4790
+    ],
+    "search_api_id": [
+      "entity:node/2223001:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/performance-key-hmis-indicators-across-sub-districts-sikkim-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      901
+    ],
+    "published_date": [
+      1428477814
+    ],
+    "body:value": [
+      "Get data on Performance of Key HMIS Indicators for the Sub Districts of Sikkim. Main HMIS indicators are Pregnant women Registered, TT2 or Booster given to Pregnant women, Pregnant women given 100 IFA tablets, Numbers having Hb level<11 (tested cases) and severe anaemia (Hb<7), Home deliveries, Deliveries Conducted at Public Institutions, Women Discharged under 48 hours of delivery in public facilities, Institutional deliveries, C-section deliveries, post partum check-up, Post - Natal Care, live births, Still Births, Newborns weighed at birth, New Borns Breast Fed within 1 hour, New Borns visited within 24 hrs of Home Delivery, Sex Ratio at birth, Abortions, MTPs ( Public), Vasectomies, Tubectomies, Sterilisation, Deaths following Sterlisation, IUCD Insertions, Oral Pills distributed, Condom pieces distributed, Centchroman Pills distributed, Number of Infants given OPV 0 (Birth Dose), BCG, DPT1, DPT2, DPT3, Pentavalent 1, Pentavalent 2 and Pentavalent 3, Measles, Fully immunized children (9-11 months), Vitamin - A dose 1, Adverse Events Following Imunisation (Others), IPD, OPD, Major Operations, Minor Operations, Hysterectomy Surgeries, Ayush OPD, Dental OPD, Adolescent counseled, Infant Deaths. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1603430116
+    ],
+    "created": [
+      1427355308
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Sikkim"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaemia",
+      "Ayush",
+      "BCG",
+      "birth",
+      "Children",
+      "Condom",
+      "Death",
+      "Delivery",
+      "Distributed",
+      "DPT",
+      "Health",
+      "Infant",
+      "Institution",
+      "IPD",
+      "Management",
+      "Measles",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "OPD",
+      "Post",
+      "Public",
+      "Rural",
+      "Sex",
+      "Sterilisation",
+      "Surgery",
+      "Women",
+      "Facility",
+      "Vasectomies",
+      "Tubectomies",
+      "Operation",
+      "Information",
+      "Adolescent",
+      "Home",
+      "Booster",
+      "MTP",
+      "Abortion",
+      "Natal",
+      "IUCD",
+      "Hysterectomy",
+      "Ratio",
+      "Care",
+      "Dental",
+      "Vitamin",
+      "Partum",
+      "Pregnant",
+      "Breast",
+      "Insertions",
+      "Oral",
+      "Pill",
+      "IFA",
+      "Hb",
+      "Discharged",
+      "Fed",
+      "Sterlisation",
+      "Piece",
+      "Centchroman",
+      "OPV",
+      "Pentavalent",
+      "Immunized",
+      "Counselled"
+    ],
+    "nid": [
+      222543
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "101"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Performance of key HMIS indicators across sub districts of Sikkim"
+    ],
+    "uuid": [
+      "0c2ea113-9937-4316-8abd-ef9310b27feb"
+    ],
+    "vid": [
+      7891895
+    ],
+    "view_count": [
+      858
+    ],
+    "search_api_id": [
+      "entity:node/222543:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-sikkim-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1318
+    ],
+    "published_date": [
+      1430369751
+    ],
+    "body:value": [
+      "Get data on Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State Sikkim. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605850017
+    ],
+    "created": [
+      1429872784
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Sikkim"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      240483
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "101"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Sikkim"
+    ],
+    "uuid": [
+      "c74e85bc-7acc-4d4f-9190-229c50e05239"
+    ],
+    "vid": [
+      7892494
+    ],
+    "view_count": [
+      1089
+    ],
+    "search_api_id": [
+      "entity:node/240483:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/disabled-population-among-main-workers-marginal-workers-non-workers-type-disability-age-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4515
+    ],
+    "published_date": [
+      1435640176
+    ],
+    "body:value": [
+      "Person with disability means a person suffering from not less than forty percent of any disability as certified by a medical authority (any hospital or institution, specified for the purposes of this Act by notification by the appropriate Government). As per the act \"Disability\" means - (i) Blindness; (ii) Low vision; (iii) Leprosy-cured; (iv) Hearing impairment; (v) Loco motor disability; (vi) Mental retardation; (vii) Mental illness. Those workers who had worked for the major part of the reference period (i.e. 6 months or more) are termed as Main Workers. Those workers who had not worked for the major part of the reference period (i.e. less than 6 months) are termed as Marginal Workers. A person who did not at all work during the reference period was treated as non-worker. Get data on disabled population among main workers, marginal workers, non-workers by type of disability, age and sex."
+    ],
+    "changed": [
+      1441624793
+    ],
+    "created": [
+      1433228158
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Socio-Economic"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "disability",
+      "Population",
+      "blindness",
+      "Worker",
+      "Illness",
+      "Marginal",
+      "Leprosy",
+      "Movement",
+      "Mental",
+      "Seeing",
+      "Speech",
+      "Hearing",
+      "Retardation",
+      "Vision",
+      "Cured",
+      "Impairmen",
+      "Loco"
+    ],
+    "nid": [
+      276901
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "81",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Disabled population among main workers, marginal workers, non-workers by type of disability, age and sex - India And States"
+    ],
+    "uuid": [
+      "eb762732-ad0f-4270-a641-c4d2f4875229"
+    ],
+    "vid": [
+      7894430
+    ],
+    "view_count": [
+      4248
+    ],
+    "search_api_id": [
+      "entity:node/276901:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/households-marital-status-sex-and-age-head-household-india-and-states"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10299
+    ],
+    "published_date": [
+      1437626732
+    ],
+    "body:value": [
+      "A persons marital status indicates whether the person is married. Get data on households by marital status, sex and age of the head of household."
+    ],
+    "changed": [
+      1441624870
+    ],
+    "created": [
+      1433228213
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Socio-Economic"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "Female",
+      "Household",
+      "Male",
+      "Widowed",
+      "Divorced",
+      "Separated",
+      "Married",
+      "Marital",
+      "Head"
+    ],
+    "nid": [
+      276921
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "81",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Households by marital status, sex and age of the head of household - India and States"
+    ],
+    "uuid": [
+      "f2e56bb3-69fb-4365-91b4-856a57d47fd5"
+    ],
+    "vid": [
+      7894435
+    ],
+    "view_count": [
+      9230
+    ],
+    "search_api_id": [
+      "entity:node/276921:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/women-and-currently-married-women-present-age-number-births-last-year-sex-and-birth-order"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10224
+    ],
+    "published_date": [
+      1438673586
+    ],
+    "body:value": [
+      "Currently married women are persons who have been married and are not either divorced, widowed or separated. Get data on women and currently married women by present age, number of births last year by sex and birth order"
+    ],
+    "changed": [
+      1441625230
+    ],
+    "created": [
+      1433228283
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Socio-Economic"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "birth",
+      "Currently"
+    ],
+    "nid": [
+      276941
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "81",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Women and currently married women by present age, number of births last year by sex and birth order - India And States"
+    ],
+    "uuid": [
+      "b239ac06-9eb7-4126-9615-edd869c9b307"
+    ],
+    "vid": [
+      7894440
+    ],
+    "view_count": [
+      9486
+    ],
+    "search_api_id": [
+      "entity:node/276941:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/women-and-ever-married-women-present-age-number-surviving-children-and-total-surviving"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5463
+    ],
+    "published_date": [
+      1439214795
+    ],
+    "body:value": [
+      "Ever married women are persons who have been married at least once in their lives although their current marital status may not be married. Get data on women and ever married women by present age, number of surviving children and total surviving children by sex"
+    ],
+    "changed": [
+      1467371603
+    ],
+    "created": [
+      1433228331
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Socio-Economic"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Surviving"
+    ],
+    "nid": [
+      276961
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "81",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Women and ever married women by present age, number of surviving children and total surviving children by sex - India And States"
+    ],
+    "uuid": [
+      "e1ea232e-ede4-46d2-a36f-b836977f7c7d"
+    ],
+    "vid": [
+      7894445
+    ],
+    "view_count": [
+      4998
+    ],
+    "search_api_id": [
+      "entity:node/276961:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/women-and-ever-married-women-present-age-parity-and-total-children-ever-born-sex-india-and"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10814
+    ],
+    "published_date": [
+      1439787513
+    ],
+    "body:value": [
+      "Ever married women are persons who have been married at least once in their lives although their current marital status may not be married. Get data on women and ever married women by present age, parity and total children ever born by sex"
+    ],
+    "changed": [
+      1467371315
+    ],
+    "created": [
+      1433228376
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Socio-Economic"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home",
+      "Registrar General and Census Commissioner, India"
+    ],
+    "field_sector:name": [
+      "Census and Surveys",
+      "Census",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Parity"
+    ],
+    "nid": [
+      276981
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "81",
+      "101",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Women and ever married women by present age, parity and total children ever born by sex - India And States"
+    ],
+    "uuid": [
+      "4e7d212b-2083-4a4b-be70-60829457a20d"
+    ],
+    "vid": [
+      7894450
+    ],
+    "view_count": [
+      9934
+    ],
+    "search_api_id": [
+      "entity:node/276981:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/comparative-statistical-figures-male-and-female-sikkim-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1320
+    ],
+    "published_date": [
+      1469610561
+    ],
+    "body:value": [
+      "Details about  Female Population in total population, Sex ratio , Distribution of workers, worker population ratio, Labour Force participation ratio, Unemployment rat, Worker population rate, Total person employed, Hired Workers and Female Workers, Women voters for General Election, Participation of women in State Assembly, Women judges in Supreme Court/High Courts.  "
+    ],
+    "changed": [
+      1469610561
+    ],
+    "created": [
+      1469085232
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Statistics"
+    ],
+    "field_state_department:name": [
+      "Sikkim",
+      "Department of Economics, Statistics, Monitoring & Evaluation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Unemployment Rate",
+      "Sex Ratio of Sikkim",
+      "Women Voters of Sikkim",
+      "Female Population of Sikkim",
+      "Worker population rate",
+      "Total person employed",
+      "Hired Workers and Female Workers of Sikkim"
+    ],
+    "nid": [
+      6481074
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "101"
+    ],
+    "ogpl_module_domain_name": [
+      "sikkim.data.gov.in"
+    ],
+    "title": [
+      "Comparative Statistical figures of Male and Female of Sikkim with India"
+    ],
+    "uuid": [
+      "1688a20a-2e35-4c1c-88c4-4ac5cbb178b0"
+    ],
+    "vid": [
+      10702450
+    ],
+    "view_count": [
+      835
+    ],
+    "search_api_id": [
+      "entity:node/6481074:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/financial-assistance-preservation-and-development-cultural-heritage-himalayas"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      275
+    ],
+    "published_date": [
+      1736941324
+    ],
+    "body:value": [
+      "The dataset provides information about financial assistance granted for the preservation and development of cultural heritage in the Himalayan region, including beneficiary details, funding allocations, and project status."
+    ],
+    "changed": [
+      1773296684
+    ],
+    "created": [
+      1736233738
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Beneficiaries and Funding for Himalayan Cultural Heritage Preservation"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Culture"
+    ],
+    "field_sector:name": [
+      "Art and Culture"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Himalayan Culture",
+      "Cultural Heritage",
+      "Ministry of Culture",
+      "financial assistance",
+      "Himalayan Preservation"
+    ],
+    "nid": [
+      603487011
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Assistance for Preservation and Development of Cultural Heritage of the Himalayas"
+    ],
+    "uuid": [
+      "6e03848c-f783-4468-b167-238b2883c0a1"
+    ],
+    "vid": [
+      13061057
+    ],
+    "search_api_id": [
+      "entity:node/603487011:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/grants-aid-indo-foreign-friendship-cultural-societies"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      288
+    ],
+    "published_date": [
+      1736943297
+    ],
+    "body:value": [
+      "The dataset provides details of grants-in-aid given to Indo-Foreign Friendship Cultural Societies under the Ministry of Culture, fostering cultural exchange and international friendship through various programs and initiatives."
+    ],
+    "changed": [
+      1773297193
+    ],
+    "created": [
+      1736248108
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Beneficiaries and Funding for Indo-Foreign Friendship Cultural Societies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Culture"
+    ],
+    "field_sector:name": [
+      "Art and Culture"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "IndoForeign Friendship",
+      "Cultural Societies",
+      "Ministry of Culture",
+      "Cultural Exchange",
+      "grants"
+    ],
+    "nid": [
+      603487587
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Grants-in-aid to Indo-Foreign Friendship Cultural Societies"
+    ],
+    "uuid": [
+      "fdbcca0d-dddb-4d56-bdbf-0a15398209ac"
+    ],
+    "vid": [
+      13061082
+    ],
+    "search_api_id": [
+      "entity:node/603487587:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/financial-assistance-development-buddhisttibetan-arts-and-culture"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      596
+    ],
+    "published_date": [
+      1736943297
+    ],
+    "body:value": [
+      "The dataset provides details of the financial assistance granted under the scheme for the development of Buddhist and Tibetan arts and culture, including funding allocations and beneficiary details."
+    ],
+    "changed": [
+      1773296460
+    ],
+    "created": [
+      1735896713
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Beneficiaries and Funding for BuddhistTibetan Arts Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Culture"
+    ],
+    "field_sector:name": [
+      "Art and Culture"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Buddhist Arts",
+      "Tibetan Culture",
+      "Ministry of Culture",
+      "financial assistance",
+      "Cultural Development"
+    ],
+    "nid": [
+      603481532
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Assistance for Development of Buddhist/Tibetan Arts and Culture"
+    ],
+    "uuid": [
+      "e3929c0b-8e00-4c5a-9d1a-086ba2a1675a"
+    ],
+    "vid": [
+      13061081
+    ],
+    "search_api_id": [
+      "entity:node/603481532:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/financial-assistance-allied-cultural-activities-dataset"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      314
+    ],
+    "published_date": [
+      1735300392
+    ],
+    "body:value": [
+      "This dataset contains information about the Financial Assistance for Allied Cultural Activities scheme offered by the Ministry of Culture, Government of India. The scheme aims to enhance audio-visual infrastructure for cultural performances, providing grants to not-for-profit organizations for procuring equipment and creating assets that improve spectator experiences during cultural events and festivals. Details include eligibility criteria, financial assistance structure, application process, and conditions for grantees. This initiative supports cultural enrichment and promotes accessibility to high-quality cultural performances."
+    ],
+    "changed": [
+      1773296894
+    ],
+    "created": [
+      1735297234
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Finance",
+      "e-Governance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Culture"
+    ],
+    "field_sector:name": [
+      "Festivals",
+      "Music",
+      "Painting",
+      "Theatre"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Fellowship",
+      "Arts",
+      "Scholarships",
+      "Allied Activities"
+    ],
+    "nid": [
+      603472309
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Assistance for Allied Cultural Activities Dataset"
+    ],
+    "uuid": [
+      "c57a2f38-2630-490d-9d45-718d91b54e0f"
+    ],
+    "vid": [
+      12900886
+    ],
+    "search_api_id": [
+      "entity:node/603472309:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/museum-grant-scheme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      370
+    ],
+    "published_date": [
+      1736509265
+    ],
+    "body:value": [
+      "The dataset provides details of the Museum Grant Scheme under the Ministry of Culture, supporting the development and modernization of museums across India, including funding and project details."
+    ],
+    "changed": [
+      1773296966
+    ],
+    "created": [
+      1736250289
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Museum Grant Beneficiaries and Disbursement Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Culture"
+    ],
+    "field_sector:name": [
+      "Art and Culture"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Museum Grant",
+      "Ministry of Culture",
+      "museums",
+      "Modernization"
+    ],
+    "nid": [
+      603487680
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Museum Grant Scheme"
+    ],
+    "uuid": [
+      "d4e5136b-f305-4ca8-90ef-d4abc9c6fdc8"
+    ],
+    "vid": [
+      13061076
+    ],
+    "search_api_id": [
+      "entity:node/603487680:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/festival-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2353
+    ],
+    "published_date": [
+      1736943297
+    ],
+    "body:value": [
+      "The dataset provides details of the Festival of India scheme under the Ministry of Culture, showcasing India's rich cultural heritage through events and festivals conducted globally."
+    ],
+    "changed": [
+      1773297043
+    ],
+    "created": [
+      1735896055
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Festival of India Events and Beneficiaries"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Culture"
+    ],
+    "field_sector:name": [
+      "Art and Culture"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Festival of India",
+      "Ministry of Culture",
+      "Cultural Heritage",
+      "International Festivals",
+      "Events"
+    ],
+    "nid": [
+      603481499
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Festival of India"
+    ],
+    "uuid": [
+      "76f2f566-669a-4c8b-8270-5c895ac6ff1c"
+    ],
+    "vid": [
+      13061078
+    ],
+    "search_api_id": [
+      "entity:node/603481499:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/senioryoung-artist-scheme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      462
+    ],
+    "published_date": [
+      1736943297
+    ],
+    "body:value": [
+      "The dataset provides information on financial support under the Senior/Young Artist Scheme to encourage artists in various cultural fields."
+    ],
+    "changed": [
+      1773297127
+    ],
+    "created": [
+      1736254562
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Artists",
+      "Ministry of Culture",
+      "Senior Artists",
+      "Fellowships"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Culture"
+    ],
+    "field_sector:name": [
+      "Art and Culture"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Senior Artists",
+      "Fellowships"
+    ],
+    "nid": [
+      603487851
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Senior/Young Artist Scheme"
+    ],
+    "uuid": [
+      "3be493b7-3739-4588-a7a5-d664d2c1dedc"
+    ],
+    "vid": [
+      12900879
+    ],
+    "search_api_id": [
+      "entity:node/603487851:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/financial-assistance-tagore-cultural-complexes-tcc"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      105
+    ],
+    "published_date": [
+      1736857913
+    ],
+    "body:value": [
+      "The dataset provides details of financial assistance granted under the Tagore Cultural Complexes (TCC) scheme for constructing and maintaining cultural complexes across India."
+    ],
+    "changed": [
+      1773297705
+    ],
+    "created": [
+      1736247198
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Beneficiaries and Funding for Tagore Cultural Complexes"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Culture"
+    ],
+    "field_sector:name": [
+      "Art and Culture"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Tagore Cultural Complexes",
+      "Cultural Infrastructure",
+      "Ministry of Culture",
+      "financial assistance",
+      "Cultural Development"
+    ],
+    "nid": [
+      603487536
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Financial Assistance for Tagore Cultural Complexes (TCC)"
+    ],
+    "uuid": [
+      "26efe152-5bad-401c-8110-10a12cbd2e4e"
+    ],
+    "vid": [
+      12996531
+    ],
+    "search_api_id": [
+      "entity:node/603487536:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/junior-fellowship-scheme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      261
+    ],
+    "published_date": [
+      1736858013
+    ],
+    "body:value": [
+      "The dataset provides information about the Junior Fellowship Scheme under the Ministry of Culture, which supports young artists and scholars in pursuing advanced research in various cultural fields."
+    ],
+    "changed": [
+      1773297339
+    ],
+    "created": [
+      1736249456
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Junior Fellowship Beneficiaries and Disbursement Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Culture"
+    ],
+    "field_sector:name": [
+      "Art and Culture"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Junior Fellowship",
+      "Ministry of Culture",
+      "Cultural Research",
+      "Fellowships",
+      "Cultural Development"
+    ],
+    "nid": [
+      603487642
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Junior Fellowship Scheme"
+    ],
+    "uuid": [
+      "2856ca85-2daf-41b8-ba66-f112e7d1d1da"
+    ],
+    "vid": [
+      13061075
+    ],
+    "search_api_id": [
+      "entity:node/603487642:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/senior-fellowship-scheme-data"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      112
+    ],
+    "published_date": [
+      1736857609
+    ],
+    "body:value": [
+      "Comprehensive dataset of the Senior Fellowship Scheme from the Ministry of Culture, including details on beneficiaries, fellowship categories, amounts disbursed, and the status of the scheme."
+    ],
+    "changed": [
+      1773297637
+    ],
+    "created": [
+      1735639145
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Fellowships ",
+      "Cultural Schemes",
+      "Ministry of Culture Initiatives"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Culture"
+    ],
+    "field_sector:name": [
+      "Art and Culture"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Senior Fellowship",
+      "Ministry of Culture",
+      "Cultural Schemes",
+      "Fellowship Data",
+      "Senior Fellowship",
+      "Ministry of Culture",
+      "Cultural Schemes",
+      "Fellowship Data"
+    ],
+    "nid": [
+      603477672
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Senior Fellowship Scheme Data"
+    ],
+    "uuid": [
+      "e74926be-6105-470b-94e9-f7344f370784"
+    ],
+    "vid": [
+      12898851
+    ],
+    "search_api_id": [
+      "entity:node/603477672:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/scheme-promotion-culture-science-spocs"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      867
+    ],
+    "published_date": [
+      1736943297
+    ],
+    "body:value": [
+      "The dataset provides information on grants under the Scheme for Promotion of Culture of Science (SPOCS) to encourage scientific temper and innovation."
+    ],
+    "changed": [
+      1773297439
+    ],
+    "created": [
+      1736254078
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "SPOCS Beneficiaries and Funding Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Culture"
+    ],
+    "field_sector:name": [
+      "Art and Culture"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Science Promotion",
+      "SPOCS",
+      "Scientific Temper"
+    ],
+    "nid": [
+      603487836
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Scheme for Promotion of Culture of Science (SPOCS)"
+    ],
+    "uuid": [
+      "4b770474-690a-4dda-9af2-16fcb7df9b6e"
+    ],
+    "vid": [
+      12900880
+    ],
+    "search_api_id": [
+      "entity:node/603487836:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/cultural-function-and-production-grant-cfpg"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      377
+    ],
+    "published_date": [
+      1736857678
+    ],
+    "body:value": [
+      "The dataset provides details of the Cultural Function and Production Grant scheme under the Ministry of Culture, supporting cultural events and productions across India."
+    ],
+    "changed": [
+      1773297506
+    ],
+    "created": [
+      1735641744
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "CFPG"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Culture"
+    ],
+    "field_sector:name": [
+      "Art and Culture"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Cultural Grants",
+      "Ministry of Culture",
+      "Cultural Productions",
+      "Events"
+    ],
+    "nid": [
+      603477763
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cultural Function and Production Grant (CFPG)"
+    ],
+    "uuid": [
+      "987b774d-955a-4d39-86af-a0df573cab55"
+    ],
+    "vid": [
+      12898854
+    ],
+    "search_api_id": [
+      "entity:node/603477763:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/repertory-grant-scheme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      328
+    ],
+    "published_date": [
+      1736943297
+    ],
+    "body:value": [
+      "The dataset provides information on grants under the Repertory Grant Scheme for supporting performing arts groups and institutions."
+    ],
+    "changed": [
+      1773297264
+    ],
+    "created": [
+      1736253698
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Repertory Grant Beneficiaries and Funding Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Culture"
+    ],
+    "field_sector:name": [
+      "Art and Culture"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Performing Arts",
+      "Repertory Grant",
+      "Ministry of Culture",
+      "Cultural Institutions "
+    ],
+    "nid": [
+      603487814
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Repertory Grant Scheme"
+    ],
+    "uuid": [
+      "ec5ca398-0b2f-44c9-beef-c1488e49d681"
+    ],
+    "vid": [
+      13061077
+    ],
+    "search_api_id": [
+      "entity:node/603487814:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/national-estimates-hiv-key-indicators-uncertainty-bounds"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1936
+    ],
+    "published_date": [
+      1385629125
+    ],
+    "body:value": [
+      "The data refers to National Estimates of HIV Key indicators with uncertainty Bounds and year-wise. The key indicators are Estimated Number of People Living with HIV (PLHIV) (Total, Adults 15+, Children under 15, Male and Female), Estimated Adult HIV Prevalence,% (Total, Male and Female), Estimated Number of Annual New HIV Infections (Total, Adults 15+, Children under 15), Estimated Number of Annual AIDS-related Deaths (Total, Adults 15+, Children under 15), Estimated ART Need (Adults 15+, Children under 15) and Estimated Number of Mothers needing Prevention of Parent to Child Transmission (PPTCT)."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385547240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "HIV Estimates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of AIDS Control",
+      "National AIDS Control Organisation(NACO)"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AIDS",
+      "Death",
+      "PPTCT",
+      "Annual",
+      "Infection",
+      "prevalence"
+    ],
+    "nid": [
+      89153
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "National estimates of HIV Key indicators with Uncertainty Bounds"
+    ],
+    "uuid": [
+      "3eaa6697-c25a-422a-bc48-6cdcfc3a9efb"
+    ],
+    "vid": [
+      7852646
+    ],
+    "view_count": [
+      1500
+    ],
+    "search_api_id": [
+      "entity:node/89153:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/details-antiretroviral-treatment-art-centre"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4501
+    ],
+    "published_date": [
+      1385624271
+    ],
+    "body:value": [
+      "The data refers to details of ART centre providing State, District, ART Centre, Address, Phone and email address."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385547780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "HIV/AIDS Treatment Facility Centres"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of AIDS Control",
+      "National AIDS Control Organisation(NACO)"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AIDS",
+      "HIV",
+      "Facility",
+      "Acquired",
+      "Immune",
+      "Deficiency",
+      "Immunodeficiency",
+      "Virus",
+      "Humman",
+      "Symdrome"
+    ],
+    "nid": [
+      87016
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Details of Antiretroviral Treatment (ART) centre"
+    ],
+    "uuid": [
+      "d6dc6794-238d-4503-bc96-9ec628b9f6e7"
+    ],
+    "vid": [
+      7844157
+    ],
+    "view_count": [
+      4127
+    ],
+    "search_api_id": [
+      "entity:node/87016:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-annual-aids-related-deaths-uncertainty-bounds"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1806
+    ],
+    "published_date": [
+      1385628803
+    ],
+    "body:value": [
+      "The data refers to State-wise Estimated Number of Annual AIDS-related Deaths with Uncertainty Bounds."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1385546820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "HIV Estimates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of AIDS Control",
+      "National AIDS Control Organisation(NACO)"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AIDS",
+      "Death",
+      "HIV",
+      "Acquired",
+      "Immune",
+      "Deficiency",
+      "Immunodeficiency",
+      "Virus",
+      "Humman",
+      "Symdrome"
+    ],
+    "nid": [
+      91636
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise Annual AIDS-related Deaths with Uncertainty Bounds"
+    ],
+    "uuid": [
+      "3d937071-d21e-4f1d-854d-49fb6f810ec9"
+    ],
+    "vid": [
+      7862210
+    ],
+    "view_count": [
+      1508
+    ],
+    "search_api_id": [
+      "entity:node/91636:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-annual-new-hiv-infection-among-adults-15-years-uncertainty-bounds"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1076
+    ],
+    "published_date": [
+      1385628351
+    ],
+    "body:value": [
+      "The data refers to State-wise Estimated Number of Annual New HIV Infection among Adults (15+ Years) With Uncertainty Bounds."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1385545620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "HIV Estimates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of AIDS Control",
+      "National AIDS Control Organisation(NACO)"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AIDS",
+      "HIV",
+      "Infection",
+      "Acquired",
+      "Immune",
+      "Deficiency",
+      "Syndrome",
+      "Immunodeficiency",
+      "Virus"
+    ],
+    "nid": [
+      91638
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise Annual New HIV Infection among Adults (15+ Years) With Uncertainty Bounds"
+    ],
+    "uuid": [
+      "90d783ef-4408-469c-987d-e2ce722dab70"
+    ],
+    "vid": [
+      7862214
+    ],
+    "view_count": [
+      866
+    ],
+    "search_api_id": [
+      "entity:node/91638:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-estimated-adult-15-49-years-hiv-prevalence-uncertainty-bounds"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1122
+    ],
+    "published_date": [
+      1385627658
+    ],
+    "body:value": [
+      "The data refers to State-wise Estimated Adult (15-49 Years) HIV Prevalence (in %) With Uncertainty Bounds. The adult (15-49 years) HIV prevalence is a significant indicator for determining the level and spread of HIV epidemic amongst the total population of the country. It is calculated as the aggregate of the number of adults (15-49 years) living with HIV in all States, divided by the total adult (15-49 years) population within a particular time period, expressed as percentage."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1385543220
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "HIV Estimates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of AIDS Control",
+      "National AIDS Control Organisation(NACO)"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AIDS",
+      "HIV",
+      "prevalence",
+      "Acquired",
+      "Immune",
+      "Deficiency",
+      "Syndrome",
+      "Immunodeficiency",
+      "Virus"
+    ],
+    "nid": [
+      91654
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise Estimated Adult (15-49 Years) HIV Prevalence (%) with Uncertainty Bounds"
+    ],
+    "uuid": [
+      "a0d5feec-af1a-4637-b3d2-23241b749008"
+    ],
+    "vid": [
+      7862310
+    ],
+    "view_count": [
+      864
+    ],
+    "search_api_id": [
+      "entity:node/91654:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-estimated-need-art-adult-15-years-uncertainty-bounds"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1379
+    ],
+    "published_date": [
+      1385628699
+    ],
+    "body:value": [
+      "The data refers to State-wise Estimated Need for ART (Adult 15+) With Uncertainty Bounds. To ensure the delivery of treatment to persons living with HIV, the estimates for total number of people needing treatment have been generated. These estimates are calculated considering the national guidelines for initiation of ART in adults. Up to the year 2008, this was based on CD4 count less than 200 cells/mm3 and from 2009-2011 at CD4 count less than 250 cells/mm3. National guidelines for initiation of ART in adults and adolescents were revised from 2012 at CD4 count less than 350 cells/mm3."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1385546580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "HIV Estimates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of AIDS Control",
+      "National AIDS Control Organisation(NACO)"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Adult",
+      "AIDS",
+      "HIV",
+      "Acquired",
+      "Immune",
+      "Deficiency",
+      "Immunodeficiency",
+      "Virus",
+      "Humman",
+      "Symdrome"
+    ],
+    "nid": [
+      91656
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise Estimated Need for ART (Adult 15+ years) With Uncertainty Bounds"
+    ],
+    "uuid": [
+      "c882d834-03c8-49f2-a69e-deb9c6cc021a"
+    ],
+    "vid": [
+      7862314
+    ],
+    "view_count": [
+      1180
+    ],
+    "search_api_id": [
+      "entity:node/91656:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-hiv-infections-uncertainty-bounds"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1271
+    ],
+    "published_date": [
+      1385628166
+    ],
+    "body:value": [
+      "The data refers to State-wise Estimated Number of HIV Infections (People living with HIV (PLHIV)-Adult & Children) With Uncertainty Bounds. Estimating the number of people living with HIV in a State is vital not only to assess the burden of the disease, but also to understand the future need for treatment and to plan testing programmes in specific geographical areas."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1385545320
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "HIV Estimates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of AIDS Control",
+      "National AIDS Control Organisation(NACO)"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Adult",
+      "Children"
+    ],
+    "nid": [
+      91689
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise HIV Infections with Uncertainty Bounds"
+    ],
+    "uuid": [
+      "81150874-cc0f-434a-b723-5f75fc0b9956"
+    ],
+    "vid": [
+      7862449
+    ],
+    "view_count": [
+      1054
+    ],
+    "search_api_id": [
+      "entity:node/91689:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-hiv-prevalence-different-population-groups-based-hiv-sentinel-surveillance"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2329
+    ],
+    "published_date": [
+      1385453685
+    ],
+    "body:value": [
+      "The data refers to year-wise and State-wise details on HIV prevalence (in %) among general population (Antenatal clinic (ANC) attendees), high risk group population (Female Sex Worker (FSW), Men having sex with Men (MSM), Trans-genders (TG), Injecting Drug Users (IDU) and bridge population (Single male migrant (SMM), Long distance truckers (LDT))."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1385450580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "HIV Surveillance"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of AIDS Control",
+      "National AIDS Control Organisation(NACO)"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AIDS",
+      "Female",
+      "Group",
+      "high",
+      "Male",
+      "men",
+      "Sex",
+      "Worker",
+      "Clinic",
+      "Distance",
+      "Migrant",
+      "Drug",
+      "Antenatal",
+      "Bridge",
+      "Risk",
+      "Sentel",
+      "Injecting",
+      "Truckers",
+      "Transgender"
+    ],
+    "nid": [
+      91691
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise HIV Prevalence in different population groups based on HIV Sentinel Surveillance"
+    ],
+    "uuid": [
+      "c13864fa-99d2-4b4a-a240-c5bc2b8e07ba"
+    ],
+    "vid": [
+      7862454
+    ],
+    "view_count": [
+      1975
+    ],
+    "search_api_id": [
+      "entity:node/91691:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-mothers-needing-pptct-uncertainty-bounds"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      953
+    ],
+    "published_date": [
+      1385627819
+    ],
+    "body:value": [
+      "The data refers to State-wise Estimated Number of Mothers Needing Prevention of Parent to Child Transmission of HIV (PPTCT) with Uncertainty Bounds. Parent to child transmission of HIV is the primary cause of new infections among children. PPTCT services has a triple benefit of saving the life of the woman, protecting her new born and protecting the family against orphan-hood."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1385544000
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "HIV Estimates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of AIDS Control",
+      "National AIDS Control Organisation(NACO)"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AIDS",
+      "child",
+      "HIV",
+      "transmission",
+      "Prevention",
+      "Parent"
+    ],
+    "nid": [
+      91697
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise Mothers Needing PPTCT with Uncertainty Bounds"
+    ],
+    "uuid": [
+      "6b8d775c-521c-4c93-9e2b-e39ecb0ad668"
+    ],
+    "vid": [
+      7862476
+    ],
+    "view_count": [
+      771
+    ],
+    "search_api_id": [
+      "entity:node/91697:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-need-anti-retro-viral-treatment-art-children-under-15-years-uncertainty-bounds"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      848
+    ],
+    "published_date": [
+      1385628568
+    ],
+    "body:value": [
+      "The data refers to State-wise Estimated Need for ART (Children under 15 Years) With Uncertainty Bounds."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1385546220
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "HIV Estimates"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of AIDS Control",
+      "National AIDS Control Organisation(NACO)"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "AIDS",
+      "HIV",
+      "Acquired",
+      "Immune",
+      "Deficiency",
+      "Syndrome",
+      "Immunodeficiency",
+      "Virus",
+      "Human"
+    ],
+    "nid": [
+      91699
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise Need for Anti-retro-viral Treatment (ART) (Children under 15 Years) with Uncertainty Bounds"
+    ],
+    "uuid": [
+      "919a9481-e558-4fc8-9c7d-7c6f704844ec"
+    ],
+    "vid": [
+      7862480
+    ],
+    "view_count": [
+      711
+    ],
+    "search_api_id": [
+      "entity:node/91699:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/principal-commodity-wise-traffic-handled-major-ports"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3938
+    ],
+    "published_date": [
+      1438578435
+    ],
+    "body:value": [
+      "Data refers to Principal Commodity wise Traffic Handled at Major Ports.  Various Principal commodities are POL and POL Products, Fertilizers and Fertilizer product, Iron Ore, Coal, Food Grain, Container etc. There are 12 Major Ports in the country. These are - Kolkata (including Dock complex at Haldia), Paradip, Visakhapatnam, Kamrajar (Ennore), Chennai, V.O. Chidambaranar on the East Coast and Cochin, New Mangalore, Mormugao, Jawaharlal Nehru, Mumbai and Kandla on the West Coast. All Major Ports except Kamrajar are administered by the respective Port Trusts, which are autonomous bodies."
+    ],
+    "changed": [
+      1675744102
+    ],
+    "created": [
+      1436850288
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Ports, Shipping and Waterways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Water ways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "container",
+      "Fertilizer",
+      "Iron",
+      "POL",
+      "Port",
+      "Principal",
+      "Foodgrain",
+      "Ore"
+    ],
+    "nid": [
+      317321
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Principal Commodity wise Traffic Handled at Major Ports"
+    ],
+    "uuid": [
+      "f0b4927b-13bf-486d-8a65-527851032fed"
+    ],
+    "vid": [
+      7894674
+    ],
+    "view_count": [
+      3397
+    ],
+    "search_api_id": [
+      "entity:node/317321:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/traffic-handled-major-ports-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2012
+    ],
+    "published_date": [
+      1437565487
+    ],
+    "body:value": [
+      "Data refers to the traffic handled in terms on overseas loaded/unloaded, coastal loaded/unloaded  and total traffic at major  ports in India.  There are 12 Major Ports in the country.  These are - Kolkata (including Dock complex at Haldia), Paradip, Visakhapatnam, Kamrajar (Ennore), Chennai, V.O. Chidambaranar on the East Coast and Cochin, New Mangalore, Mormugao, Jawaharlal Nehru, Mumbai and Kandla on the West Coast. All Major Ports except Kamrajar are administered by the respective Port Trusts, which are autonomous bodies."
+    ],
+    "changed": [
+      1718271943
+    ],
+    "created": [
+      0
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Port Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Ports, Shipping and Waterways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Water ways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Port",
+      "Traffic",
+      "Overseas",
+      "cargo",
+      "loaded"
+    ],
+    "nid": [
+      316621
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "title": [
+      "Traffic Handled at Major Ports in India"
+    ],
+    "uuid": [
+      "3622a98a-94d2-4174-8843-fcd8f873bf41"
+    ],
+    "vid": [
+      12356470
+    ],
+    "search_api_id": [
+      "entity:node/316621:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/overseas-cargo-principal-commodities-unloaded-and-loaded-country-major-ports"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      715
+    ],
+    "published_date": [
+      1629957265
+    ],
+    "body:value": [
+      "The catalog contains data related to overseas cargo of principal commodities handled at major ports unloaded and loaded by country."
+    ],
+    "changed": [
+      1675744047
+    ],
+    "created": [
+      1628675258
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Ports, Shipping and Waterways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Water ways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Port",
+      "cargo"
+    ],
+    "nid": [
+      6885801
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Overseas Cargo of Principal Commodities Unloaded and Loaded by Country at Major Ports"
+    ],
+    "uuid": [
+      "8ce0c343-61eb-4ba0-9ce3-87ede7b5fc82"
+    ],
+    "vid": [
+      7911281
+    ],
+    "view_count": [
+      139
+    ],
+    "search_api_id": [
+      "entity:node/6885801:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/average-turn-round-time-major-ports"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      798
+    ],
+    "published_date": [
+      1633946707
+    ],
+    "body:value": [
+      "It contains Average Turn Round Time of Major Ports in India. Turn Round Time (TRT) is The total time spent by a vessel at the port from its arrival at reporting station till its departure from the reporting station.  It thus includes pre-berthing waiting time, navigation time (inward movement and outward movement time), stay at working and non-working berths and shifting time.  However, the detention/idle time due to litigation, fire, repair/dry docking, delay in the decision regarding dismantling, etc. is not to be included. From 2019-20 as per revised TRT definition from Pilot boarding to de-boarding only."
+    ],
+    "changed": [
+      1774613070
+    ],
+    "created": [
+      0
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Shipping"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Ports, Shipping and Waterways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Water ways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "major",
+      "Port",
+      "Shipping",
+      "TRT"
+    ],
+    "nid": [
+      378881
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "title": [
+      "Average Turn Round Time of Major Ports"
+    ],
+    "uuid": [
+      "d30d64b2-9b85-4e71-8b4c-4dabcbfb15eb"
+    ],
+    "vid": [
+      12356496
+    ],
+    "search_api_id": [
+      "entity:node/378881:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/inland-waterways-transport-iwt"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4251
+    ],
+    "published_date": [
+      1445234424
+    ],
+    "body:value": [
+      "Inland waterways is defined as a stretch of water, not part of the sea, over which craft of a carrying capacity not less than 50 tonnes can navigate when normally loaded. This term covers both navigable rivers and lakes (natural water-courses, whether or not they have been improved for navigation purposes) and canals (waterways constructed primarily for the purpose of navigation).  The length of rivers and canals is measured in mid channel and length of lakes, as well as lagoons, is counted as the length between the most distant points between which the transport is performed.  An inland waterway forming a common frontier between two countries is reported by both. Inland water transport craft is the craft that having a minimum carrying capacity of 20 tonnes. "
+    ],
+    "changed": [
+      1774847456
+    ],
+    "created": [
+      1436875835
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Shipping"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Ports, Shipping and Waterways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Water ways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Inland",
+      "IWT",
+      "national",
+      "Port",
+      "Shipping",
+      "cargo",
+      "Movement",
+      "Waterway"
+    ],
+    "nid": [
+      318281
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Inland Waterways Transport (IWT)"
+    ],
+    "uuid": [
+      "f11c9633-0bfb-4d4c-b605-4644d85bc4e3"
+    ],
+    "vid": [
+      7894688
+    ],
+    "view_count": [
+      3018
+    ],
+    "search_api_id": [
+      "entity:node/318281:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/e-sankhyiki"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      0
+    ],
+    "published_date": [
+      1774613306
+    ],
+    "body:value": [
+      "eSankhyiki APIs provides macro indicator data published by National Statistical Office of India. Whether you're a researcher, policymaker, student, or citizen, this portal data provides platform to  explore India's official statistics. "
+    ],
+    "changed": [
+      1774613825
+    ],
+    "created": [
+      1774611846
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Official Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Statistics"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "esankhyiki",
+      "national accounts statistics"
+    ],
+    "nid": [
+      604642437
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "e-Sankhyiki "
+    ],
+    "uuid": [
+      "fbd6d362-7c49-4a61-9d93-61538974e667"
+    ],
+    "vid": [
+      14183585
+    ],
+    "search_api_id": [
+      "entity:node/604642437:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      8
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/bharatnet-servise-ready-gram-panchayat"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1548
+    ],
+    "published_date": [
+      1686062158
+    ],
+    "body:value": [
+      "The Catalog contains implementation status of BharatNet - District-wise Service Ready Gram Panchayat."
+    ],
+    "changed": [
+      1774867621
+    ],
+    "created": [
+      1686046133
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "BharatNet"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Communications",
+      "Department of Telecommunications (DOT)"
+    ],
+    "field_sector:name": [
+      "Telecom"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "BharatNet",
+      "Gram Panchayat"
+    ],
+    "nid": [
+      7514854
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "BharatNet Servise Ready Gram Panchayat"
+    ],
+    "uuid": [
+      "45d8849e-9edb-47b2-8d9f-465c82b057e0"
+    ],
+    "vid": [
+      11447900
+    ],
+    "search_api_id": [
+      "entity:node/7514854:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/foreign-direct-investment-fdi-equity-inflows"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      43195
+    ],
+    "published_date": [
+      1469786594
+    ],
+    "body:value": [
+      "Get data on Foreign Direct Investment (FDI) Equity Inflows for various sectors. Various Sectors are Metallurgical Industries, Mining, Power, Non-conventional Energy, Coal Production, Petroleum & Natural Gas, Boilers and Steam Generating Plants, Prime Mover, Electrical Equipments, Computer Software & Hardware, Electronics, Telecommunications, Information & Broadcasting (including Print Media), Automobile Industry, Air Transport (including Air Freight), Sea Transport, Ports, Railway Related Components, Industrial Machinery, Machine Tools, Agricultural Machinery, Earth-moving Machinery, Mechanical & Engineering Industries, Commercial, Office & Household Equipments, Medical and Surgical Appliances, Industrial Instruments, Scientific Instruments, Mathematical,surveying and Drawing Instruments, Fertilizers, Chemicals , Photographic, Dye-stuffs, Drugs & Pharmaceuticals, Textiles, Paper And Pulp , Sugar, Fermentation Industries, Food Processing Industries, Vegetable Oils And Vanaspati, Soaps, Cosmetics & Toilet Preparations, Rubber Goods, Leather,leather Goods And Pickers, Glue And Gelatin, Glass, Ceramics, Cement And Gypsum Products, Timber Products, Defence Industries, Consultancy Services, Services Sector, Hospital & Diagnostic Centres, Education, Hotel & Tourism, Trading, Retail Trading, Agriculture Services, Diamond,gold Ornaments, Tea And Coffee (processing & Warehousing Coffee & Rubber), Printing, Coir, Construction etc."
+    ],
+    "changed": [
+      1776056911
+    ],
+    "created": [
+      1469777363
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Foreign Direct Investment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department for Promotion of industry and Internal Trade"
+    ],
+    "field_sector:name": [
+      "Commerce"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commerce",
+      "FDI",
+      "Foreign",
+      "Industry",
+      "Investment"
+    ],
+    "nid": [
+      839421
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Foreign Direct Investment (FDI) Equity Inflows"
+    ],
+    "uuid": [
+      "9b89072e-4725-4cf3-afae-5f09d374a8a4"
+    ],
+    "vid": [
+      7895957
+    ],
+    "view_count": [
+      34469
+    ],
+    "search_api_id": [
+      "entity:node/839421:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

@@ -1,0 +1,4697 @@
+[
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-persons-killed-injured-accidents-caused-due-all-other-causes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      865
+    ],
+    "published_date": [
+      1389076797
+    ],
+    "body:value": [
+      "Data refers to state/UT wise number of persons killed, injured in Accidents caused due to all other causes. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253095
+    ],
+    "created": [
+      1388988480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Cause",
+      "Injured",
+      "Killed",
+      "Road",
+      "Accident"
+    ],
+    "nid": [
+      91535
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise number of persons killed, injured in Accidents caused due to all other causes"
+    ],
+    "uuid": [
+      "307d6b29-f3a6-40c0-856a-b6287af06b7c"
+    ],
+    "vid": [
+      7861755
+    ],
+    "view_count": [
+      760
+    ],
+    "search_api_id": [
+      "entity:node/91535:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-persons-killed-injured-accidents-caused-due-defect-condition-motor"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      802
+    ],
+    "published_date": [
+      1389076676
+    ],
+    "body:value": [
+      "Data refers to state/UT wise number of persons killed, injured in accidents caused due to Defect in Condition of Motor Vehicle. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253082
+    ],
+    "created": [
+      1388988480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Road",
+      "MoR",
+      "Accident"
+    ],
+    "nid": [
+      91537
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise number of persons killed, injured in Accidents caused due to Defect in Condition of Motor Vehicle"
+    ],
+    "uuid": [
+      "ab055f61-0661-4680-b117-2c9499c9b42c"
+    ],
+    "vid": [
+      7861764
+    ],
+    "view_count": [
+      708
+    ],
+    "search_api_id": [
+      "entity:node/91537:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-persons-killed-injured-accidents-caused-due-fault-cyclist"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      685
+    ],
+    "published_date": [
+      1389078301
+    ],
+    "body:value": [
+      "Data refers to state/UT wise number of persons killed, injured in Accidents caused due to Fault of Cyclist. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1484714524
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Road",
+      "Accident"
+    ],
+    "nid": [
+      91541
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise number of persons killed, injured in Accidents caused due to Fault of Cyclist"
+    ],
+    "uuid": [
+      "a2077219-90f7-4c4a-b1d4-5e0b95ee3a09"
+    ],
+    "vid": [
+      7861774
+    ],
+    "view_count": [
+      618
+    ],
+    "search_api_id": [
+      "entity:node/91541:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-persons-killed-injured-accidents-caused-due-fault-driver"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      884
+    ],
+    "published_date": [
+      1389078707
+    ],
+    "body:value": [
+      "Data refers to state/UT wise number of persons killed, injured in Accidents caused due to Fault of Driver. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253092
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Road",
+      "Accident"
+    ],
+    "nid": [
+      91543
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise number of persons killed, injured in Accidents caused due to Fault of Driver"
+    ],
+    "uuid": [
+      "2a7bb9d6-d750-4bf8-908c-676d14eff17c"
+    ],
+    "vid": [
+      7861784
+    ],
+    "view_count": [
+      784
+    ],
+    "search_api_id": [
+      "entity:node/91543:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-persons-killed-injured-accidents-caused-due-fault-pedestrian"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      859
+    ],
+    "published_date": [
+      1389078793
+    ],
+    "body:value": [
+      "Data refers to state/UT wise number of persons killed, injured in Accidents caused due to Fault of Pedestrian. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific (UNESCAP)."
+    ],
+    "changed": [
+      1513253079
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Road",
+      "Person",
+      "Accident"
+    ],
+    "nid": [
+      91545
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise number of persons killed, injured in Accidents caused due to Fault of Pedestrian"
+    ],
+    "uuid": [
+      "aab89e51-2299-4d1f-bd85-67ff0f0edd0b"
+    ],
+    "vid": [
+      7861794
+    ],
+    "view_count": [
+      763
+    ],
+    "search_api_id": [
+      "entity:node/91545:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-persons-killed-injured-accidents-caused-due-weather-condition"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1517
+    ],
+    "published_date": [
+      1389076931
+    ],
+    "body:value": [
+      "Data refers to state/UT wise number of persons killed, injured in Accidents caused due to Weather Condition. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1484714462
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Road",
+      "Accident"
+    ],
+    "nid": [
+      91547
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise number of persons killed, injured in Accidents caused due to Weather Condition"
+    ],
+    "uuid": [
+      "0acaf31d-cb40-4db9-b71d-9610e48faf56"
+    ],
+    "vid": [
+      7861804
+    ],
+    "view_count": [
+      1315
+    ],
+    "search_api_id": [
+      "entity:node/91547:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-valid-drivers-licences-issued"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      96834
+    ],
+    "published_date": [
+      1389253618
+    ],
+    "body:value": [
+      "The data refers to State/UT wise Number of Valid Drivers Licences Issued. Gender and Category wise breakup have also been provided in the dataset."
+    ],
+    "changed": [
+      1472639454
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Female",
+      "Male",
+      "professional"
+    ],
+    "nid": [
+      91549
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Number of Valid Drivers Licences Issued"
+    ],
+    "uuid": [
+      "2ced282c-b106-4398-9c9d-0af831ee1f64"
+    ],
+    "vid": [
+      7861829
+    ],
+    "view_count": [
+      96001
+    ],
+    "search_api_id": [
+      "entity:node/91549:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-vehicles-use-primary-permit-valid"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1047
+    ],
+    "published_date": [
+      1389253838
+    ],
+    "body:value": [
+      "The data refers to State/UT wise number of vehicles in use as per Primary Permit Valid. Vehicles in use have been categorized as Stage carriages, Contract carriages, Private Service Vehicles and Goods carriages."
+    ],
+    "changed": [
+      1472709702
+    ],
+    "created": [
+      1389002160
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Private",
+      "vehicle",
+      "contract",
+      "Carriage",
+      "Stage"
+    ],
+    "nid": [
+      91552
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise number of vehicles in use as per Primary Permit Valid"
+    ],
+    "uuid": [
+      "d70e5d20-3e50-4636-b034-46abcfbe88e0"
+    ],
+    "vid": [
+      7861839
+    ],
+    "view_count": [
+      997
+    ],
+    "search_api_id": [
+      "entity:node/91552:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-outlay-and-expenditure-roads-and-bridges"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1330
+    ],
+    "published_date": [
+      1388481084
+    ],
+    "body:value": [
+      "The data refers to state/UT wise outlay and expenditure on roads and bridges"
+    ],
+    "changed": [
+      1472709847
+    ],
+    "created": [
+      1388384940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Roads"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bridges",
+      "expenditure",
+      "Outlay",
+      "Road"
+    ],
+    "nid": [
+      91554
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Outlay and Expenditure on Roads and Bridges"
+    ],
+    "uuid": [
+      "aeac1d3d-1f02-46e9-9dae-f751deac4f35"
+    ],
+    "vid": [
+      7861849
+    ],
+    "view_count": [
+      1295
+    ],
+    "search_api_id": [
+      "entity:node/91554:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-percentage-share-total-registered-motor-vehicles"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2995
+    ],
+    "published_date": [
+      1389165039
+    ],
+    "body:value": [
+      "Get data on  State/UT wise Percentage Share in Total Registered Motor Vehicles  in India. "
+    ],
+    "changed": [
+      1513253074
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "vehicle",
+      "Registered",
+      "Motor"
+    ],
+    "nid": [
+      91556
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Percentage Share in Total Registered Motor Vehicles"
+    ],
+    "uuid": [
+      "5abdde29-6ef8-4bf3-8641-805eaf63a9a8"
+    ],
+    "vid": [
+      7861859
+    ],
+    "view_count": [
+      2808
+    ],
+    "search_api_id": [
+      "entity:node/91556:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-registered-motor-vehicles-1000-population"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5377
+    ],
+    "published_date": [
+      1389253027
+    ],
+    "body:value": [
+      "The data refers to State/UT wise Registered Motor Vehicles per 1,000 population"
+    ],
+    "changed": [
+      1472711360
+    ],
+    "created": [
+      1389002160
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Population",
+      "vehicle",
+      "Registered",
+      "Motor"
+    ],
+    "nid": [
+      91558
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Registered Motor Vehicles per 1000 population"
+    ],
+    "uuid": [
+      "5eec89e4-9391-4e3e-95b1-b53bf82d465a"
+    ],
+    "vid": [
+      7861867
+    ],
+    "view_count": [
+      5190
+    ],
+    "search_api_id": [
+      "entity:node/91558:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-revenue-realized-motor-vehicle-tax-commercial-vehicle-and-other-fees-passenger"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6673
+    ],
+    "published_date": [
+      1389254665
+    ],
+    "body:value": [
+      "The data refers to State/UT wise Revenue Realized from Motor Vehicle Tax, Commercial Vehicle and other fees, Passenger Tax, Goods Tax and Fines."
+    ],
+    "changed": [
+      1472710051
+    ],
+    "created": [
+      1389002160
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Fines",
+      "vehicle",
+      "Tax",
+      "Motor"
+    ],
+    "nid": [
+      91560
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Revenue Realized from Motor Vehicle Tax, Commercial Vehicle and other fees, Passenger Tax, Goods Tax and Fines"
+    ],
+    "uuid": [
+      "4854e7ad-ff3d-43c3-82ff-f96b31558a0d"
+    ],
+    "vid": [
+      7861882
+    ],
+    "view_count": [
+      6232
+    ],
+    "search_api_id": [
+      "entity:node/91560:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-statistics-persons-injured-road-accidents"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1630
+    ],
+    "published_date": [
+      1389180422
+    ],
+    "body:value": [
+      "The data refers to State/UT wise statistics of Persons Injured in road accidents. Dataset contains information like Total Number of Persons Injured in Road Accidents, Share of States/UTs in Total Number of Persons Injured in Road Accidents, Total Number of Persons Injured in Road Accidents Per Lakh Population, Total Number of Persons Injured in Road Accidents per 10,000 Vehicles, Total Number of Persons Injured in Road Accidents per 10,000 Km of Roads. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1398846350
+    ],
+    "created": [
+      1388988600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Road",
+      "Accident"
+    ],
+    "nid": [
+      91562
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise statistics of Persons Injured in road accidents"
+    ],
+    "uuid": [
+      "518b11fc-c1ff-481f-a602-e0e90793217b"
+    ],
+    "vid": [
+      7861886
+    ],
+    "view_count": [
+      1414
+    ],
+    "search_api_id": [
+      "entity:node/91562:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-statistics-persons-killed-road-accidents"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2051
+    ],
+    "published_date": [
+      1389180367
+    ],
+    "body:value": [
+      "The data refers to State/UT wise statistics of Persons Killed in road accidents. Dataset contains information like Total Number of Persons Killed in Road Accidents, Share of States/UTs in Total Number of Persons Killed in Road Accidents, Total Number of Persons Killed in Road Accidents Per Lakh Population, Total Number of Persons Killed in Road Accidents per 10,000 Vehicles, Total Number of Persons Killed in Road Accidents per 10,000 Km of Roads. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1398846350
+    ],
+    "created": [
+      1388988600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Road",
+      "Accident"
+    ],
+    "nid": [
+      91564
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise statistics of Persons Killed in road accidents"
+    ],
+    "uuid": [
+      "ac8a1f71-1c3c-435d-9628-304cb86dff9d"
+    ],
+    "vid": [
+      7861894
+    ],
+    "view_count": [
+      1718
+    ],
+    "search_api_id": [
+      "entity:node/91564:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-statistics-road-accidents"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5641
+    ],
+    "published_date": [
+      1389178187
+    ],
+    "body:value": [
+      "The data refers to State/UT wise statistics of road accidents. Dataset contains information like Total Number of Road Accidents, Share of States/UTs in Total Number of Road Accidents, Total Number of Accidents Per Lakh Population, Total Number of Road Accidents per 10,000 Vehicles, Total Number of Road Accidents per 10,000 Km of Roads. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1398846350
+    ],
+    "created": [
+      1388988600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Population",
+      "Road",
+      "vehicle",
+      "Accident"
+    ],
+    "nid": [
+      91566
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise statistics of road accidents"
+    ],
+    "uuid": [
+      "a7af77f1-5f8a-4738-85a9-988dc49a7e4f"
+    ],
+    "vid": [
+      7861902
+    ],
+    "view_count": [
+      5184
+    ],
+    "search_api_id": [
+      "entity:node/91566:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-surfaced-length-other-pwd-roads-width-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8841
+    ],
+    "published_date": [
+      1388472305
+    ],
+    "body:value": [
+      "The data refers to state/UT wise surfaced length of other PWD roads by width in India. According to width surfaced roads have been classified as Below Standard Single Lane, Standard Single Lane, Standard Double Lane and Standard Multi-Lane under two broad categories -Water Bound Macadum and Black Top/Cement Concrete."
+    ],
+    "changed": [
+      1398846397
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Roads"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Length",
+      "standard",
+      "Surfaced",
+      "Lane",
+      "Double",
+      "Multi"
+    ],
+    "nid": [
+      91568
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise surfaced length of other PWD roads by width in India"
+    ],
+    "uuid": [
+      "b33f5775-5504-4a1a-a7d1-93fca665acf9"
+    ],
+    "vid": [
+      7861919
+    ],
+    "view_count": [
+      8196
+    ],
+    "search_api_id": [
+      "entity:node/91568:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-surfaced-length-state-highways-india-width"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6380
+    ],
+    "published_date": [
+      1388469809
+    ],
+    "body:value": [
+      "The data refers to state/UT wise surfaced length of State Highways in India by width. According to width surfaced roads have been classified as Below Standard Single Lane, Standard Single Lane, Standard Double Lane and Standard Multi-Lane under two broad categories -Water Bound Macadum and Black Top/Cement Concrete"
+    ],
+    "changed": [
+      1398846397
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Roads"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Length",
+      "standard",
+      "Surfaced",
+      "Lane",
+      "Double",
+      "Multi"
+    ],
+    "nid": [
+      91573
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise surfaced length of State Highways in India by width"
+    ],
+    "uuid": [
+      "8c6034a5-cb91-4e78-8d30-a713bf300dca"
+    ],
+    "vid": [
+      7861939
+    ],
+    "view_count": [
+      6166
+    ],
+    "search_api_id": [
+      "entity:node/91573:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-and-surfaced-length-other-pwd-roads-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1194
+    ],
+    "published_date": [
+      1388472031
+    ],
+    "body:value": [
+      "The data refers to state/UT wise total and surfaced length of other PWD roads in India."
+    ],
+    "changed": [
+      1398846397
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Roads"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Length",
+      "Surfaced"
+    ],
+    "nid": [
+      91578
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise total and surfaced length of other PWD roads in India"
+    ],
+    "uuid": [
+      "4b0c0932-9eca-446e-afca-92a3b0339093"
+    ],
+    "vid": [
+      7861953
+    ],
+    "view_count": [
+      1175
+    ],
+    "search_api_id": [
+      "entity:node/91578:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-and-surfaced-length-panchayati-raj-roads-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      689
+    ],
+    "published_date": [
+      1388472661
+    ],
+    "body:value": [
+      "The data refers to state/UT wise total and surfaced length of Panchayati Raj roads (Zilla parishads, Village Panchayats and CD/Panchayat Samitis) in India."
+    ],
+    "changed": [
+      1398846428
+    ],
+    "created": [
+      1388384820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Roads"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Panchayat",
+      "village",
+      "CD",
+      "Samiti",
+      "Zilla",
+      "Parishad"
+    ],
+    "nid": [
+      91581
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise total and surfaced length of Panchayati Raj roads in India"
+    ],
+    "uuid": [
+      "e47cb486-7e5b-4ad7-9f2f-a1a817c5d421"
+    ],
+    "vid": [
+      7861962
+    ],
+    "view_count": [
+      604
+    ],
+    "search_api_id": [
+      "entity:node/91581:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-and-surfaced-length-project-roads-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1656
+    ],
+    "published_date": [
+      1388478050
+    ],
+    "body:value": [
+      "The data refers to state/UT wise total and surfaced length of Project roads in India."
+    ],
+    "changed": [
+      1398846397
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Roads"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Project",
+      "Roads",
+      "Urban",
+      "Surfaced"
+    ],
+    "nid": [
+      91583
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise total and surfaced length of Project roads in India"
+    ],
+    "uuid": [
+      "2954c6b2-80ae-41ee-87d8-d72a9e119221"
+    ],
+    "vid": [
+      7861973
+    ],
+    "view_count": [
+      1610
+    ],
+    "search_api_id": [
+      "entity:node/91583:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-and-surfaced-length-roads-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1605
+    ],
+    "published_date": [
+      1388468373
+    ],
+    "body:value": [
+      "The data refers to state/UT wise total and surfaced length of roads in India."
+    ],
+    "changed": [
+      1398846397
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Roads"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Length",
+      "Road",
+      "Surfaced"
+    ],
+    "nid": [
+      91586
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise total and surfaced length of roads in India"
+    ],
+    "uuid": [
+      "4209850d-b4f0-4da1-85e2-23b6045ef38e"
+    ],
+    "vid": [
+      7861985
+    ],
+    "view_count": [
+      1558
+    ],
+    "search_api_id": [
+      "entity:node/91586:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-and-surfaced-length-rural-roads-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3865
+    ],
+    "published_date": [
+      1388472560
+    ],
+    "body:value": [
+      "The data refers to state/UT wise total and surfaced length of Rural roads in India."
+    ],
+    "changed": [
+      1398846397
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Roads"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Length",
+      "Road",
+      "Rural",
+      "Surfaced"
+    ],
+    "nid": [
+      91589
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise total and surfaced length of Rural Roads in India"
+    ],
+    "uuid": [
+      "86ad6396-3e4b-40dc-adf2-cf393811e7e7"
+    ],
+    "vid": [
+      7861997
+    ],
+    "view_count": [
+      3769
+    ],
+    "search_api_id": [
+      "entity:node/91589:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-and-surfaced-length-state-highways-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2859
+    ],
+    "published_date": [
+      1388469487
+    ],
+    "body:value": [
+      "The data refers to state/UT wise total and surfaced length of State Highways in India."
+    ],
+    "changed": [
+      1398846397
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Roads"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Length",
+      "Highway"
+    ],
+    "nid": [
+      91592
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise total and surfaced length of State Highways in India"
+    ],
+    "uuid": [
+      "359adcea-ad27-4d2c-978a-21d403a1a277"
+    ],
+    "vid": [
+      7862009
+    ],
+    "view_count": [
+      2775
+    ],
+    "search_api_id": [
+      "entity:node/91592:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-and-surfaced-length-urban-roads-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1840
+    ],
+    "published_date": [
+      1388474198
+    ],
+    "body:value": [
+      "The data refers to state/UT wise total and surfaced length of Urban roads in India"
+    ],
+    "changed": [
+      1398846397
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Roads"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Road",
+      "Surface",
+      "Urban"
+    ],
+    "nid": [
+      91595
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise total and surfaced length of Urban roads in India"
+    ],
+    "uuid": [
+      "bd9c6079-4dc4-4ed6-bf61-5624a0ad536d"
+    ],
+    "vid": [
+      7862021
+    ],
+    "view_count": [
+      1744
+    ],
+    "search_api_id": [
+      "entity:node/91595:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-bus-fleet-and-buses-public-sector-srtus"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5990
+    ],
+    "published_date": [
+      1389248702
+    ],
+    "body:value": [
+      "The data refers to State/UT wise Total Bus Fleet and Buses in Public Sector (SRTUs)"
+    ],
+    "changed": [
+      1472642486
+    ],
+    "created": [
+      1389002040
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Public",
+      "Road",
+      "transport",
+      "Fleet",
+      "Bus",
+      "SRTU"
+    ],
+    "nid": [
+      91598
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Total Bus Fleet and Buses in Public Sector (SRTUs)"
+    ],
+    "uuid": [
+      "77788d07-06fb-4c1e-931b-6012fc565a0b"
+    ],
+    "vid": [
+      7862037
+    ],
+    "view_count": [
+      5674
+    ],
+    "search_api_id": [
+      "entity:node/91598:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-no-road-accidents"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6269
+    ],
+    "published_date": [
+      1389175240
+    ],
+    "body:value": [
+      "Get data related to state/UT wise road accidents. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253297
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Road",
+      "Person",
+      "Accident"
+    ],
+    "nid": [
+      91600
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise total no of road accidents"
+    ],
+    "uuid": [
+      "17f171e7-0773-4098-bf73-356ce3016f97"
+    ],
+    "vid": [
+      7862047
+    ],
+    "view_count": [
+      6065
+    ],
+    "search_api_id": [
+      "entity:node/91600:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-number-accidents-persons-killed-and-injured-road-accidents"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6838
+    ],
+    "published_date": [
+      1389173683
+    ],
+    "body:value": [
+      "Data contains state/UT wise total number of accidents, number of persons killed and number of persons injured in road accidents.Rural and Urban Area wise data on road accidents is also available under this catalog. It also contains data on accidents due to Hit & Run Cases, accidents by non-motorized vehicle/Commercial Vehicle, accidents in Other Roads type etc. r"
+    ],
+    "changed": [
+      1513252986
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "commercial",
+      "Injured",
+      "Killed",
+      "Road",
+      "Rural",
+      "Urban",
+      "vehicle",
+      "Accident",
+      "Case",
+      "Hit",
+      "Motorized"
+    ],
+    "nid": [
+      91602
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise number of accidents, persons killed and injured in road accidents"
+    ],
+    "uuid": [
+      "5c3e3300-b5d7-4982-bcba-9834f23760b2"
+    ],
+    "vid": [
+      7862081
+    ],
+    "view_count": [
+      6373
+    ],
+    "search_api_id": [
+      "entity:node/91602:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-number-fatal-road-accidents"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1518
+    ],
+    "published_date": [
+      1389174695
+    ],
+    "body:value": [
+      "Data refers to state/UT wise total number of Fatal road accidents. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253295
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "fatal",
+      "Road",
+      "Accident"
+    ],
+    "nid": [
+      91610
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise total number of Fatal road accidents"
+    ],
+    "uuid": [
+      "f510f523-7e63-44dd-aabf-1046f192f331"
+    ],
+    "vid": [
+      7862091
+    ],
+    "view_count": [
+      1273
+    ],
+    "search_api_id": [
+      "entity:node/91610:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-number-road-accidents-india-classified-according-types-vehicles-and"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4272
+    ],
+    "published_date": [
+      1389180718
+    ],
+    "body:value": [
+      "The data refers to state/UT wise total number of road accidents in India classified according to types of vehicles and objects primarily responsible. Vehicles and objects primarily responsible have been classified as Two-Wheelers, Auto-Rickshaws, Cars/Jeeps/Taxis,Buses,Trucks/Tempos/MAVs/Tractors, Other Motor Vehicles and Other Vehicles/Objects. Dataset contains information like total Number of Road Accidents, number of Persons Killed and Injured. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1398846350
+    ],
+    "created": [
+      1388988600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Car",
+      "Injured",
+      "Killed",
+      "Road",
+      "vehicle",
+      "Person",
+      "Jeep",
+      "Taxi",
+      "Bus",
+      "Tempo",
+      "Tractor",
+      "Accident",
+      "Autorickshaw",
+      "Truck",
+      "Wheeler",
+      "MAV"
+    ],
+    "nid": [
+      91612
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise total number of road accidents in India classified according to types of vehicles and objects primarily responsible"
+    ],
+    "uuid": [
+      "7ce20a4d-969c-4ea2-b803-5d5759cba153"
+    ],
+    "vid": [
+      7862095
+    ],
+    "view_count": [
+      3991
+    ],
+    "search_api_id": [
+      "entity:node/91612:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-number-road-accidents-national-highways"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3638
+    ],
+    "published_date": [
+      1389175413
+    ],
+    "body:value": [
+      "Data refers to state/UT wise total number of Road Accidents on National Highways. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253278
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Highway",
+      "Accident",
+      "Natial",
+      "Perss"
+    ],
+    "nid": [
+      91614
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Total Number of Road Accidents on National Highways"
+    ],
+    "uuid": [
+      "2cb9a892-c951-4eca-89ce-58614bb52e7d"
+    ],
+    "vid": [
+      7862109
+    ],
+    "view_count": [
+      3514
+    ],
+    "search_api_id": [
+      "entity:node/91614:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-number-road-accidents-state-highways"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1664
+    ],
+    "published_date": [
+      1389174442
+    ],
+    "body:value": [
+      "Get data on state/UT wise Road Accidents on State Highways. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253397
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Person",
+      "Highway",
+      "Accident"
+    ],
+    "nid": [
+      91616
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Total Number of Road Accidents on State Highways"
+    ],
+    "uuid": [
+      "f3298399-6364-4ac4-9e3d-e40dff2db40b"
+    ],
+    "vid": [
+      7862120
+    ],
+    "view_count": [
+      1557
+    ],
+    "search_api_id": [
+      "entity:node/91616:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-number-road-accidents-persons-killedinjured-fatal-accidents-due-auto"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2193
+    ],
+    "published_date": [
+      1389079394
+    ],
+    "body:value": [
+      "Data refers to state/UT wise total number of road accidents, persons killed/injured, fatal Accidents due to Auto rickshaws. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253289
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Accident"
+    ],
+    "nid": [
+      91618
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Total Number of Road Accidents, Persons Killed/Injured, Fatal Accidents due to Auto rickshaws"
+    ],
+    "uuid": [
+      "48896eea-5255-4c44-b8ba-f1cfc98518d1"
+    ],
+    "vid": [
+      7862130
+    ],
+    "view_count": [
+      2065
+    ],
+    "search_api_id": [
+      "entity:node/91618:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-number-road-accidents-persons-killedinjured-fatal-accidents-due-buses"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1828
+    ],
+    "published_date": [
+      1389078941
+    ],
+    "body:value": [
+      "Data refers to state/UT wise total number of road accidents, persons killed/injured, fatal accidents due to Buses. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253286
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Bus",
+      "Accident"
+    ],
+    "nid": [
+      91620
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Total Number of Road Accidents, Persons Killed/Injured, Fatal Accidents due to Buses"
+    ],
+    "uuid": [
+      "9ef40cbb-e762-42c1-a65f-fd7127aa5627"
+    ],
+    "vid": [
+      7862140
+    ],
+    "view_count": [
+      1680
+    ],
+    "search_api_id": [
+      "entity:node/91620:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-number-road-accidents-persons-killedinjured-fatal-accidents-due-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1633
+    ],
+    "published_date": [
+      1389079295
+    ],
+    "body:value": [
+      "Data refers to state/UT wise total number of road accidents, persons killed/injured, fatal Accidents due to Cars/Jeeps/Taxis. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253292
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Car",
+      "Injured",
+      "Killed",
+      "Jeep",
+      "Taxi",
+      "Accident"
+    ],
+    "nid": [
+      91622
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Total Number of Road Accidents, Persons Killed/Injured, Fatal Accidents due to Cars/Jeeps/Taxis"
+    ],
+    "uuid": [
+      "286a22d2-8450-409c-a76d-2345ab604c40"
+    ],
+    "vid": [
+      7862150
+    ],
+    "view_count": [
+      1493
+    ],
+    "search_api_id": [
+      "entity:node/91622:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-number-road-accidents-persons-killedinjured-fatal-accidents-due-other-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1099
+    ],
+    "published_date": [
+      1389079223
+    ],
+    "body:value": [
+      "Data refers to state/UT wise total number of road accidents, persons killed/injured, fatal Accidents due to Other Motor Vehicles. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253387
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "vehicle",
+      "Accident"
+    ],
+    "nid": [
+      91624
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Total Number of Road Accidents, Persons Killed/Injured, Fatal Accidents due to Other Motor Vehicles"
+    ],
+    "uuid": [
+      "30f3c6ae-3251-43f5-84c0-b5012e2d2170"
+    ],
+    "vid": [
+      7862160
+    ],
+    "view_count": [
+      1005
+    ],
+    "search_api_id": [
+      "entity:node/91624:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-number-road-accidents-persons-killedinjured-fatal-accidents-due-other"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1156
+    ],
+    "published_date": [
+      1389079163
+    ],
+    "body:value": [
+      "The data refers to state/UT wise total number of road accidents, persons killed/injured, fatal accidents due to other vehicles/objects. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253399
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Vehicles",
+      "Accident"
+    ],
+    "nid": [
+      91626
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Total Number of Road Accidents, Persons Killed/Injured, Fatal Accidents due to Other Vehicles/Objects"
+    ],
+    "uuid": [
+      "404b3561-4418-4f18-9c0b-71647f6ee8e4"
+    ],
+    "vid": [
+      7862170
+    ],
+    "view_count": [
+      1064
+    ],
+    "search_api_id": [
+      "entity:node/91626:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-number-road-accidents-persons-killedinjured-fatal-accidents-due"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1205
+    ],
+    "published_date": [
+      1389079017
+    ],
+    "body:value": [
+      "Data refers to state/UT wise total number of road accidents, persons killed/injured, fatal accidents due to Trucks/Tempos/MAVs/Tractors. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253275
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Tempo",
+      "Truck",
+      "MAV",
+      "Tracror"
+    ],
+    "nid": [
+      91628
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Total Number of Road Accidents, Persons Killed/Injured, Fatal Accidents due to Trucks/Tempos/MAVs/Tractors"
+    ],
+    "uuid": [
+      "bc8b7966-54ef-400c-8bf9-83159499fd6e"
+    ],
+    "vid": [
+      7862180
+    ],
+    "view_count": [
+      998
+    ],
+    "search_api_id": [
+      "entity:node/91628:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-number-road-accidents-persons-killedinjured-fatal-accidents-due-two"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3230
+    ],
+    "published_date": [
+      1389079087
+    ],
+    "body:value": [
+      "Data refers to state/UT wise total number of road accidents, persons killed/injured, fatal accidents due to Two Wheelers. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1513253384
+    ],
+    "created": [
+      1388988540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Accident",
+      "Wheeler"
+    ],
+    "nid": [
+      91630
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Total Number of Road Accidents, Persons Killed/Injured, Fatal Accidents due to Two Wheelers"
+    ],
+    "uuid": [
+      "f0f4ddf0-8f00-4a3b-80ce-116c10822fef"
+    ],
+    "vid": [
+      7862190
+    ],
+    "view_count": [
+      3108
+    ],
+    "search_api_id": [
+      "entity:node/91630:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-registered-motor-vehicles-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8617
+    ],
+    "published_date": [
+      1389242813
+    ],
+    "body:value": [
+      "The data refers to State/UT wise Total Registered Motor Vehicles in India. The data has been sourced from Road Transport Year Book-2011-12 and 2010-11."
+    ],
+    "changed": [
+      1398879283
+    ],
+    "created": [
+      1389002040
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "vehicle",
+      "Registered",
+      "Motor"
+    ],
+    "nid": [
+      91632
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Total Registered Motor Vehicles in India"
+    ],
+    "uuid": [
+      "c519bc58-7930-4bc3-86b1-5c62b02bc228"
+    ],
+    "vid": [
+      7862198
+    ],
+    "view_count": [
+      8462
+    ],
+    "search_api_id": [
+      "entity:node/91632:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-total-registered-motor-vehicles-various-categories"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6396
+    ],
+    "published_date": [
+      1389243222
+    ],
+    "body:value": [
+      "The data refers to State/UT wise Total Registered Motor Vehicles in various Categories.Multi-axled/ Articulated Vehicles/ Trucks and Lorries, Light Motor Vehicle (Goods),Buses,Taxis,Light Motor Vehicle (Passengers Auto) are under Transport Category and Two Wheelers,Cars,Jeeps,Omni Buses,Tractors,Trailers & Others are under Non Transport Category."
+    ],
+    "changed": [
+      1398855717
+    ],
+    "created": [
+      1389002040
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "transport",
+      "vehicle",
+      "Motor"
+    ],
+    "nid": [
+      91634
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT wise Total Registered Motor Vehicles in various Categories."
+    ],
+    "uuid": [
+      "c259eda7-74ce-4e9d-b017-f04cbd9b094b"
+    ],
+    "vid": [
+      7862207
+    ],
+    "view_count": [
+      6074
+    ],
+    "search_api_id": [
+      "entity:node/91634:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-details-incidence-deaths-and-injuries-due-police-firing"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1380
+    ],
+    "published_date": [
+      1381732254
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise details of cases of police firing. The various occasions for police firing that caused deaths and injuries are Riot Control Operations, Anti-Dacoity Operations, Firing Against Extremists And Terrorists, Firing Against Others and Lathi Charge."
+    ],
+    "changed": [
+      1441628735
+    ],
+    "created": [
+      1379419260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Police",
+      "Firing"
+    ],
+    "nid": [
+      91640
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise Details of Incidence, Deaths and Injuries due to Police Firing"
+    ],
+    "uuid": [
+      "87aa9aa3-f711-4916-9e40-73580f28d07d"
+    ],
+    "vid": [
+      7862223
+    ],
+    "view_count": [
+      1312
+    ],
+    "search_api_id": [
+      "entity:node/91640:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-distribution-deep-tubewells-according-source-energy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      301
+    ],
+    "published_date": [
+      1390978206
+    ],
+    "body:value": [
+      "The data refers to village wise number of Deep Tubewells according to various sources of energy. It includes details on sources like Electric pump, Solar pump, Diesel pump, Wind Mills and Manual/animal."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1390468680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      94350
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village wise distribution of deep tubewells according to source of energy"
+    ],
+    "uuid": [
+      "3a1f43b6-f4a5-4b77-9acb-6d8b9aea8982"
+    ],
+    "vid": [
+      7884508
+    ],
+    "view_count": [
+      287
+    ],
+    "search_api_id": [
+      "entity:node/94350:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-distribution-deep-tubewells-according-total-hours-pumping-operation"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      283
+    ],
+    "published_date": [
+      1390978291
+    ],
+    "body:value": [
+      "The data refers to village wise distribution of Deep Tubewells according to total hours of pumping operating during kharif and rabi seasons."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1390468680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      94363
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village wise distribution of deep tubewells according to total hours of pumping operation"
+    ],
+    "uuid": [
+      "7b6358cc-d23c-48ac-9456-535e1b94bd45"
+    ],
+    "vid": [
+      7884564
+    ],
+    "view_count": [
+      242
+    ],
+    "search_api_id": [
+      "entity:node/94363:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-distribution-deep-tubewells-cost-maintenance"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      700
+    ],
+    "published_date": [
+      1390977252
+    ],
+    "body:value": [
+      "The data refers to village wise number of Deep Tubewells according to the annual cost of maintenance."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1390468680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      94369
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village wise distribution of deep tubewells by cost of maintenance"
+    ],
+    "uuid": [
+      "f37bf044-7d4d-4c78-a8a1-ddb7a42a5538"
+    ],
+    "vid": [
+      7884590
+    ],
+    "view_count": [
+      688
+    ],
+    "search_api_id": [
+      "entity:node/94369:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-distribution-deep-tubewells-location-command-majormedium-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      240
+    ],
+    "published_date": [
+      1390978406
+    ],
+    "body:value": [
+      "The data refers to village wise distribution of Deep Tubewells by location in the command of Major/Medium Projects which includes Outside command, Inside command and Inside command for augmentation only."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1390468680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      94371
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village wise distribution of deep tubewells by location in the command of major/medium projects"
+    ],
+    "uuid": [
+      "b9defb16-b0fc-44ad-bd78-9bdd80d1376f"
+    ],
+    "vid": [
+      7884599
+    ],
+    "view_count": [
+      221
+    ],
+    "search_api_id": [
+      "entity:node/94371:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-distribution-deep-tubewells-type"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      359
+    ],
+    "published_date": [
+      1390970521
+    ],
+    "body:value": [
+      "The data refers to village wise details on number of Deep Tubewells by types. The different types of Deep Tubewells included are Pucca, Kutcha and Dug-cum borewell."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1390468680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      94377
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village wise distribution of deep tubewells by type"
+    ],
+    "uuid": [
+      "14b60b62-c658-4936-af47-f4f90e7d254a"
+    ],
+    "vid": [
+      7884625
+    ],
+    "view_count": [
+      342
+    ],
+    "search_api_id": [
+      "entity:node/94377:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-distribution-deep-tubewells-permanently-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      247
+    ],
+    "published_date": [
+      1390977772
+    ],
+    "body:value": [
+      "The data refers to village wise number of Deep Tubewells permanent not in use due to Salinity, Drying up, Destroyed beyond repair and Sinking."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1390468680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      94383
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village wise distribution of deep tubewells permanently not is use by reasons"
+    ],
+    "uuid": [
+      "0333c557-ad12-40df-93dc-d149215e8a4b"
+    ],
+    "vid": [
+      7884652
+    ],
+    "view_count": [
+      235
+    ],
+    "search_api_id": [
+      "entity:node/94383:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-distribution-deep-tubewells-temporary-not-use-reasons"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      247
+    ],
+    "published_date": [
+      1390977608
+    ],
+    "body:value": [
+      "The data refers to village wise number of Deep Tubewells temporarily not in use due to Non-availability of adequate power, Mechanical break-down and Less discharge of water."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1390468680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      94385
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village wise distribution of deep tubewells temporary not is use by reasons"
+    ],
+    "uuid": [
+      "9da3ab6b-c3b6-4005-8346-e923cfa3de22"
+    ],
+    "vid": [
+      7884661
+    ],
+    "view_count": [
+      229
+    ],
+    "search_api_id": [
+      "entity:node/94385:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-distribution-dugwells-according-depth-dugwells"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      375
+    ],
+    "published_date": [
+      1391074089
+    ],
+    "body:value": [
+      "The data refers to village wise distribution of dugwells according to the depth of the dugwells."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1390554840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      94390
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village wise Distribution of Dugwells according to depth of the Dugwells"
+    ],
+    "uuid": [
+      "c8caa440-8ca9-4374-bd7c-9eb2f83d51b5"
+    ],
+    "vid": [
+      7884683
+    ],
+    "view_count": [
+      353
+    ],
+    "search_api_id": [
+      "entity:node/94390:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/village-wise-distribution-dugwells-according-source-energy"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      384
+    ],
+    "published_date": [
+      1391073884
+    ],
+    "body:value": [
+      "The data refers to village wise number of dugwells according to various sources of energy. It includes details on sources like Electric pump, Solar pump, Diesel pump, Wind Mills and Manual/animal."
+    ],
+    "changed": [
+      1392366003
+    ],
+    "created": [
+      1390554840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Dugwell",
+      "irrigation",
+      "MI"
+    ],
+    "nid": [
+      94404
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Village wise Distribution of Dugwells according to source of energy"
+    ],
+    "uuid": [
+      "12e5f0a9-68e4-4622-8676-d8bcfbbf1689"
+    ],
+    "vid": [
+      7884743
+    ],
+    "view_count": [
+      377
+    ],
+    "search_api_id": [
+      "entity:node/94404:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

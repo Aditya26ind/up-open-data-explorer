@@ -1,0 +1,4767 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cumulative-physical-progress-under-bharat-nirman-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      555
+    ],
+    "published_date": [
+      1370434912
+    ],
+    "body:value": [
+      "The data refers to an overview of Cumulative Physical Progress under Bharat Nirman (up to March, 2012)."
+    ],
+    "changed": [
+      1487237842
+    ],
+    "created": [
+      1370434800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Physical Progress"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "connectivity",
+      "renewal",
+      "up-gradation"
+    ],
+    "nid": [
+      86938
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cumulative Physical Progress under Bharat Nirman"
+    ],
+    "uuid": [
+      "0be51bda-ac7c-40fe-a9c7-ff2b674a3783"
+    ],
+    "vid": [
+      7843939
+    ],
+    "view_count": [
+      527
+    ],
+    "search_api_id": [
+      "entity:node/86938:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cumulative-progress-made-under-serva-shiksha-abhiyan-ssa"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1658
+    ],
+    "published_date": [
+      1369287067
+    ],
+    "body:value": [
+      "The Sarva Shiksha Abhiyan (SSA) is India's main programme for universalization of elementary education (UEE). Its overall goals include universal access and retention, bridging of gender and social gaps in enrolment levels and enhancement of learning levels of all children. SSAs activities included opening up of new Primary and Upper Primary schools in habitations which do not have School facilities. Strengthening of existing school infrastructure with all weather proof building additional classrooms, drinking water facility, toilets and provided additional teachers to schools which had inadequate teachers. Thus SSA has contributed a massive school infrastructure to cover almost all the habitations expanding access and enabling enrolment in Schools."
+    ],
+    "changed": [
+      1436419248
+    ],
+    "created": [
+      1369194900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Elementary",
+      "Enrolment",
+      "School",
+      "SSA"
+    ],
+    "nid": [
+      86940
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cumulative Progress Made Under Serva Shiksha Abhiyan (SSA)"
+    ],
+    "uuid": [
+      "4ac6d0e6-91a4-46c6-8f3e-cad4b83e9ffd"
+    ],
+    "vid": [
+      7843944
+    ],
+    "view_count": [
+      1463
+    ],
+    "search_api_id": [
+      "entity:node/86940:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/current-details-various-stages-countrymission-wise-overseas-citizenship-india-oci-data"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2621
+    ],
+    "published_date": [
+      1386826788
+    ],
+    "body:value": [
+      "The data refers to country-wise daily details on overseas citizenship. The Constitution of India does not allow holding Indian citizenship and Citizenship of a foreign country simultaneously. Based on the recommendation of the High Level committee on Indian Diaspora, the Government of India decided to grant Overseas Citizenship of India (OCI). Persons of Indian Origin (PIOs) of certain category as has been specified in the Section 7A of the Citizenship Act, 1955 are eligible for registration as OCI. The Dataset contains current details on Country/Mission wise daily data on OCI Issued, Enquiries, Dispatched to missions, Granted, Image Scanned, Registered etc."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1386669300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Citizenship"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of Home"
+    ],
+    "field_sector:name": [
+      "Foreign Affairs",
+      "Visa"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Mission",
+      "OCI",
+      "PIO",
+      "Overseas",
+      "Costitution",
+      "Citizenship"
+    ],
+    "nid": [
+      86942
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Current Details on Various Stages of Country/Mission Wise Overseas Citizenship of India (OCI) Data on a Daily Basis"
+    ],
+    "uuid": [
+      "4adfbee1-b0d1-4b2c-bcda-5f2d3040b0fc"
+    ],
+    "vid": [
+      7843949
+    ],
+    "view_count": [
+      2303
+    ],
+    "search_api_id": [
+      "entity:node/86942:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/current-enrolment-across-different-education-level-higher-education"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4729
+    ],
+    "published_date": [
+      1368615806
+    ],
+    "body:value": [
+      "The data refers to details on enrolment across different education level in Higher Education based on National Sample Survey during 1995-96, 2007-08 and 2009-10."
+    ],
+    "changed": [
+      1436419251
+    ],
+    "created": [
+      1368537240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Higher Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "Survey"
+    ],
+    "nid": [
+      86946
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Current enrolment across different education level in Higher Education"
+    ],
+    "uuid": [
+      "860fdc20-6944-4130-9694-b22a658ecfca"
+    ],
+    "vid": [
+      7843961
+    ],
+    "view_count": [
+      4428
+    ],
+    "search_api_id": [
+      "entity:node/86946:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/current-members-rajya-sabha-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6231
+    ],
+    "published_date": [
+      1374130504
+    ],
+    "body:value": [
+      "Get data of the detailed profile of current members of Rajya Sabha such as name, state, party, address details and their biographical details. The Rajya Sabha or Council of States is the upper house of the Parliament of India. Members sit for six-year terms, with one third of the members retiring every two years.The Rajya Sabha meets in continuous sessions and, unlike the Lok Sabha, the lower house of Parliament, is not subject to dissolution."
+    ],
+    "changed": [
+      1519886466
+    ],
+    "created": [
+      1374054840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Rajya Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "House",
+      "MP",
+      "Parliament",
+      "Upper",
+      "Member",
+      "Council"
+    ],
+    "nid": [
+      86948
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Current Members of Rajya Sabha in English"
+    ],
+    "uuid": [
+      "52e0e174-1d9c-4493-81af-348436783543"
+    ],
+    "vid": [
+      7843968
+    ],
+    "view_count": [
+      5838
+    ],
+    "search_api_id": [
+      "entity:node/86948:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/current-members-rajya-sabha-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2414
+    ],
+    "published_date": [
+      1374130046
+    ],
+    "body:value": [
+      "Get data of detailed profile of current members of Rajya Sabha in Hindi such as name, state, party, address details and their biographical details. The Rajya Sabha or Council of States is the upper house of the Parliament of India. Members sit for six-year terms, with one third of the members retiring every two years.The Rajya Sabha meets in continuous sessions and, unlike the Lok Sabha, the lower house of Parliament, is not subject to dissolution.\n"
+    ],
+    "changed": [
+      1516168214
+    ],
+    "created": [
+      1374056640
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Members of Rajya Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "House",
+      "MP",
+      "Parliament",
+      "Upper",
+      "Member",
+      "Council"
+    ],
+    "nid": [
+      86950
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Current Members of Rajya Sabha in Hindi"
+    ],
+    "uuid": [
+      "d0b1ab9a-3dda-4daf-babd-b5bee860082e"
+    ],
+    "vid": [
+      7843973
+    ],
+    "view_count": [
+      2261
+    ],
+    "search_api_id": [
+      "entity:node/86950:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-aadhaar-generated-registrar-and-enrolment-agency"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      54250
+    ],
+    "published_date": [
+      1381480692
+    ],
+    "body:value": [
+      "The data refers to detailed information on the daily count of Total Aadhaar Generated, Enrolment Applications Rejected for each Registrar, Enrolment Agency combination. Count is reflecting only the last updated date data. Registrar and Enrolment Agency are responsible to do the enrolment of residents. This combination is unique for each enrolment. Aadhaar Generated and Rejected is calculated once UIDAI successfully validates an enrolment and confirms approval or rejection of enrolment application. If data is not available for any combination then it is represented as \"0\". The date for which the count refers to has been mentioned in the file name. The typical filename of the dataset is UIDAI-ENR-GEN-AGE-YYYYMMDD.csv, where YYYYMMDD connotes to the specific date for which the details of count has been mentioned in the dataset."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1381466100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Aadhaar"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog",
+      "Unique Identification Authority of India (UIDAI)"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Union/State Government Administration"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrollment",
+      "UIDAI",
+      "AADHAR",
+      "Unique",
+      "Identification"
+    ],
+    "nid": [
+      86952
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily Aadhaar Generated by Registrar and Enrolment Agency"
+    ],
+    "uuid": [
+      "09166454-6b65-42f0-91a4-bf20007acac7"
+    ],
+    "vid": [
+      7843975
+    ],
+    "view_count": [
+      53564
+    ],
+    "search_api_id": [
+      "entity:node/86952:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-birthday-list-lok-sabha-members-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1513
+    ],
+    "published_date": [
+      1379939341
+    ],
+    "body:value": [
+      "(English) This shows the birthday of the member of Lok Sabha on the present date."
+    ],
+    "changed": [
+      1487333275
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "English",
+      "Loksabha",
+      "Member",
+      "Birthday"
+    ],
+    "nid": [
+      86954
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily Birthday List of Lok Sabha Members (English)"
+    ],
+    "uuid": [
+      "13202821-eea9-418b-a68d-72e22fd57f5a"
+    ],
+    "vid": [
+      7843980
+    ],
+    "view_count": [
+      933
+    ],
+    "search_api_id": [
+      "entity:node/86954:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-birthday-list-lok-sabha-members-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1665
+    ],
+    "published_date": [
+      1381486094
+    ],
+    "body:value": [
+      "(Hindi) Shows the Birthday of the member of Lok Sabha on the present date."
+    ],
+    "changed": [
+      1487332266
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Hindi",
+      "Loksabha",
+      "Member",
+      "Birthday"
+    ],
+    "nid": [
+      86956
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily Birthday List of Lok Sabha Members (Hindi)"
+    ],
+    "uuid": [
+      "7519b5ab-dd55-47ad-9998-3e37ffbc7e83"
+    ],
+    "vid": [
+      7843985
+    ],
+    "view_count": [
+      1458
+    ],
+    "search_api_id": [
+      "entity:node/86956:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-birthday-list-rajya-sabha-members-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      840
+    ],
+    "published_date": [
+      1378199039
+    ],
+    "body:value": [
+      "(English) It shows the birthday list of Rajya Sabha members on the present date."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378099500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "English",
+      "Member",
+      "Rajyasabha",
+      "Birthday"
+    ],
+    "nid": [
+      86958
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily Birthday List of Rajya Sabha Members (English)"
+    ],
+    "uuid": [
+      "b7b7114f-f192-481f-bf64-63d1e4f85c79"
+    ],
+    "vid": [
+      7843990
+    ],
+    "view_count": [
+      762
+    ],
+    "search_api_id": [
+      "entity:node/86958:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-birthday-list-rajya-sabha-members-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      732
+    ],
+    "published_date": [
+      1378449813
+    ],
+    "body:value": [
+      "(Hindi) Shows the daily birthday list of Rajya Sabha members on the present date."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Hindi",
+      "Member",
+      "Rajyasabha",
+      "Birthday"
+    ],
+    "nid": [
+      86960
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily Birthday List of Rajya Sabha Members (Hindi)"
+    ],
+    "uuid": [
+      "87f312ec-9d7f-4ec9-9a5e-30fc40cbf270"
+    ],
+    "vid": [
+      7843995
+    ],
+    "view_count": [
+      694
+    ],
+    "search_api_id": [
+      "entity:node/86960:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-details-enrolments-processed"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10470
+    ],
+    "published_date": [
+      1381753808
+    ],
+    "body:value": [
+      "The data refers to Aadhaar Generated and Enrolment Application Rejected cases with respect to Registrar, Enrolment Agency, State, District, Sub district, Pin Code, Gender, Age, Residents providing email, Residents providing Mobile. State, District, Pin Code, Gender and Age is considered from the Enrolment information of resident. Aadhaar Generated and Rejected is calculated once UIDAI successfully validates an enrolment and confirms approval or rejection of enrolment application. File format used for data is CSV. If data is not available for any combination then it is represented as \"0\". The date for which the count refers to has been mentioned in the file name. The typical filename of the dataset is UIDAI-ENR-DETAIL-YYYYMMDD.csv, where YYYYMMDD connotes to the specific date for which the details of count has been mentioned in the dataset."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1381465920
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Aadhaar"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog",
+      "Unique Identification Authority of India (UIDAI)"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Union/State Government Administration"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Aadhaar",
+      "Agency",
+      "Enrollment",
+      "PINCODE",
+      "UIDAI",
+      "Authority",
+      "Unique",
+      "Identification"
+    ],
+    "nid": [
+      86962
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily Details of Enrolments Processed"
+    ],
+    "uuid": [
+      "3cff2bd6-1562-4196-9400-c8a7b45b7bad"
+    ],
+    "vid": [
+      7843998
+    ],
+    "view_count": [
+      9821
+    ],
+    "search_api_id": [
+      "entity:node/86962:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-list-lok-sabha-starred-questions-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      998
+    ],
+    "published_date": [
+      1379939070
+    ],
+    "body:value": [
+      "(English) This provides information on daily list of starred questions. Such questions are generally to be answered orally and is distinguished by an asterisk."
+    ],
+    "changed": [
+      1487335639
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Starred",
+      "English",
+      "Question",
+      "Loksabha"
+    ],
+    "nid": [
+      86964
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily List of Lok Sabha Starred Questions (English)"
+    ],
+    "uuid": [
+      "516f5ca6-c607-4618-a736-1789ac80766b"
+    ],
+    "vid": [
+      7844003
+    ],
+    "view_count": [
+      899
+    ],
+    "search_api_id": [
+      "entity:node/86964:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-list-lok-sabha-unstarred-questions-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1799
+    ],
+    "published_date": [
+      1379939057
+    ],
+    "body:value": [
+      "(English) This provides information on daily list of unstarred questions. Such questions are not called for oral answer in the House and the written answer to such a question is deemed to have been 'Laid on the Table'."
+    ],
+    "changed": [
+      1487335699
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Unstarred",
+      "English",
+      "Question",
+      "Loksabha"
+    ],
+    "nid": [
+      86966
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily List of Lok Sabha Unstarred Questions (English)"
+    ],
+    "uuid": [
+      "8ced83c5-dc0f-4af4-8675-400b2094722a"
+    ],
+    "vid": [
+      7844008
+    ],
+    "view_count": [
+      1470
+    ],
+    "search_api_id": [
+      "entity:node/86966:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-list-rajya-sabha-starred-questions-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      732
+    ],
+    "published_date": [
+      1378198987
+    ],
+    "body:value": [
+      "(English) This provides information on daily list of Rajya Sabha starred questions. Such questions are generally to be answered orally and is distinguished by an asterisk."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378099500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Rajyasabha",
+      "Session"
+    ],
+    "nid": [
+      86968
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily List of Rajya Sabha Starred Questions (English)"
+    ],
+    "uuid": [
+      "e700a2a3-d93c-4ee1-a048-e95ef1c34dc2"
+    ],
+    "vid": [
+      7844013
+    ],
+    "view_count": [
+      629
+    ],
+    "search_api_id": [
+      "entity:node/86968:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-list-rajya-sabha-unstarred-questions-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      638
+    ],
+    "published_date": [
+      1378198982
+    ],
+    "body:value": [
+      "(English) This provides information on daily list of Rajya Sabha unstarred questions. Such questions are not called for oral answer in the House and the written answer to such a question is deemed to have been Laid on the Table."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378099500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Rajyasabha",
+      "Laid",
+      "Table"
+    ],
+    "nid": [
+      86970
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily List of Rajya Sabha Unstarred Questions (English)"
+    ],
+    "uuid": [
+      "e1f291f5-7fda-488f-be94-8a32bdf477b6"
+    ],
+    "vid": [
+      7844018
+    ],
+    "view_count": [
+      570
+    ],
+    "search_api_id": [
+      "entity:node/86970:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-list-starred-questions-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      811
+    ],
+    "published_date": [
+      1378449762
+    ],
+    "body:value": [
+      "(Hindi) This provides information on daily list of Rajya Sabha Starred Questions. Such questions are generally to be answered orally and is distinguished by an asterisk."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Session",
+      "Rajya",
+      "Sabha"
+    ],
+    "nid": [
+      86972
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily List of Starred Questions (Hindi)"
+    ],
+    "uuid": [
+      "da00ada8-0dba-4067-bf9b-e90b0d79e297"
+    ],
+    "vid": [
+      7844023
+    ],
+    "view_count": [
+      789
+    ],
+    "search_api_id": [
+      "entity:node/86972:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-list-unstarred-questions-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      743
+    ],
+    "published_date": [
+      1378449758
+    ],
+    "body:value": [
+      "(Hindi) This provides information on daily list of Rajya Sabha Unstarred Questions. Such questions are not called for oral answer in the House and the written answer to such a question is deemed to have been Laid on the Table."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Session",
+      "Laid",
+      "Rajya",
+      "Sabha"
+    ],
+    "nid": [
+      86974
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily List of Unstarred Questions (Hindi)"
+    ],
+    "uuid": [
+      "c1d25a1d-a9c1-4156-80ca-637fa4bcd916"
+    ],
+    "vid": [
+      7844028
+    ],
+    "view_count": [
+      684
+    ],
+    "search_api_id": [
+      "entity:node/86974:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-synopsis-lok-sabha-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1043
+    ],
+    "published_date": [
+      1379939356
+    ],
+    "body:value": [
+      "(English) The daily synopsis contains a brief record of speeches of members made during Special Mention, Short Duration Discussions, Discussions on Bills, Motions or Resolutions, etc. It is not an authoritative record of the proceedings of Lok Sabha."
+    ],
+    "changed": [
+      1487332488
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bill",
+      "Resolution",
+      "Loksabha",
+      "Motion",
+      "Discussion",
+      "Mention"
+    ],
+    "nid": [
+      86976
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily Synopsis of Lok Sabha (English)"
+    ],
+    "uuid": [
+      "0903ffa4-549e-4cdd-865b-d68bf38731ac"
+    ],
+    "vid": [
+      7844033
+    ],
+    "view_count": [
+      987
+    ],
+    "search_api_id": [
+      "entity:node/86976:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-synopsis-lok-sabha-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1288
+    ],
+    "published_date": [
+      1381486101
+    ],
+    "body:value": [
+      "(Hindi) The Synopsis contains a brief record of speeches of Members made during Special Mention, Short Duration Discussions, Discussions on Bills, Motions or Resolutions, etc. It is not an authoritative record of the proceedings of Lok Sabha."
+    ],
+    "changed": [
+      1487332559
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bill",
+      "Resolution",
+      "Loksabha",
+      "Motion",
+      "Discussion",
+      "Mention"
+    ],
+    "nid": [
+      86978
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily Synopsis of Lok Sabha (Hindi)"
+    ],
+    "uuid": [
+      "d8307eb6-cac9-47c6-80ba-11005f0a9ff4"
+    ],
+    "vid": [
+      7844038
+    ],
+    "view_count": [
+      1168
+    ],
+    "search_api_id": [
+      "entity:node/86978:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-synopsis-rajya-sabha-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      935
+    ],
+    "published_date": [
+      1378199044
+    ],
+    "body:value": [
+      "(English) The synopsis contains a brief record of speeches of members made during Special Mention, Short Duration Discussions, Discussions on Bills, Motions or Resolutions, etc. It is not an authoritative record of the proceedings of Rajya Sabha."
+    ],
+    "changed": [
+      1728280531
+    ],
+    "created": [
+      1378099500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Resolution",
+      "bill",
+      "Motion",
+      "Discussion",
+      "Mention"
+    ],
+    "nid": [
+      86980
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily Synopsis of Rajya Sabha (English)"
+    ],
+    "uuid": [
+      "f79896be-ff02-4219-9a28-ce4b44ba83de"
+    ],
+    "vid": [
+      12709991
+    ],
+    "view_count": [
+      738
+    ],
+    "search_api_id": [
+      "entity:node/86980:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/daily-synopsis-rajya-sabha-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      808
+    ],
+    "published_date": [
+      1378449818
+    ],
+    "body:value": [
+      "(Hindi) The synopsis contains a brief record of speeches of Rajya Sabha members made during Special Mention, Short Duration Discussions, Discussions on Bills, Motions or Resolutions, etc. It is not an authoritative record of the proceedings of Rajya Sabha."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bill",
+      "Duration",
+      "Resolution",
+      "Hindi",
+      "Member",
+      "Special",
+      "Motion",
+      "Mention"
+    ],
+    "nid": [
+      86982
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Daily Synopsis of Rajya Sabha (Hindi)"
+    ],
+    "uuid": [
+      "ea416ff3-c9f9-4a1c-93bb-c23c4b51bd89"
+    ],
+    "vid": [
+      7844048
+    ],
+    "view_count": [
+      687
+    ],
+    "search_api_id": [
+      "entity:node/86982:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/date-wise-committee-meetings-lok-sabha-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      654
+    ],
+    "published_date": [
+      1379939397
+    ],
+    "body:value": [
+      "(English) The date-wise Committee Meetings schedule of Lok Sabha provides details of the meetings and agenda. It includes details only in respect of Parliamentary Committees in which Lok Sabha is represented."
+    ],
+    "changed": [
+      1487332603
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Loksabha",
+      "Parliamentary",
+      "Schedule"
+    ],
+    "nid": [
+      86986
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Date-wise Committee Meetings of Lok Sabha (English)"
+    ],
+    "uuid": [
+      "31dd061b-b07f-4de6-a31b-3bffc032f6d0"
+    ],
+    "vid": [
+      7844060
+    ],
+    "view_count": [
+      610
+    ],
+    "search_api_id": [
+      "entity:node/86986:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/date-wise-committee-meetings-lok-sabha-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1277
+    ],
+    "published_date": [
+      1381486129
+    ],
+    "body:value": [
+      "(Hindi) The Date-wise Committee Meetings Schedule of Lok Sabha provides details of the meetings and agenda. It includes details only in respect of Parliamentary Committees in which Lok Sabha is represented."
+    ],
+    "changed": [
+      1487332697
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "committee",
+      "Loksabha",
+      "Parliamentary"
+    ],
+    "nid": [
+      86988
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Date-wise Committee Meetings of Lok Sabha (Hindi)"
+    ],
+    "uuid": [
+      "14a88dd4-cb04-405e-9a0d-ae6e715bd605"
+    ],
+    "vid": [
+      7844065
+    ],
+    "view_count": [
+      1092
+    ],
+    "search_api_id": [
+      "entity:node/86988:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/date-wise-committee-meetings-rajya-sabha-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      469
+    ],
+    "published_date": [
+      1378199049
+    ],
+    "body:value": [
+      "(English) The Date-wise committee meetings schedule of Rajya Sabha provides the details of meetings and agenda. It includes details only in respect of Parliamentary Committees in which Rajya Sabha is represented."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378099500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "committee",
+      "Schedule"
+    ],
+    "nid": [
+      86990
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Date-wise Committee Meetings of Rajya Sabha (English)"
+    ],
+    "uuid": [
+      "585a6995-be10-4baf-910b-469e87f650f1"
+    ],
+    "vid": [
+      7844070
+    ],
+    "view_count": [
+      443
+    ],
+    "search_api_id": [
+      "entity:node/86990:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/date-wise-committee-meetings-rajya-sabha-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      750
+    ],
+    "published_date": [
+      1378449823
+    ],
+    "body:value": [
+      "(Hindi) The date-wise committee meetings schedule of Rajya Sabha provides the details of meetings and agenda. It includes details only in respect of Parliamentary Committees in which Rajya Sabha is represented."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Parliamentary",
+      "Schedule"
+    ],
+    "nid": [
+      86992
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Date-wise Committee Meetings of Rajya Sabha (Hindi)"
+    ],
+    "uuid": [
+      "23ee5b42-f997-433e-ac86-c987cc96adcc"
+    ],
+    "vid": [
+      7844075
+    ],
+    "view_count": [
+      725
+    ],
+    "search_api_id": [
+      "entity:node/86992:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/decadal-change-forest-cover"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1812
+    ],
+    "published_date": [
+      1387862694
+    ],
+    "body:value": [
+      "The data refers to decadal change in forest cover. Forest Cover refers to all lands more than one hectare in area, with a tree canopy density of more than 10 percent irrespective of ownership and legal status. Such lands may not necessarily be a recorded forest area. It also includes orchards, bamboo and palm."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1387449600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "environment",
+      "Forest",
+      "ISFR",
+      "satellite"
+    ],
+    "nid": [
+      86994
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Decadal Change in Forest Cover"
+    ],
+    "uuid": [
+      "4ee901c8-2290-44d5-80fc-a329d9de56ce"
+    ],
+    "vid": [
+      7844080
+    ],
+    "view_count": [
+      1667
+    ],
+    "search_api_id": [
+      "entity:node/86994:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/decentralised-grid-renewable-energy-systems-devices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3169
+    ],
+    "published_date": [
+      1365010916
+    ],
+    "body:value": [
+      "The data refers to state-wise data on renewable energy systems such as biogas plants, biomass gasifiers, solar photovolatic systems, SVP pumps, water pumping wind mills, solar cookers in rural and industrial areas."
+    ],
+    "changed": [
+      1506517068
+    ],
+    "created": [
+      1364973240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Non-Conventional Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biomass",
+      "Energy",
+      "hybrid",
+      "Off-Grid",
+      "Solar",
+      "SPV",
+      "village",
+      "Biogas",
+      "Pumps",
+      "Waste",
+      "Remote",
+      "Plant",
+      "Gasifier",
+      "Aerogen",
+      "Electrificatgion",
+      "Cooker",
+      "Photovoltaic",
+      "Waterpumping",
+      "Windmill"
+    ],
+    "nid": [
+      86996
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Decentralised / Off-grid Renewable Energy Systems / Devices"
+    ],
+    "uuid": [
+      "2e059271-735a-4d2e-99ce-3384f751e164"
+    ],
+    "vid": [
+      7844099
+    ],
+    "view_count": [
+      2924
+    ],
+    "search_api_id": [
+      "entity:node/86996:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/decline-child-population-6-14-years-selected-blocks-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1207
+    ],
+    "published_date": [
+      1382680478
+    ],
+    "body:value": [
+      "The data refers to details of Decline in Child Population (6-14 years) in selected blocks of selected districts for the surveyed states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission in eleven states and two union territories for 'Evaluation Report On Sarva Shiksha Abhiyan, 2010'. The reference period for the study was 2003 to 2007."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1382600520
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "Gross",
+      "Ratio"
+    ],
+    "nid": [
+      86998
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Decline in Child Population (6-14 years) in Selected Blocks - Based on Sample Survey"
+    ],
+    "uuid": [
+      "11adb946-dc67-4f3f-b010-9cbc11b4bec8"
+    ],
+    "vid": [
+      7844103
+    ],
+    "view_count": [
+      1184
+    ],
+    "search_api_id": [
+      "entity:node/86998:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/demand-and-supply-commodities-during-twelfth-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2041
+    ],
+    "published_date": [
+      1377501958
+    ],
+    "body:value": [
+      "The data refers to the projection of demand and supply of food grains and other food items during twelfth five year plan."
+    ],
+    "changed": [
+      1436419087
+    ],
+    "created": [
+      1377090840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Agricultural Produces"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commodity",
+      "Supply",
+      "Demand"
+    ],
+    "nid": [
+      87000
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Demand and Supply of Commodities during Twelfth Plan"
+    ],
+    "uuid": [
+      "878ac4b7-385a-49ee-a501-4954453a56b2"
+    ],
+    "vid": [
+      7844109
+    ],
+    "view_count": [
+      1795
+    ],
+    "search_api_id": [
+      "entity:node/87000:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/demand-petroleum-products"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3088
+    ],
+    "published_date": [
+      1370863140
+    ],
+    "body:value": [
+      "The data refers to details regarding demand for Petroleum Products for the years 201112, 201213, 201314, 201415, 201516, 201617. The details for the petroleum products are given in Million Metric Tonne Per Annum (MMTPA)."
+    ],
+    "changed": [
+      1436419167
+    ],
+    "created": [
+      1370688960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power & Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Petroleum",
+      "product",
+      "Demand",
+      "CAGR"
+    ],
+    "nid": [
+      87002
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Demand of Petroleum Products"
+    ],
+    "uuid": [
+      "2f70400e-8b88-4816-8873-689d8737c0bc"
+    ],
+    "vid": [
+      7844113
+    ],
+    "view_count": [
+      2950
+    ],
+    "search_api_id": [
+      "entity:node/87002:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/demographic-indicators"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6590
+    ],
+    "published_date": [
+      1357906673
+    ],
+    "body:value": [
+      "This statement gives state-wise information on key indicators relating to Population, fertility, mortality and current use of family planning methods."
+    ],
+    "changed": [
+      1566286986
+    ],
+    "created": [
+      1357728360
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Fertility",
+      "Mortality",
+      "Population",
+      "Indicator",
+      "Planning",
+      "Family"
+    ],
+    "nid": [
+      87004
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Demographic Indicators "
+    ],
+    "uuid": [
+      "2a1699ad-98b5-4f76-82a2-9a7bcdc6831b"
+    ],
+    "vid": [
+      7844120
+    ],
+    "view_count": [
+      6350
+    ],
+    "search_api_id": [
+      "entity:node/87004:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/dengue-serotyping-pcr-direct-rna-sample-month-june-2013-rajiv-gandhi-centre-biotechnology"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1564
+    ],
+    "published_date": [
+      1375253248
+    ],
+    "body:value": [
+      "This data shows Dengue Serotyping, PCR with Direct RNA Sample, in the month of June 2013 at Thiruvananthapuram, Kerala. This test was performed at the division of Laboratory Medicine & Molecular Diagnostics at Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram, Kerala."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1372307880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajiv Gandhi Centre for Biotechnology, Kerala"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India",
+      "Rajiv Gandhi Centre for Biotechnology (RGCB)"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Medicine",
+      "RGCB",
+      "molecular",
+      "Diagnostic",
+      "Laborory",
+      "Serotype"
+    ],
+    "nid": [
+      87006
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Dengue Serotyping, PCR with Direct RNA Sample in the Month of June 2013 at Rajiv Gandhi Centre for Biotechnology"
+    ],
+    "uuid": [
+      "168c0930-0da9-44ff-8a98-408342c83ce0"
+    ],
+    "vid": [
+      7844124
+    ],
+    "view_count": [
+      1405
+    ],
+    "search_api_id": [
+      "entity:node/87006:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/departmental-commercial-undertakings"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1951
+    ],
+    "published_date": [
+      1371472222
+    ],
+    "body:value": [
+      "It provides Ministry wise revenue expenditure."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1370589960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Union Budget 2013-14 - Expenditure Budget"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "finance",
+      "Provision"
+    ],
+    "nid": [
+      87008
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Departmental Commercial Undertakings"
+    ],
+    "uuid": [
+      "5e3668f0-31e2-4ba9-a89a-11e77e3fbe3e"
+    ],
+    "vid": [
+      7844129
+    ],
+    "view_count": [
+      1876
+    ],
+    "search_api_id": [
+      "entity:node/87008:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-budgetary-support-agriculture-and-allied-activities-sector-twelfth-five-year-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1028
+    ],
+    "published_date": [
+      1380804342
+    ],
+    "body:value": [
+      "The data refers to the gross budgetary support by departments excluding RKVY (Rashtriya Krishi Vikas Yojana) for the Twelfth Five Year Plan period."
+    ],
+    "changed": [
+      1484310863
+    ],
+    "created": [
+      1377091920
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Agricultural Research & Extension"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Gross",
+      "budgetary"
+    ],
+    "nid": [
+      87010
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross Budgetary Support in the Agriculture and Allied Activities Sector for the Twelfth Five Year Plan Period"
+    ],
+    "uuid": [
+      "31a0eb1a-426c-4da5-b139-8605548ff975"
+    ],
+    "vid": [
+      7844144
+    ],
+    "view_count": [
+      924
+    ],
+    "search_api_id": [
+      "entity:node/87010:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/details-adhoc-committees-rajya-sabha-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      839
+    ],
+    "published_date": [
+      1378198841
+    ],
+    "body:value": [
+      "(English) The data refers to details regarding the Adhoc Committees of Rajya Sabha and their members. It gives the Introduction, Composition, Reports, Rules, Meetings, Engagements, Bills/Petitions, etc."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378099560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "committee",
+      "Membership",
+      "Loksabha",
+      "Member",
+      "Joint"
+    ],
+    "nid": [
+      87012
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Details of Adhoc Committees of Rajya Sabha (English)"
+    ],
+    "uuid": [
+      "574cba15-1680-438a-80e0-99bdf3a1a629"
+    ],
+    "vid": [
+      7844148
+    ],
+    "view_count": [
+      817
+    ],
+    "search_api_id": [
+      "entity:node/87012:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/details-adhoc-committees-rajya-sabha-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1134
+    ],
+    "published_date": [
+      1378449620
+    ],
+    "body:value": [
+      "(Hindi) The data refers to details regarding the Adhoc Committees of Rajya Sabha and their members. It gives Introduction, Composition, Reports, Rules, Meetings, Engagements, Bills/Petitions, etc."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1378273200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "committee",
+      "Membership",
+      "Loksabha",
+      "Member",
+      "Joint"
+    ],
+    "nid": [
+      87014
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Details of Adhoc Committees of Rajya Sabha (Hindi)"
+    ],
+    "uuid": [
+      "b50380e7-b775-4d08-8f84-de8a1f905fc3"
+    ],
+    "vid": [
+      7844153
+    ],
+    "view_count": [
+      1095
+    ],
+    "search_api_id": [
+      "entity:node/87014:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/details-ayush-educational-institutions-and-their-capacity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2059
+    ],
+    "published_date": [
+      1376909713
+    ],
+    "body:value": [
+      "The data refers to data related to the details of AYUSH (Ayurveda, Yoga, Unani, Siddha, Homeopathy and Naturopathy) educational institutions and their capacity as on 1st April 2007."
+    ],
+    "changed": [
+      1436419090
+    ],
+    "created": [
+      1376733900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Ayurveda",
+      "Ayush",
+      "capacity",
+      "Homeopathy",
+      "Naturopathy",
+      "Siddha",
+      "Unani",
+      "Yoga"
+    ],
+    "nid": [
+      87018
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Details of AYUSH Educational Institutions and their Capacity"
+    ],
+    "uuid": [
+      "24654add-dec0-430d-9d06-512835a84c38"
+    ],
+    "vid": [
+      7844160
+    ],
+    "view_count": [
+      1958
+    ],
+    "search_api_id": [
+      "entity:node/87018:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-allocation-release-and-expenditure-nrdwp-fund"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7782
+    ],
+    "published_date": [
+      1366632042
+    ],
+    "body:value": [
+      "The data refers to district-wise allocation, release and expenditure of National Rural Drinking Water Programme (NRDWP) fund all over India."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Drinking Water"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Drinking Water and Sanitation"
+    ],
+    "field_sector:name": [
+      "Water and Sanitation",
+      "Water Resources",
+      "Drinking Water"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "Programme",
+      "Rural",
+      "support",
+      "Water",
+      "Drinking",
+      "WQMS"
+    ],
+    "nid": [
+      87602
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District-Wise Allocation / Release And Expenditure of NRDWP Fund"
+    ],
+    "uuid": [
+      "66fb0f09-64f4-4658-aeea-af69b314918b"
+    ],
+    "vid": [
+      7846078
+    ],
+    "view_count": [
+      7592
+    ],
+    "search_api_id": [
+      "entity:node/87602:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-crimes-committed-against-children"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5910
+    ],
+    "published_date": [
+      1381427469
+    ],
+    "body:value": [
+      "The data refers to details on district wise crimes against Children under various crime categories such as Murder, Rape, Kidnapping and Abduction, Foeticide, Abetment of suicide, Exposure and abandonment, Procuration of minor girls, Buying of girls for prostitution, Selling of girls for prostitution, Prohibition of child marriage act and Other Crimes."
+    ],
+    "changed": [
+      1508929344
+    ],
+    "created": [
+      1379419200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "Crime",
+      "Committed",
+      "Against"
+    ],
+    "nid": [
+      87607
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District-wise crimes committed against Children"
+    ],
+    "uuid": [
+      "39f612af-12f7-427c-b70f-8dca114a18ea"
+    ],
+    "vid": [
+      7846098
+    ],
+    "view_count": [
+      4820
+    ],
+    "search_api_id": [
+      "entity:node/87607:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-crimes-committed-against-schedule-caste"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4603
+    ],
+    "published_date": [
+      1381429465
+    ],
+    "body:value": [
+      "The data refers to district wise details on crimes committed against Schedule Caste during the years . The nature of such crime includes Murder, Rape, Kidnapping and Abduction, Dacoity, Robbery, Arson, Hurt, Prevention of atrocities (POA) Act, Protection of Civil Rights (PCR) Act and Other Crimes Against SCs."
+    ],
+    "changed": [
+      1471498764
+    ],
+    "created": [
+      1379419200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "SC",
+      "Caste",
+      "Scheduled"
+    ],
+    "nid": [
+      87609
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District-wise crimes committed against Schedule Caste"
+    ],
+    "uuid": [
+      "167254a5-15fc-4205-83d0-a49d6e432c29"
+    ],
+    "vid": [
+      7846108
+    ],
+    "view_count": [
+      4208
+    ],
+    "search_api_id": [
+      "entity:node/87609:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-crimes-committed-against-schedule-tribe"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1769
+    ],
+    "published_date": [
+      1381428441
+    ],
+    "body:value": [
+      "The data refers to district-wise crimes committed against Schedule Tribe. The nature of such crimes covered are Murder, Rape, Kidnapping and Abduction, Dacoity, Robbery, Arson, Hurt, Protection of Civil Rights (PCR) Act, Prevention of atrocities (POA) Act and Other Crimes Against STs."
+    ],
+    "changed": [
+      1471498790
+    ],
+    "created": [
+      1379419200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "SC",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      87611
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District-wise crimes committed against Schedule Tribe"
+    ],
+    "uuid": [
+      "0be16308-2cee-415b-b960-05e5d1f66d8f"
+    ],
+    "vid": [
+      7846118
+    ],
+    "view_count": [
+      1608
+    ],
+    "search_api_id": [
+      "entity:node/87611:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-crimes-committed-against-women"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      22121
+    ],
+    "published_date": [
+      1381468797
+    ],
+    "body:value": [
+      "The data refers to district wise details on crimes against women during the years . The nature of such crimes includes Rape, Kidnapping and Abduction, Dowry Death, Assault on women with intent to outrage her modesty, Insult to modesty of Women, Cruelty by Husband or his Relatives and Importation of Girls."
+    ],
+    "changed": [
+      1508929421
+    ],
+    "created": [
+      1379419200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Women",
+      "Committed",
+      "Against"
+    ],
+    "nid": [
+      87613
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District-wise crimes committed against Women"
+    ],
+    "uuid": [
+      "35f23052-3935-4890-9c1d-5027b5b65272"
+    ],
+    "vid": [
+      7846128
+    ],
+    "view_count": [
+      18949
+    ],
+    "search_api_id": [
+      "entity:node/87613:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-crimes-under-various-sections-indian-penal-code-ipc-crimes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      26282
+    ],
+    "published_date": [
+      1381430035
+    ],
+    "body:value": [
+      "The data refers to district wise details on crimes committed under Indian Penal Code (IPC) during the years . The nature of such crimes includes Murder, Attempt To Murder, Culpable Homicide Not Amounting To Murder, Rape, Custodial Rape, Other Rape, Kidnapping & Abduction, Kidnapping And Abduction Of Women And Girls, Kidnapping And Abduction Of Others, Dacoity, Preparation And Assembly For Dacoity, Robbery, Burglary, Theft, Auto Theft, Other Theft, Riots, Criminal Breach Of Trust, Cheating, Counterfeiting, Arson, Hurt/Grevious Hurt, Dowry Deaths, Assault On Women With Intent To Outrage Her Modesty, Insult To Modesty Of Women, Cruelty By Husband Or His Relatives, Importation Of Girls From Foreign Countries, Causing Death By Negligence and Other IPC Crimes."
+    ],
+    "changed": [
+      1471498788
+    ],
+    "created": [
+      1379419200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "code",
+      "IPC",
+      "Penal"
+    ],
+    "nid": [
+      87615
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District-wise crimes under various sections of Indian Penal Code (IPC) crimes"
+    ],
+    "uuid": [
+      "4d3cdae4-d27a-45e5-a823-0e3c5ed661de"
+    ],
+    "vid": [
+      7846138
+    ],
+    "view_count": [
+      20664
+    ],
+    "search_api_id": [
+      "entity:node/87615:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-distribution-deep-tubewell-according-depth-deep-tubewells"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      377
+    ],
+    "published_date": [
+      1390911604
+    ],
+    "body:value": [
+      "The data refers to district wise distribution of Deep Tubewells according to the depth of the Deep Tubewells."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1390468620
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      87619
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District-wise distribution of deep tubewell according to depth of the deep tubewells"
+    ],
+    "uuid": [
+      "ea3d275a-537a-4185-8744-62452c51919c"
+    ],
+    "vid": [
+      7846145
+    ],
+    "view_count": [
+      293
+    ],
+    "search_api_id": [
+      "entity:node/87619:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/mangrove-cover"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1483
+    ],
+    "published_date": [
+      1379676577
+    ],
+    "body:value": [
+      "The data refers to details of district-wise mangrove cover. Mangrove Cover means the area covered under mangrove vegetation as interpreted from remote sensing data. It is included in the forest cover"
+    ],
+    "changed": [
+      1409246487
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFRReport"
+    ],
+    "nid": [
+      87621
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Mangrove Cover"
+    ],
+    "uuid": [
+      "ef1c7acc-61b6-4340-946c-e44d17812e01"
+    ],
+    "vid": [
+      7846163
+    ],
+    "view_count": [
+      1312
+    ],
+    "search_api_id": [
+      "entity:node/87621:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-wise-season-wise-crop-production-statistics-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      303773
+    ],
+    "published_date": [
+      1369389052
+    ],
+    "body:value": [
+      "The data refers to district wise, crop wise, season wise and year wise data on crop covered area (Hectare) and production (Tonnes). The data is being used to study and analyse crop production, production contribution to district/State/country, Agro-climatic zone wise performance, and high yield production order for crops, crop growing pattern and diversification. The system is also a vital source for formulating crop related schemes and assessing their impacts."
+    ],
+    "changed": [
+      1625551845
+    ],
+    "created": [
+      1369028640
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crop Production Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agriculture and Farmers Welfare",
+      "Directorate of Economics and Statistics (DES)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Agricultural Produces"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Pattern",
+      "Production",
+      "Performance",
+      "Agro",
+      "Climatic",
+      "Growing",
+      "Diversification"
+    ],
+    "nid": [
+      87631
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "District-wise, season-wise crop production statistics"
+    ],
+    "uuid": [
+      "f4435c3b-96be-4002-9839-aa3897dc732b"
+    ],
+    "vid": [
+      7846185
+    ],
+    "view_count": [
+      284172
+    ],
+    "search_api_id": [
+      "entity:node/87631:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/diversification-crops-and-agricultural-income-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2192
+    ],
+    "published_date": [
+      1387428511
+    ],
+    "body:value": [
+      "The data refers to information on Diversification of Crops and Agricultural Income. It provides details of Income from Agriculture (per acre) Before and After Rural Roads\nfor the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Road",
+      "Rural",
+      "Bharat",
+      "Nirman"
+    ],
+    "nid": [
+      87633
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Diversification of Crops and Agricultural Income - Based on Sample Survey"
+    ],
+    "uuid": [
+      "7e1ccfae-bd66-4b6d-966e-45598d895f32"
+    ],
+    "vid": [
+      7846190
+    ],
+    "view_count": [
+      1996
+    ],
+    "search_api_id": [
+      "entity:node/87633:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/diversion-learning-time-children-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      735
+    ],
+    "published_date": [
+      1385707128
+    ],
+    "body:value": [
+      "The data refers to information on diversion from learning time of Children. Out of 17 sample states, students in 9 states reported they were involved in washing utensils, this was adversely affecting the learning of children. The data refers to details of children involvement and time spent (Hrs/Week) in washing utensils. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385641020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Children",
+      "CMDM",
+      "diversion",
+      "Scheme",
+      "Washing",
+      "Involvement",
+      "Utensil"
+    ],
+    "nid": [
+      87635
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Diversion from learning time of Children - Based on Sample Survey"
+    ],
+    "uuid": [
+      "f28c903c-dbc4-42ee-9bfd-4bd0ec6fbbde"
+    ],
+    "vid": [
+      7846196
+    ],
+    "view_count": [
+      575
+    ],
+    "search_api_id": [
+      "entity:node/87635:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/diversion-teaching-time-teachers-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      520
+    ],
+    "published_date": [
+      1385707213
+    ],
+    "body:value": [
+      "The data refers to information on diversion from teaching time of teachers. The data refers to Average Hours Spent per day per Teacher Engaged in the Arrangement of Provisions, Cooking and Serving in the sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 48 districts and 480 schools across 17 states of India for 'Performance Evaluation Report of Cooked Mid-Day Meal (CMDM), 2010'. The reference period for the study was 2000 to 2006."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1385641020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CMDM",
+      "diversion",
+      "Scheme",
+      "Provision",
+      "Serving",
+      "Teacher",
+      "Meal",
+      "Cook",
+      "Spent"
+    ],
+    "nid": [
+      87637
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Diversion from Teaching Time of Teachers - Based on Sample Survey"
+    ],
+    "uuid": [
+      "52ef0fd3-a1d8-49cf-9932-e4b4fd362ebe"
+    ],
+    "vid": [
+      7846202
+    ],
+    "view_count": [
+      481
+    ],
+    "search_api_id": [
+      "entity:node/87637:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

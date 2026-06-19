@@ -1,0 +1,5425 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-andhra-pradesh"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3531
+    ],
+    "published_date": [
+      1427522501
+    ],
+    "body:value": [
+      "Get data of Health Management Information System (HMIS) item wise and month-wise comparison of Various Indicators of the State Andhra Pradesh. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605519279
+    ],
+    "created": [
+      1427356163
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Andhra Pradesh"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222663
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Andhra Pradesh"
+    ],
+    "uuid": [
+      "bc81f585-259b-4538-9426-4fc9956a57ec"
+    ],
+    "vid": [
+      7891957
+    ],
+    "view_count": [
+      3425
+    ],
+    "search_api_id": [
+      "entity:node/222663:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-arunachal"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1516
+    ],
+    "published_date": [
+      1427718136
+    ],
+    "body:value": [
+      "Get data of Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State Arunachal Pradesh. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605518616
+    ],
+    "created": [
+      1427356230
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Arunachal Pradesh"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222683
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "124"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Arunachal Pradesh"
+    ],
+    "uuid": [
+      "c7066319-10ad-44a7-bb18-da5db10c83f9"
+    ],
+    "vid": [
+      7891981
+    ],
+    "view_count": [
+      1511
+    ],
+    "search_api_id": [
+      "entity:node/222683:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-assam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2695
+    ],
+    "published_date": [
+      1427711982
+    ],
+    "body:value": [
+      "Get data of Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State Assam. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605850037
+    ],
+    "created": [
+      1427356308
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Assam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222703
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "783"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Assam"
+    ],
+    "uuid": [
+      "a1b9fd53-26fe-433a-99d4-aa32821a12a3"
+    ],
+    "vid": [
+      7892017
+    ],
+    "view_count": [
+      2493
+    ],
+    "search_api_id": [
+      "entity:node/222703:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-bihar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7000
+    ],
+    "published_date": [
+      1427520282
+    ],
+    "body:value": [
+      "Get data of Health Management Information System (HMIS) itemwise and monthwise comparison of Various Indicators of the State Bihar. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605850039
+    ],
+    "created": [
+      1427356419
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Bihar"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222723
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "787"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Bihar"
+    ],
+    "uuid": [
+      "8279270e-79ba-4b46-a92c-ba178ea480e9"
+    ],
+    "vid": [
+      7892064
+    ],
+    "view_count": [
+      6565
+    ],
+    "search_api_id": [
+      "entity:node/222723:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-chandigarh"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      426
+    ],
+    "published_date": [
+      1430371270
+    ],
+    "body:value": [
+      "Get data on Health Management Information System (HMIS) item wise and month wise comparison of Various Indicators of the State Chandigarh. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems"
+    ],
+    "changed": [
+      1605849998
+    ],
+    "created": [
+      1427356495
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Chandigarh (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222743
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of Various Indicators of Chandigarh"
+    ],
+    "uuid": [
+      "c20450b7-adb4-4f01-a134-d05c2d704caf"
+    ],
+    "vid": [
+      7892072
+    ],
+    "view_count": [
+      407
+    ],
+    "search_api_id": [
+      "entity:node/222743:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-chhattisgarh"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3648
+    ],
+    "published_date": [
+      1427519226
+    ],
+    "body:value": [
+      "Get data of Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State Chhattisgarh. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) during October, 2008 to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system that has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605850064
+    ],
+    "created": [
+      1427356557
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222763
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "125"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Chhattisgarh"
+    ],
+    "uuid": [
+      "4579b204-ae26-4ef6-a931-3aad74430858"
+    ],
+    "vid": [
+      7892108
+    ],
+    "view_count": [
+      3355
+    ],
+    "search_api_id": [
+      "entity:node/222763:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/hmis-district-level-item-wise-and-month-wise-comparison-various-indicators-dadra-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      526
+    ],
+    "published_date": [
+      1427719872
+    ],
+    "body:value": [
+      "Get data of Health Management Information System (HMIS) item-wise and month-wise comparison of Various Indicators of the State Dadra & Nagar Haveli. District level data of various parameters have been provided here. Main indicators are Ante Natal Care Services ANC, Deliveries, Number of Caesarean C-Section deliveries performed, Pregnancy outcome & weight of new-born, Complicated pregnancies, Post - Natal Care, Medical Termination of Pregnancy (MTP), RTI/STI Cases, Family Planning, Child Immunization, Number of Vitamin A doses, Number of cases of Childhood Diseases reported, Blindness Control Programme, Patient Services, Laboratory Testing, Stock Position, Details of deaths reported with probable causes. Ministry of Health and Family Welfare launched the National Rural Health Mission (NRHM) to ensure necessary architectural corrections in the basic health care delivery system. A continuous flow of good quality information on inputs, outputs and outcome indicators facilitates monitoring of the objectives of NHM. To monitor the performance and quality of the health services being provided under the NRHM, the Ministry of Health & Family Welfare, Government of India, is putting in place several mechanisms that would strengthen the monitoring and evaluation systems, through performance statistics, surveys, community monitoring, quality assurance etc. HMIS is an information system launched during October, 2008 which has been specially designed to assist health departments, at all levels, in managing and planning health programmes. HMIS is defined as A tool which helps in gathering, aggregating, analyzing and then using the information generated for taking actions to improve performance of health systems."
+    ],
+    "changed": [
+      1605850036
+    ],
+    "created": [
+      1427356638
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Dadra and Nagar Haveli (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANC",
+      "child",
+      "Death",
+      "Delivery",
+      "Diseases",
+      "Health",
+      "Immunization",
+      "Laboratory",
+      "Management",
+      "Medical",
+      "Mission",
+      "Newborn",
+      "NRHM",
+      "position",
+      "Pregnancy",
+      "Programme",
+      "Rural",
+      "testing",
+      "blindness",
+      "RTI",
+      "Comparison",
+      "childhood",
+      "Information",
+      "Patient",
+      "STI",
+      "MTP",
+      "Planning",
+      "Natal",
+      "Care",
+      "Termination",
+      "Control",
+      "Vitamin",
+      "Family",
+      "Ante",
+      "Caesarean",
+      "Complicated",
+      "Pregnanicy",
+      "Dose"
+    ],
+    "nid": [
+      222783
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "HMIS district level item wise and month wise comparison of various indicators of Dadra & Nagar Haveli"
+    ],
+    "uuid": [
+      "35099aea-a517-43c2-9a75-a16ad87dc062"
+    ],
+    "vid": [
+      7892117
+    ],
+    "view_count": [
+      479
+    ],
+    "search_api_id": [
+      "entity:node/222783:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/trends-telephone-subscribers-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4922
+    ],
+    "published_date": [
+      1430984708
+    ],
+    "body:value": [
+      "Get Telephone subscribers trends in India.  Data shows the comparison of telephone subscribers trends on different parameters i.e Wireline Vs wireless, Public Vs Private Sectors, Rural Vs Urban Areas.  It also contains data of service area and operator wise telephone subscribers across India."
+    ],
+    "changed": [
+      1686062216
+    ],
+    "created": [
+      1430909598
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Telecom"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Communications",
+      "Department of Telecommunications (DOT)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Telecom"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Communication",
+      "Private",
+      "Public",
+      "Rural",
+      "Telecommunication",
+      "Urban",
+      "Wireless",
+      "Service",
+      "Telecom",
+      "Operator",
+      "Wirele"
+    ],
+    "nid": [
+      253823
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Trends of Telephone Subscribers in India"
+    ],
+    "uuid": [
+      "4552986b-81cd-4fdc-bee3-3e3338eb48dd"
+    ],
+    "vid": [
+      7892549
+    ],
+    "view_count": [
+      4178
+    ],
+    "search_api_id": [
+      "entity:node/253823:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/internet-and-broadband-subscribers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      13289
+    ],
+    "published_date": [
+      1430978487
+    ],
+    "body:value": [
+      "Data shows the trends of internet subscribers which includes wired, fixed Wireless and Mobile Wireless. Segment wise ( Broadband and Narrowband) figures have also been provided in the data. Broadband includes Wi-Fi, Wi-Max, Point-to-Point Radio & VSAT.\r\n"
+    ],
+    "changed": [
+      1718083888
+    ],
+    "created": [
+      1430910700
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Telecom"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Communications",
+      "Department of Telecommunications (DOT)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Telecom"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Broadband",
+      "Communication",
+      "Wireless",
+      "Wireline",
+      "Fixed",
+      "mobile",
+      "internet",
+      "Narrowband",
+      "Wired",
+      "subscriber"
+    ],
+    "nid": [
+      254123
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Internet and Broadband Subscribers"
+    ],
+    "uuid": [
+      "1590d434-5b78-4bef-b4e0-f6d1446dcb90"
+    ],
+    "vid": [
+      7892552
+    ],
+    "view_count": [
+      10818
+    ],
+    "search_api_id": [
+      "entity:node/254123:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/telecommunication-performance"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5909
+    ],
+    "published_date": [
+      1430975796
+    ],
+    "body:value": [
+      "Get data on Telecommunication performance in various parameters like total phones, wireline phones , wireless phones, phones in rural and urban area, public and private Phones. Data also contains percentage of these parameters to total phones, teledensity, and number of broadbands.\r\n"
+    ],
+    "changed": [
+      1690781872
+    ],
+    "created": [
+      1430911220
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Telecom"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Communications",
+      "Department of Telecommunications (DOT)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Telecom"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Broadband",
+      "Communication",
+      "Private",
+      "Public",
+      "Rural",
+      "Urban",
+      "Wireless",
+      "Wireline",
+      "Teledensity",
+      "Telecom",
+      "Connection"
+    ],
+    "nid": [
+      254203
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Telecommunication performance"
+    ],
+    "uuid": [
+      "fcd3db27-07eb-4f0f-8d45-34cad8b8e8bc"
+    ],
+    "vid": [
+      7892555
+    ],
+    "view_count": [
+      5381
+    ],
+    "search_api_id": [
+      "entity:node/254203:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1965"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      617
+    ],
+    "published_date": [
+      1493791133
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1965. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1493793259
+    ],
+    "created": [
+      1490249593
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim"
+    ],
+    "nid": [
+      2550481
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1965"
+    ],
+    "uuid": [
+      "0a860c5a-0a54-43d2-8c9f-318a65981f57"
+    ],
+    "vid": [
+      7897133
+    ],
+    "view_count": [
+      377
+    ],
+    "search_api_id": [
+      "entity:node/2550481:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1964"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      726
+    ],
+    "published_date": [
+      1493791102
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1964. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1493793011
+    ],
+    "created": [
+      1490336564
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "girls",
+      "Kidnapping",
+      "Robbery",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Victim",
+      "Forces"
+    ],
+    "nid": [
+      2551901
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1964"
+    ],
+    "uuid": [
+      "22f230f6-63ac-47bc-a3a1-28b0c55fcf49"
+    ],
+    "vid": [
+      7897137
+    ],
+    "view_count": [
+      389
+    ],
+    "search_api_id": [
+      "entity:node/2551901:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/basic-road-statistics-india-2013-14-and-2014-15"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      13008
+    ],
+    "published_date": [
+      1490684717
+    ],
+    "body:value": [
+      "Get data of Basic Road Statistics of India : 2013-14 and 2014-15. It provides comprehensive information on the total road network of the country. Road Statistics of India contains information on various categories of roads at National, State and Local (Municipal and Panchayat) levels. Apart from this, the information on plan allocation and expenditure on roads and an international comparison of road networks are also provided."
+    ],
+    "changed": [
+      1502692212
+    ],
+    "created": [
+      1490599596
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Basis Road Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Department",
+      "Length",
+      "Public",
+      "Rural",
+      "Urban",
+      "PWD",
+      "Highway",
+      "Work",
+      "Network"
+    ],
+    "nid": [
+      2554201
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Basic Road Statistics of India : 2013-14 and 2014-15"
+    ],
+    "uuid": [
+      "b7faf63a-6898-41eb-9625-1bfce2d8657a"
+    ],
+    "vid": [
+      7897142
+    ],
+    "view_count": [
+      11900
+    ],
+    "search_api_id": [
+      "entity:node/2554201:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1963"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      517
+    ],
+    "published_date": [
+      1493791112
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1963. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1493792362
+    ],
+    "created": [
+      1490605543
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim"
+    ],
+    "nid": [
+      2554221
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1963"
+    ],
+    "uuid": [
+      "9707031e-93c1-447a-8f21-cfe714a1f6f1"
+    ],
+    "vid": [
+      7897146
+    ],
+    "view_count": [
+      364
+    ],
+    "search_api_id": [
+      "entity:node/2554221:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/availability-infrastructure-collegeinstitution-aishe-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6160
+    ],
+    "published_date": [
+      1432097034
+    ],
+    "body:value": [
+      "Get data on Availability of Infrastructure in College/Institution according to AISHE Survey. information on availability of various infrastructures like Playground, Auditorium, Theatre, Library, Laboratory, Conference Hall, Health Center, Gymnasium/ Fitness Center, Indoor Stadium, Common Room, Computer Center, Cafeteria, Guest House, Separate Common Room exclusively for Girls, Solar Power Generation, Connectivity NKN, Connectivity NMEICT, Campus is differently abled friendly, Grievance Redressal Mechanism, Vigilance Cell, Equal Opportunity Cell, number of Hostels, Intake Capacity and number of students residing in hostels have been provided in the data."
+    ],
+    "changed": [
+      1432097381
+    ],
+    "created": [
+      1431453293
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AISHE Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "College",
+      "Computer",
+      "Conference",
+      "connectivity",
+      "Generation",
+      "Health",
+      "Institution",
+      "Laboratory",
+      "library",
+      "Room",
+      "Solar",
+      "AISHE",
+      "Girl",
+      "Intake",
+      "Playground",
+      "Auditorium",
+      "Theatre",
+      "Gymnasium",
+      "Cafeteria",
+      "Hostels",
+      "Stadium",
+      "Common",
+      "Indoor",
+      "Separate",
+      "Fitness",
+      "Exclusively",
+      "NKN",
+      "NMEICT",
+      "Vigilance."
+    ],
+    "nid": [
+      258123
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Availability of Infrastructure in College/Institution (AISHE Survey)"
+    ],
+    "uuid": [
+      "81956913-aa65-46e6-9a3d-2fe2e49cd2a6"
+    ],
+    "vid": [
+      7894365
+    ],
+    "view_count": [
+      5728
+    ],
+    "search_api_id": [
+      "entity:node/258123:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/education-loan-aishe-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6007
+    ],
+    "published_date": [
+      1440044935
+    ],
+    "body:value": [
+      "Get data regarding Education Loan according to AISHE survey. Government of India in consultation with Reserve Bank of India (RBI) and Indian Bankers Association (IBA) has framed a Comprehensive Educational Loan Scheme to provide Interest Subsidy to ensure that no deserving student in the Country is deprived of higher education for want of finances. The new scheme covers all type of courses including professional courses in schools and colleges in India."
+    ],
+    "changed": [
+      1440132339
+    ],
+    "created": [
+      1431453563
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AISHE Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bank",
+      "College",
+      "Education",
+      "Interest",
+      "Loan",
+      "RBI",
+      "Reserve",
+      "professional",
+      "School",
+      "Student",
+      "Subsidy",
+      "AISHE",
+      "IBA",
+      "Association",
+      "Banker",
+      "Deserving",
+      "Deprived"
+    ],
+    "nid": [
+      258163
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Education loan (AISHE Survey)"
+    ],
+    "uuid": [
+      "8e437767-b176-406f-ae81-b32d1aed0c45"
+    ],
+    "vid": [
+      7894371
+    ],
+    "view_count": [
+      5262
+    ],
+    "search_api_id": [
+      "entity:node/258163:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/educational-accreditation-aishe-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1393
+    ],
+    "published_date": [
+      1440397296
+    ],
+    "body:value": [
+      "Educational accreditation is a type of quality assurance process under which services and operations of educational institutions or programs are evaluated by an external body to determine if applicable standards are met. If standards are met, accredited status is granted by the agency. The National Assessment and Accreditation Council (NAAC) is an organisation that assesses and accredits institutions of higher education in India. It is an autonomous body funded by University Grants Commission of Government of India headquartered in Bangalore. For the purpose of the survey, only those agencies, which accreditate the educational institutions are covered.\r\n"
+    ],
+    "changed": [
+      1440397296
+    ],
+    "created": [
+      1431453630
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AISHE Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Assessment",
+      "Education",
+      "Grant",
+      "Institution",
+      "NAAC",
+      "quality",
+      "University",
+      "UGC",
+      "AISHE",
+      "Commission",
+      "Accreditation",
+      "Assurance",
+      "Council"
+    ],
+    "nid": [
+      258183
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Educational Accreditation (AISHE Survey)"
+    ],
+    "uuid": [
+      "04daa126-4f27-4222-bd00-c9c782fd7cff"
+    ],
+    "vid": [
+      7894375
+    ],
+    "view_count": [
+      1187
+    ],
+    "search_api_id": [
+      "entity:node/258183:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gender-parity-index-gpi-higher-education-aishe-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4867
+    ],
+    "published_date": [
+      1434013719
+    ],
+    "body:value": [
+      "Gender Parity Index (GPI) in higher education is calculated for 18-23 years of age group. The ratio of the female to male in higher education measures progress towards gender equity and the level of learning opportunities available for women in relation to those available to men. It serves also as a significant indicator of the empowerment of women in society. The data provides state-wise gender parity index for all categories, SC and ST.\r\n"
+    ],
+    "changed": [
+      1434013719
+    ],
+    "created": [
+      1431453681
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AISHE Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Female",
+      "Gender",
+      "Male",
+      "Women",
+      "AISHE",
+      "GPI",
+      "Parity",
+      "Empowerment",
+      "Equity",
+      "Ratio"
+    ],
+    "nid": [
+      258203
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gender Parity Index (GPI) in higher education (AISHE Survey)"
+    ],
+    "uuid": [
+      "b69be054-42fa-4d46-b792-39be98787481"
+    ],
+    "vid": [
+      7894379
+    ],
+    "view_count": [
+      4004
+    ],
+    "search_api_id": [
+      "entity:node/258203:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/institutions-aishe-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      23517
+    ],
+    "published_date": [
+      1432267670
+    ],
+    "body:value": [
+      "Get institution wise information according to AISHE survey. During 2010-11 the lists of all the Universities and Stand-alone Institutions have been prepared by adopting the following method: Consulting the websites of the State Government Departments, Ministries and Institutions. Consulting all the Central Ministries, Councils and State Governments for providing the list of Institutions under their control. Different colleges are regulated with different regulatory bodies. There are some colleges whose programmes are recognised by more than one regulatory body. To avoid duplication or omission, University was identified as best source to prepare the list of colleges. Thus, College list was dynamically generated through University during the AISHE 2010-11. ??From 2011-12 onwards, following mechanism was adopted to update the list. List of Universities through State Governments, Central Ministries, UGC and self disclosure by the Universities, which is to be verified by the Act of the University.?List of Colleges through Universities. List of Stand Alone Institutions through respective Councils, State Governments and Central Ministries. An online module has been developed for this purpose. Apart from addition and deletion, module has been developed to affiliate and de-affiliate colleges which maintain the identity of the college even after shifting from one University to other. A provision has also been made for those colleges which are upgraded to University so that there is always a backward linkage."
+    ],
+    "changed": [
+      1437539011
+    ],
+    "created": [
+      1431453721
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AISHE Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "College",
+      "Grant",
+      "Institute",
+      "Survey",
+      "University",
+      "UGC",
+      "AISHE",
+      "Commission",
+      "Standalone"
+    ],
+    "nid": [
+      258223
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Institutions (AISHE Survey)"
+    ],
+    "uuid": [
+      "f67f96da-9ba0-48d0-98f6-97084b0a2c24"
+    ],
+    "vid": [
+      7894386
+    ],
+    "view_count": [
+      20625
+    ],
+    "search_api_id": [
+      "entity:node/258223:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/list-colleges-aishe-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      38296
+    ],
+    "published_date": [
+      1439787339
+    ],
+    "body:value": [
+      "College means any Institution, whether known as such or by any other name which provides for a course of study for obtaining any qualification from a university and which, in accordance with the rules and regulations of such university, is recognised as competent to provide for such course of study and present students undergoing such course of study for the examination for the award of such qualification. \r\n"
+    ],
+    "changed": [
+      1439787339
+    ],
+    "created": [
+      1431453770
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AISHE Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "College",
+      "Course",
+      "Institution",
+      "Student",
+      "Survey",
+      "University",
+      "AISHE",
+      "Examination",
+      "Qualification",
+      "Study"
+    ],
+    "nid": [
+      258243
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "List of colleges (AISHE Survey)"
+    ],
+    "uuid": [
+      "48d9c89e-e08b-46f1-b019-96ea5d5b1748"
+    ],
+    "vid": [
+      7894390
+    ],
+    "view_count": [
+      32287
+    ],
+    "search_api_id": [
+      "entity:node/258243:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/non-teaching-staff-aishe-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4794
+    ],
+    "published_date": [
+      1432097731
+    ],
+    "body:value": [
+      "Non-teaching staff are staff other than Teaching staff engaged in Administrative, Secretarial, Laboratory, Library work etc. of the University/ Institution/ College indifferent level Groups i.e. Group A, Group B, Group C and Group D as defined by Department of Personnel & Training. Institution/college/University wise details of Non Teaching Staff have been furnished in the data."
+    ],
+    "changed": [
+      1432098085
+    ],
+    "created": [
+      1431453823
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AISHE Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "College",
+      "Institution",
+      "Laboratory",
+      "library",
+      "University",
+      "AISHE",
+      "Secretarial",
+      "Administrative",
+      "Work"
+    ],
+    "nid": [
+      258263
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Non Teaching Staff (AISHE Survey)"
+    ],
+    "uuid": [
+      "e1f69ac7-22e5-4631-bb78-73d853a8627b"
+    ],
+    "vid": [
+      7894395
+    ],
+    "view_count": [
+      4416
+    ],
+    "search_api_id": [
+      "entity:node/258263:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/out-turn-aishe-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1271
+    ],
+    "published_date": [
+      1438932567
+    ],
+    "body:value": [
+      "Get data on out-turn of students according to AISHE survey. Out-Turn means number of final year students of a particular programme, who have successfully completed the programme i.e. number of students who have passed the final year examination of the programme. \r\n"
+    ],
+    "changed": [
+      1438932761
+    ],
+    "created": [
+      1431453862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AISHE Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Student",
+      "Survey",
+      "AISHE",
+      "Exam",
+      "Passed",
+      "Turn"
+    ],
+    "nid": [
+      258283
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Out Turn (AISHE Survey)"
+    ],
+    "uuid": [
+      "851736ab-75bb-47e2-ba89-e04f3bae4f1c"
+    ],
+    "vid": [
+      7894400
+    ],
+    "view_count": [
+      1012
+    ],
+    "search_api_id": [
+      "entity:node/258283:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/study-programmes-discipline-aishe-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6352
+    ],
+    "published_date": [
+      1432188765
+    ],
+    "body:value": [
+      "Get data on Study Programmes & Discipline according to AISHE Survey. Study Programme is a course of study for which Degree or Certificate is awarded by the Institution. A Programme of study is the approved curriculum followed by an individual student such as B.A, M.A, MBA etc. Levels of Programmes are as under: 1. Under-Graduate - Programme after 10+2 and generally having the duration of3/4/5 years, in General or Professional courses. 2. Post-Graduate - Programme after Graduation and generally having the duration of 2/3 years in General/Professional courses. 3. M.Phil. - Programme after Post-Graduation and generally having the duration of1/2 years and is a pre-research course. 4. Ph.D. - Programme after M.Phil. or Post-Graduation and generally having the duration of 2/3/4/5 years. 5. Post Graduate Diploma - Programme generally after 10+2 or after Graduation in General and Professional courses and having duration of 1/2/3 years. 6. Diploma - Programme generally after 10+2 or after Graduation in General and Professional courses and having duration of 1/2/3 years.7. Certificate is a Programme similar to Diploma, but is awarded a Certificate by the Institution.8. Integrated/Dual Degree, It is a Programme leading to Post-Graduate Degree and/or Research Degree. Generally it is a combination of two degree programmes e.g. M.Tech Ph.D, B.A. LLB, M.Sc. Ph.D, B.Tech M.Tech etc. Discipline - An academic discipline or field of study is a branch of knowledge that is taught and researched at the Institution. There are large numbers of disciplines, which are taught in various Institutions and their nomenclature varies from Institution to Institution. For example in case of M.A. in Geography, M.A. is a Programme and Geography is a discipline."
+    ],
+    "changed": [
+      1432188765
+    ],
+    "created": [
+      1431453905
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AISHE Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Degree",
+      "Diploma",
+      "Institution",
+      "Integrated",
+      "MBA",
+      "professional",
+      "Programme",
+      "AISHE",
+      "Ph.D.",
+      "M.Phil.",
+      "Certificate",
+      "B.A",
+      "M.A",
+      "Graduate",
+      "Study",
+      "LLB",
+      "M.Sc.",
+      "Dual"
+    ],
+    "nid": [
+      258303
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Study Programmes & Discipline (AISHE Survey)"
+    ],
+    "uuid": [
+      "10be8819-b140-4733-9b43-d7cee5eb0360"
+    ],
+    "vid": [
+      7894404
+    ],
+    "view_count": [
+      5708
+    ],
+    "search_api_id": [
+      "entity:node/258303:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/pupil-teacher-ratio-aishe-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2279
+    ],
+    "published_date": [
+      1440485563
+    ],
+    "body:value": [
+      "Pupil-Teacher Ratio (PTR): Average number of pupils (students) per teacher at a specific level of education in a given school-year. Calculation method: Divide the total number of pupils enrolled at the specific level of education by the number of teachers teaching pre-dominantly at that level.\r\n"
+    ],
+    "changed": [
+      1440485563
+    ],
+    "created": [
+      1431453946
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AISHE Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "PTR",
+      "Student",
+      "Survey",
+      "AISHE",
+      "Teacher",
+      "Enrolled",
+      "Teaching"
+    ],
+    "nid": [
+      258323
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Pupil Teacher Ratio (AISHE Survey)"
+    ],
+    "uuid": [
+      "05526416-f444-40b3-93e4-be34402d4a64"
+    ],
+    "vid": [
+      7894408
+    ],
+    "view_count": [
+      1604
+    ],
+    "search_api_id": [
+      "entity:node/258323:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/scholarship-aishe-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2676
+    ],
+    "published_date": [
+      1440397281
+    ],
+    "body:value": [
+      "Scholarship is a boon for students, belonging to the weaker sections of the society, who are unable to further their education for some reason or the other. Scholarship is an incentive as well as encouragement for students, who are talented, but do not have the means to study further. There are a variety of scholarships\" merit-based, need-based, student-specific, career-specific, and college-specific. The Ministry offers National as well as External Scholarships to the needy students.\r\n"
+    ],
+    "changed": [
+      1459415710
+    ],
+    "created": [
+      1431454010
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AISHE Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "College",
+      "Student",
+      "Survey",
+      "AISHE",
+      "Specific",
+      "Weaker",
+      "Boon",
+      "Career"
+    ],
+    "nid": [
+      258343
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Scholarship (AISHE Survey)"
+    ],
+    "uuid": [
+      "52dc8339-fae4-4155-9f46-5fe04cc59fa0"
+    ],
+    "vid": [
+      7894412
+    ],
+    "view_count": [
+      2368
+    ],
+    "search_api_id": [
+      "entity:node/258343:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/student-enrolment-aishe-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      11877
+    ],
+    "published_date": [
+      1432527325
+    ],
+    "body:value": [
+      "Get data regarding Students enrolment statistics according to AISHE survey. Students enrolment is total students on roll in a Programme as on 30th September of the academic year. Student means a student of the Institution and includes any person who has enrolled himself/ herself for pursuing any programme of study conducted by the Institution. Foreign Students mean those students who are citizens of a country other than India. Students intake is annual permitted strength for a particular programme of study which means the number of seats in a programme."
+    ],
+    "changed": [
+      1459415747
+    ],
+    "created": [
+      1431454058
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AISHE Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Foreign",
+      "Institution",
+      "Programme",
+      "Student",
+      "Survey",
+      "AISHE",
+      "Study",
+      "Higher"
+    ],
+    "nid": [
+      258363
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Student Enrolment (AISHE Survey)"
+    ],
+    "uuid": [
+      "5b6a4493-8c84-40c9-a45b-350500379251"
+    ],
+    "vid": [
+      7894418
+    ],
+    "view_count": [
+      10348
+    ],
+    "search_api_id": [
+      "entity:node/258363:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/teaching-staff-aishe-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8629
+    ],
+    "published_date": [
+      1432019242
+    ],
+    "body:value": [
+      "Teacher is defined as a faculty/staff assigned the professional activities of instructing pupils, providing knowledge and giving guidance in the subject area of studies in self contained classes or courses or in class room situations. Generally the designation of teaching staff are Vice-Chancellor, Director, Pro-Vice-Chancellor, Principal, Professor &Equivalent, Associate Professor, Additional Professor, Reader, Lecturer (Selection Grade), Assistant Professor, Lecturer (Senior Scale), Lecturer, Tutor, Demonstrator, Part-Time Teacher, Ad hoc Teacher, Temporary Teacher, Contract Teacher, VisitingTeacher.Sanctioned strength of Teaching Staff means the number of posts sanctioned designation-wise for Professor, Associate Professor and Assistant Professor etc. Existing strength (Teachers in position) means the number of teachers currently in position against each post working in the University/Department on the date ofreference.Career Advancement Scheme (CAS) is a scheme of UGC to promote Teachers from a few selected stages to higher stages.\r\n"
+    ],
+    "changed": [
+      1432624590
+    ],
+    "created": [
+      1431454125
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "AISHE Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of Higher Education"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Higher Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Faculty",
+      "Staff",
+      "Survey",
+      "AISHE",
+      "contract",
+      "Professor",
+      "Reader",
+      "Lecturer",
+      "Demonstrator",
+      "Tutor",
+      "Teacher",
+      "Principal",
+      "Temporary",
+      "VC",
+      "Additional",
+      "Equivalent",
+      "Associate",
+      "Assistant",
+      "Visiting",
+      "Chancellor"
+    ],
+    "nid": [
+      258383
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Teaching Staff (AISHE Survey)"
+    ],
+    "uuid": [
+      "8a9561f8-8aeb-414d-aeed-d17ad91daf0c"
+    ],
+    "vid": [
+      7894423
+    ],
+    "view_count": [
+      7961
+    ],
+    "search_api_id": [
+      "entity:node/258383:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1961"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      577
+    ],
+    "published_date": [
+      1493791109
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1961. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1493792142
+    ],
+    "created": [
+      1491200712
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim"
+    ],
+    "nid": [
+      2722221
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1961"
+    ],
+    "uuid": [
+      "ac235494-1c6d-4119-a3c0-7062dc5b1c6d"
+    ],
+    "vid": [
+      7897150
+    ],
+    "view_count": [
+      417
+    ],
+    "search_api_id": [
+      "entity:node/2722221:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1960"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      844
+    ],
+    "published_date": [
+      1493791106
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1960. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1493791939
+    ],
+    "created": [
+      1491210605
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "girls",
+      "Kidnapping",
+      "Robbery",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Victim",
+      "Forces"
+    ],
+    "nid": [
+      2723081
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1960"
+    ],
+    "uuid": [
+      "3a45ec8e-1fc2-4f56-ab9d-8004ce196329"
+    ],
+    "vid": [
+      7897154
+    ],
+    "view_count": [
+      573
+    ],
+    "search_api_id": [
+      "entity:node/2723081:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1959"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      455
+    ],
+    "published_date": [
+      1493791222
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1959. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1493793692
+    ],
+    "created": [
+      1492578303
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim"
+    ],
+    "nid": [
+      2864721
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1959"
+    ],
+    "uuid": [
+      "b498dace-30f2-49e4-af70-851b82e1ea31"
+    ],
+    "vid": [
+      7897161
+    ],
+    "view_count": [
+      379
+    ],
+    "search_api_id": [
+      "entity:node/2864721:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1958"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      485
+    ],
+    "published_date": [
+      1493791225
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1958. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1493984713
+    ],
+    "created": [
+      1492679636
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim"
+    ],
+    "nid": [
+      2867741
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1958"
+    ],
+    "uuid": [
+      "ca9971f9-510d-4abe-ae0d-6022e3df90a5"
+    ],
+    "vid": [
+      7897165
+    ],
+    "view_count": [
+      360
+    ],
+    "search_api_id": [
+      "entity:node/2867741:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1957"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      519
+    ],
+    "published_date": [
+      1493791228
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1957. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1493793728
+    ],
+    "created": [
+      1492747975
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "girls",
+      "Kidnapping",
+      "Robbery",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Victim",
+      "Forces"
+    ],
+    "nid": [
+      2868741
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1957"
+    ],
+    "uuid": [
+      "3a048f44-8942-4a10-ac7b-65571fc60400"
+    ],
+    "vid": [
+      7897169
+    ],
+    "view_count": [
+      394
+    ],
+    "search_api_id": [
+      "entity:node/2868741:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/accidental-deaths-suicides-india-adsi-1997"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      540
+    ],
+    "published_date": [
+      1493791116
+    ],
+    "body:value": [
+      "The catalog contains the details of natural & un-natural accidents, traffic accidents and suicides. Major causes of accidental deaths are Traffic accidents, Drowning, Lightning, Heart Attacks, Accidental Fire, Falls, Poisoning. Major causes of Suicides are Family Problems, Illness, Bankruptcy or Indebtedness."
+    ],
+    "changed": [
+      1493792894
+    ],
+    "created": [
+      1492763863
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Accidental Deaths and Suicides"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Attack",
+      "Death",
+      "Fire",
+      "Traffic",
+      "Lightning",
+      "Illness",
+      "Accident",
+      "ADSI",
+      "Drowning",
+      "Bankruptcy",
+      "Indebtedness",
+      "suicide",
+      "Natural",
+      "Heart"
+    ],
+    "nid": [
+      2869541
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Accidental Deaths & Suicides in India (ADSI) - 1997"
+    ],
+    "uuid": [
+      "d6412ec9-3e14-4f1e-9956-31f065091a29"
+    ],
+    "vid": [
+      7897173
+    ],
+    "view_count": [
+      338
+    ],
+    "search_api_id": [
+      "entity:node/2869541:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1956"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      511
+    ],
+    "published_date": [
+      1493791122
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1956. Get information on Cognizable crimes registered, IPC crimes, Local & Special Law cases, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Victims of kidnapping & abduction, Disposal of crime cases, Complaint received and case registered under IPC and Local & Special Law, Detail of courts and period of trials, Victims of rape cases, Property stolen & recovered and percentage recovery, Dacoity cases, Robbery cases, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Rank wise police personnel killed or injured on duty, Sanctioned and strength of civil police including district armed police etc."
+    ],
+    "changed": [
+      1493792611
+    ],
+    "created": [
+      1493008730
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Dacoity",
+      "Kidnapping",
+      "Robbery",
+      "Girl",
+      "Police",
+      "code",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "IPC",
+      "Trial",
+      "LSL",
+      "Penal",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim"
+    ],
+    "nid": [
+      2870921
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1956"
+    ],
+    "uuid": [
+      "2072c1c7-b2d6-4a1d-8271-63beba3ce361"
+    ],
+    "vid": [
+      7897177
+    ],
+    "view_count": [
+      399
+    ],
+    "search_api_id": [
+      "entity:node/2870921:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1955"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      696
+    ],
+    "published_date": [
+      1493791119
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1955. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Violent crimes, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Unidentified dead bodies recovered and inquest conducted, Victims of kidnapping & abduction, Disposal of crime cases, Charge sheet of crimes, Complaint received and case registered under IPC and SLL, Conviction rate , Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Offenders relation and nearness to rape victims, Crimes committed against children, Crime committed against scheduled castes and schedule tribes, Property stolen & recovered and percentage recovery, Vehicles stolen, Recovered and co-ordinated, Dacoity cases, Robbery cases, Burglary cases, Theft cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Deaths in police custody /lockup, Escapes from police custody, Reported custodial rape cases and their disposal, Persons arrested under custodial ,Rape and their disposal by police and courts, Event wise persons killed or injured under police firing, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Incidence of human right violation by police, Sanctioned and strength of civil police including district armed police, Information on police housing, Sanctioned and actual strength of home guards and auxiliary force, Equipments and transport support, Police stations by volume of crime, Police stations by strength of personnel, Organization setup, Representation of SCs/STs and muslims in police etc."
+    ],
+    "changed": [
+      1493792954
+    ],
+    "created": [
+      1493105651
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Death",
+      "Infrastructure",
+      "Kidnapping",
+      "Theft",
+      "Girl",
+      "Police",
+      "Murder",
+      "Incest",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "Auto",
+      "Trial",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Offender",
+      "Facilitie",
+      "Suicidal"
+    ],
+    "nid": [
+      2872081
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1955"
+    ],
+    "uuid": [
+      "470dfff8-854b-4832-a163-3f3c42aa28c5"
+    ],
+    "vid": [
+      7897181
+    ],
+    "view_count": [
+      500
+    ],
+    "search_api_id": [
+      "entity:node/2872081:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1954"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      566
+    ],
+    "published_date": [
+      1493791125
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1954. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Violent crimes, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Unidentified dead bodies recovered and inquest conducted, Victims of kidnapping & abduction, Disposal of crime cases, Charge sheet of crimes, Complaint received and case registered under IPC and SLL, Conviction rate , Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Offenders relation and nearness to rape victims, Crimes committed against children, Crime committed against scheduled castes and schedule tribes, Property stolen & recovered and percentage recovery, Vehicles stolen, Recovered and co-ordinated, Dacoity cases, Robbery cases, Burglary cases, Theft cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Deaths in police custody /lockup, Escapes from police custody, Reported custodial rape cases and their disposal, Persons arrested under custodial ,Rape and their disposal by police and courts, Event wise persons killed or injured under police firing, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Incidence of human right violation by police, Sanctioned and strength of civil police including district armed police, Information on police housing, Sanctioned and actual strength of home guards and auxiliary force, Equipments and transport support, Police stations by volume of crime, Police stations by strength of personnel, Organization setup, Representation of SCs/STs and muslims in police etc."
+    ],
+    "changed": [
+      1493792734
+    ],
+    "created": [
+      1493107163
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Death",
+      "Infrastructure",
+      "Kidnapping",
+      "Theft",
+      "Girl",
+      "Police",
+      "Murder",
+      "Incest",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "Auto",
+      "Trial",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Offender",
+      "Facilitie",
+      "Suicidal"
+    ],
+    "nid": [
+      2872641
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1954"
+    ],
+    "uuid": [
+      "56fc4dee-b116-4eb7-a74d-20346a77b163"
+    ],
+    "vid": [
+      7897185
+    ],
+    "view_count": [
+      476
+    ],
+    "search_api_id": [
+      "entity:node/2872641:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1953"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1791
+    ],
+    "published_date": [
+      1493791129
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1953. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Violent crimes, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Unidentified dead bodies recovered and inquest conducted, Victims of kidnapping & abduction, Disposal of crime cases, Charge sheet of crimes, Complaint received and case registered under IPC and SLL, Conviction rate , Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Offenders relation and nearness to rape victims, Crimes committed against children, Crime committed against scheduled castes and schedule tribes, Property stolen & recovered and percentage recovery, Vehicles stolen, Recovered and co-ordinated, Dacoity cases, Robbery cases, Burglary cases, Theft cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Deaths in police custody /lockup, Escapes from police custody, Reported custodial rape cases and their disposal, Persons arrested under custodial ,Rape and their disposal by police and courts, Event wise persons killed or injured under police firing, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Incidence of human right violation by police, Sanctioned and strength of civil police including district armed police, Information on police housing, Sanctioned and actual strength of home guards and auxiliary force, Equipments and transport support, Police stations by volume of crime, Police stations by strength of personnel, Organization setup, Representation of SCs/STs and muslims in police etc."
+    ],
+    "changed": [
+      1493792832
+    ],
+    "created": [
+      1493107268
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Death",
+      "Infrastructure",
+      "Theft",
+      "Girl",
+      "Police",
+      "Murder",
+      "Incest",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "Auto",
+      "Trial",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Offender",
+      "Facilitie",
+      "Suicidal",
+      "Kidnapp"
+    ],
+    "nid": [
+      2872661
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1953"
+    ],
+    "uuid": [
+      "0ff9e09b-9fd5-466d-8627-81567132cf42"
+    ],
+    "vid": [
+      7897189
+    ],
+    "view_count": [
+      1564
+    ],
+    "search_api_id": [
+      "entity:node/2872661:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/session-wise-bills-introduced-rajya-sabha"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      811
+    ],
+    "published_date": [
+      1496046273
+    ],
+    "body:value": [
+      "Get data on session wise bills introduced in Rajya Sabha. Data contains various information like bill number, year, title of bill, type of bill, name of member/ministry, date of introduction."
+    ],
+    "changed": [
+      1631107144
+    ],
+    "created": [
+      1493275463
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bill",
+      "Parliament",
+      "Parliamentary",
+      "Introduced"
+    ],
+    "nid": [
+      2874301
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Session wise Bills introduced in Rajya Sabha"
+    ],
+    "uuid": [
+      "b0fd6329-f8cf-4b0e-ac85-86e9ed9f0e39"
+    ],
+    "vid": [
+      7897192
+    ],
+    "view_count": [
+      586
+    ],
+    "search_api_id": [
+      "entity:node/2874301:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/session-wise-bills-passed-returned-rajya-sabha"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      473
+    ],
+    "published_date": [
+      1496046451
+    ],
+    "body:value": [
+      "Get data on session wise bills passed / returned by Rajya Sabha. Data contains various information like bill number, year, title of bill, type of bill, name of member/ministry, date of passing / return."
+    ],
+    "changed": [
+      1631107144
+    ],
+    "created": [
+      1493275904
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bill",
+      "Passed",
+      "Parliamentary"
+    ],
+    "nid": [
+      2874321
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Session wise Bills Passed / Returned by Rajya Sabha"
+    ],
+    "uuid": [
+      "1e92b800-f2b4-4c1d-b3c7-7c51d3e7c2d7"
+    ],
+    "vid": [
+      7897195
+    ],
+    "view_count": [
+      256
+    ],
+    "search_api_id": [
+      "entity:node/2874321:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/bills-introduced-and-passed-rajya-sabha-and-lok-sabha-and-assented-president-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1084
+    ],
+    "published_date": [
+      1496046276
+    ],
+    "body:value": [
+      "Get data on bills introduced and passed in Rajya Sabha and Lok Sabha and assented by the President of India. Data contains various information like year, bill number, title of the bill, date of introduction, debate / passed in Loksabha, debate / passed in Rajya Sabha, referred to committee / report presented, assent date/ gazette Notification / act number, synopsis status etc.\r\n"
+    ],
+    "changed": [
+      1631107144
+    ],
+    "created": [
+      1493276595
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Rajya Sabha",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bill",
+      "Parliamentary",
+      "Introduced"
+    ],
+    "nid": [
+      2874361
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Bills introduced and passed in Rajya Sabha and Lok Sabha and Assented by the President of India"
+    ],
+    "uuid": [
+      "0c863973-7356-4a75-a547-24169e745ebf"
+    ],
+    "vid": [
+      7897198
+    ],
+    "view_count": [
+      807
+    ],
+    "search_api_id": [
+      "entity:node/2874361:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/accidental-deaths-suicides-india-adsi-1996"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      907
+    ],
+    "published_date": [
+      1494850372
+    ],
+    "body:value": [
+      "The catalog contains the details of natural & un-natural accidents, traffic accidents and suicides. Major causes of accidental deaths are Traffic accidents, Drowning, Lightning, Heart Attacks, Accidental Fire, Falls, Poisoning. Major causes of Suicides are Family Problems, Illness, Bankruptcy or Indebtedness."
+    ],
+    "changed": [
+      1494850721
+    ],
+    "created": [
+      1493698402
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Accidental Deaths and Suicides"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Attack",
+      "Death",
+      "Fire",
+      "Traffic",
+      "Lightning",
+      "Illness",
+      "Accident",
+      "ADSI",
+      "Drowning",
+      "Bankruptcy",
+      "Indebtedness",
+      "suicide",
+      "Natural",
+      "Heart"
+    ],
+    "nid": [
+      2876421
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Accidental Deaths & Suicides in India (ADSI) - 1996"
+    ],
+    "uuid": [
+      "f30cf3ff-788b-4ff0-862f-4bc5ae6a400a"
+    ],
+    "vid": [
+      7897202
+    ],
+    "view_count": [
+      735
+    ],
+    "search_api_id": [
+      "entity:node/2876421:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/schools-according-type-management-provisional-data"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8978
+    ],
+    "published_date": [
+      1417689959
+    ],
+    "body:value": [
+      "The authority, which runs a school, determines its type of management. The type of management considered for the survey are : Government school which is run by the state/Central Government or public sector undertaking or an Autonomous Organisation completely financed by the Government;  Local body school which is run by Panchayati Raj/Local body Institution such as Zilla Parishad, Municipal Committee, notified Area Committee and Cantonment Board; Private Aided schools which is run by individual or private organization and receives grant from government or local body;  Private Unaided school school which is managed by an individual or private organization and does not receive any grant either from government or local body. The data signifies the availability of schools of different level(Primary/Upper Primary/Secondary/Higher Secondary/Degree College having XI-XII class) according to type of management like Government, Local Body, Private Aided, Private Unaided in Rural/Urban/Total area at all India level.\r\n"
+    ],
+    "changed": [
+      1486719735
+    ],
+    "created": [
+      1417669623
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Eighth All India School Education Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of School Education and Literacy",
+      "National Council of Educational Research and Training (NCERT)"
+    ],
+    "field_sector:name": [
+      "Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Government",
+      "Management",
+      "Private",
+      "School",
+      "Aided",
+      "Local",
+      "Body",
+      "Unaided"
+    ],
+    "nid": [
+      156817
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Schools according to type of Management (Provisional data)"
+    ],
+    "uuid": [
+      "9b830c25-32d3-4c80-b32a-3a8aa60518a1"
+    ],
+    "vid": [
+      7891208
+    ],
+    "view_count": [
+      8600
+    ],
+    "search_api_id": [
+      "entity:node/156817:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/indias-export-data-principal-commodity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8895
+    ],
+    "published_date": [
+      1417696961
+    ],
+    "body:value": [
+      "The data contains India's Export data for Principal Commodity. The data for export has been classified based on principal commodities by DGCIS. The data includes value in Indian rupee and quantity (wherever available)."
+    ],
+    "changed": [
+      1417696961
+    ],
+    "created": [
+      1417692975
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Principal Commodity"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department of Commerce",
+      "Directorate General of Foreign Trade (DGFT)"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Export"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commerce",
+      "commercial",
+      "Commodity",
+      "Export",
+      "Industry",
+      "intelligence",
+      "DGCIS",
+      "Principal",
+      "Directorate",
+      "Statistic"
+    ],
+    "nid": [
+      157015
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "India's Export data for Principal Commodity"
+    ],
+    "uuid": [
+      "c2e56ccc-5296-4c00-bcd3-71f74ceb1330"
+    ],
+    "vid": [
+      7891212
+    ],
+    "view_count": [
+      7998
+    ],
+    "search_api_id": [
+      "entity:node/157015:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/indias-import-data-principal-commodity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10712
+    ],
+    "published_date": [
+      1417696953
+    ],
+    "body:value": [
+      "The data contains India's Import data for Principal Commodity. The data for Import has been classified based on principal commodities by DGCIS. The data includes value in Indian rupee and quantity (wherever available)."
+    ],
+    "changed": [
+      1417696953
+    ],
+    "created": [
+      1417693614
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India Imports"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department of Commerce",
+      "Directorate General of Foreign Trade (DGFT)"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Import"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commerce",
+      "commercial",
+      "Commodity",
+      "Import",
+      "Industry",
+      "intelligence",
+      "DGCIS",
+      "Principal",
+      "Statistic"
+    ],
+    "nid": [
+      157027
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "India's Import data for Principal Commodity"
+    ],
+    "uuid": [
+      "08b2a662-2d4c-4bd9-8591-340cebe36138"
+    ],
+    "vid": [
+      7891216
+    ],
+    "view_count": [
+      10058
+    ],
+    "search_api_id": [
+      "entity:node/157027:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/allocation-and-fund-release-under-brgf"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9962
+    ],
+    "published_date": [
+      1418201445
+    ],
+    "body:value": [
+      "The Backward Region Grant Fund (BRGF) is a Programme implemented by the Ministry of Panchayati Raj (MoPR) in 272 identified backward districts in all States of the country except Goa. The BRGF Programme is designed to redress regional imbalances in development. BRGF consists of two funding window namely Development Grant and Capacity Building. The Data refers to Annual Allocation and fund release at district level for all the states."
+    ],
+    "changed": [
+      1421990893
+    ],
+    "created": [
+      1418119984
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Panchayati Raj"
+    ],
+    "field_sector:name": [
+      "Rural",
+      "Panchayati Raj"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Backward",
+      "Grant"
+    ],
+    "nid": [
+      158890
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Allocation and Fund Release under BRGF"
+    ],
+    "uuid": [
+      "9a494e4d-160c-4da3-a197-7508aa211d1a"
+    ],
+    "vid": [
+      7891233
+    ],
+    "view_count": [
+      8885
+    ],
+    "search_api_id": [
+      "entity:node/158890:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/schools-according-type-building-which-majority-classes-are-held-provisional-data"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2913
+    ],
+    "published_date": [
+      1418724465
+    ],
+    "body:value": [
+      "The data refers to number of schools according to school building in which majority of classes are held. It provides details of availability of infrastructural facilities such as pucca, partly pucca, Kuchcha, tent, open Space in different categories of schools. A school building is to be treated as pucca if it has its wall made of Burnt Bricks, stones, cement, concrete or timber, plywood, artificial wood of synthetic material and PVC, and roof made of brick, stones,timber,plywood, bamboo, artificial wood of synthetic material etc. Partly Pucca buildings are those whose walls made of material used for pucca building and roof is made of the materials other than those used for pucca building such as bamboo, grass, thatch etc. Kuchcha Building are those in which walls and roof made of bamboos, mud, grass, reeds, thatch and loosely packed stones. \n"
+    ],
+    "changed": [
+      1418792767
+    ],
+    "created": [
+      1418376299
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Eighth All India School Education Survey"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Education",
+      "Department of School Education and Literacy",
+      "National Council of Educational Research and Training (NCERT)"
+    ],
+    "field_sector:name": [
+      "Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Building",
+      "Rural",
+      "School",
+      "Urban",
+      "Pucca",
+      "Kuchcha",
+      "Tent"
+    ],
+    "nid": [
+      159913
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Schools according to type of building in which majority of classes are held (Provisional data)"
+    ],
+    "uuid": [
+      "f409f072-f2e9-44f3-b7b6-cdf41394585c"
+    ],
+    "vid": [
+      7891267
+    ],
+    "view_count": [
+      2617
+    ],
+    "search_api_id": [
+      "entity:node/159913:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/expenditure-research-and-development-industry-groups-msmes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1945
+    ],
+    "published_date": [
+      1427114765
+    ],
+    "body:value": [
+      "Get data of Expenditure on Research and Development by Industry Groups for MSMEs. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India. Micro, Small & Medium Enterprises (MSMEs) are defined in terms of investment in Plant & Machinery, Micro Enterprises investment does not exceed twenty five lakh rupees, Small Enterprises investment more than twenty five lakh rupees but does not exceed five crore rupees, Medium Enterprises investment more than five crore rupees but does not exceed ten crore rupees."
+    ],
+    "changed": [
+      1427114765
+    ],
+    "created": [
+      1418808182
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "R&D Expenditure"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Department",
+      "expenditure",
+      "Micro",
+      "MSME",
+      "research",
+      "Science",
+      "Technology",
+      "Enterprise",
+      "DST"
+    ],
+    "nid": [
+      161443
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Expenditure on Research and Development by Industry Groups for MSMEs"
+    ],
+    "uuid": [
+      "469e8ebe-dda3-4fd7-9f65-c4ded4d399b1"
+    ],
+    "vid": [
+      7891280
+    ],
+    "view_count": [
+      1600
+    ],
+    "search_api_id": [
+      "entity:node/161443:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/national-rd-expenditure-relation-economic-activity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3452
+    ],
+    "published_date": [
+      1427114769
+    ],
+    "body:value": [
+      "Get data of National R&D Expenditure in Relation to Economic Activity.The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India. Data of R&D Expenditure and of various economic activities of various sectors like Agriculture, Forestry & Fishing, Mining & Quarrying, Manufacturing, Construction, Electricity Gas & Water Supply,  Transport & Communication and Public Administration & Defence and Other Services have been provided."
+    ],
+    "changed": [
+      1427114769
+    ],
+    "created": [
+      1418809700
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "R&D Expenditure"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Communication",
+      "Construction",
+      "Department",
+      "Development",
+      "electricity",
+      "Fishing",
+      "Forestry",
+      "Gas",
+      "manufacturing",
+      "research",
+      "Public",
+      "Science",
+      "Supply",
+      "Technology",
+      "transport",
+      "Water",
+      "DST",
+      "Defence",
+      "Admistration"
+    ],
+    "nid": [
+      161455
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "National R&D Expenditure in Relation to Economic Activity "
+    ],
+    "uuid": [
+      "ddb9e3ea-1d91-4db1-8ccd-d81f21d9b9f0"
+    ],
+    "vid": [
+      7891284
+    ],
+    "view_count": [
+      2884
+    ],
+    "search_api_id": [
+      "entity:node/161455:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/government-expenditure-rd-sub-sector-economic-activity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4564
+    ],
+    "published_date": [
+      1427114748
+    ],
+    "body:value": [
+      "Get data of Government Expenditure on R&D by Sub-Sector of Economic Activity. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India.Data of Government R&D Expenditure  in various sectors like Agriculture, Forestry & Fishing, Mining & Quarrying, Manufacturing, Construction, Electricity Gas & Water Supply,  Transport & Communication and Public Administration & Defence and Other Services have been provided."
+    ],
+    "changed": [
+      1750135300
+    ],
+    "created": [
+      1418810128
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "R&D Expenditure"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Communication",
+      "Construction",
+      "Department",
+      "Development",
+      "electricity",
+      "Fishing",
+      "Forestry",
+      "Gas",
+      "manufacturing",
+      "research",
+      "Public",
+      "Science",
+      "Supply",
+      "Technology",
+      "transport",
+      "Water",
+      "DST",
+      "Defence",
+      "Admistration"
+    ],
+    "nid": [
+      161464
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Government Expenditure on R&D by Sub-Sector of Economic Activity"
+    ],
+    "uuid": [
+      "5031f023-7e47-4ec6-88ab-c612f57fb0c5"
+    ],
+    "vid": [
+      7891288
+    ],
+    "view_count": [
+      3362
+    ],
+    "search_api_id": [
+      "entity:node/161464:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/industrial-sector-expenditure-rd-sub-sector-economic-activity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5073
+    ],
+    "published_date": [
+      1427114746
+    ],
+    "body:value": [
+      "Get data of Industrial Sector Expenditure on R&D by Sub-Sector of Economic Activity. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India.Data of Industrial sectors expenditure on Research & Development in various sectors like Agriculture, Forestry & Fishing, Mining & Quarrying, Manufacturing, Construction, Electricity Gas & Water Supply,  Transport & Communication and Public Administration & Defence and Other Services have been provided."
+    ],
+    "changed": [
+      1750135184
+    ],
+    "created": [
+      1418810426
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "R&D Expenditure"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Communication",
+      "Construction",
+      "Department",
+      "Development",
+      "electricity",
+      "Fishing",
+      "Forestry",
+      "Gas",
+      "manufacturing",
+      "research",
+      "Public",
+      "Science",
+      "Supply",
+      "Technology",
+      "transport",
+      "Water",
+      "DST",
+      "Defence",
+      "Admistration"
+    ],
+    "nid": [
+      161470
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Industrial Sector Expenditure on R&D by Sub-Sector of Economic Activity"
+    ],
+    "uuid": [
+      "31f69b54-769e-44d2-8117-71195326a435"
+    ],
+    "vid": [
+      7891292
+    ],
+    "view_count": [
+      4493
+    ],
+    "search_api_id": [
+      "entity:node/161470:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

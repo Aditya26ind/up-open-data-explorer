@@ -146,3 +146,7 @@ The top five tags used to classify the datasets (water, sanitation, sewerage, to
 8. Move data to both a data lake and a data warehouse, executing transformations there.
 9. Use dbt for data processing and Redshift for data storage.
 10. Choose ELT instead of ETL methods.
+
+# Information.
+
+Just to show raw data i added json file in folder but practically not recommended to push big data files to github.

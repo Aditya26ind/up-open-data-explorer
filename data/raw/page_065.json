@@ -1,0 +1,4824 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-share-enrolment-pre-primary-classes-total-enrolment-dise-flash"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      665
+    ],
+    "published_date": [
+      1389171045
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of share of enrolment in pre-primary classes to total enrolment in primary classes during the years 2011-12 and 2012-13."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388997960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Enrolment",
+      "Pre-Primary"
+    ],
+    "nid": [
+      91908
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage Share of Enrolment In Pre-primary Classes to Total Enrolment - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "45144e99-2a67-4571-9d24-ed515feb1d90"
+    ],
+    "vid": [
+      7863171
+    ],
+    "view_count": [
+      636
+    ],
+    "search_api_id": [
+      "entity:node/91908:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-performance-icds-programme-infrastructure-facility-estimated-indices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2439
+    ],
+    "published_date": [
+      1375266032
+    ],
+    "body:value": [
+      "The data refers to the State-wise Performance of ICDS Programme in Infrastructure Facility and Estimated Indices. It provides state-wise ranks on parameters such as Housed in Owned buildings, Adequate Space-Cooking, Adequate Space-Storage, Mean Area of Room in AWC(Sq Ft), Toilet with Flush System, Drinking water available- within premise, AWWs attended Training, etc.."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1375165500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Integrated",
+      "Facility",
+      "Service",
+      "Anganwadi",
+      "AWC"
+    ],
+    "nid": [
+      91910
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Performance of ICDS Programme in Infrastructure Facility: Estimated Indices"
+    ],
+    "uuid": [
+      "ad074c95-cc7f-4138-988f-b9596d27cfec"
+    ],
+    "vid": [
+      7863177
+    ],
+    "view_count": [
+      2352
+    ],
+    "search_api_id": [
+      "entity:node/91910:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-performance-icds-programme-estimated-indices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3274
+    ],
+    "published_date": [
+      1375252785
+    ],
+    "body:value": [
+      "The data refers to the State-wise performance of ICDS programms based on Estimated indices. It gives details on various parameters such as average number of days received food, percentage of children fully immunised, percentage of women reporting attended NHE meeting, percentage of mother reporting seeking help from AWW when their child gets sick, Percentage of mother reporting received deworming tablets from AWC, Average attendance (number of children aged 3-6 years) based on 3 sudden visits by Field Team and Overall Performance Index."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1375165800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "child",
+      "Development",
+      "Integrated",
+      "Performance",
+      "Anganwadi",
+      "AWC"
+    ],
+    "nid": [
+      91912
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise performance of ICDS programme: Estimated indices"
+    ],
+    "uuid": [
+      "5ed18be9-e5e6-41fe-ade8-b71d716fa5ed"
+    ],
+    "vid": [
+      7863183
+    ],
+    "view_count": [
+      3123
+    ],
+    "search_api_id": [
+      "entity:node/91912:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-physical-performance-rural-road-scheme-new-connectivity-upgradation-based-sample"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1049
+    ],
+    "published_date": [
+      1387430061
+    ],
+    "body:value": [
+      "The data refers to state-wise information on Physical Performance of Rural Road Scheme (New Connectivity/Upgradation) under Bharat Nirman (2005-06 to 2006-07) . It provides details such as Habitations with 1000+ Population, Habitations with 500+ Population, Upgradation, Habitations Covered, Length (KM), Targets, Achievements for the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1386654780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Achievement",
+      "Habitation",
+      "Population",
+      "target",
+      "upgradation",
+      "Nirman"
+    ],
+    "nid": [
+      91919
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Physical Performance of Rural Road Scheme (New Connectivity/ Upgradation) - Based on Sample Survey"
+    ],
+    "uuid": [
+      "efcea3dc-9624-4c80-9916-cf63fc0662aa"
+    ],
+    "vid": [
+      7863198
+    ],
+    "view_count": [
+      934
+    ],
+    "search_api_id": [
+      "entity:node/91919:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-plan-expenditure-public-sector-heads-development"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      828
+    ],
+    "published_date": [
+      1367494835
+    ],
+    "body:value": [
+      "The data refers to State-wise plan expenditure for public sector by heads of development from 2007-08 to 2010-11."
+    ],
+    "changed": [
+      1506573120
+    ],
+    "created": [
+      1367401320
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Five Year Plans"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "All",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "expenditure",
+      "Public"
+    ],
+    "nid": [
+      91921
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Plan Expenditure For Public Sector By Heads Of Development"
+    ],
+    "uuid": [
+      "78ff0aeb-4caf-4df3-b7c5-7e0b76bf9953"
+    ],
+    "vid": [
+      7863206
+    ],
+    "view_count": [
+      781
+    ],
+    "search_api_id": [
+      "entity:node/91921:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-plan-outlays-and-expenditure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7770
+    ],
+    "published_date": [
+      1376907851
+    ],
+    "body:value": [
+      "The data refers to state-wise plan outlays and expenditure."
+    ],
+    "changed": [
+      1436418800
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "Health"
+    ],
+    "nid": [
+      91923
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Plan Outlays and Expenditure"
+    ],
+    "uuid": [
+      "49abb0ec-d074-4600-ab6c-0a42c07d6ebd"
+    ],
+    "vid": [
+      7863214
+    ],
+    "view_count": [
+      7511
+    ],
+    "search_api_id": [
+      "entity:node/91923:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-potential-various-renewable-energy-technologies"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10392
+    ],
+    "published_date": [
+      1372325912
+    ],
+    "body:value": [
+      "The data refers to details regarding state-wise potential (in MW) of various Renewable Energy Technologies such as Wind Power, Small Hydro Power and Bio-Energy."
+    ],
+    "changed": [
+      1662022739
+    ],
+    "created": [
+      1371020700
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Renewable Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of New and Renewable Energy"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biomass",
+      "Energy",
+      "Hydro",
+      "Solar",
+      "Wind",
+      "Waste",
+      "Bagase",
+      "Cogeneration",
+      "Bio"
+    ],
+    "nid": [
+      91931
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Potential of Various Renewable Energy Technologies"
+    ],
+    "uuid": [
+      "57bff95b-ce06-4605-b7a3-29405d7f1f0a"
+    ],
+    "vid": [
+      7863225
+    ],
+    "view_count": [
+      9607
+    ],
+    "search_api_id": [
+      "entity:node/91931:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-production-crude-oil-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      49712
+    ],
+    "published_date": [
+      1363240883
+    ],
+    "body:value": [
+      "The data refers to State wise and year-wise production of crude oil in India."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1363166700
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "PNG Economic and Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "Offshore",
+      "Onshore",
+      "Refinery",
+      "Performance",
+      "Petroleum"
+    ],
+    "nid": [
+      91933
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Production of Crude Oil in India"
+    ],
+    "uuid": [
+      "20a04a06-1988-4089-ab0f-3639d8551097"
+    ],
+    "vid": [
+      7863231
+    ],
+    "view_count": [
+      49520
+    ],
+    "search_api_id": [
+      "entity:node/91933:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-production-forest-produce"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5507
+    ],
+    "published_date": [
+      1365011654
+    ],
+    "body:value": [
+      "In this table, State-wise (2007-08) and All India (2002-01 onwards) data on forest products such as timber, fuel wood, bamboo, resins, gums, canes etc has been presented."
+    ],
+    "changed": [
+      1441695776
+    ],
+    "created": [
+      1364881380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bamboo",
+      "environment",
+      "Fuel",
+      "produce",
+      "timber",
+      "Wood",
+      "Round",
+      "Pulp"
+    ],
+    "nid": [
+      91935
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-Wise Production Of Forest Produce"
+    ],
+    "uuid": [
+      "aeef8108-e03b-41a9-aafc-88f7eaa5fc1c"
+    ],
+    "vid": [
+      7863239
+    ],
+    "view_count": [
+      5039
+    ],
+    "search_api_id": [
+      "entity:node/91935:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-recorded-forest-area-country"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4948
+    ],
+    "published_date": [
+      1365011774
+    ],
+    "body:value": [
+      "The data refers to data on State-wise (2009 onwards), All India (2001 onwards) actual forest cover, recorded forest area and legal status. The legal status has been categorized as \"Reserved\", \"protected\" and \"Unclassed\". Reserved forest is one which is permanently dedicated either to the production of timber or other forest produced and in which right of grazing and cultivation is seldom allowed."
+    ],
+    "changed": [
+      1506517301
+    ],
+    "created": [
+      1364881380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "environment",
+      "Forest",
+      "Reserve",
+      "Record",
+      "Protected",
+      "Unclassified"
+    ],
+    "nid": [
+      91937
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-Wise Recorded Forest Area Of The Country"
+    ],
+    "uuid": [
+      "f8ff218e-653c-4143-9197-af45b4d6380e"
+    ],
+    "vid": [
+      7863246
+    ],
+    "view_count": [
+      4605
+    ],
+    "search_api_id": [
+      "entity:node/91937:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-revised-state-plan-outlay-heads-development"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      700
+    ],
+    "published_date": [
+      1367555822
+    ],
+    "body:value": [
+      "The data refers to revised state plan outlay for 2011-12 by heads of development. The heads of development are following - agriculture and allied activities, rural development, special area program, irrigation and flood control, energy, industry and minerals, transport, science technology and environment, general economic services, social services and general services."
+    ],
+    "changed": [
+      1506573149
+    ],
+    "created": [
+      1367405940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Five Year Plans"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "All",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "Outlay",
+      "Plan"
+    ],
+    "nid": [
+      91939
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Revised State Plan Outlay By Heads Of Development"
+    ],
+    "uuid": [
+      "5ab44dd5-27dc-4ba2-8f3e-cebc426fad1a"
+    ],
+    "vid": [
+      7863253
+    ],
+    "view_count": [
+      583
+    ],
+    "search_api_id": [
+      "entity:node/91939:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-status-new-specifies-identified-new-different-surveys"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1746
+    ],
+    "published_date": [
+      1365011450
+    ],
+    "body:value": [
+      "The data refers to details of number of new species identified from different surveys of different states."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1364895480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Amphibia",
+      "Annelida",
+      "Arachnida",
+      "Cladocera",
+      "Coleoptera",
+      "Crustacea",
+      "Decapoda",
+      "Echinodermata",
+      "Fish",
+      "Hemiptera",
+      "Homoptera",
+      "Insecta",
+      "Lepidoptera",
+      "Mammalia",
+      "Mollusca",
+      "Nematoda",
+      "Odonata",
+      "Orthoptera",
+      "Reptilia",
+      "Protozoa",
+      "Rotifera",
+      "Specie"
+    ],
+    "nid": [
+      91941
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Status of new Specifies identified from new different surveys."
+    ],
+    "uuid": [
+      "e06d5fa7-8e87-4997-bf1d-ed19af598579"
+    ],
+    "vid": [
+      7863259
+    ],
+    "view_count": [
+      1631
+    ],
+    "search_api_id": [
+      "entity:node/91941:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-summary-mining-lease-distribution"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3400
+    ],
+    "published_date": [
+      1367494786
+    ],
+    "body:value": [
+      "The data refers to state wise summary of mining lease distribution (excluding fuel, atomic and minor minerals)."
+    ],
+    "changed": [
+      1581678855
+    ],
+    "created": [
+      1367401680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mines"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Indian Bureau of Mines"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "distribution",
+      "Mining",
+      "Lease"
+    ],
+    "nid": [
+      91943
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State wise Summary Of Mining Lease Distribution"
+    ],
+    "uuid": [
+      "81587555-438c-4cd0-8f44-19e98131b0ec"
+    ],
+    "vid": [
+      7863265
+    ],
+    "view_count": [
+      2799
+    ],
+    "search_api_id": [
+      "entity:node/91943:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-targets-infant-mortality-rate-maternal-mortality-rate-and-anaemia-12th-plan"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      15625
+    ],
+    "published_date": [
+      1369675358
+    ],
+    "body:value": [
+      "The data refers to state-wise details of achievements in Infant Mortality Rate (IMR), Maternal Mortality Rate (MMR) and Anaemia and targets set for the Twelfth Plan."
+    ],
+    "changed": [
+      1436419242
+    ],
+    "created": [
+      1369669860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "IMR",
+      "Infant",
+      "maternal",
+      "MMR",
+      "Mortality",
+      "Rate"
+    ],
+    "nid": [
+      91945
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Targets On Infant Mortality Rate / Maternal Mortality Rate And Anaemia In 12th Plan"
+    ],
+    "uuid": [
+      "53a12e87-690c-4c65-88ae-ba8899e6e4a1"
+    ],
+    "vid": [
+      7863270
+    ],
+    "view_count": [
+      15470
+    ],
+    "search_api_id": [
+      "entity:node/91945:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-total-area-under-wastelands-during-2008-09-vis-vis-2005-06"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1990
+    ],
+    "published_date": [
+      1385637773
+    ],
+    "body:value": [
+      "The data refers to details of total area under wastelands during 2008-09 vis-A-vis 2005-06 and change. It provides state-wise details on Total Geographical Area, Total Geographical Area during 2005-06 and 2008-09, Change in Geographical Area, Total Reduction and Total Increase."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1385368020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Wastelands"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Rural Development",
+      "Department of Land Resources (DOLR)"
+    ],
+    "field_sector:name": [
+      "Rural",
+      "Land Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Geographical",
+      "Reduction",
+      "Increase",
+      "Change"
+    ],
+    "nid": [
+      91947
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise total area under wastelands during 2008-09 vis-a-vis 2005-06"
+    ],
+    "uuid": [
+      "694192d6-0e8f-4aa2-acbd-c6f185b46727"
+    ],
+    "vid": [
+      7863274
+    ],
+    "view_count": [
+      1779
+    ],
+    "search_api_id": [
+      "entity:node/91947:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-total-registered-motor-vehicles-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      25139
+    ],
+    "published_date": [
+      1367428006
+    ],
+    "body:value": [
+      "The data refers to state-wise details on total number of registered motor vehicles in India from 2001 to 2011."
+    ],
+    "changed": [
+      1441695240
+    ],
+    "created": [
+      1367312940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Motor Vehicles"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Statistics",
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "vehicle",
+      "Registered"
+    ],
+    "nid": [
+      91949
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Total Registered Motor Vehicles In India"
+    ],
+    "uuid": [
+      "228135e9-7c5f-48b6-ad19-3d703f856c32"
+    ],
+    "vid": [
+      7863283
+    ],
+    "view_count": [
+      22698
+    ],
+    "search_api_id": [
+      "entity:node/91949:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-and-month-wise-requirement-and-availability-chemical-fertilizers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5959
+    ],
+    "published_date": [
+      1388383041
+    ],
+    "body:value": [
+      "Get the data about state wise and month wise details on the requirement and availability of major Chemical fertilizer products like DAP, MAP, MOP, TSP, NPK, and UREA."
+    ],
+    "changed": [
+      1528465924
+    ],
+    "created": [
+      1387798080
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Fertilizers"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Chemicals and Fertilizers",
+      "Department of Fertilizers"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Fertilizers"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "DAP",
+      "Fertilizer",
+      "MAP",
+      "MOP",
+      "NPK",
+      "UREA",
+      "TSP",
+      "Di-Ammonium",
+      "Phosphate",
+      "Super",
+      "Cemical",
+      "Monoammonium",
+      "Muriate",
+      "Potash",
+      "Phosphorus"
+    ],
+    "nid": [
+      91951
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State wise and Month wise Requirement and Availability of Chemical Fertilizers"
+    ],
+    "uuid": [
+      "03a2c600-d399-4f71-bbb2-89d46b62b600"
+    ],
+    "vid": [
+      7863302
+    ],
+    "view_count": [
+      4995
+    ],
+    "search_api_id": [
+      "entity:node/91951:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/statistics-mental-hospitals"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3454
+    ],
+    "published_date": [
+      1364465125
+    ],
+    "body:value": [
+      "The data refers to All India and State-wise statistics of mental hospitals like number of hospitals, beds and patients."
+    ],
+    "changed": [
+      1441693312
+    ],
+    "created": [
+      1364454360
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Health",
+      "Public",
+      "Patient",
+      "Bed"
+    ],
+    "nid": [
+      91953
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Statistics on Mental Hospitals"
+    ],
+    "uuid": [
+      "12c7023f-181c-409f-b99e-6afea202cb8d"
+    ],
+    "vid": [
+      7863309
+    ],
+    "view_count": [
+      3044
+    ],
+    "search_api_id": [
+      "entity:node/91953:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-and-effectiveness-prescribed-second-tier-quality-control-mechanism-based-sample"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      797
+    ],
+    "published_date": [
+      1387429761
+    ],
+    "body:value": [
+      "The data refers to information on Status and Effectiveness of the Prescribed Second Tier Quality Control Mechanism during the period 2005-06 to 2006-07 under Bharat Nirman for the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "quality",
+      "Programme",
+      "Authority",
+      "Nirman",
+      "Monitor",
+      "Inspectis",
+      "Conducted",
+      "SQM"
+    ],
+    "nid": [
+      91955
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status and Effectiveness of the Prescribed Second Tier Quality Control Mechanism - Based on Sample Survey 2010"
+    ],
+    "uuid": [
+      "fb15b654-b7fb-4ca1-b43a-84403ea0c290"
+    ],
+    "vid": [
+      7863313
+    ],
+    "view_count": [
+      522
+    ],
+    "search_api_id": [
+      "entity:node/91955:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-and-effectiveness-prescribed-third-tier-quality-control-mechanism-based-sample"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      628
+    ],
+    "published_date": [
+      1387429748
+    ],
+    "body:value": [
+      "The data refers to information on Status and Effectiveness of the Prescribed Third Tier Quality Control Mechanism during the period 2005-06 to 2006-07 under Bharat Nirman for the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "quality",
+      "Programme",
+      "Authority",
+      "Nirman",
+      "Monitor",
+      "Inspectis",
+      "Conducted",
+      "SQM",
+      "Independent"
+    ],
+    "nid": [
+      91957
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status and Effectiveness of the Prescribed Third Tier Quality Control Mechanism -Based on Sample Survey 2010"
+    ],
+    "uuid": [
+      "7c03bd58-8b74-413d-90a8-1f0463a079a8"
+    ],
+    "vid": [
+      7863318
+    ],
+    "view_count": [
+      587
+    ],
+    "search_api_id": [
+      "entity:node/91957:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-computerization-land-records"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      29829
+    ],
+    "published_date": [
+      1368076271
+    ],
+    "body:value": [
+      "The Department is implementing the scheme of National Land Records Modernization Programme (NLRMP) since the year 2008. Different States/UTs are at various stages of computerization of land records. "
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1367997960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Land Records Modernization"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Rural Development",
+      "Department of Land Resources (DOLR)"
+    ],
+    "field_sector:name": [
+      "Rural",
+      "Land Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NLRMP",
+      "Registration",
+      "Programme",
+      "RoR",
+      "Right",
+      "Digitally",
+      "Signed",
+      "Issuance",
+      "Modernization"
+    ],
+    "nid": [
+      91959
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status of Computerization of Land Records"
+    ],
+    "uuid": [
+      "b04c1ed6-ffbb-4900-b580-8446003bc158"
+    ],
+    "vid": [
+      7863326
+    ],
+    "view_count": [
+      29263
+    ],
+    "search_api_id": [
+      "entity:node/91959:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-coverage-under-rural-blocks-sample-districts-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      584
+    ],
+    "published_date": [
+      1387429967
+    ],
+    "body:value": [
+      "The data refers to information on Status of Coverage under Rural Blocks in Sample Districts as on date of visit (April, 2008). It provides details such as Eligible Habitations Covered under Habitations with 1000+ Population and Habitations with 500+ Population, new connectivity and upgradation, Habitations Covered (No.) and Length (KM) in Rural Blocks for the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Achievement",
+      "connectivity",
+      "Population",
+      "Road",
+      "upgradation",
+      "Nirman",
+      "Covered",
+      "Habitatis"
+    ],
+    "nid": [
+      91961
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status of Coverage under Rural Blocks in Sample Districts - Based on Sample Survey"
+    ],
+    "uuid": [
+      "60fea4df-c843-4372-9edc-cfed098691cd"
+    ],
+    "vid": [
+      7863331
+    ],
+    "view_count": [
+      544
+    ],
+    "search_api_id": [
+      "entity:node/91961:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-coverage-under-rural-roads-sample-districts-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      820
+    ],
+    "published_date": [
+      1387429978
+    ],
+    "body:value": [
+      "The data refers to information on Status of Coverage under Rural Roads in Sample Districts as on date of visit (April, 2008). It provides details such as Eligible Habitations Covered under Habitations with 1000+ Population and Habitations with 500+ Population, new connectivity and upgradation, Habitations Covered (No.) and Length (KM) in Districts of the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "connectivity",
+      "Habitation",
+      "Length",
+      "Population",
+      "upgradation",
+      "Covered"
+    ],
+    "nid": [
+      91963
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status of Coverage under Rural Roads in Sample Districts - Based on Sample Survey"
+    ],
+    "uuid": [
+      "e45bf3a9-7c97-4aee-a78a-0f4fa7a5d106"
+    ],
+    "vid": [
+      7863336
+    ],
+    "view_count": [
+      736
+    ],
+    "search_api_id": [
+      "entity:node/91963:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-coverage-under-rural-roads-sample-states-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      624
+    ],
+    "published_date": [
+      1387429988
+    ],
+    "body:value": [
+      "The data refers to information on Status of Coverage under Rural Roads in Sample States as on date of Visit (April, 2008). It provides details such as Eligible Habitations Covered under Habitations with 1000+ Population and Habitations with 500+ Population, new connectivity and upgradation, Habitations Covered (No.) and Length (KM) for the selected sample states. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission which covered 14 districts, 27 blocks, 138 roads, 138 habitations and 1380 beneficiary households spread over 7 states of India for 'Evaluation Study on Rural Roads component of Bharat Nirman, 2010'. The reference period for the study was 2005-06 to 2006-07."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1386654840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Roads"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads",
+      "Urban",
+      "Rural",
+      "Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "connectivity",
+      "Habitation",
+      "Length",
+      "Population",
+      "upgradation",
+      "Covered"
+    ],
+    "nid": [
+      91965
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status of Coverage under Rural Roads in Sample States - Based on Sample Survey"
+    ],
+    "uuid": [
+      "71cf25ef-9180-4e34-aab8-d50ed0d77ad5"
+    ],
+    "vid": [
+      7863341
+    ],
+    "view_count": [
+      547
+    ],
+    "search_api_id": [
+      "entity:node/91965:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-effective-coverage-supplementary-nutrition-programme-adolescent-girls"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      831
+    ],
+    "published_date": [
+      1375266393
+    ],
+    "body:value": [
+      "The data refers to the status of estimated effective coverage in Supplementary Nutrition Programme (SNP) for children under ICDS. It captures the extent of coverage of supplementary nutrition scheme on aspects such as whether the beneficiary is receiving food supply or not."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1375165440
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Food",
+      "Integrated",
+      "Service",
+      "Receive"
+    ],
+    "nid": [
+      91967
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status of effective coverage of supplementary nutrition programme for adolescent girls"
+    ],
+    "uuid": [
+      "464ce48f-04cf-4098-9dbf-e1769f130c4c"
+    ],
+    "vid": [
+      7863347
+    ],
+    "view_count": [
+      806
+    ],
+    "search_api_id": [
+      "entity:node/91967:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-effective-coverage-supplementary-nutrition-programme-children"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      986
+    ],
+    "published_date": [
+      1375267093
+    ],
+    "body:value": [
+      "The data refers to the status of estimated effective coverage in Supplementary Nutrition Programme (SNP) for children under ICDS. It captures the extent of coverage of supplementary nutrition scheme on aspects such as whether the beneficiary is receiving food supply or not."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1375165380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Food",
+      "Integrated",
+      "Service",
+      "Receive"
+    ],
+    "nid": [
+      91969
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status of effective coverage of supplementary nutrition programme for children"
+    ],
+    "uuid": [
+      "68259750-8c29-424b-a55e-d5065b184274"
+    ],
+    "vid": [
+      7863353
+    ],
+    "view_count": [
+      909
+    ],
+    "search_api_id": [
+      "entity:node/91969:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-effective-coverage-supplementary-nutrition-programme-pregnant-women-and-lactating"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      593
+    ],
+    "published_date": [
+      1375266761
+    ],
+    "body:value": [
+      "The data refers to the status of estimated effective coverage in Supplementary Nutrition Programme (SNP) for children under ICDS. It captures the extent of coverage of supplementary nutrition scheme on aspects such as whether the beneficiary is receiving food supply or not."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1375165380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Food",
+      "Integrated",
+      "Service",
+      "Receive"
+    ],
+    "nid": [
+      91971
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status of effective coverage of supplementary nutrition programme for pregnant women and lactating mothers"
+    ],
+    "uuid": [
+      "fea8e195-8a54-4bb1-9d23-d4b55f402b26"
+    ],
+    "vid": [
+      7863359
+    ],
+    "view_count": [
+      557
+    ],
+    "search_api_id": [
+      "entity:node/91971:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-hydro-electric-potential-development-power-sector"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      762
+    ],
+    "published_date": [
+      1370943746
+    ],
+    "body:value": [
+      "The data refers to the region-wise status of Hydro Electric Potential Development in the power sector."
+    ],
+    "changed": [
+      1436419215
+    ],
+    "created": [
+      1370680380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Power and Energy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Non Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "capacity",
+      "Developed"
+    ],
+    "nid": [
+      91973
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status of Hydro Electric Potential Development - Power Sector"
+    ],
+    "uuid": [
+      "6e8ac13d-b854-4f03-93d4-b5e8901ffbaa"
+    ],
+    "vid": [
+      7863362
+    ],
+    "view_count": [
+      708
+    ],
+    "search_api_id": [
+      "entity:node/91973:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-political-parties-election-lok-sabha-house-people"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5755
+    ],
+    "published_date": [
+      1366246143
+    ],
+    "body:value": [
+      "The data refers to all India (1999, 2004 and 2009) and state-wise (2009) details on status of political parties in election to the Lok Sabha (House of People)."
+    ],
+    "changed": [
+      1458563917
+    ],
+    "created": [
+      1366113000
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Electoral Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Lok Sabha",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Constituency",
+      "Dependent",
+      "Loksabha",
+      "Party"
+    ],
+    "nid": [
+      91975
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status of Political Parties In Election To The Lok Sabha - House of People"
+    ],
+    "uuid": [
+      "a3fbe08b-eb74-4f6d-9fe5-7e4f04f18d6b"
+    ],
+    "vid": [
+      7863385
+    ],
+    "view_count": [
+      5201
+    ],
+    "search_api_id": [
+      "entity:node/91975:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-state-wise-registration-under-rule-45-mcdr-2017"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2045
+    ],
+    "published_date": [
+      1367494930
+    ],
+    "body:value": [
+      "The data refers to status of state-wise registration under rule 45 of Mineral Conservation and Development Rules (MCDR), 1988 & 2017."
+    ],
+    "changed": [
+      1581677719
+    ],
+    "created": [
+      1367400780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mines"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Indian Bureau of Mines"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Conservation",
+      "Development",
+      "MCDR",
+      "mineral"
+    ],
+    "nid": [
+      91977
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status Of State-wise Registration Under Rule 45 Of MCDR, 2017"
+    ],
+    "uuid": [
+      "72dee779-db14-4eaf-a05e-fde1895b3652"
+    ],
+    "vid": [
+      7863397
+    ],
+    "view_count": [
+      1890
+    ],
+    "search_api_id": [
+      "entity:node/91977:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-supplementary-nutrition-food"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4111
+    ],
+    "published_date": [
+      1375449411
+    ],
+    "body:value": [
+      "The data refers to the Status of Supplementary Nutrition (Food)."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "Food",
+      "ICDS",
+      "Integrated",
+      "Nutrition",
+      "Scheme",
+      "Supplementary",
+      "Awareness",
+      "Entitlement"
+    ],
+    "nid": [
+      91979
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status of Supplementary Nutrition (Food)"
+    ],
+    "uuid": [
+      "5daf0b9a-c858-49be-b5c9-cc909d12ecfb"
+    ],
+    "vid": [
+      7863406
+    ],
+    "view_count": [
+      3663
+    ],
+    "search_api_id": [
+      "entity:node/91979:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      5
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/status-water-quality-india-2008-and-2011"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      15354
+    ],
+    "published_date": [
+      1380180218
+    ],
+    "body:value": [
+      "The data refers to ambient water quality of Aquatic Resources in India. The minimum, maximum and mean values of water quality parameters like Temperature, Dissolved Oxygen(D.O.), pH, Conductivity, Biochemical Oxygen Demand(B.O.D), Nitrate-N and Nitrite-N, Fecal Coliform and Total Coliform are given in the dataset."
+    ],
+    "changed": [
+      1419249253
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Quality"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Environment, Forest and Climate Change",
+      "Central Pollution Control Board"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Water Quality"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Canal",
+      "Conductivity",
+      "Creeks",
+      "Fluoride",
+      "Lake",
+      "Nitrate",
+      "quality",
+      "Pond",
+      "river",
+      "Seawater",
+      "Tank",
+      "Temperature",
+      "Well",
+      "Oxygen",
+      "Dissolved",
+      "Biochemical",
+      "Dras",
+      "Coliform"
+    ],
+    "nid": [
+      91982
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "21",
+      "61",
+      "121",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Status of Water Quality in India - 2008 and 2011"
+    ],
+    "uuid": [
+      "98bc2bc4-e6bc-4a85-a125-d62ad85515e2"
+    ],
+    "vid": [
+      7863575
+    ],
+    "view_count": [
+      14699
+    ],
+    "search_api_id": [
+      "entity:node/91982:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-distribution-under-graduate-ayush-colleges-and-their-admission-capacity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3303
+    ],
+    "published_date": [
+      1358749555
+    ],
+    "body:value": [
+      "The data refers to the information of all under graduate colleges existing in the country as well as in States/ UTs. "
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1358160960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of AYUSH"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Ayurveda",
+      "Education",
+      "Homoeopathy",
+      "Medical",
+      "Naturopathy",
+      "Siddha",
+      "Unani",
+      "Yoga"
+    ],
+    "nid": [
+      91761
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise distribution of Under Graduate AYUSH colleges and their admission capacity"
+    ],
+    "uuid": [
+      "24336efd-1b5e-49cf-ba33-62eefdb12c27"
+    ],
+    "vid": [
+      7862763
+    ],
+    "view_count": [
+      3194
+    ],
+    "search_api_id": [
+      "entity:node/91761:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-equivalent-green-weight-soundness-culms-recorded-forests"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      740
+    ],
+    "published_date": [
+      1379924319
+    ],
+    "body:value": [
+      "The data refers to state-wise equivalent green weight by soundness of green culms and dry culms in recorded forests. "
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1379069820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "report"
+    ],
+    "nid": [
+      91763
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Equivalent Green Weight by Soundness of Culms in Recorded Forests"
+    ],
+    "uuid": [
+      "9a0e184c-267e-4806-9f2d-3cf55fc90edf"
+    ],
+    "vid": [
+      7862769
+    ],
+    "view_count": [
+      726
+    ],
+    "search_api_id": [
+      "entity:node/91763:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-estimates-wool-production"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3247
+    ],
+    "published_date": [
+      1387797777
+    ],
+    "body:value": [
+      "Get data of State wise details of estimates of wool production during the year. It contains information on wool production from Ram/Wether, Lambs and  Ewes. Further information like Estimated  number of animal shorn and Average Yield per season are also provided in the data.\r\n"
+    ],
+    "changed": [
+      1434433996
+    ],
+    "created": [
+      1387796580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Wool and Meat Production"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ram",
+      "ewe",
+      "Lamb",
+      "Wether"
+    ],
+    "nid": [
+      91765
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Estimates of Wool Production"
+    ],
+    "uuid": [
+      "26f2c892-df84-4aff-a02e-18d77a17c855"
+    ],
+    "vid": [
+      7862781
+    ],
+    "view_count": [
+      2912
+    ],
+    "search_api_id": [
+      "entity:node/91765:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-financial-details-projects-under-ndp-phase-i"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1661
+    ],
+    "published_date": [
+      1384948988
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise financial details of projects under National Dairy Plan-Phase I (NDP-I). It provides details on the number of projects, total grant assistance (Rs. Crore), total EIA contribution (Rs. Crore), total outlay (Rs. Crore) and advance to EIA by NDDB till date (Rs. Crore). The NDP-I was launched by Government in March 2012 and the expenditure during 2011-12 was Rs.4.00 crore. Till 30th September 2013, 97 projects with total outlay of Rs 569.24 crore have been approved and an amount of Rs 92.86 crore has been released to EIAs by NDDB."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1384850760
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Dairying Scheme"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "contribution",
+      "Development",
+      "national",
+      "NDDB",
+      "NDP",
+      "Plan",
+      "Project",
+      "Board",
+      "Dairy",
+      "Detail",
+      "EIA"
+    ],
+    "nid": [
+      91767
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Financial Details of projects under NDP-Phase I"
+    ],
+    "uuid": [
+      "80b348d8-f009-45b8-82c5-ac7e5d632888"
+    ],
+    "vid": [
+      7862785
+    ],
+    "view_count": [
+      1587
+    ],
+    "search_api_id": [
+      "entity:node/91767:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-forests-cover-country"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5112
+    ],
+    "published_date": [
+      1365011774
+    ],
+    "body:value": [
+      "The data refers to State-wise (2009 onwards), All India (2000 onwards) data on forest cover of the Country by type of forests w.r.t total geographical area, it has also data on actual forests cover by density classes such as dense forest, open forest, mangrove, serub, Non-forest."
+    ],
+    "changed": [
+      1506517303
+    ],
+    "created": [
+      1364881380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "cover",
+      "environment",
+      "Forest",
+      "Geographical",
+      "mangrove",
+      "serub",
+      "Dense",
+      "Moderately"
+    ],
+    "nid": [
+      91774
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-Wise Forests Cover Of The Country"
+    ],
+    "uuid": [
+      "fd351e1f-0f3c-492d-bec9-1f8b8327a3ef"
+    ],
+    "vid": [
+      7862803
+    ],
+    "view_count": [
+      4921
+    ],
+    "search_api_id": [
+      "entity:node/91774:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-gross-production-natural-gas-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9633
+    ],
+    "published_date": [
+      1363241066
+    ],
+    "body:value": [
+      "The data refers to State-wise and year-wise gross production of natural gas in India."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1363167300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "PNG Economic and Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "Gas",
+      "LNG",
+      "Offshore",
+      "OIL",
+      "Onshore",
+      "Refinery",
+      "Reserve",
+      "Performance",
+      "Petroleum",
+      "Natural",
+      "Liquefied"
+    ],
+    "nid": [
+      91776
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Gross Production of Natural Gas in India"
+    ],
+    "uuid": [
+      "289a60c1-98a1-42c6-a011-b156166a4024"
+    ],
+    "vid": [
+      7862808
+    ],
+    "view_count": [
+      9416
+    ],
+    "search_api_id": [
+      "entity:node/91776:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-iems-implemented-industrial-undertakings-based-part-iem-form"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8580
+    ],
+    "published_date": [
+      1385727301
+    ],
+    "body:value": [
+      "The data refers to state-wise and year-wise Industrial Entrepreneurs Memorandum (IEM) implemented by Industrial Undertakings based on Part A of the IEM Form. "
+    ],
+    "changed": [
+      1505365854
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "IEM"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department for Promotion of industry and Internal Trade"
+    ],
+    "field_sector:name": [
+      "Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commerce",
+      "Industry",
+      "Entrepreneur",
+      "Memorandum"
+    ],
+    "nid": [
+      91778
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise IEMs Implemented by Industrial Undertakings based on Part A of the IEM Form"
+    ],
+    "uuid": [
+      "f56f5c2e-70ed-4255-bd99-cdafcda14fb9"
+    ],
+    "vid": [
+      7862826
+    ],
+    "view_count": [
+      7692
+    ],
+    "search_api_id": [
+      "entity:node/91778:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-iems-implemented-industrial-undertakings-based-part-b-iem-form"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3929
+    ],
+    "published_date": [
+      1375362142
+    ],
+    "body:value": [
+      "The data refers to state-wise and year-wise Industrial Entrepreneurs Memorandum (IEM) implemented by Industrial Undertakings based on Part B of the IEM Form. The Industrial Undertakings are required to intimate the commencement of commercial production by way of filing the prescribed Part B of the IEM Form."
+    ],
+    "changed": [
+      1505365858
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "IEM"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department for Promotion of industry and Internal Trade"
+    ],
+    "field_sector:name": [
+      "Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commerce",
+      "Industry",
+      "Entrepreneur",
+      "Memorandum"
+    ],
+    "nid": [
+      91782
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise IEMs Implemented by Industrial Undertakings based on Part B of the IEM Form"
+    ],
+    "uuid": [
+      "6b86b6dc-2bc9-47ad-b110-e7c861e64392"
+    ],
+    "vid": [
+      7862845
+    ],
+    "view_count": [
+      3406
+    ],
+    "search_api_id": [
+      "entity:node/91782:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-investment-intentions-terms-iems-filed-and-loisdils-issued"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7038
+    ],
+    "published_date": [
+      1373965558
+    ],
+    "body:value": [
+      "The data refers to state-wise and year wise details of investment Intentions in terms of IEMs filed and LOIs/DILs issued."
+    ],
+    "changed": [
+      1515386067
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "IEM"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Commerce and Industry",
+      "Department for Promotion of industry and Internal Trade"
+    ],
+    "field_sector:name": [
+      "Industries"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Commerce",
+      "DIL",
+      "DIPP",
+      "IEM",
+      "industrial",
+      "Industry",
+      "Investment",
+      "LoI",
+      "Proposal"
+    ],
+    "nid": [
+      91787
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State wise investment intentions in terms of IEMs filed and LOIs/DILs issued"
+    ],
+    "uuid": [
+      "48ef7d01-23e9-4b17-a1b6-91fc744d2544"
+    ],
+    "vid": [
+      7862865
+    ],
+    "view_count": [
+      6697
+    ],
+    "search_api_id": [
+      "entity:node/91787:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-infant-mortality-rate"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      52480
+    ],
+    "published_date": [
+      1372063059
+    ],
+    "body:value": [
+      "The data refers to the State-wise Infant Mortality Rate for various years. Infant mortality rate (IMR) is the number of deaths of children less than one year of age per 1000 live births. The data refers to gender-wise details as well."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371192900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Human Development Indicators"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Female",
+      "finance",
+      "Infant",
+      "Mortality",
+      "Rate"
+    ],
+    "nid": [
+      91792
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Infant Mortality Rate"
+    ],
+    "uuid": [
+      "d87db1ce-4492-4de7-af45-e5fb3dde420f"
+    ],
+    "vid": [
+      7862869
+    ],
+    "view_count": [
+      51419
+    ],
+    "search_api_id": [
+      "entity:node/91792:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-installed-capacity-grid-interactive-renewable-power"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5254
+    ],
+    "published_date": [
+      1370860542
+    ],
+    "body:value": [
+      "The data refers to state-wise installed capacity of Grid Interactive Renewable Power for Solar, Wind, Small Hydro and Biomass."
+    ],
+    "changed": [
+      1748845206
+    ],
+    "created": [
+      1370857800
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Renewable Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of New and Renewable Energy"
+    ],
+    "field_search_keywords": [
+      "solar, SOLAR, Solar "
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biomass",
+      "Hydro",
+      "Solar",
+      "Wind"
+    ],
+    "nid": [
+      91794
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Installed Capacity of Grid Interactive Renewable Power"
+    ],
+    "uuid": [
+      "a666cfdd-8e32-4631-8f49-5d60319231ee"
+    ],
+    "vid": [
+      13297480
+    ],
+    "view_count": [
+      4379
+    ],
+    "search_api_id": [
+      "entity:node/91794:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/state-wise-list-lok-sabha-members-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2072
+    ],
+    "published_date": [
+      1379939297
+    ],
+    "body:value": [
+      "(English) This provides information on the state-wise Lok Sabha members."
+    ],
+    "changed": [
+      1487337351
+    ],
+    "created": [
+      1379930820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Loksabha",
+      "Member"
+    ],
+    "nid": [
+      91796
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise List of Lok Sabha Members (English)"
+    ],
+    "uuid": [
+      "442ac1ca-a49f-4263-8ee1-4916a5be7062"
+    ],
+    "vid": [
+      7862878
+    ],
+    "view_count": [
+      1834
+    ],
+    "search_api_id": [
+      "entity:node/91796:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/state-wise-list-lok-sabha-members-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2944
+    ],
+    "published_date": [
+      1381486067
+    ],
+    "body:value": [
+      "(Hindi) This provides information on state-wise Lok Sabha Members."
+    ],
+    "changed": [
+      1487337497
+    ],
+    "created": [
+      1381233480
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Lok Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Loksabha",
+      "Member"
+    ],
+    "nid": [
+      91798
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise List of Lok Sabha Members (Hindi)"
+    ],
+    "uuid": [
+      "b0ed79b0-62ca-4c00-8a82-c86c5a26722c"
+    ],
+    "vid": [
+      7862883
+    ],
+    "view_count": [
+      2787
+    ],
+    "search_api_id": [
+      "entity:node/91798:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/state-wise-list-rajya-sabha-members-english"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1103
+    ],
+    "published_date": [
+      1378199026
+    ],
+    "body:value": [
+      "(English) This provides information on state-wise Rajya Sabha members."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378099500
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha English RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "English",
+      "Member",
+      "Rajyasabha"
+    ],
+    "nid": [
+      91800
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise List of Rajya Sabha Members (English)"
+    ],
+    "uuid": [
+      "8c7227c0-7920-4d37-9ef0-4bcbb57c36d4"
+    ],
+    "vid": [
+      7862888
+    ],
+    "view_count": [
+      945
+    ],
+    "search_api_id": [
+      "entity:node/91800:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/state-wise-list-rajya-sabha-members-hindi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1579
+    ],
+    "published_date": [
+      1378449799
+    ],
+    "body:value": [
+      "(Hindi) This provides information on state-wise Rajya Sabha members."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1378273140
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha Hindi RSS Feeds"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Hindi",
+      "Member",
+      "Rajyasabha"
+    ],
+    "nid": [
+      91802
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise List of Rajya Sabha Members (Hindi)"
+    ],
+    "uuid": [
+      "83e7d41f-37e3-4656-a3b3-bfbbb9fb5f8d"
+    ],
+    "vid": [
+      7862893
+    ],
+    "view_count": [
+      1556
+    ],
+    "search_api_id": [
+      "entity:node/91802:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-literacy-rates"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      36854
+    ],
+    "published_date": [
+      1372064445
+    ],
+    "body:value": [
+      "The data refers to the State-wise Literacy Rates in India. It provides the Censuses figures (in per cent). "
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371192900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Human Development Indicators"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "Development",
+      "Economic",
+      "finance",
+      "Survey",
+      "Indicator",
+      "Human"
+    ],
+    "nid": [
+      91804
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Literacy Rates"
+    ],
+    "uuid": [
+      "d3bd9d18-61b3-4786-bbb9-a2d84fe15ec8"
+    ],
+    "vid": [
+      7862898
+    ],
+    "view_count": [
+      35984
+    ],
+    "search_api_id": [
+      "entity:node/91804:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-number-and-paid-capital-public-companies-and-private-companies-work"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3260
+    ],
+    "published_date": [
+      1366896073
+    ],
+    "body:value": [
+      "The data refers to State-wise number and paid-up capital of Public Companies and Private Companies at work as on 31st March from 2010 to 2011."
+    ],
+    "changed": [
+      1441695611
+    ],
+    "created": [
+      1366893300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "Company",
+      "Private",
+      "Paid"
+    ],
+    "nid": [
+      91806
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Number And Paid-up Capital of Public Companies And Private Companies At Work"
+    ],
+    "uuid": [
+      "0e662104-7c55-4e1d-b7ff-08f5cdf454d4"
+    ],
+    "vid": [
+      7862906
+    ],
+    "view_count": [
+      3103
+    ],
+    "search_api_id": [
+      "entity:node/91806:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-number-and-paid-capital-public-companies-and-private-companies-ceased-work"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2589
+    ],
+    "published_date": [
+      1366896166
+    ],
+    "body:value": [
+      "The data refers to State-wise number and paid-up capital of Public Companies and Private Companies ceased to work as on 31st March from 2009 to 2010."
+    ],
+    "changed": [
+      1509360498
+    ],
+    "created": [
+      1366893720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Companies"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Commerce",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Company",
+      "Work",
+      "Paid"
+    ],
+    "nid": [
+      91808
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Number And Paid-up Capital of Public Companies and Private Companies Ceased To Work"
+    ],
+    "uuid": [
+      "69799845-8d6e-4f7a-be25-68704ca3d130"
+    ],
+    "vid": [
+      7862913
+    ],
+    "view_count": [
+      2459
+    ],
+    "search_api_id": [
+      "entity:node/91808:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

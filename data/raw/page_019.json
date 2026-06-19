@@ -1,0 +1,4789 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/export-performance-cpses-under-dhi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1045
+    ],
+    "published_date": [
+      1440658470
+    ],
+    "body:value": [
+      "The data describes export performance of Central Public Sector Enterprises (CPSEs) under Department of Heavy Industries (DHI) namely AYCL, BHEL, BBUNL, BPCL, B&R, HEC, HMT(I), IL, REIL, SIL, HSL, SSL and EPIL."
+    ],
+    "changed": [
+      1440658470
+    ],
+    "created": [
+      1434967707
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Heavy Industries and Public Enterprises",
+      "Department of Heavy Industries"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Heavy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "CPSE",
+      "Department",
+      "Export",
+      "Industry",
+      "Enterprise",
+      "Heavy"
+    ],
+    "nid": [
+      310221
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Export Performance of CPSEs under DHI"
+    ],
+    "uuid": [
+      "6d155559-c4b3-4762-9125-373e3a9eeae5"
+    ],
+    "vid": [
+      7894590
+    ],
+    "view_count": [
+      879
+    ],
+    "search_api_id": [
+      "entity:node/310221:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/paid-capital-net-worth-and-accumulated-profit-loss-cpses-under-dhi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1422
+    ],
+    "published_date": [
+      1438579165
+    ],
+    "body:value": [
+      "It contains data of  paid up capital, net worth and accumulated profit /loss of the CPSEs under DHI. Central Public Sector Enterprises (CPSEs) are those companies in which the direct holding of the Central Government or other CPSEs is 51% or more."
+    ],
+    "changed": [
+      1438579165
+    ],
+    "created": [
+      1434967900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Heavy Industries"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Heavy Industries and Public Enterprises",
+      "Department of Heavy Industries"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Heavy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capital",
+      "CPSE",
+      "Department",
+      "Industry",
+      "Loss",
+      "Public",
+      "Worth",
+      "Enterprise",
+      "Paid",
+      "Heavy",
+      "Profit"
+    ],
+    "nid": [
+      310261
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Paid up capital, net worth and accumulated profit /loss of the CPSEs under DHI"
+    ],
+    "uuid": [
+      "bbccb0c3-daf8-4745-ae4c-eeb23937d341"
+    ],
+    "vid": [
+      7894594
+    ],
+    "view_count": [
+      1215
+    ],
+    "search_api_id": [
+      "entity:node/310261:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/inputs-sanctioned-govt-revival-re-structuring-cpses-under-dhi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      588
+    ],
+    "published_date": [
+      1440659587
+    ],
+    "body:value": [
+      "Data describes Inputs sanctioned by the Govt. for revival / Re-structuring of CPSEs (Central Public Sector Enterprises) under DHI (Department of Heavy Industries). "
+    ],
+    "changed": [
+      1440659587
+    ],
+    "created": [
+      1434968310
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Heavy Industries and Public Enterprises",
+      "Department of Heavy Industries"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Heavy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CPSE",
+      "Department",
+      "Industry",
+      "sanction",
+      "Enterprise",
+      "Heavy"
+    ],
+    "nid": [
+      310341
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Inputs sanctioned by the Govt. for revival / Re-structuring of CPSEs under DHI"
+    ],
+    "uuid": [
+      "db555bd2-01b2-4cc4-833f-f292d4db947c"
+    ],
+    "vid": [
+      7894599
+    ],
+    "view_count": [
+      519
+    ],
+    "search_api_id": [
+      "entity:node/310341:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/growth-and-strength-indian-shipping"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1737
+    ],
+    "published_date": [
+      1506516468
+    ],
+    "body:value": [
+      "The catalog contains details on strength of Indian merchant shipping fleet-coastal, overseas, number of vessels and GRT and share of coastal and overseas in Indian Tonnage\r\n"
+    ],
+    "changed": [
+      1602760735
+    ],
+    "created": [
+      1505460647
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Shipping Sector"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Water ways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Coastal",
+      "Overseas",
+      "DWT",
+      "cargo",
+      "Fleet",
+      "GRT",
+      "merchant"
+    ],
+    "nid": [
+      3783621
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Growth and Strength of Indian Shipping"
+    ],
+    "uuid": [
+      "f46cb38c-6f87-48ef-b96e-c2b1e4e94ae6"
+    ],
+    "vid": [
+      7897770
+    ],
+    "view_count": [
+      1326
+    ],
+    "search_api_id": [
+      "entity:node/3783621:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      4
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/cargo-traffic-handled-carried"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1957
+    ],
+    "published_date": [
+      1506516484
+    ],
+    "body:value": [
+      "Data refers to the traffic handled in terms on overseas loaded/unloaded, coastal loaded/unloaded and total traffic at major/non-major ports in India.\r\n"
+    ],
+    "changed": [
+      1602760736
+    ],
+    "created": [
+      1505460919
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Shipping Sector"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Water ways"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Port",
+      "Shipping",
+      "Overseas",
+      "DWT",
+      "loaded",
+      "Fleet",
+      "GRT",
+      "merchant",
+      "costal"
+    ],
+    "nid": [
+      3783641
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Cargo Traffic Handled / Carried"
+    ],
+    "uuid": [
+      "ec0a8f74-4a8f-490a-a962-1bbcae9b0a57"
+    ],
+    "vid": [
+      7897774
+    ],
+    "view_count": [
+      1150
+    ],
+    "search_api_id": [
+      "entity:node/3783641:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/gross-value-added-economic-activity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4645
+    ],
+    "published_date": [
+      1506516476
+    ],
+    "body:value": [
+      "The data describes details on Gross value added Economic- Activity wise from livestock sector at current/constant prices. Data has been published by Central Statistics Office \r\n"
+    ],
+    "changed": [
+      1599032435
+    ],
+    "created": [
+      1505461208
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Gross",
+      "livestock",
+      "prices",
+      "Value",
+      "Current",
+      "Constant"
+    ],
+    "nid": [
+      3783661
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Gross Value Added by Economic Activity"
+    ],
+    "uuid": [
+      "b1928f43-71ed-47b6-a5b5-2b07203d7f01"
+    ],
+    "vid": [
+      7897778
+    ],
+    "view_count": [
+      3830
+    ],
+    "search_api_id": [
+      "entity:node/3783661:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/index-mineral-production"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5112
+    ],
+    "published_date": [
+      1506516500
+    ],
+    "body:value": [
+      "The data refer to the Index of Mineral Production as like coal, Manganese Ore, Bauxite, Iron Ore, Copper Ore, Dolomite, Limestone and Diamond, Chromite, Apatite, Ball clay etc. in India."
+    ],
+    "changed": [
+      1531139495
+    ],
+    "created": [
+      1505712525
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Minerals"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Coal",
+      "Quantum",
+      "Copper"
+    ],
+    "nid": [
+      3785061
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Index of Mineral Production"
+    ],
+    "uuid": [
+      "3aca7c5a-ccb9-4d45-a1fb-9316a5b6cd09"
+    ],
+    "vid": [
+      7897782
+    ],
+    "view_count": [
+      4633
+    ],
+    "search_api_id": [
+      "entity:node/3785061:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/production-and-export-electronics-and-it-production"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3256
+    ],
+    "published_date": [
+      1506516494
+    ],
+    "body:value": [
+      "The data refers to information about the Electronics and IT Production as well as Electronics and IT Exports"
+    ],
+    "changed": [
+      1599033623
+    ],
+    "created": [
+      1505715624
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Electronics and Information Technology"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Export",
+      "IT",
+      "Production",
+      "Electronic"
+    ],
+    "nid": [
+      3785101
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Production and Export of Electronics and IT Production"
+    ],
+    "uuid": [
+      "24e1d1d1-624e-4db2-b539-a48ff27347d4"
+    ],
+    "vid": [
+      7897786
+    ],
+    "view_count": [
+      2707
+    ],
+    "search_api_id": [
+      "entity:node/3785101:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/membership-workers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1366
+    ],
+    "published_date": [
+      1506516509
+    ],
+    "body:value": [
+      "The Data presents Number Of Workers And Employers Unions Submitting Returns And Their Membership By Industries(NIC-2004 & NIC-2008)."
+    ],
+    "changed": [
+      1602760734
+    ],
+    "created": [
+      1505719461
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Labour and Employment"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Labour and Employment",
+      "Organized Sector Workers"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Membership",
+      "Worker",
+      "Submitting",
+      "Return"
+    ],
+    "nid": [
+      3785341
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Membership of Workers"
+    ],
+    "uuid": [
+      "f4fd46b4-7f9d-4055-93ae-28b4b2cd7d08"
+    ],
+    "vid": [
+      7897790
+    ],
+    "view_count": [
+      1087
+    ],
+    "search_api_id": [
+      "entity:node/3785341:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/economic-classification-central-budget"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5105
+    ],
+    "published_date": [
+      1506516463
+    ],
+    "body:value": [
+      "The Data refer to the Economic Classicification of the Central Budget such as Incomings  Net increase in financial liabilities-Balancing, Decrease in cash balance and Outgoings Deficit on sactions in commodities and services & transfers, Balancing item etc.\r\n"
+    ],
+    "changed": [
+      1506573147
+    ],
+    "created": [
+      1505727463
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Economy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Asset",
+      "Capital",
+      "Cash",
+      "Economic",
+      "Financial",
+      "Account",
+      "Reconciliation"
+    ],
+    "nid": [
+      3785601
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Economic Classification of the Central Budget"
+    ],
+    "uuid": [
+      "9d1b84a3-a538-4ede-a3d7-5fb6fd849d28"
+    ],
+    "vid": [
+      7897794
+    ],
+    "view_count": [
+      3551
+    ],
+    "search_api_id": [
+      "entity:node/3785601:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/all-india-health-centres-directory"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10158
+    ],
+    "published_date": [
+      1505938772
+    ],
+    "body:value": [
+      "Get complete list of primary health centres, sub centres, community health centres, district hospitals,  and state hospitals with geo-location. It aslo contains other required Information like state name, district name, sub district name, location, facility address etc."
+    ],
+    "changed": [
+      1566286786
+    ],
+    "created": [
+      1505883309
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Directory Services",
+      "trfff"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "community",
+      "Hospital",
+      "primary"
+    ],
+    "nid": [
+      3786581
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "All India Health Centres Directory"
+    ],
+    "uuid": [
+      "09ef97dd-3b9f-4b2c-bd3d-c24a0e084463"
+    ],
+    "vid": [
+      7897798
+    ],
+    "view_count": [
+      6969
+    ],
+    "search_api_id": [
+      "entity:node/3786581:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/buses-kanpur-uttar-pradesh"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      179
+    ],
+    "published_date": [
+      1549987158
+    ],
+    "body:value": [
+      "This catalog helps understand the public transportation of a city"
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1549337334
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bus",
+      "cost",
+      "earnings",
+      "Revenue",
+      "stands",
+      "Stops",
+      "Terminals"
+    ],
+    "nid": [
+      602908789
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Buses: Kanpur, Uttar Pradesh"
+    ],
+    "uuid": [
+      "731f2a82-5cc6-4693-854e-44cc104fa394"
+    ],
+    "vid": [
+      13060609
+    ],
+    "view_count": [
+      130
+    ],
+    "search_api_id": [
+      "entity:node/602908789:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/itc-neighborhood-kanpur"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      81
+    ],
+    "published_date": [
+      1549987158
+    ],
+    "body:value": [
+      "FACILITIES FOR CHILDREN AT WARD LEVEL; % OF TOTAL AREA COVERED UNDER PARKS, PLAYGROUNDS AND OPE SPACES; %OF MUNICIPAL BUDGET ALLOCATED FOR OPEN SPACES"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549371042
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Facilities",
+      "municipal",
+      "Neighborhood",
+      "Park",
+      "Playground",
+      "residential"
+    ],
+    "nid": [
+      602909543
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "ITC NEIGHBORHOOD: KANPUR"
+    ],
+    "uuid": [
+      "863de608-d23b-4f01-8b07-584cce475cb7"
+    ],
+    "vid": [
+      13012519
+    ],
+    "view_count": [
+      62
+    ],
+    "search_api_id": [
+      "entity:node/602909543:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-health-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      60
+    ],
+    "published_date": [
+      1549987647
+    ],
+    "body:value": [
+      "This indicator helps in determining financial health of the city"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549372395
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "Income",
+      "Loss",
+      "Profit",
+      "Revenue"
+    ],
+    "nid": [
+      602909589
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Financial health: Kanpur nagar"
+    ],
+    "uuid": [
+      "8e229ccf-c5bb-46db-be71-22eb3b075122"
+    ],
+    "vid": [
+      13055387
+    ],
+    "view_count": [
+      55
+    ],
+    "search_api_id": [
+      "entity:node/602909589:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/governance-kanpur-nagar-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      93
+    ],
+    "published_date": [
+      1549987048
+    ],
+    "body:value": [
+      "this indicator helps determine the governance structure of the municipality"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549365128
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Local Government"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "booths",
+      "Election",
+      "municipal",
+      "Poll",
+      "Registered",
+      "Voter"
+    ],
+    "nid": [
+      602909302
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Governance: kanpur nagar"
+    ],
+    "uuid": [
+      "95a9a6cf-bf5a-45f1-82a9-055ab496aaae"
+    ],
+    "vid": [
+      13055247
+    ],
+    "view_count": [
+      81
+    ],
+    "search_api_id": [
+      "entity:node/602909302:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/mortality-rate-kanpur-nagar-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      412
+    ],
+    "published_date": [
+      1549987042
+    ],
+    "body:value": [
+      "this catalog defines various indicators under mortality such as number of live births number of deaths divided by male, female, infants, children."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549367971
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Health",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Age",
+      "birth",
+      "child",
+      "Death",
+      "Infant",
+      "Mortality"
+    ],
+    "nid": [
+      602909417
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "mortality rate: kanpur nagar"
+    ],
+    "uuid": [
+      "afff75f5-f0b6-4fc8-a816-50923dd4e0e5"
+    ],
+    "vid": [
+      13000437
+    ],
+    "view_count": [
+      339
+    ],
+    "search_api_id": [
+      "entity:node/602909417:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/surat-citizen-centric-services-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      433
+    ],
+    "published_date": [
+      1549951353
+    ],
+    "body:value": [
+      "The catalog contains information related to statistical information related to various citizen centric services provided by Surat Municipal Corporation. The APIs are made available for Birth - Death Registration, Property Tax, Professional Tax, BRTS, City Bus, Building Plan approval, etc. The availability of data varies depending of the type of data set. \\\r\nBirth Registration - 2001 onward\\\r\nDeath Registration - 2001 onward\\\r\nBuilding Plan Approval System - 2009 onward "
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549448595
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Gujarat",
+      "Surat"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "birth",
+      "Building",
+      "Death",
+      "Plan",
+      "professional",
+      "Property",
+      "Registration",
+      "Tax"
+    ],
+    "nid": [
+      602910127
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Surat Citizen Centric Services"
+    ],
+    "uuid": [
+      "4af21472-e661-498c-a2e5-2dab59e07500"
+    ],
+    "vid": [
+      13052127
+    ],
+    "view_count": [
+      407
+    ],
+    "search_api_id": [
+      "entity:node/602910127:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/vat-gst-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      294
+    ],
+    "published_date": [
+      1549702742
+    ],
+    "body:value": [
+      "This indicator helps in determining economic productivity and competitiveness of the city."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549448856
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "GST",
+      "Sales",
+      "Tax",
+      "VAT"
+    ],
+    "nid": [
+      602910133
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "VAT & GST: KANPUR NAGAR"
+    ],
+    "uuid": [
+      "6d5ecc36-b466-41e4-ae04-884c857c4288"
+    ],
+    "vid": [
+      13053217
+    ],
+    "view_count": [
+      283
+    ],
+    "search_api_id": [
+      "entity:node/602910133:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/demographic-profile-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      287
+    ],
+    "published_date": [
+      1549702703
+    ],
+    "body:value": [
+      "The catalog contains data regarding basic indicators like area, population, workforce participation and households present in the city. These indicators define the basic profile of the city. "
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549649215
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Census",
+      "Census and Surveys"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Households",
+      "Labour",
+      "Population",
+      "smart city",
+      "Workforce"
+    ],
+    "nid": [
+      602911432
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Demographic Profile : Kanpur Nagar  "
+    ],
+    "uuid": [
+      "64dc2535-e0b3-4c54-b931-80856e5591a1"
+    ],
+    "vid": [
+      13011564
+    ],
+    "view_count": [
+      251
+    ],
+    "search_api_id": [
+      "entity:node/602911432:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/transportation-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      184
+    ],
+    "published_date": [
+      1549702667
+    ],
+    "body:value": [
+      "This catalog helps understand the transportation insights of the city."
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549650409
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "auto trip",
+      "Bus",
+      "cycle",
+      "metro",
+      "Mode",
+      "Registration",
+      "Rickshaw",
+      "share",
+      "Train",
+      "vehicle",
+      "walking"
+    ],
+    "nid": [
+      602911434
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Transportation : Kanpur Nagar"
+    ],
+    "uuid": [
+      "ef830e75-c82c-4285-8edd-604715ce658b"
+    ],
+    "vid": [
+      13055877
+    ],
+    "view_count": [
+      155
+    ],
+    "search_api_id": [
+      "entity:node/602911434:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/road-safety-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      79
+    ],
+    "published_date": [
+      1549702615
+    ],
+    "body:value": [
+      "This indicator will help determine the number of injuries per lakh population and number of fatalities per lakh population."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1549651078
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bus",
+      "Car",
+      "cycle",
+      "Fatalities",
+      "Fatality",
+      "Injuries",
+      "Road",
+      "walk"
+    ],
+    "nid": [
+      602911436
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Road Safety : Kanpur Nagar"
+    ],
+    "uuid": [
+      "2d440651-c1e5-43ae-920b-45313815996e"
+    ],
+    "vid": [
+      13056932
+    ],
+    "view_count": [
+      62
+    ],
+    "search_api_id": [
+      "entity:node/602911436:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/digital-availability-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      54
+    ],
+    "published_date": [
+      1549702548
+    ],
+    "body:value": [
+      "This indicator helps determine the % of citizen services available online."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549651881
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Access",
+      "Citizen",
+      "Digital",
+      "payment"
+    ],
+    "nid": [
+      602911442
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Digital Availability : Kanpur Nagar"
+    ],
+    "uuid": [
+      "05a8814d-7c6f-4ad3-9775-8486a5acacfb"
+    ],
+    "vid": [
+      13002875
+    ],
+    "view_count": [
+      49
+    ],
+    "search_api_id": [
+      "entity:node/602911442:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/solid-waste-management-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      568
+    ],
+    "published_date": [
+      1549987158
+    ],
+    "body:value": [
+      "This catalog defines source segregation, D2D collection efficiency, placement and sizes of bins, collection vehicles and their capacity, types of processing of waste and disposal options available for waste collected."
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1549653378
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Anaerobic Digestion",
+      "Bins",
+      "Biomethanation",
+      "capacity",
+      "Charges",
+      "Collection",
+      "Compost",
+      "Composting",
+      "D2D",
+      "Disposal",
+      "door2door",
+      "Energy",
+      "garbage",
+      "Generation",
+      "Households",
+      "incineration",
+      "Landfill",
+      "Pelletization",
+      "Plasma Pyrolysis",
+      "Power",
+      "Process",
+      "Quantity",
+      "RDF",
+      "recyclables",
+      "Recycling",
+      "Refuse Derived Fuel",
+      "Revenue",
+      "Sanitation",
+      "segregation",
+      "sewerage",
+      "toilet",
+      "Transportation",
+      "treatment",
+      "user",
+      "vehicle",
+      "Waste",
+      "water",
+      "Windrow composting"
+    ],
+    "nid": [
+      602911445
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Solid Waste Management : Kanpur Nagar"
+    ],
+    "uuid": [
+      "fc25b467-c5e0-47bc-ad98-83f6586cd934"
+    ],
+    "vid": [
+      13056545
+    ],
+    "view_count": [
+      505
+    ],
+    "search_api_id": [
+      "entity:node/602911445:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/environment-kanpur-nagar-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      115
+    ],
+    "published_date": [
+      1549987158
+    ],
+    "body:value": [
+      "The catalog contains data regarding the pollution levels of the city. it provides the monthly mean concentration of various pollutant particles such as Pm2.5, PM10, NO2, SO2 and O3"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1549654401
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Residential Air Pollution"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air quality",
+      "concentration",
+      "NO2",
+      "O3",
+      "PM10",
+      "PM2.5",
+      "pollution",
+      "sensors",
+      "smart city",
+      "SO2"
+    ],
+    "nid": [
+      602911447
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Environment : Kanpur Nagar"
+    ],
+    "uuid": [
+      "6b2e501a-596b-4077-a207-a16b6cc2ab96"
+    ],
+    "vid": [
+      13011151
+    ],
+    "view_count": [
+      108
+    ],
+    "search_api_id": [
+      "entity:node/602911447:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/digital-payments-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      71
+    ],
+    "published_date": [
+      1550048842
+    ],
+    "body:value": [
+      "This indicator helps determine the digital payments efficiency of a city."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549824933
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "Digital",
+      "digital payment",
+      "kanpur",
+      "online"
+    ],
+    "nid": [
+      602911651
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Digital Payments : Kanpur Nagar"
+    ],
+    "uuid": [
+      "92be70d7-5c3a-486e-be8c-43b70366bdca"
+    ],
+    "vid": [
+      13053367
+    ],
+    "view_count": [
+      61
+    ],
+    "search_api_id": [
+      "entity:node/602911651:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crimes-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      135
+    ],
+    "published_date": [
+      1550210602
+    ],
+    "body:value": [
+      "This indicator helps understand the prevalent crime rate in the city."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549825847
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crimes",
+      "kanpur",
+      "Record"
+    ],
+    "nid": [
+      602911653
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Crimes: Kanpur nagar"
+    ],
+    "uuid": [
+      "5ccf4dd1-0f9f-487a-8543-8d2b33a43c2f"
+    ],
+    "vid": [
+      13052416
+    ],
+    "view_count": [
+      76
+    ],
+    "search_api_id": [
+      "entity:node/602911653:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/health-infrastructure-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      196
+    ],
+    "published_date": [
+      1550210607
+    ],
+    "body:value": [
+      "This catalog gives out wardwise details of name of facilities, type of the facility, level of facility, number of beds, doctors, physicians, nurses and midwives present."
+    ],
+    "changed": [
+      1739858423
+    ],
+    "created": [
+      1549826428
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Infra"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Health",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bed",
+      "Doctor",
+      "Equipment",
+      "facility",
+      "Hospital",
+      "kanpur",
+      "Maternity",
+      "nurse",
+      "Physician",
+      "primary",
+      "Private",
+      "professional",
+      "Public",
+      "secondary",
+      "Tertiary",
+      "Ward"
+    ],
+    "nid": [
+      602911654
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Health Infrastructure: Kanpur Nagar"
+    ],
+    "uuid": [
+      "fc8af020-212f-428e-87b5-710dfd45d99d"
+    ],
+    "vid": [
+      13060257
+    ],
+    "view_count": [
+      152
+    ],
+    "search_api_id": [
+      "entity:node/602911654:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/water-tax-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      828
+    ],
+    "published_date": [
+      1550048724
+    ],
+    "body:value": [
+      "indicates the water tax collection for the city."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549826759
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Drinking Water",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "Deficit",
+      "kanpur",
+      "Tax",
+      "WATER TAX"
+    ],
+    "nid": [
+      602911655
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Water Tax: Kanpur Nagar"
+    ],
+    "uuid": [
+      "61b7d1de-dee0-42c6-8ae9-dc3019ac726b"
+    ],
+    "vid": [
+      13053368
+    ],
+    "view_count": [
+      647
+    ],
+    "search_api_id": [
+      "entity:node/602911655:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/water-sanitation-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      179
+    ],
+    "published_date": [
+      1550316850
+    ],
+    "body:value": [
+      "This catalog describes the sewerage network and details of the spread of the public toilets available within an area in the city."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549827306
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Sanitation",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "kanpur",
+      "Sanitation",
+      "sewerage",
+      "toilet",
+      "water households"
+    ],
+    "nid": [
+      602911656
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Water & Sanitation : Kanpur Nagar"
+    ],
+    "uuid": [
+      "13fbb70f-cea9-46f3-818b-9ae9a4d8c80e"
+    ],
+    "vid": [
+      13005460
+    ],
+    "view_count": [
+      135
+    ],
+    "search_api_id": [
+      "entity:node/602911656:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/diseases-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      136
+    ],
+    "published_date": [
+      1550316850
+    ],
+    "body:value": [
+      "This indicator helps determine the period prevalence of vector borne (indicators of the measures taken by city administration to control the growth of mosquitoes and other organisms that spread such diseases and the general level of hygiene and sanitation) and water."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1549827902
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Health",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air",
+      "Disease",
+      "kanpur",
+      "Vector",
+      "water"
+    ],
+    "nid": [
+      602911657
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Diseases: Kanpur Nagar"
+    ],
+    "uuid": [
+      "334d97ac-3356-4f14-93f2-764e7b606904"
+    ],
+    "vid": [
+      13057173
+    ],
+    "view_count": [
+      76
+    ],
+    "search_api_id": [
+      "entity:node/602911657:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/electricity-kanpur-nagar-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      156
+    ],
+    "published_date": [
+      1550048759
+    ],
+    "body:value": [
+      "This catalog helps in determining the electricity consumption of the city."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549828856
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "commercial",
+      "Consumption",
+      "domestic",
+      "electricity",
+      "Industry",
+      "kanpur",
+      "Public"
+    ],
+    "nid": [
+      602911659
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Electricity : Kanpur Nagar"
+    ],
+    "uuid": [
+      "76c4a5b1-7728-4788-869b-4a15ed4b2bc5"
+    ],
+    "vid": [
+      13004435
+    ],
+    "view_count": [
+      131
+    ],
+    "search_api_id": [
+      "entity:node/602911659:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/digital-availability-mangaluru"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      137
+    ],
+    "published_date": [
+      1555047693
+    ],
+    "body:value": [
+      "This indicator helps determine the % of citizen services available online"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1549880464
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Dakshina Kannada",
+      "Karnataka",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Digital Availability : Mangaluru"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Karnataka",
+      "Mangaluru"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Information and Communications",
+      "Information and Technology",
+      "Local Government"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Access",
+      "Citizen",
+      "Digital",
+      "payment"
+    ],
+    "nid": [
+      602911772
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "121"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Digital Availability : Mangaluru"
+    ],
+    "uuid": [
+      "3f954407-5cd2-446f-97f2-0515a8c47444"
+    ],
+    "vid": [
+      13002877
+    ],
+    "view_count": [
+      86
+    ],
+    "search_api_id": [
+      "entity:node/602911772:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/digital-payments-jhansi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      60
+    ],
+    "published_date": [
+      1550045121
+    ],
+    "body:value": [
+      "This indicator helps determine the Digital Payments efficiency of a city"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1549960251
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Jhansi"
+    ],
+    "field_sector:name": [
+      "Finance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "Digital",
+      "digital payment",
+      "online"
+    ],
+    "nid": [
+      602912134
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Digital Payments : Jhansi"
+    ],
+    "uuid": [
+      "c58ff1f0-37dd-4858-adaf-77cb045eeb3e"
+    ],
+    "vid": [
+      13053400
+    ],
+    "view_count": [
+      58
+    ],
+    "search_api_id": [
+      "entity:node/602912134:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/street-light-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      468
+    ],
+    "published_date": [
+      1549987158
+    ],
+    "body:value": [
+      "This catalog describes the number of street lights available in the city which are LED and connected to the renewable resources. "
+    ],
+    "changed": [
+      1564045990
+    ],
+    "created": [
+      1549907273
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bulbs",
+      "kanpur",
+      "LED",
+      "poles",
+      "street lights"
+    ],
+    "nid": [
+      602911972
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Street Light : Kanpur Nagar"
+    ],
+    "uuid": [
+      "b87efc02-186d-4834-8702-06814bcd1825"
+    ],
+    "vid": [
+      12090432
+    ],
+    "view_count": [
+      374
+    ],
+    "search_api_id": [
+      "entity:node/602911972:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/waterkanpur-nagar-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      121
+    ],
+    "published_date": [
+      1550048721
+    ],
+    "body:value": [
+      "This catalog helps determine the water consumption per capita."
+    ],
+    "changed": [
+      1739360435
+    ],
+    "created": [
+      1549909817
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Drinking Water",
+      "Water and Sanitation"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Consumption",
+      "domestic",
+      "kanpur",
+      "supply",
+      "water"
+    ],
+    "nid": [
+      602911976
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Water_Kanpur Nagar"
+    ],
+    "uuid": [
+      "d456aad6-a511-46b7-956b-b84875692877"
+    ],
+    "vid": [
+      12988226
+    ],
+    "view_count": [
+      82
+    ],
+    "search_api_id": [
+      "entity:node/602911976:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/vat-and-gst-collection-mangaluru-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      63
+    ],
+    "published_date": [
+      1550396871
+    ],
+    "body:value": [
+      "Mangaluru Commercial Department's of Sales Tax, Trade and Taxes Department or similar department,economic productivity and competitiveness of a city"
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1550232125
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "VATandGSTCollection:Mangaluru"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Karnataka",
+      "Mangaluru"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Revenue"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "GST",
+      "Sales",
+      "Tax",
+      "VAT"
+    ],
+    "nid": [
+      602913878
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "121"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "VAT and GST Collection : Mangaluru"
+    ],
+    "uuid": [
+      "69746dab-19ed-4fde-817b-747b30a05b17"
+    ],
+    "vid": [
+      13053534
+    ],
+    "view_count": [
+      51
+    ],
+    "search_api_id": [
+      "entity:node/602913878:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/roads-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      162
+    ],
+    "published_date": [
+      1550316850
+    ],
+    "body:value": [
+      "Determining the condition of the roads of the city."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1550256179
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Drainage",
+      "footpath",
+      "kanpur",
+      "Length",
+      "Roads",
+      "tar",
+      "water"
+    ],
+    "nid": [
+      602914026
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Roads : Kanpur Nagar"
+    ],
+    "uuid": [
+      "4993b081-b610-4233-99b4-0b759733389f"
+    ],
+    "vid": [
+      13004940
+    ],
+    "view_count": [
+      106
+    ],
+    "search_api_id": [
+      "entity:node/602914026:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/traffic-kanpur-nagar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      366
+    ],
+    "published_date": [
+      1550316850
+    ],
+    "body:value": [
+      "total no. of operational signalized intersections."
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1550257207
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Kanpur"
+    ],
+    "field_sector:name": [
+      "Road Transport",
+      "Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "intersections",
+      "ITMS",
+      "Junctions",
+      "kanpur",
+      "Motorized",
+      "Operational",
+      "Signal",
+      "trips"
+    ],
+    "nid": [
+      602914032
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Traffic: Kanpur Nagar"
+    ],
+    "uuid": [
+      "46e9b05a-4ad3-45e7-82a8-b47d52f3786c"
+    ],
+    "vid": [
+      13056396
+    ],
+    "view_count": [
+      254
+    ],
+    "search_api_id": [
+      "entity:node/602914032:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/itc-neighbourhood-jhansi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      70
+    ],
+    "published_date": [
+      1552543479
+    ],
+    "body:value": [
+      "Facilities for children at ward level; % of total area covered under parks, playgrounds and open spaces; % of municipal budget allocated for open spaces."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1550491645
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "Jhansi",
+      "State",
+      "Uttar Pradesh"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Jhansi"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Facilities",
+      "municipal",
+      "neighbourhood",
+      "Park",
+      "Playground",
+      "residential"
+    ],
+    "nid": [
+      602914457
+    ],
+    "ogpl_module_domain_access": [
+      "777",
+      "792",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "ITC Neighbourhood : Jhansi"
+    ],
+    "uuid": [
+      "2659153d-b6ad-4d99-8306-a0e373376a2a"
+    ],
+    "vid": [
+      13012603
+    ],
+    "view_count": [
+      62
+    ],
+    "search_api_id": [
+      "entity:node/602914457:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/digital-availability-moradabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      141
+    ],
+    "published_date": [
+      1560750989
+    ],
+    "body:value": [
+      "This indicator helps determine the % of citizen services available online"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1560178935
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Moradabad"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Access",
+      "Citizen",
+      "Digital",
+      "payment"
+    ],
+    "nid": [
+      602918051
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Digital Availability : Moradabad"
+    ],
+    "uuid": [
+      "b803aca6-b2f1-47fe-907a-cf8720cbd419"
+    ],
+    "vid": [
+      13002936
+    ],
+    "view_count": [
+      99
+    ],
+    "search_api_id": [
+      "entity:node/602918051:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/education-moradabad"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      188
+    ],
+    "published_date": [
+      1560751156
+    ],
+    "body:value": [
+      "This indicator denotes educational opportunity, and determines the coverage of formal education among school-aged population in the city and availability of adequate number of teachers in schools for providing primary education"
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1560180858
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Moradabad"
+    ],
+    "field_sector:name": [
+      "Education"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Population",
+      "primary",
+      "Private",
+      "Public",
+      "school",
+      "secondary",
+      "student",
+      "Teacher"
+    ],
+    "nid": [
+      602918054
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Education : Moradabad"
+    ],
+    "uuid": [
+      "8821f28f-d66c-4ec1-8c56-686f1a5dc8b5"
+    ],
+    "vid": [
+      13011055
+    ],
+    "view_count": [
+      159
+    ],
+    "search_api_id": [
+      "entity:node/602918054:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/environment-indore"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      318
+    ],
+    "published_date": [
+      1570704714
+    ],
+    "body:value": [
+      "This catalog contains the information about the environment of the city"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1570697573
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Madhya Pradesh",
+      "Indore"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Noise Pollution"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "environment"
+    ],
+    "nid": [
+      602918966
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Environment Indore"
+    ],
+    "uuid": [
+      "18c6621a-260d-420f-9fa8-446e62c185ed"
+    ],
+    "vid": [
+      12996052
+    ],
+    "view_count": [
+      279
+    ],
+    "search_api_id": [
+      "entity:node/602918966:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/community-facilities-indore"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      292
+    ],
+    "published_date": [
+      1570705028
+    ],
+    "body:value": [
+      "This catalog contains the information about the community facilities in the city."
+    ],
+    "changed": [
+      1570705050
+    ],
+    "created": [
+      1570698342
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Madhya Pradesh",
+      "Indore"
+    ],
+    "field_sector:name": [
+      "Games",
+      "Youth and Sports"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Community Facilities"
+    ],
+    "nid": [
+      602918967
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Community Facilities : Indore"
+    ],
+    "uuid": [
+      "f3012568-79ff-42fc-acea-8f37960daafe"
+    ],
+    "vid": [
+      12103827
+    ],
+    "view_count": [
+      207
+    ],
+    "search_api_id": [
+      "entity:node/602918967:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/financial-health-jhansi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      190
+    ],
+    "published_date": [
+      1563191920
+    ],
+    "body:value": [
+      "This indicator helps in determining Financial health of the city"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1562927428
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Jhansi"
+    ],
+    "field_sector:name": [
+      "Finance"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "Income",
+      "Loss",
+      "Profit",
+      "Revenue"
+    ],
+    "nid": [
+      602918465
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Financial Health : Jhansi"
+    ],
+    "uuid": [
+      "1750d2fd-ea36-4cd4-b6ee-8efcd0f16e6e"
+    ],
+    "vid": [
+      13055455
+    ],
+    "view_count": [
+      146
+    ],
+    "search_api_id": [
+      "entity:node/602918465:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/public-amenities-1"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      143
+    ],
+    "published_date": [
+      1569848367
+    ],
+    "body:value": [
+      "This catalog provides the basic details of the amenities provided to the public"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1566047272
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Madhya Pradesh",
+      "Indore"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Hospitals",
+      "primary",
+      "schools",
+      "secondary",
+      "students"
+    ],
+    "nid": [
+      602918714
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Public Amenities"
+    ],
+    "uuid": [
+      "e8c515da-9c14-497a-9560-31d5cb89c5a0"
+    ],
+    "vid": [
+      12997101
+    ],
+    "view_count": [
+      128
+    ],
+    "search_api_id": [
+      "entity:node/602918714:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/natural-landscape-indore"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      300
+    ],
+    "published_date": [
+      1563537876
+    ],
+    "body:value": [
+      "This catalog helps determine the area covered by natural landscape ina  city."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1563454844
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Madhya Pradesh",
+      "Indore"
+    ],
+    "field_sector:name": [
+      "Environment and Forest",
+      "Natural Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Ecology",
+      "Forest",
+      "Lake",
+      "Pond",
+      "river",
+      "water"
+    ],
+    "nid": [
+      602918600
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Natural Landscape : Indore"
+    ],
+    "uuid": [
+      "0fec7b16-67b9-496b-afe6-bd00ab8c3145"
+    ],
+    "vid": [
+      13003347
+    ],
+    "view_count": [
+      249
+    ],
+    "search_api_id": [
+      "entity:node/602918600:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/vat-gst-indore"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      357
+    ],
+    "published_date": [
+      1563533813
+    ],
+    "body:value": [
+      "This indicator helps in determining economic productivity and competitiveness of a city."
+    ],
+    "changed": [
+      1739809075
+    ],
+    "created": [
+      1563523926
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Madhya Pradesh",
+      "Indore"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Collection",
+      "GST",
+      "Sales",
+      "Tax",
+      "VAT"
+    ],
+    "nid": [
+      602918627
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "VAT & GST : Indore"
+    ],
+    "uuid": [
+      "9eae33e6-0770-419e-91df-b2b3b37ebc55"
+    ],
+    "vid": [
+      13053941
+    ],
+    "view_count": [
+      302
+    ],
+    "search_api_id": [
+      "entity:node/602918627:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/covid-19-indore"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      241
+    ],
+    "published_date": [
+      1593541934
+    ],
+    "body:value": [
+      "This will represent the patients with Covid 19 at the input hospitals."
+    ],
+    "changed": [
+      1593541949
+    ],
+    "created": [
+      1593511052
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Madhya Pradesh",
+      "Indore"
+    ],
+    "field_sector:name": [
+      "Health",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Corona Patient",
+      "Covid Patient"
+    ],
+    "nid": [
+      602919355
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "Covid 19 Indore"
+    ],
+    "uuid": [
+      "9654531e-fee1-4e06-bdfe-eff9aa4866d0"
+    ],
+    "vid": [
+      12106198
+    ],
+    "view_count": [
+      198
+    ],
+    "search_api_id": [
+      "entity:node/602919355:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/covid19bareilly"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      202
+    ],
+    "published_date": [
+      1595047768
+    ],
+    "body:value": [
+      "The catalog contains data regarding the COVID-19 situation of Gwalior which includes details of Positive Cases in Gwalior City, List of Cluster / Containment Zones in Gwalior. --- List of resources --- 1 Municipal Boundary 2 Ward Boundaries 3 Hospitals Location 4 Food Distribution Centers 5 Shelter Centers 6 COVID Patient 7 Hot-Spot/Containment Areas 8 Ward-wise Hospital Details 9 Ward-wise Quarantine Facilities 10 Ward-wise Medical Infrastructure 11 Food and Shelter Distribution"
+    ],
+    "changed": [
+      1610442523
+    ],
+    "created": [
+      1595041597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Uttar Pradesh",
+      "Bareilly"
+    ],
+    "field_sector:name": [
+      "Family Welfare",
+      "Health and Family welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CCOVID CASES"
+    ],
+    "nid": [
+      602919618
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "covid19_Bareilly "
+    ],
+    "uuid": [
+      "522fbee8-4679-4cab-b6cb-8561d48668c5"
+    ],
+    "vid": [
+      12107357
+    ],
+    "view_count": [
+      116
+    ],
+    "search_api_id": [
+      "entity:node/602919618:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/covid-19-udaipur"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      432
+    ],
+    "published_date": [
+      1593666424
+    ],
+    "body:value": [
+      "Contains COVID 19 related information."
+    ],
+    "changed": [
+      1615806687
+    ],
+    "created": [
+      1593515935
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Housing and Urban Affairs",
+      "Smart Cities Mission",
+      "Rajasthan",
+      "Udaipur"
+    ],
+    "field_sector:name": [
+      "Governance and Administration",
+      "Health",
+      "Health and Family welfare",
+      "Union/State Government Administration"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "COVID-19 patients details; Hot Containment Areas; Covid Hospitals Details; Quarantine Facilities; Medical Infrastrucure; Food Distribution."
+    ],
+    "nid": [
+      602919378
+    ],
+    "ogpl_module_domain_access": [
+      "777"
+    ],
+    "ogpl_module_domain_name": [
+      "smartcities.data.gov.in"
+    ],
+    "title": [
+      "COVID 19: Udaipur"
+    ],
+    "uuid": [
+      "cfa25884-8fc6-496c-a7dd-88379fc64905"
+    ],
+    "vid": [
+      12106320
+    ],
+    "view_count": [
+      302
+    ],
+    "search_api_id": [
+      "entity:node/602919378:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

@@ -1,0 +1,5515 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/rural-health-statistics-2019"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5895
+    ],
+    "published_date": [
+      1589347223
+    ],
+    "body:value": [
+      "It provides data of Rural Health Statistics 2019. Rural Health Statistics 2019 contains Infrastructural information and building positions of Sub Centres, Primary Health Centres (PHCs) and Community Health Centres (CHCs). It also contains state wise number of Sub Divisional Hospital, District Hospital & Mobile Medical Units. Get state/Ut wise information of Specialist Doctors, Health Workers, Auxiliary Mid wife Nurse (ANM), Nursing Staffs, Health Assistants, Radiographers, Pharmacists. It includes information of staffs in position, requirement of staffs and shortfall. District wise availability of health centres has also been furnished in the data."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1588076764
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rural Health Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ANM",
+      "CHC",
+      "child",
+      "community",
+      "Doctor",
+      "Hospital",
+      "Infant",
+      "maternal",
+      "Medical",
+      "Radiographers",
+      "Pharmacist",
+      "PHC",
+      "primary",
+      "Staff",
+      "Tribal",
+      "Facility",
+      "PHCs",
+      "CHCs",
+      "Nurse",
+      "mobile",
+      "Rural",
+      "Infrastructure",
+      "Nursing",
+      "Worker",
+      "RHS",
+      "Specialist",
+      "Auxiliary",
+      "Midwife",
+      "Assistant"
+    ],
+    "nid": [
+      6749546
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Rural Health Statistics - 2019"
+    ],
+    "uuid": [
+      "a4b39c68-f2b1-4830-b3ba-61e5e9a7fa70"
+    ],
+    "vid": [
+      13005082
+    ],
+    "view_count": [
+      3226
+    ],
+    "search_api_id": [
+      "entity:node/6749546:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-2018"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      16457
+    ],
+    "published_date": [
+      1589438810
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India - 2018. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Violent crimes, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Unidentified dead bodies recovered and inquest conducted, Victims of kidnapping & abduction, Disposal of crime cases, Charge sheet of crimes, Complaint received and case registered under IPC and SLL, Conviction rate , Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Offenders relation and nearness to rape victims, Crimes committed against children, Crime committed against scheduled castes and schedule tribes, Property stolen & recovered and percentage recovery, Vehicles stolen, Recovered and co-ordinated, Dacoity cases, Robbery cases, Burglary cases, Theft cases, Cultural property (including antiques) stolen and recovered, Cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Deaths in police custody /lockup, Escapes from police custody, Reported custodial rape cases and their disposal, Persons arrested under custodial ,Rape and their disposal by police and courts, Event wise persons killed or injured under police firing, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Incidence of human right violation by police, Sanctioned and strength of civil police including district armed police, Information on police housing, Sanctioned and actual strength of home guards and auxiliary force, Equipments and transport support, Police stations by volume of crime, Police stations by strength of personnel, Organization setup, Representation of SCs/STs and muslims in police etc."
+    ],
+    "changed": [
+      1739511484
+    ],
+    "created": [
+      1588939452
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Crime",
+      "Death",
+      "Kidnapping",
+      "Theft",
+      "Women",
+      "Girl",
+      "Police",
+      "Murder",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "Trial",
+      "Disposal",
+      "Victim",
+      "Offender"
+    ],
+    "nid": [
+      6750431
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 2018"
+    ],
+    "uuid": [
+      "ef711103-2868-4cf0-a445-5b9267e67d32"
+    ],
+    "vid": [
+      13013381
+    ],
+    "view_count": [
+      15004
+    ],
+    "search_api_id": [
+      "entity:node/6750431:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/basic-road-statistics-india-2016-17"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1263
+    ],
+    "published_date": [
+      1590038214
+    ],
+    "body:value": [
+      "Get data of Basic Road Statistics of India 2016-17. It provides comprehensive information on the total road network of the country. Road Statistics of India contains information on various categories of roads at National, State and Local (Municipal and Panchayat) levels. Apart from this, the information on plan allocation and expenditure on roads and an international comparison of road networks are also provided."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1589192909
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Basis Road Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Length",
+      "Public",
+      "Urban",
+      "Rural",
+      "PWD",
+      "Highway",
+      "Work",
+      "Network"
+    ],
+    "nid": [
+      6750766
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Basic Road Statistics of India 2016-17"
+    ],
+    "uuid": [
+      "7d92c167-2136-4492-ab97-7b5440e3da98"
+    ],
+    "vid": [
+      13005083
+    ],
+    "view_count": [
+      716
+    ],
+    "search_api_id": [
+      "entity:node/6750766:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/road-accidents-india-2018"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9501
+    ],
+    "published_date": [
+      1589963421
+    ],
+    "body:value": [
+      "The data refers to Total Number of Road Accidents, Persons Killed and Injured. It also provides some other information like Number of Accidents per Lakh Population, Number of Accidents per Ten Thousand Vehicles, Number of Accidents per Ten Thousand Kms of Roads, Number of Persons Killed Per Lakh Population, Number of Persons Killed Per Ten Thousand Vehicles, Number of Persons Killed per Ten Thousand Kms of Roads, Number of Persons Injured per Lakh Population, Number of Persons Injured Per Ten Thousand Vehicles and Number of Persons Injured Per Ten Thousand Kms of Roads. Data of road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport & Highways from the Police Headquarters of the various states, UTs and Million Plus cities in India through specially designated nodal officers(DGP/ADGP(Crime)/ADGP(Traffic)/ Director (State Crime Record Bureau) in a 19-item format devised under Asia Pacific Road Accidents Data(APRAD)/ Indian Road Accident Data(IRAD) project of the United Nations Economic and Social Commission for the Asia & the Pacific(UNESCAP)."
+    ],
+    "changed": [
+      1739515789
+    ],
+    "created": [
+      1589193211
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Accidents"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Injured",
+      "Killed",
+      "Road",
+      "Person",
+      "Highway",
+      "Accident"
+    ],
+    "nid": [
+      6750767
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Road Accidents in India 2018"
+    ],
+    "uuid": [
+      "c6ac2d81-5671-4efd-99da-ab352f326f5f"
+    ],
+    "vid": [
+      13014738
+    ],
+    "view_count": [
+      5468
+    ],
+    "search_api_id": [
+      "entity:node/6750767:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/road-transport-year-book-2016-17"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2081
+    ],
+    "published_date": [
+      1589962852
+    ],
+    "body:value": [
+      "Get data of Road Transport Year Book: 2016-17. Range of information pertaining to registered motor vehicles over time and across state/UTs and major cities and Data of various road transport parameters have been provided here i.e Number of Registered Motor Vehicles, composition of registered motor vehicles, taxes on road transport and motor vehicles, production and sale of motor vehicles, drivers conductors licenses issued etc."
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1589193804
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Road Transport Year Book"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Road Transport and Highways"
+    ],
+    "field_sector:name": [
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cycle",
+      "Driver",
+      "goods",
+      "Gross",
+      "licence",
+      "Private",
+      "Tourist",
+      "vehicle",
+      "weight",
+      "Institution",
+      "Service",
+      "Carriage",
+      "Bus",
+      "CAB",
+      "Motor",
+      "Tractor",
+      "Conductor",
+      "Educational",
+      "Light",
+      "Permit",
+      "Heavy",
+      "Trailer",
+      "Articulated",
+      "Omnibus",
+      "Fare",
+      "Axle",
+      "Maxi",
+      "Unladen"
+    ],
+    "nid": [
+      6750768
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Road Transport Year Book 2016-17"
+    ],
+    "uuid": [
+      "51ac6bb0-d9ac-4828-be5b-29f5e5e16d8a"
+    ],
+    "vid": [
+      13056332
+    ],
+    "view_count": [
+      1604
+    ],
+    "search_api_id": [
+      "entity:node/6750768:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/block-panchayats-kerala"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      301
+    ],
+    "published_date": [
+      1583405814
+    ],
+    "body:value": [
+      "Details of Panchayats in Kerala"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1583389060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "field_state_department:name": [
+      "Kerala",
+      "Election Department, Kerala"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Block",
+      "Election",
+      "Local Body",
+      "Kerala",
+      "tp"
+    ],
+    "nid": [
+      6736805
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "kerala.data.gov.in"
+    ],
+    "title": [
+      "Block Panchayats in Kerala"
+    ],
+    "uuid": [
+      "f8515292-4c95-4432-b8af-e5f963576c3d"
+    ],
+    "vid": [
+      12999536
+    ],
+    "view_count": [
+      30
+    ],
+    "search_api_id": [
+      "entity:node/6736805:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/district-panchayats-kerala"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      272
+    ],
+    "published_date": [
+      1583405810
+    ],
+    "body:value": [
+      "Names and codes of District Panchayats in Kerala"
+    ],
+    "changed": [
+      1739828858
+    ],
+    "created": [
+      1583390430
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "field_state_department:name": [
+      "Kerala",
+      "Election Department, Kerala"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Panchayat",
+      "District",
+      "Kerala",
+      "Names",
+      "GP"
+    ],
+    "nid": [
+      6736808
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "kerala.data.gov.in"
+    ],
+    "title": [
+      "District Panchayats in Kerala"
+    ],
+    "uuid": [
+      "1703acb2-7f3c-4b87-a4f5-a7d725f24d57"
+    ],
+    "vid": [
+      13056790
+    ],
+    "view_count": [
+      34
+    ],
+    "search_api_id": [
+      "entity:node/6736808:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/poling-stations-kerala"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      144
+    ],
+    "published_date": [
+      1583405800
+    ],
+    "body:value": [
+      "Poling Stations in Kerala local bodies"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1583391560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "field_state_department:name": [
+      "Kerala",
+      "Election Department, Kerala"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Election",
+      "local bodies",
+      "Kerala",
+      "gpp",
+      "smal"
+    ],
+    "nid": [
+      6736811
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "kerala.data.gov.in"
+    ],
+    "title": [
+      "Poling Stations in Kerala"
+    ],
+    "uuid": [
+      "da588f7e-7510-4f0b-86aa-a40a5c5395b0"
+    ],
+    "vid": [
+      12999007
+    ],
+    "view_count": [
+      14
+    ],
+    "search_api_id": [
+      "entity:node/6736811:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/urban-bodies-kerala"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      258
+    ],
+    "published_date": [
+      1583405795
+    ],
+    "body:value": [
+      "List of urban bodies in Kerala"
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1583392787
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "State"
+    ],
+    "field_sector:name": [
+      "Others"
+    ],
+    "field_state_department:name": [
+      "Kerala",
+      "Election Department, Kerala"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "State"
+    ],
+    "keywords": [
+      "Election",
+      "Urban",
+      "Kerala",
+      "Names",
+      "tel"
+    ],
+    "nid": [
+      6736814
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "kerala.data.gov.in"
+    ],
+    "title": [
+      "Urban bodies in Kerala"
+    ],
+    "uuid": [
+      "5b4b4d74-7e8e-4290-968f-3bfeac2afc8f"
+    ],
+    "vid": [
+      12999008
+    ],
+    "view_count": [
+      26
+    ],
+    "search_api_id": [
+      "entity:node/6736814:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/health-indicator-wise-monthly-datasets-sub-district-level-hmis"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3117
+    ],
+    "published_date": [
+      1584534995
+    ],
+    "body:value": [
+      "The catalog contains data as reported by health facilities of respective States/UTs across India regarding various indicators of HMIS like Health, Abortions, Immunisation, AEFI, Adolescent, Bite, Sting, Disease, Diarrhoea, Hypertension, HIV, AIDS, Malaria, Neurological, Stroke, Fever, Respiratory, Infection, suicide, Trauma, Accident, Burn, Tuberculosis, VHND, ASHA, JSY, CHC, PHC, SDH, DH, Hospital"
+    ],
+    "changed": [
+      1745914756
+    ],
+    "created": [
+      1583933461
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Assam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Hospital",
+      "CHC",
+      "HMIS",
+      "PHC",
+      "DH",
+      "Malaria",
+      "Respiratory",
+      "JSY",
+      "VHND",
+      "Diarrhoeal",
+      "Stroke",
+      "suicide",
+      "Fever",
+      "Immunisation",
+      "Accident",
+      "ASHA",
+      "Neurological",
+      "AIDS",
+      "Infection",
+      "Abortion",
+      "Adolescent",
+      "Health",
+      "HIV",
+      "Hypertension",
+      "SDH",
+      "Disease",
+      "Tuberculosis",
+      "Sting",
+      "Burn",
+      "AEFI",
+      "Trauma",
+      "Bite"
+    ],
+    "nid": [
+      6737080
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Health indicator-wise monthly datasets at sub district level from HMIS "
+    ],
+    "uuid": [
+      "01dfce57-c21b-4f33-a684-03053cbd1dec"
+    ],
+    "vid": [
+      13229828
+    ],
+    "view_count": [
+      65
+    ],
+    "search_api_id": [
+      "entity:node/6737080:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/crime-india-1996"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3635
+    ],
+    "published_date": [
+      1460954480
+    ],
+    "body:value": [
+      "Catalog contains data of Crime in India -1996. Get information on Cognizable crimes registered, IPC crimes, SLL cases, Violent crimes, Murder and culpable homicide not amounting to murder, Victims of murder, Victims of culpable homicide not amounting to murder, Murdered by use of fire arms, Unidentified dead bodies recovered and inquest conducted, Victims of kidnapping & abduction, Disposal of crime cases, Charge sheet of crimes, Complaint received and case registered under IPC and SLL, Conviction rate , Detail of courts and period of trials, Crimes committed against women, Victims of rape cases, Offenders relation and nearness to rape victims, Crimes committed against children, Crime committed against scheduled castes and schedule tribes, Property stolen & recovered and percentage recovery, Vehicles stolen, Recovered and co-ordinated, Dacoity cases, Robbery cases, Burglary cases, Theft cases, Cultural property (including antiques) stolen and recovered, Statement of cognizable crime registered & their disposal, Juvenile delinquency under different crime heads, Juveniles apprehended, Disposal of juveniles arrested, Classification of juveniles arrested, Recidivism amongst persons arrested, Disposal of persons arrested, Deaths in police custody /lockup, Escapes from police custody, Reported custodial rape cases and their disposal, Persons arrested under custodial ,Rape and their disposal by police and courts, Event wise persons killed or injured under police firing, Police personnel killed or injured on duty, Police personnel died (natural deaths) while in service, Police personnel committed suicide while in service, Rank wise police personnel killed or injured on duty, Complaints/cases registered against personnel, Incidence of human right violation by police, Sanctioned and strength of civil police including district armed police, Information on police housing, Sanctioned and actual strength of home guards and auxiliary force, Equipments and transport support, Police stations by volume of crime, Police stations by strength of personnel, Organization setup, Representation of SCs/STs and muslims in police etc."
+    ],
+    "changed": [
+      1494840640
+    ],
+    "created": [
+      1459242450
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Death",
+      "Duration",
+      "Infrastructure",
+      "Kidnapping",
+      "Theft",
+      "Facility",
+      "Girl",
+      "Police",
+      "Murder",
+      "Incest",
+      "Importation",
+      "Abduction",
+      "Rape",
+      "Auto",
+      "Trial",
+      "Culpable",
+      "Homicide",
+      "Force",
+      "Victim",
+      "Offender",
+      "Suicidal"
+    ],
+    "nid": [
+      674221
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Crime in India - 1996"
+    ],
+    "uuid": [
+      "d66302a1-1995-4e74-99d6-8e017225b36d"
+    ],
+    "vid": [
+      7895733
+    ],
+    "view_count": [
+      3220
+    ],
+    "search_api_id": [
+      "entity:node/674221:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/fishery-resources-fisheries-statistics-2014"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1175
+    ],
+    "published_date": [
+      1467221746
+    ],
+    "body:value": [
+      "It includes information on two main verticles marine fisheries resources and inland fisheries resources. It gives information on number of landing centers, number of fishing villages, number of fisherman families, river and canals in km, reservoirs, tanks & ponds and total water bodies etc."
+    ],
+    "changed": [
+      1467221835
+    ],
+    "created": [
+      1459934877
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Fishery"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Inland",
+      "Marine",
+      "Reservoirs",
+      "Fishery",
+      "Center"
+    ],
+    "nid": [
+      678981
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Fishery Resources - Fisheries Statistics 2014"
+    ],
+    "uuid": [
+      "77d14954-d7af-48e4-ace4-3e73c90de411"
+    ],
+    "vid": [
+      7895752
+    ],
+    "view_count": [
+      930
+    ],
+    "search_api_id": [
+      "entity:node/678981:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/international-comparisions-fisheries-statistics-2014"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1021
+    ],
+    "published_date": [
+      1466406297
+    ],
+    "body:value": [
+      "Data refers to broad coverage of contribution of India in world that includes contribution in production of fish, percentage of contribution. It has detailed information on Marine and Inland fish production and statistics from other countries."
+    ],
+    "changed": [
+      1466406480
+    ],
+    "created": [
+      1459934937
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Fishery"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Fish",
+      "Inland",
+      "Marine",
+      "Production",
+      "Fishery"
+    ],
+    "nid": [
+      679001
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "International Comparisions - Fisheries Statistics 2014"
+    ],
+    "uuid": [
+      "fa0b52fa-6177-48ad-bb76-75e5cfd5d5b1"
+    ],
+    "vid": [
+      7895755
+    ],
+    "view_count": [
+      834
+    ],
+    "search_api_id": [
+      "entity:node/679001:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/price-indices-fisheries-statistics-2014"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      729
+    ],
+    "published_date": [
+      1466666913
+    ],
+    "body:value": [
+      "The data refers the Indices of Wholesale Prices Fish & Food Articles."
+    ],
+    "changed": [
+      1466667032
+    ],
+    "created": [
+      1459935045
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Fishery"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Article",
+      "Fish",
+      "Food",
+      "index",
+      "prices",
+      "Wholesale",
+      "Fishery"
+    ],
+    "nid": [
+      679041
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Price Indices - Fisheries Statistics 2014"
+    ],
+    "uuid": [
+      "c22b895c-535c-4625-a3a7-9ae92fb85fe3"
+    ],
+    "vid": [
+      7895758
+    ],
+    "view_count": [
+      528
+    ],
+    "search_api_id": [
+      "entity:node/679041:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/list-states-districts-fisheries-statistics-2014"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4148
+    ],
+    "published_date": [
+      1470815249
+    ],
+    "body:value": [
+      "It contains list of codes of states and districts."
+    ],
+    "changed": [
+      1470815316
+    ],
+    "created": [
+      1459935265
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Fishery"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Fisheries",
+      "statistics",
+      "Fishery"
+    ],
+    "nid": [
+      679081
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "List of States & Districts - Fisheries Statistics 2014"
+    ],
+    "uuid": [
+      "de407b97-75de-41e6-a6aa-9d3ef4efe79a"
+    ],
+    "vid": [
+      7895761
+    ],
+    "view_count": [
+      3712
+    ],
+    "search_api_id": [
+      "entity:node/679081:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/fish-farmers-and-fishery-sector-fisheries-statistics-2014"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2563
+    ],
+    "published_date": [
+      1466147242
+    ],
+    "body:value": [
+      "Detailed information is given that covers information on fisherman population, fishing crafts at coastal states and UT levels. It covers details of brackish-water area, area developed for aquaculture, area under culture and production. The data refers the monthly per capita consumption of fish & prawn (quantity) by state/ union territory, contribution of fisheries sector to gross domestic product (current prices), achievement of fish farmers development agencies, list of sanctioned fish farmers development agencies (FFDAS), details of brackish-water fish farmers development agencies (BFDAS), central assistance extended for setting up of fish marketing units during the tenth plan and number and location of fishermen awareness centres and training centres sanctioned."
+    ],
+    "changed": [
+      1466147647
+    ],
+    "created": [
+      1459935464
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Fishery"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Aquaculture",
+      "Coastal",
+      "crafts",
+      "domestic",
+      "Fishing",
+      "GDP",
+      "Gross",
+      "Population",
+      "Fishery",
+      "Farmer",
+      "Fisherman",
+      "Brackishwater"
+    ],
+    "nid": [
+      679101
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Fish Farmers and Fishery Sector - Fisheries Statistics 2014"
+    ],
+    "uuid": [
+      "ad4b1d32-8afe-49c0-a7ee-967aa3a592b0"
+    ],
+    "vid": [
+      7895764
+    ],
+    "view_count": [
+      2297
+    ],
+    "search_api_id": [
+      "entity:node/679101:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/list-ongoing-projects-cost-more-100-crore-under-nlcpr"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1175
+    ],
+    "published_date": [
+      1596432853
+    ],
+    "body:value": [
+      "The catalog contains the list of ongoing projects of cost more than 100 crore under NLCPR (Non Lapsable Central Pool of Resources)."
+    ],
+    "changed": [
+      1597728608
+    ],
+    "created": [
+      1594108968
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "My tag"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Development of North Eastern Region"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Education",
+      "Water Resources",
+      "Health and Family welfare",
+      "Power and Energy",
+      "Travel and Tourism",
+      "Youth and Sports"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NER",
+      "NLCPR"
+    ],
+    "nid": [
+      6770409
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "List of Ongoing Projects of cost more than 100 crore under NLCPR"
+    ],
+    "uuid": [
+      "d494754d-c69c-4f72-9a19-5090133a5b19"
+    ],
+    "vid": [
+      7903426
+    ],
+    "view_count": [
+      821
+    ],
+    "search_api_id": [
+      "entity:node/6770409:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/fisheries-institutes-fisheries-statistics-2014"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      777
+    ],
+    "published_date": [
+      1466666658
+    ],
+    "body:value": [
+      "It has detailed information regarding the man power trained at CIFNET, Kochi, training of overseas candidates. It reflects the achievement of National Institute of Fisheries Post Harvest, Technology and Training Project and Central Institute of Fisheries Nautical and Engineering Training."
+    ],
+    "changed": [
+      1466666807
+    ],
+    "created": [
+      1459934659
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Fishery"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Engineering",
+      "Institute",
+      "Power",
+      "Overseas",
+      "CIFNET",
+      "Fishery",
+      "Trainning",
+      "Nautical",
+      "Man",
+      "Candidate"
+    ],
+    "nid": [
+      678921
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Fisheries Institutes - Fisheries Statistics 2014"
+    ],
+    "uuid": [
+      "8641c59c-e83c-451c-884a-85a75f829d0e"
+    ],
+    "vid": [
+      7895746
+    ],
+    "view_count": [
+      386
+    ],
+    "search_api_id": [
+      "entity:node/678921:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/plan-outlays-and-expenditures-fisheries-statistics-2014"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      448
+    ],
+    "published_date": [
+      1466406183
+    ],
+    "body:value": [
+      "Data refers the plan outlays and expenditure for fisheries development over plan and plan outlays and expenditure under state sector schemes, seventh to eleventh plan."
+    ],
+    "changed": [
+      1466406318
+    ],
+    "created": [
+      1459934747
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Fishery"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Development",
+      "expenditure",
+      "Fishery"
+    ],
+    "nid": [
+      678941
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Plan Outlays and Expenditures - Fisheries Statistics 2014"
+    ],
+    "uuid": [
+      "7f3e49e9-04fc-4051-9335-495c20072b54"
+    ],
+    "vid": [
+      7895749
+    ],
+    "view_count": [
+      333
+    ],
+    "search_api_id": [
+      "entity:node/678941:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      4
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/answers-data-rajya-sabha-questions-session-250"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2203
+    ],
+    "published_date": [
+      1602236088
+    ],
+    "body:value": [
+      "Get questions' Answers Data of Session 250 of Rajya Sabha provided by various ministries/departments."
+    ],
+    "changed": [
+      1739807030
+    ],
+    "created": [
+      1600758979
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha - Annexures to Parliamentary Questions"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "All"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agricultural",
+      "Agriculture",
+      "Assistance",
+      "Ayush",
+      "birth",
+      "Crime",
+      "crude",
+      "Development",
+      "Electrified",
+      "Farm",
+      "FDI",
+      "Generation",
+      "goods",
+      "gram",
+      "Handloom",
+      "Health",
+      "Honey",
+      "Hospital",
+      "Household",
+      "Hydro",
+      "Import",
+      "Injured",
+      "Institute",
+      "Interest",
+      "Killed",
+      "Labour",
+      "Length",
+      "livelihood",
+      "Mission",
+      "national",
+      "NRLM",
+      "OIL",
+      "Outstanding",
+      "Rehabilitation",
+      "Release",
+      "Production",
+      "PMGSY",
+      "pollution",
+      "Pond",
+      "Power",
+      "progress",
+      "Scheme",
+      "Public",
+      "Road",
+      "Sanctioned",
+      "SCA",
+      "Sector",
+      "station",
+      "Strength",
+      "Subsidy",
+      "Surgery",
+      "Tribal",
+      "Water",
+      "Women",
+      "Facility",
+      "Dispensary",
+      "Credit",
+      "Loan",
+      "Bank",
+      "Vacancy",
+      "Service",
+      "Worker",
+      "Police",
+      "Person",
+      "Tax",
+      "Scholarship",
+      "Cancer",
+      "Highway",
+      "Accident",
+      "Farmer",
+      "PMAY",
+      "Annexure",
+      "PMKSY",
+      "Equity",
+      "Leprosy",
+      "suicide",
+      "Case",
+      "Care",
+      "Waste",
+      "Structure",
+      "Yojana",
+      "Trafficking",
+      "Trainee",
+      "Sadak",
+      "Level",
+      "Allied",
+      "Selection",
+      "Collection",
+      "Helper",
+      "Weaver",
+      "Honour",
+      "Killing",
+      "Recharge",
+      "Spot",
+      "Awas",
+      "Protsahan",
+      "Pending",
+      "Judicial",
+      "PMPRPY",
+      "Paridhan",
+      "Rojgar",
+      "Custody",
+      "AWWs",
+      "AWHs",
+      "Anganwadi Worker",
+      "Procuration",
+      "Scavenger",
+      "IHHLs",
+      "TSS",
+      "CLSS",
+      "RRBs",
+      "RCS",
+      "GST",
+      "ATL",
+      "Disburse",
+      "Amont",
+      "Sinchayee",
+      "Robber"
+    ],
+    "nid": [
+      6786176
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Answers Data of Rajya Sabha Questions for Session 250"
+    ],
+    "uuid": [
+      "1400fec4-27a0-4ffa-a29f-8369be1ea16c"
+    ],
+    "vid": [
+      13040971
+    ],
+    "view_count": [
+      1412
+    ],
+    "search_api_id": [
+      "entity:node/6786176:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/production-and-disposals-fisheries-statistics-2014"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2952
+    ],
+    "published_date": [
+      1460091332
+    ],
+    "body:value": [
+      "The data refers to state/Ut wise fish production in India. It contains  detailed state and UT level information about the Marine/ Inland fish landing by species in broad spectrum. Detailed information is provided on disposition of fish catch and preserved and processed commodities."
+    ],
+    "changed": [
+      1460093790
+    ],
+    "created": [
+      1459934077
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Fishery"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Article",
+      "Fish",
+      "Food",
+      "Inland",
+      "Marine",
+      "Dairy",
+      "Fishery"
+    ],
+    "nid": [
+      678861
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Production and Disposals - Fisheries Statistics 2014"
+    ],
+    "uuid": [
+      "9ed52d88-b29f-4a66-a3a5-9d352361dd8d"
+    ],
+    "vid": [
+      7895737
+    ],
+    "view_count": [
+      2606
+    ],
+    "search_api_id": [
+      "entity:node/678861:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/exports-fisheries-statistics-2014"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2227
+    ],
+    "published_date": [
+      1460445672
+    ],
+    "body:value": [
+      "Detailed information is provided about the exports of marine products that includes various verticals like trend in exports marine products, exports of marine products by category, export of marine product by market, value of exports and port-wise information of marine products. It covers quantity and values of product."
+    ],
+    "changed": [
+      1462253549
+    ],
+    "created": [
+      1459934192
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Fishery"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "dairying",
+      "Export",
+      "Marine",
+      "Port",
+      "product",
+      "Fishery"
+    ],
+    "nid": [
+      678881
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Exports - Fisheries Statistics 2014"
+    ],
+    "uuid": [
+      "ec9a3c9b-c919-4380-9fb1-0850384fe1c1"
+    ],
+    "vid": [
+      7895740
+    ],
+    "view_count": [
+      1983
+    ],
+    "search_api_id": [
+      "entity:node/678881:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/fishing-harbours-fisheries-statistics-2014"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4056
+    ],
+    "published_date": [
+      1460377014
+    ],
+    "body:value": [
+      "Data refers to the major and minor fishing harbours. It includes information about fish harbours at major ports, details of plan outlays and expenditure, number of minor fishing harbours and fish landing centres that constructed/ commissioned/ Under construction."
+    ],
+    "changed": [
+      1460377418
+    ],
+    "created": [
+      1459934519
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Fishery"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "dairying",
+      "Fish",
+      "Harbour",
+      "Fishery"
+    ],
+    "nid": [
+      678901
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Fishing Harbours - Fisheries Statistics 2014"
+    ],
+    "uuid": [
+      "2d97c713-2155-465d-a4b9-7fc16995214c"
+    ],
+    "vid": [
+      7895743
+    ],
+    "view_count": [
+      3829
+    ],
+    "search_api_id": [
+      "entity:node/678901:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/ongoing-projects-under-north-eastern-states-road-investment-project-nesrip"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      343
+    ],
+    "published_date": [
+      1601534968
+    ],
+    "body:value": [
+      "The catalog contains ongoing projects under North Eastern States Road Investment Project (NESRIP) funded by Ministry of Development of North Eastern Region."
+    ],
+    "changed": [
+      1739831165
+    ],
+    "created": [
+      1597983694
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "NESRIP"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Development of North Eastern Region"
+    ],
+    "field_sector:name": [
+      "Infrastructure"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NER",
+      "North East",
+      "MDoNER",
+      "NESRIP"
+    ],
+    "nid": [
+      6781088
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Ongoing Projects under North Eastern States Road Investment Project (NESRIP)"
+    ],
+    "uuid": [
+      "8ae9e042-04e7-40cf-bc35-2cc934db617b"
+    ],
+    "vid": [
+      13058268
+    ],
+    "view_count": [
+      124
+    ],
+    "search_api_id": [
+      "entity:node/6781088:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/indian-petroleum-and-natural-gas-statistics-2018-19"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3144
+    ],
+    "published_date": [
+      1599027753
+    ],
+    "body:value": [
+      "Indian Petroleum and Natural Gas Statistics - 2018-19 provides exhaustive data on oil & gas sector in India. In addition, this catalog also gives a glimpse of the global petroleum scenario through the latest international petroleum statistics. It contains data on various parameters including inter-alia production, exploration, refining, transportation and marketing, imports and exports of crude oil and petroleum products along with taxes and duties realized, man power employed in oil & gas CPSEs, outlays and annual expenditure, dividends paid, equity capital and profit of the CPSEs etc."
+    ],
+    "changed": [
+      1739370846
+    ],
+    "created": [
+      1598447271
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Petroleum and Natural Gas"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CPSE",
+      "crude",
+      "Exploration",
+      "Export",
+      "Gas",
+      "Import",
+      "Marketing",
+      "OIL",
+      "Outlay",
+      "Refining",
+      "Production",
+      "Petroleum",
+      "expenditure",
+      "Natural",
+      "Transportation"
+    ],
+    "nid": [
+      6781376
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Indian Petroleum and Natural Gas Statistics - 2018-19"
+    ],
+    "uuid": [
+      "4e66a05c-0ea6-4ad1-b3b1-5203fa974ce6"
+    ],
+    "vid": [
+      12996145
+    ],
+    "view_count": [
+      2729
+    ],
+    "search_api_id": [
+      "entity:node/6781376:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/all-india-coordinated-research-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1999
+    ],
+    "published_date": [
+      1599222737
+    ],
+    "body:value": [
+      "Get the details of All India Coordinated Research Projects (AICRPs)."
+    ],
+    "changed": [
+      1608699110
+    ],
+    "created": [
+      1598944411
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "All India Coordinated Research Projects"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "crop",
+      "research",
+      "Science",
+      "Horticultural",
+      "Animal",
+      "AICRP"
+    ],
+    "nid": [
+      6781716
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "All India Coordinated Research Projects"
+    ],
+    "uuid": [
+      "22f562e4-f40d-45fc-9a45-10f7e2f6bc99"
+    ],
+    "vid": [
+      7903712
+    ],
+    "view_count": [
+      1358
+    ],
+    "search_api_id": [
+      "entity:node/6781716:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/icar-publication-repository"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3622
+    ],
+    "published_date": [
+      1605850651
+    ],
+    "body:value": [
+      "This catalog consists of title, keyword, type of publications and unique URL of each publication of ICAR Institutes."
+    ],
+    "changed": [
+      1739808639
+    ],
+    "created": [
+      1605783306
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Publication Repository"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Department of Agricultural Research and Education (DARE)",
+      "Indian Council of Agricultural Research (ICAR)"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Statistics"
+    ],
+    "from_api": [
+      "1"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Article",
+      "ICAR",
+      "paper",
+      "research",
+      "Project",
+      "publication",
+      "technical",
+      "Bulletin"
+    ],
+    "nid": [
+      6816164
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "ICAR Publication Repository"
+    ],
+    "uuid": [
+      "21303b13-f08c-4882-92ad-65952b4ac62c"
+    ],
+    "vid": [
+      13041437
+    ],
+    "view_count": [
+      1344
+    ],
+    "search_api_id": [
+      "entity:node/6816164:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/departure-rainfall-data"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      11879
+    ],
+    "published_date": [
+      1621516752
+    ],
+    "body:value": [
+      "This catalog contains the data related to departure of rainfall in various regions of India."
+    ],
+    "changed": [
+      1673853791
+    ],
+    "created": [
+      1604298229
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rainfall"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Earth Sciences",
+      "India Meteorological Department (IMD)",
+      "India Meteorological Department (IMD), Pune"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Earth Sciences"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "rainfall",
+      "Departure",
+      "Rain"
+    ],
+    "nid": [
+      6803237
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Departure of Rainfall data"
+    ],
+    "uuid": [
+      "8f257bef-83da-423f-8d0f-89068277de50"
+    ],
+    "vid": [
+      7904903
+    ],
+    "view_count": [
+      769
+    ],
+    "search_api_id": [
+      "entity:node/6803237:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      12
+    ],
+    "high_value_dataset": [
+      1
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/all-india-seasonal-and-annual-temperature-series"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      26806
+    ],
+    "published_date": [
+      1621516227
+    ],
+    "body:value": [
+      "This catalog contains the data of all India seasonal and annual minimum, maximum and mean temperature series."
+    ],
+    "changed": [
+      1673853896
+    ],
+    "created": [
+      1604302561
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Temperature Data"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Earth Sciences",
+      "India Meteorological Department (IMD)",
+      "India Meteorological Department (IMD), Pune"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Earth Sciences"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Seasonal",
+      "Temperature",
+      "Temp"
+    ],
+    "nid": [
+      6803256
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "All India Seasonal and Annual Temperature Series"
+    ],
+    "uuid": [
+      "b9704464-9c70-435c-98f4-5c0c3d9f34a9"
+    ],
+    "vid": [
+      7904915
+    ],
+    "view_count": [
+      749
+    ],
+    "search_api_id": [
+      "entity:node/6803256:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-and-seasonal-frequency-cyclones-and-depressions"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3059
+    ],
+    "published_date": [
+      1621516307
+    ],
+    "body:value": [
+      "This contains the data regarding yearly and seasonal frequency of cyclones and depressions in Bay of Bengal and Arabian Sea regions of Indian Ocean."
+    ],
+    "changed": [
+      1739808639
+    ],
+    "created": [
+      1603698334
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Cyclone"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Earth Sciences",
+      "India Meteorological Department (IMD)",
+      "India Meteorological Department (IMD), Pune"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Earth Sciences"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Depressions",
+      "Sea",
+      "Cyclone",
+      "Bay",
+      "Bengal",
+      "Arabian",
+      "IMD"
+    ],
+    "nid": [
+      6802924
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual and Seasonal Frequency of Cyclones and Depressions"
+    ],
+    "uuid": [
+      "df6e892d-9f15-4d4b-8128-f2db06de031d"
+    ],
+    "vid": [
+      13041749
+    ],
+    "view_count": [
+      235
+    ],
+    "search_api_id": [
+      "entity:node/6802924:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-andaman"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      298
+    ],
+    "published_date": [
+      1608528435
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Andaman and Nicobar Islands. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608613843
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Andaman and Nicobar Island (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819455
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Andaman and Nicobar Islands"
+    ],
+    "uuid": [
+      "72ba4075-e573-4d5e-a562-5c1713f0717a"
+    ],
+    "vid": [
+      7907032
+    ],
+    "view_count": [
+      21
+    ],
+    "search_api_id": [
+      "entity:node/6819455:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-andhra"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      300
+    ],
+    "published_date": [
+      1608528301
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Andhra Pradesh. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608614664
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Andhra Pradesh"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819456
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "123"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Andhra Pradesh"
+    ],
+    "uuid": [
+      "61fb7f9f-c6d4-4338-b57a-acb695189ecd"
+    ],
+    "vid": [
+      7907036
+    ],
+    "view_count": [
+      84
+    ],
+    "search_api_id": [
+      "entity:node/6819456:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-12"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      75
+    ],
+    "published_date": [
+      1608528294
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Arunachal Pradesh. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608614661
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Arunachal Pradesh"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819457
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "124"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Arunachal Pradesh"
+    ],
+    "uuid": [
+      "d5ffd791-2d7b-48ef-83cc-38c52ba0434e"
+    ],
+    "vid": [
+      7907040
+    ],
+    "view_count": [
+      25
+    ],
+    "search_api_id": [
+      "entity:node/6819457:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-assam"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      211
+    ],
+    "published_date": [
+      1608528402
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Assam. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608613972
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Assam"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819458
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "783"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Assam"
+    ],
+    "uuid": [
+      "243744a9-c08f-4630-8aa2-f107d5ab9a0d"
+    ],
+    "vid": [
+      7907044
+    ],
+    "view_count": [
+      26
+    ],
+    "search_api_id": [
+      "entity:node/6819458:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-bihar"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      328
+    ],
+    "published_date": [
+      1608528406
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Bihar. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608614666
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Bihar"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819459
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "787"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Bihar"
+    ],
+    "uuid": [
+      "91808611-f783-4f86-80f6-3bfc95a82c2a"
+    ],
+    "vid": [
+      7907048
+    ],
+    "view_count": [
+      27
+    ],
+    "search_api_id": [
+      "entity:node/6819459:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-11"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      96
+    ],
+    "published_date": [
+      1608528439
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Chandigarh. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608613446
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Chandigarh (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819460
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Chandigarh"
+    ],
+    "uuid": [
+      "c600adfe-43a0-47a4-bc05-b7aa2aaa07b1"
+    ],
+    "vid": [
+      7907052
+    ],
+    "view_count": [
+      21
+    ],
+    "search_api_id": [
+      "entity:node/6819460:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-10"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      196
+    ],
+    "published_date": [
+      1608528411
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Chhattisgarh. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608614691
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Chhattisgarh"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819461
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "125"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Chhattisgarh"
+    ],
+    "uuid": [
+      "785355a5-7d0a-4df5-b902-212cd77ccf69"
+    ],
+    "vid": [
+      7907056
+    ],
+    "view_count": [
+      23
+    ],
+    "search_api_id": [
+      "entity:node/6819461:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-dadra"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      108
+    ],
+    "published_date": [
+      1608526960
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Dadra and Nagar Haveli. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608527462
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Dadra and Nagar Haveli (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819462
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "802"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Dadra and Nagar Haveli"
+    ],
+    "uuid": [
+      "43280906-f2a3-4067-b2b5-b1b6beed1dcc"
+    ],
+    "vid": [
+      7907060
+    ],
+    "view_count": [
+      25
+    ],
+    "search_api_id": [
+      "entity:node/6819462:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-daman"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      93
+    ],
+    "published_date": [
+      1608528414
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Daman and Diu. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608613800
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Daman and Diu (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819463
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Daman and Diu"
+    ],
+    "uuid": [
+      "b3a67209-392b-4928-b924-21ef016562cd"
+    ],
+    "vid": [
+      7907064
+    ],
+    "view_count": [
+      14
+    ],
+    "search_api_id": [
+      "entity:node/6819463:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-delhi"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      446
+    ],
+    "published_date": [
+      1608528418
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Delhi. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608613844
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Delhi (NCT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819464
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "127"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Delhi"
+    ],
+    "uuid": [
+      "61c4450f-0f61-409d-abc7-8bfb05ceef5d"
+    ],
+    "vid": [
+      7907068
+    ],
+    "view_count": [
+      30
+    ],
+    "search_api_id": [
+      "entity:node/6819464:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-goa"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      123
+    ],
+    "published_date": [
+      1608528340
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Goa. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608613623
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Goa"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819465
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "791",
+      "797"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Goa"
+    ],
+    "uuid": [
+      "2a8abf5e-8c00-4890-83b8-88b5aadf2e98"
+    ],
+    "vid": [
+      7907072
+    ],
+    "view_count": [
+      13
+    ],
+    "search_api_id": [
+      "entity:node/6819465:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-gujarat"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      374
+    ],
+    "published_date": [
+      1608528879
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Gujarat. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608614662
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Gujarat"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819466
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "126"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Gujarat"
+    ],
+    "uuid": [
+      "832229d7-6a9e-4866-b9e8-c4768d9582f1"
+    ],
+    "vid": [
+      7907076
+    ],
+    "view_count": [
+      29
+    ],
+    "search_api_id": [
+      "entity:node/6819466:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-haryana"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      223
+    ],
+    "published_date": [
+      1608528423
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Haryana. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608613832
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Haryana"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819467
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "128"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Haryana"
+    ],
+    "uuid": [
+      "c51645e9-8a72-4c05-b5ff-632fa559ffc3"
+    ],
+    "vid": [
+      7907080
+    ],
+    "view_count": [
+      22
+    ],
+    "search_api_id": [
+      "entity:node/6819467:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-9"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      73
+    ],
+    "published_date": [
+      1608528335
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Himachal Pradesh. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608613843
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Himachal Pradesh"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819468
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "782"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Himachal Pradesh"
+    ],
+    "uuid": [
+      "40074d99-7893-42c8-ba30-3a0d987edfca"
+    ],
+    "vid": [
+      7907084
+    ],
+    "view_count": [
+      19
+    ],
+    "search_api_id": [
+      "entity:node/6819468:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-jammu"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      157
+    ],
+    "published_date": [
+      1608528427
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Jammu and Kashmir. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608614682
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Jammu and Kashmir (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819469
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "800"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Jammu and Kashmir"
+    ],
+    "uuid": [
+      "28c80f28-07e4-4014-8570-ed73ca79acce"
+    ],
+    "vid": [
+      7907088
+    ],
+    "view_count": [
+      15
+    ],
+    "search_api_id": [
+      "entity:node/6819469:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-8"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      158
+    ],
+    "published_date": [
+      1608528331
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Jharkhand. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608613840
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Jharkhand"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819470
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "784"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Jharkhand"
+    ],
+    "uuid": [
+      "b70e96ac-3978-4829-88c2-e7152b35e9b5"
+    ],
+    "vid": [
+      7907092
+    ],
+    "view_count": [
+      38
+    ],
+    "search_api_id": [
+      "entity:node/6819470:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-7"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      170
+    ],
+    "published_date": [
+      1608528431
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Karnataka. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608613843
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Karnataka"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819471
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "121"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Karnataka"
+    ],
+    "uuid": [
+      "401c7b87-f3ae-4bdf-bbfc-9bdc07b0e0cc"
+    ],
+    "vid": [
+      7907096
+    ],
+    "view_count": [
+      32
+    ],
+    "search_api_id": [
+      "entity:node/6819471:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-kerala"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      193
+    ],
+    "published_date": [
+      1608528326
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Kerala. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608613823
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Kerala"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819472
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "122"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Kerala"
+    ],
+    "uuid": [
+      "32eb3aaa-9623-4d65-ace0-5a10d391f661"
+    ],
+    "vid": [
+      7907100
+    ],
+    "view_count": [
+      26
+    ],
+    "search_api_id": [
+      "entity:node/6819472:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-6"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      71
+    ],
+    "published_date": [
+      1608528321
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Lakshadweep. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608613545
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Lakshadweep (UT)"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "Management",
+      "Mission",
+      "national",
+      "OPD",
+      "PHC",
+      "primary",
+      "SC",
+      "Facility",
+      "Information",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Divisial",
+      "Subdural",
+      "Hematoma",
+      "Developmental"
+    ],
+    "nid": [
+      6819473
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Lakshadweep"
+    ],
+    "uuid": [
+      "05ad79e4-0f9d-4c0e-b2ef-903f15b8419f"
+    ],
+    "vid": [
+      7907104
+    ],
+    "view_count": [
+      35
+    ],
+    "search_api_id": [
+      "entity:node/6819473:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-maximum-and-minimum-performing-public-health-facilities-across-sub-districts-madhya"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      366
+    ],
+    "published_date": [
+      1608281770
+    ],
+    "body:value": [
+      "Get data on annual maximum & minimum performing public health facilities on selected data items States Across sub-districts of Madhya Pradesh. Selected data items are deliveries conducted at facility, C -Section deliveries at facility, IPD attendance, OPD attendance (all), operation major (general and spinal anaesthesia) & operation minor (no or local anaesthesia). Data contains total no. of facilities, number of facilities reporting nil performance, details of maximum and minimum performing facilities (name, sub-district, value reported) etc."
+    ],
+    "changed": [
+      1608613476
+    ],
+    "created": [
+      1608121862
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India",
+      "State",
+      "Madhya Pradesh"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health Management Information System"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "attendance",
+      "CHC",
+      "community",
+      "Delivery",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "IPD",
+      "OPD",
+      "PHC",
+      "SC",
+      "Facility",
+      "Patient",
+      "NHM",
+      "SDH",
+      "DH",
+      "Anaesthesia",
+      "Subdural",
+      "Hematoma"
+    ],
+    "nid": [
+      6819474
+    ],
+    "ogpl_module_domain_access": [
+      "4",
+      "130"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Maximum and Minimum Performing Public Health Facilities Across Sub-districts of Madhya Pradesh"
+    ],
+    "uuid": [
+      "b8558d5a-1327-4adb-bcef-42ccbedb5af3"
+    ],
+    "vid": [
+      7907108
+    ],
+    "view_count": [
+      39
+    ],
+    "search_api_id": [
+      "entity:node/6819474:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

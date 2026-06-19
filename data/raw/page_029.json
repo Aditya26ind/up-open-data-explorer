@@ -1,0 +1,4842 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/achievement-national-highways-0"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1262
+    ],
+    "published_date": [
+      1370432714
+    ],
+    "body:value": [
+      "The data refers to an overview of achievement on National Highways (NHs)."
+    ],
+    "changed": [
+      1487153864
+    ],
+    "created": [
+      1370432640
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Highways"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Infrastructure",
+      "Roads"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Road",
+      "Highway",
+      "NH"
+    ],
+    "nid": [
+      85714
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Achievement On National Highways"
+    ],
+    "uuid": [
+      "1709a751-4bd5-4fa4-a56d-a087d60dd21c"
+    ],
+    "vid": [
+      7839396
+    ],
+    "view_count": [
+      1115
+    ],
+    "search_api_id": [
+      "entity:node/85714:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/achievements-family-welfare-programme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4167
+    ],
+    "published_date": [
+      1364465323
+    ],
+    "body:value": [
+      "The data refers to All India (from 2000 to 2012) and State-wise (2010-12) Achievements under Family Welfare Programme with their numbers and rates ."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1364455860
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Road",
+      "Social",
+      "Bharat",
+      "Nirman",
+      "Ecomic"
+    ],
+    "nid": [
+      85716
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Achievements of Family Welfare Programme"
+    ],
+    "uuid": [
+      "a60dc07b-be41-4fa6-8aba-0f17af0e60b4"
+    ],
+    "vid": [
+      7839401
+    ],
+    "view_count": [
+      3984
+    ],
+    "search_api_id": [
+      "entity:node/85716:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/achievements-immunization-programme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2382
+    ],
+    "published_date": [
+      1364465360
+    ],
+    "body:value": [
+      "The data refers to All India (from 2000 to 2011) and State-wise (2010-12) Achievements under various Immunization Programmes - T.T, Polio, DPT, BCG, Tetanus, Measles etc. for children and mothers."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1364456340
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "BCG",
+      "DPT",
+      "Measles",
+      "Polio",
+      "Prophylaxis",
+      "Tetanus",
+      "Deficiency",
+      "Vitamin"
+    ],
+    "nid": [
+      85718
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Achievements of Immunization Programme"
+    ],
+    "uuid": [
+      "018612ba-7aed-4261-a018-4618e7aad0b6"
+    ],
+    "vid": [
+      7839407
+    ],
+    "view_count": [
+      2159
+    ],
+    "search_api_id": [
+      "entity:node/85718:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/achievements-national-highways-development-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1357
+    ],
+    "published_date": [
+      1367315596
+    ],
+    "body:value": [
+      "The data refers to components-wise data on achievements of National Highways Development Projects (NHDP) from 2007-08 to 2011-12. It gives details of NHDP component-wise total length, completed 4/6 lane, under implementation length & number of contracts and balance for award of civil work."
+    ],
+    "changed": [
+      1441695469
+    ],
+    "created": [
+      1367230980
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Roads"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Statistics",
+      "Transport",
+      "Road Transport"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "NHDP",
+      "Project",
+      "Road",
+      "transport"
+    ],
+    "nid": [
+      85720
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Achievements of National Highways Development Projects"
+    ],
+    "uuid": [
+      "bc0d547c-e67c-45dc-8b4a-4e5a6ad7db1b"
+    ],
+    "vid": [
+      7839415
+    ],
+    "view_count": [
+      1263
+    ],
+    "search_api_id": [
+      "entity:node/85720:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/activities-vec-based-sample-survey"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      690
+    ],
+    "published_date": [
+      1382682976
+    ],
+    "body:value": [
+      "The data refers to Activities of VEC (% of VECs). It provides details of monitoring & supervision, appointment of teachers, infrastructure improvement, maintenance of record of children enrolled in school, improving enrolment and reducing out of school children. The outcome is based on the sample survey undertaken by Programme Evaluation Organisation (PEO), Planning commission in eleven states and two union territories for 'Evaluation Report On Sarva Shiksha Abhiyan, 2010'. The reference period for the study was 2003 to 2007."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1382600580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "committee",
+      "Education",
+      "village"
+    ],
+    "nid": [
+      85722
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Activities of VEC - Based on Sample Survey"
+    ],
+    "uuid": [
+      "e88a033a-e0f2-4f96-b177-17dd1193d176"
+    ],
+    "vid": [
+      7839419
+    ],
+    "view_count": [
+      667
+    ],
+    "search_api_id": [
+      "entity:node/85722:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/actual-and-estimated-budget"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2409
+    ],
+    "published_date": [
+      1365056039
+    ],
+    "body:value": [
+      "The data refers to information about the actual and estimated budget for various years and of various organisations under DeitY."
+    ],
+    "changed": [
+      1573207623
+    ],
+    "created": [
+      1364994540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Electronics and IT Production"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Electronics and Information Technology (MeitY)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "DeitY",
+      "estimates",
+      "Funding"
+    ],
+    "nid": [
+      85724
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Actual and Estimated Budget "
+    ],
+    "uuid": [
+      "bd440bc7-e12e-45d9-8e82-8457dd4f1742"
+    ],
+    "vid": [
+      7839428
+    ],
+    "view_count": [
+      2202
+    ],
+    "search_api_id": [
+      "entity:node/85724:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/actual-change-forest-cover-statesut"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      750
+    ],
+    "published_date": [
+      1379671342
+    ],
+    "body:value": [
+      "The data refers to Actual Change in Forest Cover of States/UT."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1379069760
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "report"
+    ],
+    "nid": [
+      85726
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Actual Change in Forest Cover of States/UT"
+    ],
+    "uuid": [
+      "789eecd1-2964-4a2c-b939-add19c9115b2"
+    ],
+    "vid": [
+      7839433
+    ],
+    "view_count": [
+      632
+    ],
+    "search_api_id": [
+      "entity:node/85726:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/administration-mineral-conservation-and-development-rules-1988-and-mcdr-2017"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1296
+    ],
+    "published_date": [
+      1379497110
+    ],
+    "body:value": [
+      "The data refers to Administration of Mineral Conservation and Development Rules, 1988. It describes the number of mines inspected where violation observed and rectified and where operations are suspended. This also includes the rectification of rules and sub rules after issue of show cause notice."
+    ],
+    "changed": [
+      1581682630
+    ],
+    "created": [
+      1379484180
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mines"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Indian Bureau of Mines"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "mineral",
+      "Violation",
+      "Suspension"
+    ],
+    "nid": [
+      85728
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Administration Of Mineral Conservation And Development Rules 1988 and  MCDR, 2017"
+    ],
+    "uuid": [
+      "4a983cc7-e559-435f-a094-7ef897aae603"
+    ],
+    "vid": [
+      7839444
+    ],
+    "view_count": [
+      1146
+    ],
+    "search_api_id": [
+      "entity:node/85728:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/administration-mineral-conservation-and-development-rules-1988"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1166
+    ],
+    "published_date": [
+      1369378559
+    ],
+    "body:value": [
+      "The data refers to Administration of Mineral Conservation and Development Rules,1988."
+    ],
+    "changed": [
+      1487242660
+    ],
+    "created": [
+      1367402400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mines"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Indian Bureau of Mines"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "IBM",
+      "Bureau",
+      "Mine",
+      "Violation",
+      "Suspension"
+    ],
+    "nid": [
+      85730
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Administration Of Mineral Conservation And Development Rules, 1988"
+    ],
+    "uuid": [
+      "c77036fb-eb85-4438-bae3-d2d06a6b17da"
+    ],
+    "vid": [
+      7839453
+    ],
+    "view_count": [
+      1050
+    ],
+    "search_api_id": [
+      "entity:node/85730:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/administrative-structure-and-rural-health-infrastructure"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3482
+    ],
+    "published_date": [
+      1364464620
+    ],
+    "body:value": [
+      "The data refers to state-wise number of administrative units and rural health infrastructure (DHs, CHCs, PHCs and Sub-Centres)."
+    ],
+    "changed": [
+      1441693326
+    ],
+    "created": [
+      1364452560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health and Family Welfare",
+      "trfff"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "CHC",
+      "Compliance",
+      "PHC",
+      "primary",
+      "Healthcare",
+      "Village.Certified"
+    ],
+    "nid": [
+      85732
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Administrative Structure And Rural Health Infrastructure"
+    ],
+    "uuid": [
+      "9e0377f0-2bb6-46f4-b225-c320e5f84fa8"
+    ],
+    "vid": [
+      7839461
+    ],
+    "view_count": [
+      3251
+    ],
+    "search_api_id": [
+      "entity:node/85732:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/adolescent-girls-following-advices-regarding-health-and-hygiene-care-discussed-during-nhe"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      910
+    ],
+    "published_date": [
+      1375449550
+    ],
+    "body:value": [
+      "The data refers to adolescent girls following advices regarding health and hygiene care discussed during NHE. It gives state-wise details regarding taking care and monitoring, health and nutrition, self confidence, treatment of minor illness, cleanliness, hygiene, age of marriage and Importance of education."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1375348200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Health"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "child",
+      "Development",
+      "ICDS",
+      "Integrated",
+      "Scheme",
+      "Girl",
+      "Adolescent"
+    ],
+    "nid": [
+      85734
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Adolescent Girls Following Advices Regarding Health and Hygiene Care Discussed During NHE"
+    ],
+    "uuid": [
+      "63ad53f3-dd72-41bb-9b75-070fe9c7f3c5"
+    ],
+    "vid": [
+      7839466
+    ],
+    "view_count": [
+      795
+    ],
+    "search_api_id": [
+      "entity:node/85734:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/adult-cattle-units-dependent-forests"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      794
+    ],
+    "published_date": [
+      1379678454
+    ],
+    "body:value": [
+      "The data refers to adult cattle units dependent on forests."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1379069880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "report"
+    ],
+    "nid": [
+      85736
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Adult Cattle Units Dependent on Forests"
+    ],
+    "uuid": [
+      "2b07e8dd-4c46-492c-a31a-0cd6c72e0c1f"
+    ],
+    "vid": [
+      7839472
+    ],
+    "view_count": [
+      741
+    ],
+    "search_api_id": [
+      "entity:node/85736:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/adult-male-cattle-and-buffalo-their-use"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2571
+    ],
+    "published_date": [
+      1365751863
+    ],
+    "body:value": [
+      "Get the data about All India data on number of adult male cattle and buffalo with their use like for breeding only, agriculture and breeding, bullock cart and breeding and buffalo with their use like breeding only, agriculture and breeding, bullock cart and breeding."
+    ],
+    "changed": [
+      1506517535
+    ],
+    "created": [
+      1365676200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Live Stock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Breeding",
+      "Bullock",
+      "Cart"
+    ],
+    "nid": [
+      85738
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Adult Male Cattle and Buffalo with their Use"
+    ],
+    "uuid": [
+      "9f01aa0b-53cf-4ea5-a922-7c4d2136cdf4"
+    ],
+    "vid": [
+      7839494
+    ],
+    "view_count": [
+      2483
+    ],
+    "search_api_id": [
+      "entity:node/85738:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/advanced-demolition-device-products-drdo"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2102
+    ],
+    "published_date": [
+      1367314843
+    ],
+    "body:value": [
+      "Over the last few years terrorism and insurgency have become a very important from the point of view of national security. DRDO has developed various technologies in order to engage and mitigate these challenges. The INSAS rifle and Light Machine Gun Carbine developed by DRDO,have been used by para military forces in counter-insurgency operations for many years now. The Remotely Operated Vehicle is also proving to be very useful in hazardous operations like bomb detection and disposal.DRDO is committed to develop many more technologies and products to strengthen the hands of the paramilitary forces in their fight against the scourge of terrorism and insurgency."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1367298240
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DRDO Product"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "FLSC",
+      "Modular",
+      "Defence",
+      "Sheet",
+      "Explosive"
+    ],
+    "nid": [
+      85740
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Advanced Demolition Device Products of DRDO"
+    ],
+    "uuid": [
+      "d8d28f6d-e867-4098-ae3e-eb5010019511"
+    ],
+    "vid": [
+      7839499
+    ],
+    "view_count": [
+      1907
+    ],
+    "search_api_id": [
+      "entity:node/85740:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/advances-agriculture-and-other-priority-sectors-public-sector-banks"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3343
+    ],
+    "published_date": [
+      1371794231
+    ],
+    "body:value": [
+      "The data refers to the advances to agriculture and other priority sectors by Public Sector Banks. It gives details of advances to agriculture, micro and small enterprises, self-help groups,etc. The Adjusted Net Bank Credit is given for various years."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Monetary Trends"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Economic",
+      "Enterprises",
+      "finance",
+      "Micro",
+      "Survey",
+      "Account",
+      "Monetary",
+      "Trend"
+    ],
+    "nid": [
+      85742
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Advances to Agriculture and other Priority Sectors by Public Sector Banks"
+    ],
+    "uuid": [
+      "836a3e3f-0756-4c29-bda6-1d30187b1c61"
+    ],
+    "vid": [
+      7839504
+    ],
+    "view_count": [
+      3256
+    ],
+    "search_api_id": [
+      "entity:node/85742:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/age-group-wise-victims-incest-other-and-total-rape-cases"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7785
+    ],
+    "published_date": [
+      1380186405
+    ],
+    "body:value": [
+      "The data refers to State/UT wise rape cases by age group of victims. Total victims of rape (incest, other & total) are classified into age groups of Below 10 yrs, 10-14 yrs, 14-18 yrs, 18-30 yrs, 30-50 yrs and 50 and above yrs. Incest rape can be defined as rape by blood relative(s) of victim."
+    ],
+    "changed": [
+      1494593236
+    ],
+    "created": [
+      1380103020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Group",
+      "Incest",
+      "Rape"
+    ],
+    "nid": [
+      85744
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Age-group-wise Victims of (Incest, Other and Total) Rape Cases"
+    ],
+    "uuid": [
+      "eae80c55-fe51-4d6b-9a24-64734360c9ea"
+    ],
+    "vid": [
+      7839515
+    ],
+    "view_count": [
+      7095
+    ],
+    "search_api_id": [
+      "entity:node/85744:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      2
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/age-group-wise-victims-kidnapping-and-abduction"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8766
+    ],
+    "published_date": [
+      1381986389
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise details on total number of cases reported under Kidnapping & Abduction and number of victims of murder by purpose. All persons are categorized into male and female. The Age group of victims (both male and female) of murders are classified into 0-10, 10-15, 15-18, 18-30, 30-50, 50 & above. The various purposes listed for kidnapping and abduction are for Adoption, For Begging, For Camel racing, For Illicit intercourse, For marriage, For Prostitution, For Ransom, For Revenge, For Sale, For Selling body parts, For Slavery, For unlawful activity, For unlawful activity and Others."
+    ],
+    "changed": [
+      1462769084
+    ],
+    "created": [
+      1381753020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Kidnapping",
+      "Abduction",
+      "Victim"
+    ],
+    "nid": [
+      85746
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Age-group-wise Victims of kidnapping and abduction"
+    ],
+    "uuid": [
+      "607d8b2b-70dd-42e5-b63f-5e0b69ff0d9b"
+    ],
+    "vid": [
+      7839525
+    ],
+    "view_count": [
+      7930
+    ],
+    "search_api_id": [
+      "entity:node/85746:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/age-group-wise-victims-murder"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8007
+    ],
+    "published_date": [
+      1381986014
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise details on total number of cases reported under murder and number of victims of murder by gender. The Age group of victims (both male and female) of murders are classified into 0-10, 10-15, 15-18, 18-30, 30-50, 50 and above."
+    ],
+    "changed": [
+      1441627460
+    ],
+    "created": [
+      1381751220
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Murder",
+      "Victim"
+    ],
+    "nid": [
+      85748
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Age-group-wise Victims of murder"
+    ],
+    "uuid": [
+      "7e5bd138-c24d-487f-8d9b-febda8fe4ae8"
+    ],
+    "vid": [
+      7839537
+    ],
+    "view_count": [
+      7145
+    ],
+    "search_api_id": [
+      "entity:node/85748:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/agency-wise-extramural-research-and-development-projects-approved"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1659
+    ],
+    "published_date": [
+      1369306093
+    ],
+    "body:value": [
+      "The data refers to agency-wise details of number of extramural R&D projects and their approved cost."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Extramural Research and Development Projects"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agency",
+      "cost",
+      "Development",
+      "EMR",
+      "Funding",
+      "research",
+      "Project",
+      "Scientific",
+      "support",
+      "Sponsored",
+      "Agencies"
+    ],
+    "nid": [
+      85750
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Agency-wise Extramural Research And Development Projects Approved"
+    ],
+    "uuid": [
+      "b6f2d734-1dd6-4e21-9188-7d774bfa8b50"
+    ],
+    "vid": [
+      7839581
+    ],
+    "view_count": [
+      1548
+    ],
+    "search_api_id": [
+      "entity:node/85750:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-estimates-gdp-constant-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8859
+    ],
+    "published_date": [
+      1353857716
+    ],
+    "body:value": [
+      "Macro economic data on key parameters from 2004-05 onwards using the new base year are provided in this. Besides data on Gross Domestic product, Capital Formation, Net income, Savings etc growth rates and sectoral breakups are also provided. For details regarding concepts, definitions, methodology for compilation etc users are requested to access the material provided in the website www.mospi.gov.in"
+    ],
+    "changed": [
+      1500381061
+    ],
+    "created": [
+      1353582720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Annual Estimates of GDP"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Economy",
+      "Macro Economy",
+      "Finance",
+      "Economy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Capita",
+      "Capital",
+      "CIS",
+      "Construction",
+      "expenditure",
+      "Export",
+      "Fishing",
+      "Forestry",
+      "GFCE",
+      "GFCF",
+      "GNI",
+      "Hotel",
+      "Import",
+      "Income",
+      "manufacturing",
+      "NDP",
+      "NNI",
+      "Restaurant",
+      "PFCE",
+      "Subsidy",
+      "trade",
+      "Fixed",
+      "Tax",
+      "Indirect",
+      "Populion"
+    ],
+    "nid": [
+      85907
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Estimates of GDP at Constant Prices"
+    ],
+    "uuid": [
+      "4fee3b30-5092-4fb8-93dd-a51b05373fb8"
+    ],
+    "vid": [
+      7840325
+    ],
+    "view_count": [
+      7703
+    ],
+    "search_api_id": [
+      "entity:node/85907:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-fuel-wood-consumption"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4522
+    ],
+    "published_date": [
+      1379916223
+    ],
+    "body:value": [
+      "The data refers to details of annual fuel wood consumption. The data was collected about the use of wood as a source of energy for cooking and source of its supply. This data set has been sourced from the \"India State of Forest Report 2011\"."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1379069820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "Fuel",
+      "ISFR"
+    ],
+    "nid": [
+      85909
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Fuel wood Consumption"
+    ],
+    "uuid": [
+      "b1af15ee-3e4c-4716-a4ea-05f68d5eba04"
+    ],
+    "vid": [
+      7840330
+    ],
+    "view_count": [
+      4143
+    ],
+    "search_api_id": [
+      "entity:node/85909:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-gross-emoluments-research-and-development-personnel-employed"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1241
+    ],
+    "published_date": [
+      1365015892
+    ],
+    "body:value": [
+      "The table presents data on annual gross emoluments of Research And Development personnel employed. The data is collected and compiled as a part of National Survey on Research And Development resources by DST, New Delhi, Government of India."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1364202960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - Financial Resourses"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Central",
+      "Female",
+      "Male",
+      "Private",
+      "Public",
+      "Salary"
+    ],
+    "nid": [
+      85911
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Gross Emoluments of Research And Development Personnel Employed"
+    ],
+    "uuid": [
+      "11fb9d90-1391-4d75-a0c5-2a90da0743e1"
+    ],
+    "vid": [
+      7840336
+    ],
+    "view_count": [
+      1125
+    ],
+    "search_api_id": [
+      "entity:node/85911:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-growth-rate-consumption-expenditure-constant-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2179
+    ],
+    "published_date": [
+      1364618947
+    ],
+    "body:value": [
+      "The data refers to Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) (in per cent)"
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1364450940
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Economy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Government",
+      "Private"
+    ],
+    "nid": [
+      85913
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual growth rate of Consumption Expenditure at constant prices"
+    ],
+    "uuid": [
+      "446131b0-d747-4c63-ab85-6f39581bde91"
+    ],
+    "vid": [
+      7840342
+    ],
+    "view_count": [
+      1882
+    ],
+    "search_api_id": [
+      "entity:node/85913:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-growth-rate-gdp-industry-origin-constant-prices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      20960
+    ],
+    "published_date": [
+      1364619570
+    ],
+    "body:value": [
+      "The data refers to Annual Growth Rate of GDP by Industry of origin at Constant (2004-2005) Prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17)  (in per cent)"
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1364450400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Indian Economy"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Growth",
+      "Plan",
+      "Projection"
+    ],
+    "nid": [
+      85915
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Growth Rate of GDP by industry of origin at constant prices"
+    ],
+    "uuid": [
+      "a71a6e32-1294-4f57-850d-cb3dcdbfabdd"
+    ],
+    "vid": [
+      7840348
+    ],
+    "view_count": [
+      20470
+    ],
+    "search_api_id": [
+      "entity:node/85915:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-growth-rate-gross-national-product-and-net-national-product"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6590
+    ],
+    "published_date": [
+      1372077951
+    ],
+    "body:value": [
+      "The data refers to the Annual Growth Rate of Gross National Product and Net National Product for various years."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - National Income and Production"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capita",
+      "cost",
+      "Economic",
+      "finance",
+      "Income",
+      "prices",
+      "Rate",
+      "Current",
+      "Factor"
+    ],
+    "nid": [
+      85917
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Growth Rate of Gross National Product and Net National Product"
+    ],
+    "uuid": [
+      "c35985d9-ce8b-482f-a86d-279a775428f4"
+    ],
+    "vid": [
+      7840353
+    ],
+    "view_count": [
+      6523
+    ],
+    "search_api_id": [
+      "entity:node/85917:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-growth-rates-real-gross-domestic-product-factor-cost-industry-origin"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2695
+    ],
+    "published_date": [
+      1372139252
+    ],
+    "body:value": [
+      "The data refers to the Annual Growth Rates of Real Gross Domestic Product at Factor Cost. Real Gross Domestic Product (real GDP) is a macroeconomic measure of the value of economic output adjusted for price changes i.e., inflation or deflation. "
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371192540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - National Income and Production"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "cost",
+      "Economic",
+      "finance",
+      "Group",
+      "Income",
+      "Survey",
+      "Factor"
+    ],
+    "nid": [
+      85919
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Growth Rates of Real Gross Domestic Product at Factor Cost by Industry of Origin"
+    ],
+    "uuid": [
+      "7ea3578e-d507-4bbe-b87b-454d68d09c14"
+    ],
+    "vid": [
+      7840358
+    ],
+    "view_count": [
+      2584
+    ],
+    "search_api_id": [
+      "entity:node/85919:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-outlay-and-expenditure-central-assistance-under-cmp-scheme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      838
+    ],
+    "published_date": [
+      1384845394
+    ],
+    "body:value": [
+      "The data refers to year wise total Outlay and expenditure under CMP Scheme. The objective of this Scheme is Improvement of milking procedure at the farmers level for production of quality milk. This scheme was started during the year 2003-04 (October 2003) with a total outlay of Rs 30.00 crore for the Tenth Five year Plan. It is being continued during the 11th Five year Plan as a merged scheme together with Intensive Dairy Development Programme(IDDP) with a total plan outlay of Rs 225.00 Crore (IDDP & CMP) and budget provision of Rs 30.00 Crore for CMP during 2013-14."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1384840020
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Dairying Scheme"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Dairying",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "Milk",
+      "Production",
+      "Plan",
+      "Clean"
+    ],
+    "nid": [
+      85921
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Outlay and Expenditure (Central assistance) under CMP Scheme"
+    ],
+    "uuid": [
+      "27435b73-43da-40a3-95fb-397ba66df106"
+    ],
+    "vid": [
+      7840362
+    ],
+    "view_count": [
+      700
+    ],
+    "search_api_id": [
+      "entity:node/85921:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-outlay-and-expenditure-under-assistance-cooperatives-scheme"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      806
+    ],
+    "published_date": [
+      1385630201
+    ],
+    "body:value": [
+      "The data refers to information about year wise Outlay and Expenditure under Assistance to Cooperatives Scheme (A to C). The scheme is being implemented by the concerned District Cooperative Milk Unions/State Dairy Federation. The Central grants under the Scheme are to be provided to the Milk Unions/Federations through NDDB."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1384849740
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Dairying Scheme"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Dairying",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "expenditure",
+      "Dairy"
+    ],
+    "nid": [
+      85923
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Outlay and Expenditure under Assistance to Cooperatives Scheme"
+    ],
+    "uuid": [
+      "e16186dc-81a3-494d-9937-ababf058b5f2"
+    ],
+    "vid": [
+      7840370
+    ],
+    "view_count": [
+      678
+    ],
+    "search_api_id": [
+      "entity:node/85923:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      3
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      1
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/electronics-and-it-production"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8797
+    ],
+    "published_date": [
+      1357731946
+    ],
+    "body:value": [
+      "The data refers to information about the Electronics and IT Production as well as Electronics and IT Exports."
+    ],
+    "changed": [
+      1635140892
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Electronics and IT Production"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Electronics and Information Technology (MeitY)"
+    ],
+    "field_sector:name": [
+      "Information and Communications",
+      "Information and Technology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Communication",
+      "DeitY",
+      "Export",
+      "Annual"
+    ],
+    "nid": [
+      85925
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Electronics and IT Production"
+    ],
+    "uuid": [
+      "40f5dca3-3f3c-4833-9f1d-c50a72ccd75b"
+    ],
+    "vid": [
+      7840385
+    ],
+    "view_count": [
+      8059
+    ],
+    "search_api_id": [
+      "entity:node/85925:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-series-principal-characterstics-annual-survey-industries"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1606
+    ],
+    "published_date": [
+      1373975983
+    ],
+    "body:value": [
+      "The data describes about the details to the time series principal characteristics for all industries at annual frequency."
+    ],
+    "changed": [
+      1441691447
+    ],
+    "created": [
+      1373918640
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Industries"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "ASI",
+      "Capital",
+      "Employee",
+      "Worker",
+      "Invested"
+    ],
+    "nid": [
+      85928
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Series for Principal Characterstics from Annual Survey of Industries"
+    ],
+    "uuid": [
+      "b042ec14-64c2-4c60-a791-36bd55431443"
+    ],
+    "vid": [
+      7840398
+    ],
+    "view_count": [
+      1443
+    ],
+    "search_api_id": [
+      "entity:node/85928:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/annual-wholesale-price-index-agriculture-produce"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      7806
+    ],
+    "published_date": [
+      1377500794
+    ],
+    "body:value": [
+      "The data refers to annual real prices of agricultural produce from 2004-05 to 2011-12 for the WPI base year 2004-05."
+    ],
+    "changed": [
+      1436419087
+    ],
+    "created": [
+      1377090600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture, WPI"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Crops"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Wholesale",
+      "Price"
+    ],
+    "nid": [
+      85930
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Annual Wholesale Price Index of Agriculture Produce"
+    ],
+    "uuid": [
+      "c48ed0a6-dc31-43af-be4a-6a6cc27aabe3"
+    ],
+    "vid": [
+      7840403
+    ],
+    "view_count": [
+      6373
+    ],
+    "search_api_id": [
+      "entity:node/85930:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/application-remote-sensing-technology-forest-cover-mapping"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1049
+    ],
+    "published_date": [
+      1387865499
+    ],
+    "body:value": [
+      "The data refers to application of remote sensing technology in forest cover mapping over two decades. It provides details on transition of technology and improvement in the methodology of forest cover mapping for the various State of Forests Reports."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1387449600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "report",
+      "Mapping"
+    ],
+    "nid": [
+      85932
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Application of Remote Sensing Technology in Forest Cover Mapping"
+    ],
+    "uuid": [
+      "1d7dddba-5d53-41fd-9495-e2c695ce54b9"
+    ],
+    "vid": [
+      7840409
+    ],
+    "view_count": [
+      947
+    ],
+    "search_api_id": [
+      "entity:node/85932:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/applications-patents-filed"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6490
+    ],
+    "published_date": [
+      1364835620
+    ],
+    "body:value": [
+      "The data refers to patent applications filed from persons in India and abroad  and by top ten Foreign Residents at the Indian Patent Office. The data are taken from the annual reports of the Controller General of Patents, Designs and Trade Marks."
+    ],
+    "changed": [
+      1426852163
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "S&T - IPR"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Science and Technology (DST)",
+      "National Science and Technology Management Information System (NSTMIS)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Research & Development"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Foreign",
+      "patent",
+      "Resident"
+    ],
+    "nid": [
+      85934
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Applications For Patents Filed"
+    ],
+    "uuid": [
+      "712da140-1881-48b9-8cef-ab56d2d5a3f2"
+    ],
+    "vid": [
+      7840437
+    ],
+    "view_count": [
+      6069
+    ],
+    "search_api_id": [
+      "entity:node/85934:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/approved-hotel-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      12373
+    ],
+    "published_date": [
+      1363088008
+    ],
+    "body:value": [
+      "Ministry of Tourism has voluntary scheme for Classifying/ Re-classifying  Hotels   under various categories at project level. The aims and objectives of this scheme is to provide world class standard services to the tourists. "
+    ],
+    "changed": [
+      1563168431
+    ],
+    "created": [
+      1363079400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Hotel & Restaurant"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Tourism"
+    ],
+    "field_sector:name": [
+      "Travel and Tourism"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Air",
+      "Centre",
+      "Classification",
+      "Hotel",
+      "Restaurant",
+      "Unit",
+      "Star",
+      "Deluxe",
+      "Apartment",
+      "Convention",
+      "Heritage",
+      "Classic"
+    ],
+    "nid": [
+      85938
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Approved Hotel Projects"
+    ],
+    "uuid": [
+      "e0e51bee-d555-4f1e-ac46-3be60689fc62"
+    ],
+    "vid": [
+      7840445
+    ],
+    "view_count": [
+      10837
+    ],
+    "search_api_id": [
+      "entity:node/85938:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      1
+    ],
+    "node_alias": [
+      "/catalog/approved-service-providers-adventure-tour-operators-domestic-tour-operators-inbound-tour"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10726
+    ],
+    "published_date": [
+      1363088782
+    ],
+    "body:value": [
+      "Ministry of Tourism has a scheme of approving the service providers of Travel Trade. The aims and objectives of this scheme are to encourage quality, standard and service in these categories. This is a voluntary scheme open to all bonafide agencies to bring them under organized sector. "
+    ],
+    "changed": [
+      1563168497
+    ],
+    "created": [
+      1363073640
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Tourism"
+    ],
+    "field_sector:name": [
+      "Travel and Tourism"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Recognition",
+      "renewal",
+      "Adventure",
+      "Operator"
+    ],
+    "nid": [
+      85945
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Approved Service Providers (Adventure Tour Operators, Domestic Tour Operators, Inbound Tour Operators, Tourist Transport Operators and Travel Agents) "
+    ],
+    "uuid": [
+      "274bd2ff-356c-4d4d-bcef-f17e84dcb8f9"
+    ],
+    "vid": [
+      7840475
+    ],
+    "view_count": [
+      10032
+    ],
+    "search_api_id": [
+      "entity:node/85945:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/area-population-and-income-g-20-countries"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3029
+    ],
+    "published_date": [
+      1367693406
+    ],
+    "body:value": [
+      "The data refers to for G-20 countries details on area, population, gross domestic product (GDP), domestic product per capita income and purchasing power from 2010 to 2012."
+    ],
+    "changed": [
+      1459513600
+    ],
+    "created": [
+      1367566920
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "India and The World"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "All",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capita",
+      "domestic",
+      "GDP",
+      "Gross",
+      "Power",
+      "product",
+      "Purchasing"
+    ],
+    "nid": [
+      85947
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Area / Population And Income Of G-20 Countries"
+    ],
+    "uuid": [
+      "13f8eede-3209-4913-9f84-af1647b6187a"
+    ],
+    "vid": [
+      7840496
+    ],
+    "view_count": [
+      2875
+    ],
+    "search_api_id": [
+      "entity:node/85947:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/area-production-and-productivity-major-fruits-and-vegetables-producing-countries-world"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      19256
+    ],
+    "published_date": [
+      1365751495
+    ],
+    "body:value": [
+      "The data refers to data on Area, Production and Productivity of major Fruits and Vegetables producing Countries in the World from 2009-10 to 2010-11 (such as China, India, Brazil, USA, Italy, Spain, Mexico, Indonesia, Philippines, Iran, Turkey and Others)."
+    ],
+    "changed": [
+      1506517613
+    ],
+    "created": [
+      1365684300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Horticulture"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Horticulture",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Brazil",
+      "China",
+      "Horticulture",
+      "Iran",
+      "Italy",
+      "major",
+      "Mexico",
+      "Philippines",
+      "Spain",
+      "Turkey",
+      "USA",
+      "Donesia"
+    ],
+    "nid": [
+      85949
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Area / Production And Productivity of Major Fruits and Vegetables Producing Countries In The World"
+    ],
+    "uuid": [
+      "18c04277-92e6-4b28-90b0-213e02c41965"
+    ],
+    "vid": [
+      7840503
+    ],
+    "view_count": [
+      18817
+    ],
+    "search_api_id": [
+      "entity:node/85949:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/area-under-principal-crops-all-india-and-state-wise"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      18321
+    ],
+    "published_date": [
+      1364617972
+    ],
+    "body:value": [
+      "The data refers to All India (from 2000 to 2011) and State-wise (2009-10 and 2010-11) area under Principal Crops (food grains, cereals, oil seeds, tobacco, potato, black pepper, chillies, natural rubber, bananas, ginger, coconut and turmeric)."
+    ],
+    "changed": [
+      1509366125
+    ],
+    "created": [
+      1364460780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Agriculture"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Crops",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "bajra",
+      "Banana",
+      "barley",
+      "Coconut",
+      "Ginger",
+      "gram",
+      "jawar",
+      "maize",
+      "OIL",
+      "ragi",
+      "Pepper",
+      "Potato",
+      "rice",
+      "rubber",
+      "Seed",
+      "wheat",
+      "Tobacco",
+      "Turmeric",
+      "Foodgrain",
+      "Cereal",
+      "Natural",
+      "Pulse",
+      "Millet",
+      "Chilly"
+    ],
+    "nid": [
+      85951
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Area Under Principal Crops - All India and State Wise"
+    ],
+    "uuid": [
+      "f24768b3-d130-4056-b42c-f77be85aa9db"
+    ],
+    "vid": [
+      7840510
+    ],
+    "view_count": [
+      17708
+    ],
+    "search_api_id": [
+      "entity:node/85951:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/area-weighted-monthly-seasonal-and-annual-rainfall-mm-36-meteorological-subdivisions"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      25680
+    ],
+    "published_date": [
+      1369981670
+    ],
+    "body:value": [
+      "Area Weighted Monthly, Seasonal And Annual Rainfall (in mm) For 36 Meteorological Subdivisions from 1951 onwards. Subdivision rainfall data is calculated as area weighted average of district wise rainfall."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1369979580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rainfall"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Earth Sciences",
+      "India Meteorological Department (IMD)"
+    ],
+    "field_sector:name": [
+      "Science and Technology",
+      "Atmospheric Science"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "rainfall",
+      "Seasonal",
+      "Subdivisional"
+    ],
+    "nid": [
+      85953
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Area Weighted Monthly, Seasonal And Annual Rainfall (in mm) For 36 Meteorological Subdivisions"
+    ],
+    "uuid": [
+      "485bcf62-54ba-4340-ad5c-380caf97dd05"
+    ],
+    "vid": [
+      7840513
+    ],
+    "view_count": [
+      24545
+    ],
+    "search_api_id": [
+      "entity:node/85953:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/area-wise-status-mining-lease-distribution-frequency-hect"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2494
+    ],
+    "published_date": [
+      1369378952
+    ],
+    "body:value": [
+      "The data refers to Area wise status of Mining Lease distribution (Frequency in Hect)."
+    ],
+    "changed": [
+      1581682055
+    ],
+    "created": [
+      1367401980
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Mines"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Mines",
+      "Indian Bureau of Mines"
+    ],
+    "field_sector:name": [
+      "Mining"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "distribution",
+      "Frequency",
+      "mines"
+    ],
+    "nid": [
+      85955
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Area wise status of Mining Lease distribution (Frequency in Hect)"
+    ],
+    "uuid": [
+      "14e0ddb9-80de-4a2b-8aec-70c53722512f"
+    ],
+    "vid": [
+      7840532
+    ],
+    "view_count": [
+      2268
+    ],
+    "search_api_id": [
+      "entity:node/85955:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/area-production-and-productivity-various-kinds-spices"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9588
+    ],
+    "published_date": [
+      1365751694
+    ],
+    "body:value": [
+      "The data refers to All India (2008-09 to 2010-11) data on Area, Production and Productivity of various kinds of Spices such as Chilies, Garlic, Turmeric, Ginger, Coriander, Tamarind, Cumin, Fenugreek, Fennel, Pepper, Ajwan, Cardamom, Nutmeg, Other seed spices, Tejpat/Cinnamon, Clove and Others."
+    ],
+    "changed": [
+      1506517598
+    ],
+    "created": [
+      1365682680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Horticulture"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Horticulture",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Ajwan",
+      "area",
+      "Cardamom",
+      "Cinnamon",
+      "Clove",
+      "Cumin",
+      "Fennel",
+      "Fenugreek",
+      "Garlic",
+      "Ginger",
+      "Horticulture",
+      "Nutmeg",
+      "Pepper",
+      "Seed",
+      "Tamarind",
+      "Tejpat",
+      "Turmeric",
+      "Spice",
+      "Chily",
+      "Corier"
+    ],
+    "nid": [
+      85957
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Area/ Production and Productivity of various kinds of Spices"
+    ],
+    "uuid": [
+      "1fcf1c8f-695c-404a-88c6-646b0aae6556"
+    ],
+    "vid": [
+      7840539
+    ],
+    "view_count": [
+      9170
+    ],
+    "search_api_id": [
+      "entity:node/85957:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/area-wise-development-deep-drilling-rigs-wells-metreage-drilled"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1357
+    ],
+    "published_date": [
+      1371207759
+    ],
+    "body:value": [
+      "The data refers to area-wise development of deep drilling rigs, wells and metreage drilled in India."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1371101280
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "PNG Economic and Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Offshore",
+      "Onshore"
+    ],
+    "nid": [
+      85959
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Area-wise Development of Deep Drilling Rigs / Wells / Metreage Drilled"
+    ],
+    "uuid": [
+      "7dd1083f-2703-42d2-9483-4c7ed2b13404"
+    ],
+    "vid": [
+      7840542
+    ],
+    "view_count": [
+      1219
+    ],
+    "search_api_id": [
+      "entity:node/85959:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/area-wise-number-ongoing-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2793
+    ],
+    "published_date": [
+      1363343071
+    ],
+    "body:value": [
+      "The data refers to area-wise number of suitable ongoing Research and Development projects being funded by Department of Biotechnology. The schemes are implemented institutes/universities through competitive grants system based on scientific merit and techno-economic feasibility."
+    ],
+    "changed": [
+      1452677733
+    ],
+    "created": [
+      1363339680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DBT - Research and Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Biotechnology",
+      "DBT",
+      "Development",
+      "Economic",
+      "Funding",
+      "Grant",
+      "Institute",
+      "research",
+      "University",
+      "Competitive",
+      "Techno"
+    ],
+    "nid": [
+      85961
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Area-wise Number of Ongoing Projects"
+    ],
+    "uuid": [
+      "e1ddf459-7d3f-40e7-98d6-292db4f96db7"
+    ],
+    "vid": [
+      7840547
+    ],
+    "view_count": [
+      2551
+    ],
+    "search_api_id": [
+      "entity:node/85961:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/area-wise-number-projects-received"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1558
+    ],
+    "published_date": [
+      1363343142
+    ],
+    "body:value": [
+      "The data refers to area-wise number of ongoing Research and Development projects received by Department of Biotechnology in each financial year. The schemes are implemented institutes/universities through competitive grants system based on scientific merit and techno-economic feasibility."
+    ],
+    "changed": [
+      1453117207
+    ],
+    "created": [
+      1363339200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "DBT - Research and Development"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Biotechnology",
+      "DBT",
+      "Development",
+      "Economic",
+      "Grant",
+      "Institute",
+      "research",
+      "University",
+      "Competitive",
+      "Techno"
+    ],
+    "nid": [
+      85963
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Area-wise Number of Projects Received"
+    ],
+    "uuid": [
+      "7920f131-6c37-44bf-b5c7-17c005bced68"
+    ],
+    "vid": [
+      7840552
+    ],
+    "view_count": [
+      1396
+    ],
+    "search_api_id": [
+      "entity:node/85963:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/area-wise-number-research-and-development-proposals-not-found-suitable"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1031
+    ],
+    "published_date": [
+      1372764073
+    ],
+    "body:value": [
+      "The data refers to area-wise details on the number of research and development proposals not found suitable."
+    ],
+    "changed": [
+      1452669431
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Biotechnology RnD"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Bioengineering",
+      "Biotechnology",
+      "Medical",
+      "Technology",
+      "Nano",
+      "Plant"
+    ],
+    "nid": [
+      85965
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Area-wise Number of Research And Development Proposals Not Found Suitable"
+    ],
+    "uuid": [
+      "736ee9d2-8a9d-45f6-8e44-487c29079a97"
+    ],
+    "vid": [
+      7840556
+    ],
+    "view_count": [
+      967
+    ],
+    "search_api_id": [
+      "entity:node/85965:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/area-wise-number-societal-proposals-not-found-suitable"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      915
+    ],
+    "published_date": [
+      1372763781
+    ],
+    "body:value": [
+      "The data refers to area-wise details on the number of societal proposals not found suitable."
+    ],
+    "changed": [
+      1452669431
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Biotechnology Societal Programme"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biotechnology",
+      "Development",
+      "Population",
+      "Programme",
+      "Rural",
+      "SC",
+      "ST",
+      "Women",
+      "Caste",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      85968
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Area-wise Number of Societal Proposals Not Found Suitable"
+    ],
+    "uuid": [
+      "df83b214-6a26-4697-8e17-c719262a9dac"
+    ],
+    "vid": [
+      7840561
+    ],
+    "view_count": [
+      875
+    ],
+    "search_api_id": [
+      "entity:node/85968:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/area-wise-ongoing-research-and-development-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1911
+    ],
+    "published_date": [
+      1372764500
+    ],
+    "body:value": [
+      "The data refers to area-wise details of ongoing research and development projects."
+    ],
+    "changed": [
+      1462794725
+    ],
+    "created": [
+      1372758960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Biotechnology RnD"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Agriculture",
+      "Bioengineering",
+      "Bioinformatics",
+      "Biotechnology",
+      "Development",
+      "Nanoscience",
+      "R&D",
+      "research",
+      "Seribiotechnology",
+      "Bioscience"
+    ],
+    "nid": [
+      85971
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Area-wise Ongoing Research And Development Projects"
+    ],
+    "uuid": [
+      "c7f57567-01e2-4a4b-86d2-f83ddf447ce0"
+    ],
+    "vid": [
+      7840565
+    ],
+    "view_count": [
+      1555
+    ],
+    "search_api_id": [
+      "entity:node/85971:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/area-wise-ongoing-societal-development-projects"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1066
+    ],
+    "published_date": [
+      1372764321
+    ],
+    "body:value": [
+      "The data refers to area-wise details of ongoing societal development projects."
+    ],
+    "changed": [
+      1452681260
+    ],
+    "created": [
+      1372760100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Biotechnology Societal Programme"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Science and Technology",
+      "Department of Biotechnology, Government of India"
+    ],
+    "field_sector:name": [
+      "Biotechnology"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biotechnology",
+      "Population",
+      "Programme",
+      "Rural",
+      "SC",
+      "ST",
+      "Women",
+      "Caste",
+      "Scheduled",
+      "Tribe"
+    ],
+    "nid": [
+      85973
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Area-wise Ongoing Societal Development Projects"
+    ],
+    "uuid": [
+      "573aa124-f8c5-45a8-9d89-5e0a6687ed8f"
+    ],
+    "vid": [
+      7840568
+    ],
+    "view_count": [
+      874
+    ],
+    "search_api_id": [
+      "entity:node/85973:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/armament-products"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2201
+    ],
+    "published_date": [
+      1383301159
+    ],
+    "body:value": [
+      "The data refers to salient features of Armament products such as 84 mm Light Weight Launcher, Shell 105 mm IFG Illuminating 2A, Mortar Bomb Illuminating 81 mm Mk-II. Armament laboratories of DRDO are involved in the development of arms and ammunition required for land warfare as well as air delivered bombs. DRDO has made significant contributions in the indigenisation of small arms, mortars, RPGs, disposable RLs, mines, bombs and ammunitions. High energy propellants and explosive composition equired for missiles, guns and warheads have been successfully developed and technology has been transferred to industries."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1383200460
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Defence Product and technology"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Defence",
+      "Department of Defence Research and Development",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "field_sector:name": [
+      "Defence"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "weight",
+      "Defence",
+      "Light",
+      "Bomb",
+      "Ammunition",
+      "Launcher"
+    ],
+    "nid": [
+      85977
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Armament Products"
+    ],
+    "uuid": [
+      "2cadb819-9678-4105-82fa-b813d093fc95"
+    ],
+    "vid": [
+      7840578
+    ],
+    "view_count": [
+      1889
+    ],
+    "search_api_id": [
+      "entity:node/85977:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/attendance-members-lok-sabha-session"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      23567
+    ],
+    "published_date": [
+      1374234840
+    ],
+    "body:value": [
+      "The data refers to details on the total number of days each member signed the member's attendance register in session of Lok Sabha."
+    ],
+    "changed": [
+      1392273597
+    ],
+    "created": [
+      1392273597
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Attendance of the Members of Lok Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Lok Sabha Secretariat"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Lok Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Budget",
+      "Loksabha",
+      "Member",
+      "Session"
+    ],
+    "nid": [
+      85981
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Attendance of the Members of Lok Sabha Session"
+    ],
+    "uuid": [
+      "01cd9aee-3714-4614-9074-6688fd2a9453"
+    ],
+    "vid": [
+      7840624
+    ],
+    "view_count": [
+      23149
+    ],
+    "search_api_id": [
+      "entity:node/85981:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

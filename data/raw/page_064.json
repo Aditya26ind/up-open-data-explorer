@@ -1,0 +1,4724 @@
+[
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-estimates-capita-availability-milk"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4362
+    ],
+    "published_date": [
+      1387366124
+    ],
+    "body:value": [
+      "The data provides information on year and State/UT-wise Per Capita Availability of Milk in India."
+    ],
+    "changed": [
+      1434352008
+    ],
+    "created": [
+      1387357560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Milk Production"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Capita",
+      "Milk",
+      "Production"
+    ],
+    "nid": [
+      91680
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise estimates Per Capita Availability of Milk"
+    ],
+    "uuid": [
+      "e5ed01b5-016f-4cfa-9a7d-1d37d2b830e8"
+    ],
+    "vid": [
+      7862421
+    ],
+    "view_count": [
+      4074
+    ],
+    "search_api_id": [
+      "entity:node/91680:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-fish-production"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8420
+    ],
+    "published_date": [
+      1383133262
+    ],
+    "body:value": [
+      "The data refers to State/UT wise information on annual fish production during the financial years."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1382339460
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Fishery"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Inland",
+      "Marine",
+      "Production"
+    ],
+    "nid": [
+      91682
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise Fish Production"
+    ],
+    "uuid": [
+      "a78346d9-ee87-41e9-aeaf-40e86f26f0af"
+    ],
+    "vid": [
+      7862427
+    ],
+    "view_count": [
+      8184
+    ],
+    "search_api_id": [
+      "entity:node/91682:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-fish-seed-production"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1134
+    ],
+    "published_date": [
+      1383050036
+    ],
+    "body:value": [
+      "The data refers to State/UT wise information on annual fish seed production during the financial year."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1382340180
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Livestock and Fisheries"
+    ],
+    "field_ministry_department:name": [
+      "Department of Animal Husbandry and Dairying",
+      "Ministry of Fisheries, Animal Husbandry and Dairying"
+    ],
+    "field_sector:name": [
+      "Agriculture",
+      "Animal Husbandry",
+      "Fishery"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Fish",
+      "Production",
+      "Seed"
+    ],
+    "nid": [
+      91684
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise Fish Seed Production"
+    ],
+    "uuid": [
+      "c3f1b6b9-298d-4c55-b158-a119ac4e56ba"
+    ],
+    "vid": [
+      7862432
+    ],
+    "view_count": [
+      1055
+    ],
+    "search_api_id": [
+      "entity:node/91684:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-growing-stock"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2706
+    ],
+    "published_date": [
+      1379929648
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise summary of growing stock in forests. It provides details regarding volume of growing stock and recorded forest area."
+    ],
+    "changed": [
+      1408626304
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "volume",
+      "report",
+      "Record"
+    ],
+    "nid": [
+      91686
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise Growing Stock"
+    ],
+    "uuid": [
+      "6cf218c9-fc10-4e8e-9fd9-ebd6b1f79e41"
+    ],
+    "vid": [
+      7862446
+    ],
+    "view_count": [
+      2572
+    ],
+    "search_api_id": [
+      "entity:node/91686:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-juveniles-apprehended-under-ipc-crimes-sex-and-age-group"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1997
+    ],
+    "published_date": [
+      1380178911
+    ],
+    "body:value": [
+      "The data refers to State/UT wise and crime head wise juveniles apprehended under IPC crimes by sex and age-group in India. The age group is classified into 7-12 yrs, 12-16 yrs and 16-18 yrs."
+    ],
+    "changed": [
+      1441627370
+    ],
+    "created": [
+      1380108660
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Juveniles",
+      "Apprehend"
+    ],
+    "nid": [
+      91693
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise juveniles apprehended under IPC Crimes by sex and age-group"
+    ],
+    "uuid": [
+      "fc6d3311-620b-47e3-9f97-e9bb0f2ca7ef"
+    ],
+    "vid": [
+      7862464
+    ],
+    "view_count": [
+      1773
+    ],
+    "search_api_id": [
+      "entity:node/91693:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-juveniles-apprehended-under-sll-crimes-sex-and-age-group"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2627
+    ],
+    "published_date": [
+      1380178575
+    ],
+    "body:value": [
+      "The data refers to State/UT wise and crime head wise juveniles apprehended under SLL crimes by sex and age-group in India. The age group is classified into 7-12 yrs, 12-16 yrs and 16-18 yrs."
+    ],
+    "changed": [
+      1441627372
+    ],
+    "created": [
+      1380108780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Crime Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Crime",
+      "Juvenile",
+      "Apprehended"
+    ],
+    "nid": [
+      91695
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise juveniles apprehended under SLL Crimes by sex and age-group"
+    ],
+    "uuid": [
+      "c9728d11-9a6f-4483-896f-390982ac3b19"
+    ],
+    "vid": [
+      7862473
+    ],
+    "view_count": [
+      2458
+    ],
+    "search_api_id": [
+      "entity:node/91695:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-potential-production-timber-and-fuel-wood-tof"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1486
+    ],
+    "published_date": [
+      1379938142
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise summary of potential production of timber and fuel wood from Trees Outside Forest (TOF) areas. It provides details of Growing Stock of TOF, Annual potential production of timber and Annual availability of fuelwood (in million tonnes). This data set has been sourced from the \"India State of Forest Report 2011\"."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1379069820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "Fuel",
+      "ISFR",
+      "timber",
+      "report"
+    ],
+    "nid": [
+      91701
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise Potential Production of Timber and Fuel wood from TOF"
+    ],
+    "uuid": [
+      "0738e5b0-3c61-4a4a-8fe4-5490d9b15ea3"
+    ],
+    "vid": [
+      7862486
+    ],
+    "view_count": [
+      1064
+    ],
+    "search_api_id": [
+      "entity:node/91701:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-professional-profile-suicide-victim"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6081
+    ],
+    "published_date": [
+      1381473052
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise and age-sex wise professional profile of suicide victim. The professional profile of the victims has been classified as House Wife, Service (Government), Service (Private), Public Sector Undertaking, Student, Unemployed, Self-employed (Business activity), Professional Activity, Farming/Agriculture Activity, Retired Person, Total Salaried, Total Self-employed and Others."
+    ],
+    "changed": [
+      1441627443
+    ],
+    "created": [
+      1381398900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Accidental Deaths and Suicides"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Death",
+      "Accident",
+      "Profession",
+      "suicide"
+    ],
+    "nid": [
+      91703
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise professional profile of suicide victim"
+    ],
+    "uuid": [
+      "856018ca-0898-4d3b-90ae-70eb208f26bd"
+    ],
+    "vid": [
+      7862501
+    ],
+    "view_count": [
+      5573
+    ],
+    "search_api_id": [
+      "entity:node/91703:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-profile-accidents-un-natural-causes"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2314
+    ],
+    "published_date": [
+      1381475853
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise details of persons injured and persons killed in accidents due to un-natural causes and total cases of un-natural accidents. Victims are categorised into male, female and total. The various causes of natural and un-natural accidents are categorized as Air-Crash, Collapse of Structure(House), Collapse of Structure(Building), Collapse of Structure(Dam), Collapse of Structure(Bridge), Collapse of Structure(Others), Drowning (Boat Capsize), Drowning(Other Cases), Electrocution, Explosion (Bomb explosion), Explosion(Other explosion like Boilers, Falls (Fall from Height), Fall into Pit/Manhole, Factory/Machine Accidents, Fire (Fireworks/Crackers), Fire (Short-Circuit), Gas Cylinder/Stove Burst, Other Fire Accidents, Fire-Arms, Sudden Deaths (Heart Attacks), Epileptic Fits/Giddiness, Abortions/Child Birth, Influence of Alcohol, Killed by animals, Mines or quary disaster, Food Poisoning/Accidental Intake of Ins, Spurious/poisonous liquor, Leakage of poisonous gases etc., Snake Bite/Animal Bite, Stampede, Suffocation, Traffic Accidents (Road Accidents), Traffic Accidents (Rail-Road Accidents), Other Railway Accidents, Other Causes and Causes Not Known."
+    ],
+    "changed": [
+      1441627405
+    ],
+    "created": [
+      1381397580
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Accidental Deaths and Suicides"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Death",
+      "Accident",
+      "suicide",
+      "Case",
+      "Natural",
+      "Prile"
+    ],
+    "nid": [
+      91705
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise profile of accidents by un-natural causes"
+    ],
+    "uuid": [
+      "9e6829b4-941e-4f3b-8711-9838f00933cb"
+    ],
+    "vid": [
+      7862514
+    ],
+    "view_count": [
+      2014
+    ],
+    "search_api_id": [
+      "entity:node/91705:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-social-status-suicide-victims"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3722
+    ],
+    "published_date": [
+      1381473231
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise social status of suicide victims. Victims are categorized into male, female and total. The social status of suicide victims are classified as Married, Never-married, Widowed/Widower, Divorcee and Separated."
+    ],
+    "changed": [
+      1441627450
+    ],
+    "created": [
+      1381398900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Accidental Deaths and Suicides"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Death",
+      "Social",
+      "Accident",
+      "suicide"
+    ],
+    "nid": [
+      91707
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise social status of suicide victims"
+    ],
+    "uuid": [
+      "36b50ce4-2998-46e2-ba4f-d9d1a7568da5"
+    ],
+    "vid": [
+      7862528
+    ],
+    "view_count": [
+      3332
+    ],
+    "search_api_id": [
+      "entity:node/91707:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-traffic-accidents-month-occurrence"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4051
+    ],
+    "published_date": [
+      1381472026
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise number of traffic accidents by month of occurrence. The traffic accidents are grouped into Road Accidents, Road-Rail Accidents and other Railways Accidents."
+    ],
+    "changed": [
+      1474277681
+    ],
+    "created": [
+      1381398900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Accidental Deaths and Suicides"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Death",
+      "Railway",
+      "Road",
+      "Traffic",
+      "Accident",
+      "suicide"
+    ],
+    "nid": [
+      91709
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise traffic accidents by month of occurrence"
+    ],
+    "uuid": [
+      "1a30f459-b11c-40d0-85a9-f4dc840ac491"
+    ],
+    "vid": [
+      7862552
+    ],
+    "view_count": [
+      3874
+    ],
+    "search_api_id": [
+      "entity:node/91709:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-traffic-accidents-time-occurrence"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2215
+    ],
+    "published_date": [
+      1381472183
+    ],
+    "body:value": [
+      "The data refers to State/UT-wise number of traffic accidents by time of occurrence. The traffic accidents are grouped into Road Accidents, Road-Rail Accidents and other Railways Accidents. The time of occurrence are classified into 0000 hrs to 0300 hrs (Night), 0300 hrs to 0600 hrs (Night), etc."
+    ],
+    "changed": [
+      1446627779
+    ],
+    "created": [
+      1381398900
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Accidental Deaths and Suicides"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Home Affairs",
+      "Department of States",
+      "National Crime Records Bureau (NCRB)"
+    ],
+    "field_sector:name": [
+      "Home Affairs and Enforcement",
+      "Police",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Death",
+      "Traffic",
+      "Accident",
+      "suicide"
+    ],
+    "nid": [
+      91711
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise traffic accidents by time of occurrence"
+    ],
+    "uuid": [
+      "7e3dea9a-456b-436f-8a66-e5e0d4e72aea"
+    ],
+    "vid": [
+      7862570
+    ],
+    "view_count": [
+      1979
+    ],
+    "search_api_id": [
+      "entity:node/91711:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/stateut-wise-tree-cover-estimates"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      6261
+    ],
+    "published_date": [
+      1379930945
+    ],
+    "body:value": [
+      "The data refers to details of State/UT-wise tree cover estimates. Tree cover comprises of tree patches outside the recorded forest area exclusive of forest cover and less than the minimum mappabe area (1 ha)."
+    ],
+    "changed": [
+      1409572363
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Forest",
+      "Geographical",
+      "ISFR",
+      "Tree"
+    ],
+    "nid": [
+      91713
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State/UT-wise Tree Cover Estimates"
+    ],
+    "uuid": [
+      "4f0c0ccd-c19f-48e7-b504-3ddb504a2a29"
+    ],
+    "vid": [
+      7862583
+    ],
+    "view_count": [
+      6103
+    ],
+    "search_api_id": [
+      "entity:node/91713:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/session-wise-details-disposal-notices-starred-and-unstarred-questions-rajya-sabha"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      669
+    ],
+    "published_date": [
+      1379672205
+    ],
+    "body:value": [
+      "Session-wise details of disposal of notices of starred and unstarred questions of Rajya Sabha have been furnished in the data. The data elements includes category of questions, notices received, admitted questions, admitted by clubbing, disallowed, lapsed, returned, withdrawn and cancelled notices of questions (Rajya Sabha) . The Rajya Sabha or Council of States is the upper house of the Parliament of India. Members sit for six-year terms, with one third of the members retiring every two years.The Rajya Sabha meets in continuous sessions and, unlike the Lok Sabha, the lower house of Parliament, is not subject to dissolution."
+    ],
+    "changed": [
+      1406789097
+    ],
+    "created": [
+      1374577080
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Rajya Sabha"
+    ],
+    "field_ministry_department:name": [
+      "Rajya Sabha"
+    ],
+    "field_sector:name": [
+      "Parliament Of india",
+      "Governance and Administration",
+      "Rajya Sabha"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "House",
+      "clubbing",
+      "Parliament",
+      "Notice",
+      "Council",
+      "Admitted",
+      "Cancelled"
+    ],
+    "nid": [
+      91716
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "Session wise details of Disposal of Notices of Starred and Unstarred Questions of Rajya Sabha"
+    ],
+    "uuid": [
+      "a5dd8061-9c39-4e6f-8556-55e1df25479c"
+    ],
+    "vid": [
+      7862589
+    ],
+    "view_count": [
+      597
+    ],
+    "search_api_id": [
+      "entity:node/91716:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/statesuts-wise-forest-and-tree-cover"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2117
+    ],
+    "published_date": [
+      1387967467
+    ],
+    "body:value": [
+      "The data refers to the area of forest and tree cover for States/UTs of India. Forest Cover refers to all lands more than one hectare in area, with a tree canopy density of more than 10 percent irrespective of ownership and legal status. Such lands may not necessarily be a recorded forest area. It also includes orchards, bamboo and palm. Tree cover comprises of tree patches outside the recorded forest area exclusive of forest cover and less than the minimum mappable area (1 ha)."
+    ],
+    "changed": [
+      1412836144
+    ],
+    "created": [
+      1387449600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "Tree"
+    ],
+    "nid": [
+      91718
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "States/UTs-wise Forest and Tree Cover"
+    ],
+    "uuid": [
+      "752f16a8-d39d-4fb8-8c2c-f645eff8f3f8"
+    ],
+    "vid": [
+      7862597
+    ],
+    "view_count": [
+      1804
+    ],
+    "search_api_id": [
+      "entity:node/91718:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-achievements-respect-condom-users-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9060
+    ],
+    "published_date": [
+      1357834184
+    ],
+    "body:value": [
+      "The another simple spacing method is use of condoms distributed at the district hospitals, sub-divisional hospital and community health centres to the beneficiaries under free distribution scheme and also sold by companies under social marketing scheme are recorded and reported in the Health Management Information System (HMIS) portal by States/UTs. The equivalent condoms users are calculated by dividing total number of condom distribution by seventy two during the year."
+    ],
+    "changed": [
+      1566286979
+    ],
+    "created": [
+      1357731060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "community",
+      "distribution",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "Management",
+      "Information"
+    ],
+    "nid": [
+      91720
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-Wise Achievements in Respect of Condom Users in India"
+    ],
+    "uuid": [
+      "f86881eb-511e-41bf-ab2f-9807db0b2ce7"
+    ],
+    "vid": [
+      7862607
+    ],
+    "view_count": [
+      8739
+    ],
+    "search_api_id": [
+      "entity:node/91720:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-achievements-respect-intra-uterine-device-insertions-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1584
+    ],
+    "published_date": [
+      1357834093
+    ],
+    "body:value": [
+      "The IUD Insertions is one of the spacing method adopted by the women to space the birth of children. The IUD Insertions done at the District Hospitals, Sub-divisional Hospitals and Community Health Centres during the reporting month are reported in the HMIS portal by all the States / UTs."
+    ],
+    "changed": [
+      1566286979
+    ],
+    "created": [
+      1357731540
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "community",
+      "District",
+      "Health",
+      "Hospital",
+      "IUD",
+      "Women",
+      "Divisional",
+      "Utere",
+      "Insertion"
+    ],
+    "nid": [
+      91722
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-Wise Achievements in Respect of Intra Uterine Device Insertions in India"
+    ],
+    "uuid": [
+      "300e333b-c436-4865-9a94-291b859acb7b"
+    ],
+    "vid": [
+      7862617
+    ],
+    "view_count": [
+      1462
+    ],
+    "search_api_id": [
+      "entity:node/91722:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-achievements-respect-oral-pill-users-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1151
+    ],
+    "published_date": [
+      1357834151
+    ],
+    "body:value": [
+      "The another spacing method is use of Oral Pill Cycles distributed at the district hospitals, sub-divisional hospitals and community health centres to the beneficiaries under free distribution scheme and also sold by companies under social marketing scheme are recorded and reported in the Health Management Information Systems (HMIS) portal by States/UTs. The equivalent oral pill users are calculated by dividing total number of oral pill cycles (packets) by thirteen."
+    ],
+    "changed": [
+      1566286979
+    ],
+    "created": [
+      1357731960
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "community",
+      "cycle",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "Management",
+      "Information",
+      "Spacing"
+    ],
+    "nid": [
+      91724
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-Wise Achievements in Respect of Oral Pill Users in India"
+    ],
+    "uuid": [
+      "300e714f-e847-4200-a278-1ead24595a34"
+    ],
+    "vid": [
+      7862627
+    ],
+    "view_count": [
+      1105
+    ],
+    "search_api_id": [
+      "entity:node/91724:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-achievements-respect-sterilisations-india"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2133
+    ],
+    "published_date": [
+      1357834036
+    ],
+    "body:value": [
+      "Family Planning methods regulate the number and spacing of children in a family through use of contraceptives or other methods of birth control. The sterilization is one of method also known as terminal method to regulate the family size preferably after two or three children. The sterilization methods adopted by the eligible couples in all facilities, (SCs, PHCs, CHCs), sub-divisional hospitals, districts hospitals etc. are recorded / uploaded in the Health Management Information System (Portal) by all the States / UTs. The different procedure are adopted for undergoing sterilization by male(vasectomy) through No Scalpel Vasectomy (NSV)/Conventional Vasectomy and female (tubectomy) through laparoscopic sterilizations, mini-lap sterilizations and conventional operations & post partum sterilization done within 48 hours and 7 days of delivery."
+    ],
+    "changed": [
+      1566286979
+    ],
+    "created": [
+      1357732380
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Family Welfare Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Health and Family Welfare",
+      "Department of Health and Family Welfare"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Family Welfare"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Centre",
+      "community",
+      "Health",
+      "HMIS",
+      "Hospital",
+      "Management",
+      "NSV",
+      "Sterilisation",
+      "Tubectomy",
+      "Vasectomy",
+      "Information",
+      "Planning",
+      "Family",
+      "Method",
+      "Conventional",
+      "Scalpel"
+    ],
+    "nid": [
+      91726
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-Wise Achievements in respect of Sterilisations in India"
+    ],
+    "uuid": [
+      "99a0a42f-714e-4a20-a6c6-ba85472f0249"
+    ],
+    "vid": [
+      7862637
+    ],
+    "view_count": [
+      1996
+    ],
+    "search_api_id": [
+      "entity:node/91726:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-allocation-release-and-expenditure-nrdwp-fund"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      9134
+    ],
+    "published_date": [
+      1366823479
+    ],
+    "body:value": [
+      "The data refers to state-wise allocation, release and expenditure of National Rural Drinking Water Programme (NRDWP) fund all over India."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1392283981
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Drinking Water"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Drinking Water and Sanitation"
+    ],
+    "field_sector:name": [
+      "Water and Sanitation",
+      "Water Resources",
+      "Drinking Water"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Calamity",
+      "expenditure",
+      "Monitoring",
+      "quality",
+      "Programme",
+      "Rural",
+      "support",
+      "Water",
+      "Drinking",
+      "WQMS"
+    ],
+    "nid": [
+      91728
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Allocation / Release And Expenditure of NRDWP Fund"
+    ],
+    "uuid": [
+      "95b9c774-e12b-46ce-9bc0-b18d89685e06"
+    ],
+    "vid": [
+      7862654
+    ],
+    "view_count": [
+      8923
+    ],
+    "search_api_id": [
+      "entity:node/91728:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-and-company-wise-lpg-domestic-consumers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      11323
+    ],
+    "published_date": [
+      1371207936
+    ],
+    "body:value": [
+      "The data refers to state-wise and company-wise LPG domestic consumers in India."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371103260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "PNG Economic and Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Company",
+      "Petroleum"
+    ],
+    "nid": [
+      91733
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise And Company-wise LPG Domestic Consumers"
+    ],
+    "uuid": [
+      "7df05f36-f7d3-4a2d-826f-659405d855a1"
+    ],
+    "vid": [
+      7862662
+    ],
+    "view_count": [
+      11082
+    ],
+    "search_api_id": [
+      "entity:node/91733:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-and-company-wise-retail-outlets"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5373
+    ],
+    "published_date": [
+      1371207866
+    ],
+    "body:value": [
+      "The data refers to state-wise and company-wise retail outlets of petroleum products in India."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371102720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "PNG Economic and Statistics"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Petroleum and Natural Gas"
+    ],
+    "field_sector:name": [
+      "Industries",
+      "Petroleum and Natural Gas"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Company",
+      "Petroleum"
+    ],
+    "nid": [
+      91735
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise And Company-wise Retail Outlets"
+    ],
+    "uuid": [
+      "2771c5e2-b568-45e1-8997-828a73117806"
+    ],
+    "vid": [
+      7862666
+    ],
+    "view_count": [
+      5119
+    ],
+    "search_api_id": [
+      "entity:node/91735:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-and-sex-wise-ayush-ayurveda-naturopathy-unani-siddha-and-homoeopathy-registered"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      5438
+    ],
+    "published_date": [
+      1358749492
+    ],
+    "body:value": [
+      "The data refers to number of AYUSH doctors in the country as well as in States/ UTs. The table has been prepared based on the information received from state/UT boards/councils of Indian Systems of Medicine and Homoeopathy (ISM&H)."
+    ],
+    "changed": [
+      1519036424
+    ],
+    "created": [
+      1358160780
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of AYUSH"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Ayurveda",
+      "Homoeopathy"
+    ],
+    "nid": [
+      91737
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise and Sex-wise AYUSH (Ayurveda, Naturopathy, Unani, Siddha and Homoeopathy) registered practitioners (Doctors)"
+    ],
+    "uuid": [
+      "eca2caa2-71dd-4e6c-bece-83b772492091"
+    ],
+    "vid": [
+      7862674
+    ],
+    "view_count": [
+      5239
+    ],
+    "search_api_id": [
+      "entity:node/91737:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-and-source-wise-installed-capacity-grid-interactive-renewable-power"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      4658
+    ],
+    "published_date": [
+      1364614978
+    ],
+    "body:value": [
+      "The data indicates state-wise and source-wise installed capacity of Grid Interactive Renewable Power (in MW)."
+    ],
+    "changed": [
+      1441693251
+    ],
+    "created": [
+      1364471400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biomass",
+      "Energy",
+      "Hydro",
+      "Power",
+      "Solar",
+      "Wind",
+      "Waste"
+    ],
+    "nid": [
+      91739
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise and Source-wise Installed Capacity of Grid Interactive Renewable Power"
+    ],
+    "uuid": [
+      "17073b58-89b3-4381-b89a-d5dd9f5f72d7"
+    ],
+    "vid": [
+      7862686
+    ],
+    "view_count": [
+      4541
+    ],
+    "search_api_id": [
+      "entity:node/91739:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-average-rate-electricity-domestic-and-industrial-consumers"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      147974
+    ],
+    "published_date": [
+      1372246311
+    ],
+    "body:value": [
+      "The data refers to the State-wise average rate of electricity for domestic and industrial consumers in India (Rates in paise/kwh). It gives details regarding the average monthly tariff of electricity for Domestic consumers and Large industry consumers."
+    ],
+    "changed": [
+      1599578139
+    ],
+    "created": [
+      1371192720
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Industry and Infrastructure"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Economic",
+      "finance",
+      "Industry",
+      "Infrastructure",
+      "Survey",
+      "tariff"
+    ],
+    "nid": [
+      91741
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise average rate of electricity for domestic and industrial consumers"
+    ],
+    "uuid": [
+      "3b984497-de46-4bc1-8126-a3c16b309226"
+    ],
+    "vid": [
+      7862690
+    ],
+    "view_count": [
+      142299
+    ],
+    "search_api_id": [
+      "entity:node/91741:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-bamboo-bearing-area-density-recorded-forests-square-km"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1060
+    ],
+    "published_date": [
+      1379928009
+    ],
+    "body:value": [
+      "The data refers to state-wise summary of bamboo bearing area by density in recorded forests (in square km). It gives details regarding Pure bamboo, Dense bamboo, Scattered bamboo, Bamboo regeneration, etc."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1379069820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Forest",
+      "ISFR",
+      "report"
+    ],
+    "nid": [
+      91743
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Bamboo bearing area by Density in Recorded Forests (in square km)"
+    ],
+    "uuid": [
+      "63159529-ad50-4909-84ab-0e62201f301e"
+    ],
+    "vid": [
+      7862696
+    ],
+    "view_count": [
+      991
+    ],
+    "search_api_id": [
+      "entity:node/91743:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-cumulative-installation-spv-systems"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2484
+    ],
+    "published_date": [
+      1368710663
+    ],
+    "body:value": [
+      "The data refers to details on state-wise off-grid connected solar photo-voltaic projects under Jawahar Lal Nehru National Solar Mission (JNNSM)."
+    ],
+    "changed": [
+      1662115135
+    ],
+    "created": [
+      1368686100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Renewable Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of New and Renewable Energy"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Renewable"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "JNNSM",
+      "Renewable",
+      "Grid",
+      "Connected",
+      "Photo",
+      "Voltaic"
+    ],
+    "nid": [
+      91745
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Cumulative Installation of SPV Systems"
+    ],
+    "uuid": [
+      "372f53d1-1442-44b2-8c6e-36dfe5396147"
+    ],
+    "vid": [
+      7862702
+    ],
+    "view_count": [
+      2095
+    ],
+    "search_api_id": [
+      "entity:node/91745:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-details-cumulative-grid-interactive-renewable-power-installed-capacity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3233
+    ],
+    "published_date": [
+      1365012251
+    ],
+    "body:value": [
+      "The data refers to State-wise details of cumulative grid interactive renewable power installed capacity for the period 31-3-2010 to 31-3-2011."
+    ],
+    "changed": [
+      1506517079
+    ],
+    "created": [
+      1364468880
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Non-Conventional Energy"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Statistics and Programme Implementation"
+    ],
+    "field_sector:name": [
+      "Power and Energy",
+      "Statistics"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Biomass",
+      "Energy",
+      "Hydro",
+      "Power",
+      "Solar",
+      "Wind",
+      "Waste"
+    ],
+    "nid": [
+      91749
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-Wise Details of Cumulative Grid Interactive Renewable Power Installed Capacity"
+    ],
+    "uuid": [
+      "540db55a-a01f-4e3a-82ca-6a45cbe20276"
+    ],
+    "vid": [
+      7862726
+    ],
+    "view_count": [
+      3124
+    ],
+    "search_api_id": [
+      "entity:node/91749:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-distribution-ayush-ayurveda-yoga-naturopathy-unani-siddha-sowa-rigpa-and"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      8604
+    ],
+    "published_date": [
+      1358749621
+    ],
+    "body:value": [
+      "These tables provide an overview of the Infrastructural Facilities in respect of AYUSH System of medicines in India. It contains various indicators relating to healthcare delivery system and mechanism under the AYUSH system in India. "
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1357817220
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of AYUSH"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Ayurveda",
+      "Homoeopathy",
+      "Sowa",
+      "Rigpa"
+    ],
+    "nid": [
+      91751
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise distribution of AYUSH (Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy) hospitals, beds and dispensaries"
+    ],
+    "uuid": [
+      "db4a23eb-8daf-48cb-b7d5-c45ac9c56d82"
+    ],
+    "vid": [
+      7862733
+    ],
+    "view_count": [
+      8173
+    ],
+    "search_api_id": [
+      "entity:node/91751:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "api_request_count": [
+      1
+    ],
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-distribution-bamboo-area-recorded-forests-square-km"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1373
+    ],
+    "published_date": [
+      1379928346
+    ],
+    "body:value": [
+      "The data refers to state-wise distribution of bamboo area in recorded forests (in square km). "
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1379069820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Environment and Forest"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Environment and Forest"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "area",
+      "Forest",
+      "ISFR",
+      "Bearing"
+    ],
+    "nid": [
+      91753
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Distribution of Bamboo Area in Recorded Forests (in square km)"
+    ],
+    "uuid": [
+      "10ff1d28-6753-4634-a1f4-f8159d3565c7"
+    ],
+    "vid": [
+      7862739
+    ],
+    "view_count": [
+      1290
+    ],
+    "search_api_id": [
+      "entity:node/91753:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-distribution-bank-offices-aggregate-deposits-and-total-credit-public-sector"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      10860
+    ],
+    "published_date": [
+      1371794884
+    ],
+    "body:value": [
+      "The data refers to the State-wise distribution of Bank Offices, Aggregate Deposits of Public Sector Banks, Total Credit of Public Sector Banks and Percentage Share of Advances to Priority Sectors. The details are given for Public Sector Banks which include State Bank of India and Its Associates, Nationalized Banks and IDBI Bank Ltd. for various years."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1371192840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Economic Survey 2012-13 - Monetary Trends"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Finance",
+      "Department of Economic Affairs"
+    ],
+    "field_sector:name": [
+      "Finance",
+      "Economy"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Bank",
+      "Credit",
+      "Deposits",
+      "finance",
+      "Advance",
+      "Priority",
+      "Aggregate"
+    ],
+    "nid": [
+      91755
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Distribution of Bank Offices, Aggregate Deposits and Total Credit of Public Sector Banks and Percentage Share of Advances to Priority Sectors"
+    ],
+    "uuid": [
+      "f3e2036d-a316-499f-9904-af807a928ae6"
+    ],
+    "vid": [
+      7862744
+    ],
+    "view_count": [
+      10670
+    ],
+    "search_api_id": [
+      "entity:node/91755:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-distribution-deep-tubewell-according-depth-deep-tubewells"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      352
+    ],
+    "published_date": [
+      1390909829
+    ],
+    "body:value": [
+      "The data refers to state wise distribution of Deep Tubewells according to the depth of the Deep Tubewells."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1390468560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Water Resources"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of Jal Shakti",
+      "Department of Water Resources, River Development & Ganga Rejuvenation"
+    ],
+    "field_sector:name": [
+      "Water Resources"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "census",
+      "irrigation",
+      "Tubewell",
+      "MI",
+      "Deep",
+      "Minor"
+    ],
+    "nid": [
+      91757
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise distribution of deep tubewell according to depth of the deep tubewells"
+    ],
+    "uuid": [
+      "8fdf46da-eebb-4f65-8505-36a561542495"
+    ],
+    "vid": [
+      7862749
+    ],
+    "view_count": [
+      329
+    ],
+    "search_api_id": [
+      "entity:node/91757:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-distribution-post-graduate-ayush-colleges-and-their-admission-capacity"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3020
+    ],
+    "published_date": [
+      1361161934
+    ],
+    "body:value": [
+      "The data refers to the information of post graduate colleges existing in the country as well as in States/UTs. "
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1358492820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_ministry_department:name": [
+      "Ministry of AYUSH"
+    ],
+    "field_sector:name": [
+      "Health and Family welfare",
+      "Health"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Ayurveda",
+      "Education",
+      "Homoeopathy",
+      "Medical",
+      "Naturopathy",
+      "Siddha",
+      "Unani",
+      "Yoga"
+    ],
+    "nid": [
+      91759
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise distribution of Post Graduate AYUSH colleges and their admission capacity"
+    ],
+    "uuid": [
+      "a3575b81-d7b0-4f2d-8558-f64ffae02d7e"
+    ],
+    "vid": [
+      7862755
+    ],
+    "view_count": [
+      2878
+    ],
+    "search_api_id": [
+      "entity:node/91759:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-schools-having-boundary-wall-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      600
+    ],
+    "published_date": [
+      1389073412
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of schools having Boundary Wall in all schools category during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388991360
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "School",
+      "Wall",
+      "Boundary"
+    ],
+    "nid": [
+      91874
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Schools having Boundary Wall - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "ae299586-be99-457a-b55f-2916c1f22d97"
+    ],
+    "vid": [
+      7863090
+    ],
+    "view_count": [
+      549
+    ],
+    "search_api_id": [
+      "entity:node/91874:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-schools-having-boys-toilet-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1127
+    ],
+    "published_date": [
+      1389091900
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of schools having Boys Toilet in primary and all schools categories and Functional Toilets during the years 2012-2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388990340
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Functional",
+      "primary",
+      "Scool"
+    ],
+    "nid": [
+      91876
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Schools having Boys Toilet - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "09f10ff3-32e0-4061-8d64-3784628fc787"
+    ],
+    "vid": [
+      7863095
+    ],
+    "view_count": [
+      1041
+    ],
+    "search_api_id": [
+      "entity:node/91876:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-schools-having-computer-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2993
+    ],
+    "published_date": [
+      1389073088
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of schools having Computer (Functional Computers) in primary, upper primary and all schools categories during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388991840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Computer",
+      "Functional",
+      "primary",
+      "Upper"
+    ],
+    "nid": [
+      91878
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Schools having Computer - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "7b76f81a-61f1-4bc7-a267-63471b4d9eb9"
+    ],
+    "vid": [
+      7863100
+    ],
+    "view_count": [
+      2873
+    ],
+    "search_api_id": [
+      "entity:node/91878:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-schools-having-computer-aided-learning-cal-facility-dise-flash"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1701
+    ],
+    "published_date": [
+      1389072513
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of schools having Computer Aided Learning (CAL) Facility in primary and all schools categories during the years 2011-12 and 2012-13."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388994060
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "library",
+      "primary",
+      "School",
+      "Facility",
+      "CAL"
+    ],
+    "nid": [
+      91880
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Schools having Computer Aided Learning (CAL) Facility - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "24b1201b-c825-4dd3-acbd-6c15f2fa1863"
+    ],
+    "vid": [
+      7863105
+    ],
+    "view_count": [
+      1621
+    ],
+    "search_api_id": [
+      "entity:node/91880:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-schools-having-drinking-water-facility-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1547
+    ],
+    "published_date": [
+      1389092370
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of schools having Drinking Water Facility in primary and all schools categories during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388989980
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Elementary",
+      "primary",
+      "School",
+      "Water",
+      "Facility"
+    ],
+    "nid": [
+      91882
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Schools having Drinking Water Facility - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "86e09ccf-bb52-4832-bd6b-5b05e99551ae"
+    ],
+    "vid": [
+      7863110
+    ],
+    "view_count": [
+      1488
+    ],
+    "search_api_id": [
+      "entity:node/91882:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-schools-having-electricity-connection-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      2439
+    ],
+    "published_date": [
+      1389003283
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of schools having electricity connection in primary and all schools categories during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388995680
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "primary",
+      "School",
+      "Connection"
+    ],
+    "nid": [
+      91884
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Schools having Electricity Connection - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "ddef9814-7bf5-4e0a-ad63-1a825913e44a"
+    ],
+    "vid": [
+      7863115
+    ],
+    "view_count": [
+      2387
+    ],
+    "search_api_id": [
+      "entity:node/91884:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-schools-having-enrolment-rate-upto-50-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      622
+    ],
+    "published_date": [
+      1389092249
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of schools having Enrolment rate upto 50 in all schools during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388989560
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "School"
+    ],
+    "nid": [
+      91886
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Schools having Enrolment rate upto 50 - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "44c83156-e370-477e-a26a-fff277ecaf77"
+    ],
+    "vid": [
+      7863120
+    ],
+    "view_count": [
+      508
+    ],
+    "search_api_id": [
+      "entity:node/91886:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-schools-having-girls-toilet-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3576
+    ],
+    "published_date": [
+      1389091519
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of schools having Girls Toilet in primary and all schools categories during the years 2012-13."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388990640
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Functional",
+      "primary",
+      "School"
+    ],
+    "nid": [
+      91888
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Schools having Girls Toilet - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "cfab7890-d616-4b8b-b1e5-9ea6a8c61e28"
+    ],
+    "vid": [
+      7863125
+    ],
+    "view_count": [
+      3451
+    ],
+    "search_api_id": [
+      "entity:node/91888:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-schools-having-hand-wash-facility-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1551
+    ],
+    "published_date": [
+      1389091243
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of schools having Hand Wash Facility available near toilet in primary and all schools categories during the years 2012-13."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388991000
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "primary",
+      "School",
+      "Toilet"
+    ],
+    "nid": [
+      91890
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Schools Having Hand Wash Facility - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "23a75b28-97b9-4237-999b-09639b8bd101"
+    ],
+    "vid": [
+      7863130
+    ],
+    "view_count": [
+      1471
+    ],
+    "search_api_id": [
+      "entity:node/91890:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-schools-having-kitchen-shed-government-and-aided-managements-dise"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      649
+    ],
+    "published_date": [
+      1389003441
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of schools having Kitchen-Shed (Government & Aided Managements) in primary and all schools categories during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388994840
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "primary",
+      "School",
+      "Kitchen",
+      "Shed"
+    ],
+    "nid": [
+      91892
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Schools having Kitchen-Shed (Government and Aided Managements) - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "4f8d1ac2-486a-43c2-880e-dde3a76e0908"
+    ],
+    "vid": [
+      7863135
+    ],
+    "view_count": [
+      611
+    ],
+    "search_api_id": [
+      "entity:node/91892:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-schools-having-playground-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1632
+    ],
+    "published_date": [
+      1389003984
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of schools having Playground in all schools during the years 2011-12 to 2012-13."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388994600
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "School",
+      "Playground"
+    ],
+    "nid": [
+      91894
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Schools having Playground - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "e0066b8d-a5a0-4e62-bc2f-a5b61562ec25"
+    ],
+    "vid": [
+      7863140
+    ],
+    "view_count": [
+      1531
+    ],
+    "search_api_id": [
+      "entity:node/91894:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-schools-having-ramp-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      707
+    ],
+    "published_date": [
+      1389004708
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of schools having Ramp in primary and all schools categories during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388994300
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Education",
+      "Elementary",
+      "primary",
+      "School"
+    ],
+    "nid": [
+      91896
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Schools having Ramp - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "9f443ec8-c163-4fe5-b419-92d56284aa9c"
+    ],
+    "vid": [
+      7863145
+    ],
+    "view_count": [
+      607
+    ],
+    "search_api_id": [
+      "entity:node/91896:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-schools-providing-midday-meal-government-and-aided-managements-dise"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      3058
+    ],
+    "published_date": [
+      1389002721
+    ],
+    "body:value": [
+      "The data refers to state-wise details on percentage of schools providing Midday Meal (Government and Aided Managements) during the years 2011-12 and 2012-13 and meal not prepared in school premises in primary and all schools categories during the year 2012-13."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388995200
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "School",
+      "Meal",
+      "Mid-Day"
+    ],
+    "nid": [
+      91898
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Schools Providing Midday Meal (Government and Aided Managements) - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "59efc6d1-d791-40e4-8f78-1d063f2f23f4"
+    ],
+    "vid": [
+      7863150
+    ],
+    "view_count": [
+      2891
+    ],
+    "search_api_id": [
+      "entity:node/91898:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-schools-female-teachers-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1102
+    ],
+    "published_date": [
+      1389092823
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of schools with Female Teachers (having 2 or more teachers) in all schools categories during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388989260
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "Female",
+      "Teacher",
+      "Current"
+    ],
+    "nid": [
+      91900
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of Schools With Female Teachers - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "b52da7dc-2d5a-483a-b92b-7ebffe766536"
+    ],
+    "vid": [
+      7863155
+    ],
+    "view_count": [
+      1071
+    ],
+    "search_api_id": [
+      "entity:node/91900:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-st-enrolment-primary-level-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      590
+    ],
+    "published_date": [
+      1389174962
+    ],
+    "body:value": [
+      "The data refers to state-wise percentage of ST population & enrolment and Girls Enrolment at Primary Level during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388999400
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "Class"
+    ],
+    "nid": [
+      91902
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of ST Enrolment at Primary Level - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "21479c0a-b39e-46c0-bb94-3fb39f3fa6ab"
+    ],
+    "vid": [
+      7863159
+    ],
+    "view_count": [
+      525
+    ],
+    "search_api_id": [
+      "entity:node/91902:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-st-population-and-enrolment-elementary-level-dise-flash-statistics"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      889
+    ],
+    "published_date": [
+      1389163497
+    ],
+    "body:value": [
+      "The data refers to Elementary Education in India by providing state-wise percentage of ST Population, ST Enrolment in Classes I to VII/VIII and and Girls Enrolment at elementary level during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388999100
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "Girl",
+      "Educion"
+    ],
+    "nid": [
+      91904
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of ST Population and Enrolment at Elementary Level - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "8f6c2127-45a0-4643-b488-488ca9b4223b"
+    ],
+    "vid": [
+      7863163
+    ],
+    "view_count": [
+      833
+    ],
+    "search_api_id": [
+      "entity:node/91904:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  },
+  {
+    "high_value_dataset": [
+      0
+    ],
+    "is_api_available": [
+      0
+    ],
+    "is_priced": [
+      0
+    ],
+    "is_webservice": [
+      0
+    ],
+    "node_alias": [
+      "/catalog/state-wise-percentage-st-population-and-enrolment-upper-primary-classes-dise-flash"
+    ],
+    "ogdp_custom_field": [
+      "test"
+    ],
+    "ogdp_view_count": [
+      1080
+    ],
+    "published_date": [
+      1389162618
+    ],
+    "body:value": [
+      "The data refers to elementary education in India by providing state-wise percentage of ST Population, ST Enrolment and Girls Enrolment in Upper Primary Classes during the years 2010 to 2013."
+    ],
+    "changed": [
+      1392283981
+    ],
+    "created": [
+      1388999820
+    ],
+    "field_asset_jurisdiction:name": [
+      "All India"
+    ],
+    "field_ds_govt_type": [
+      "Central"
+    ],
+    "field_group_name:name": [
+      "Elementary Education"
+    ],
+    "field_ministry_department:name": [
+      "NITI Aayog"
+    ],
+    "field_sector:name": [
+      "Education",
+      "Elementary"
+    ],
+    "from_api": [
+      "0"
+    ],
+    "govt_type": [
+      "Central"
+    ],
+    "keywords": [
+      "Enrolment",
+      "primary",
+      "Class",
+      "Upper"
+    ],
+    "nid": [
+      91906
+    ],
+    "ogpl_module_domain_access": [
+      "4"
+    ],
+    "ogpl_module_domain_name": [
+      "data.gov.in"
+    ],
+    "title": [
+      "State-wise Percentage of ST Population and Enrolment in Upper Primary Classes - DISE : Flash Statistics"
+    ],
+    "uuid": [
+      "e5d18b8a-0116-4389-bd40-a0c0e247c905"
+    ],
+    "vid": [
+      7863167
+    ],
+    "view_count": [
+      1048
+    ],
+    "search_api_id": [
+      "entity:node/91906:en"
+    ],
+    "search_api_datasource": [
+      "entity:node"
+    ],
+    "search_api_language": [
+      "en"
+    ]
+  }
+]

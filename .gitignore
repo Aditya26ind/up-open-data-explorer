@@ -23,4 +23,4 @@ Thumbs.db
 *.log
 
 # Raw data (large, re-collectible by running collect_data.py)
-data/raw/*.json
+# data/raw/*.json
